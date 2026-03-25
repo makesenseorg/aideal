@@ -4,7 +4,7 @@ Ce document décrit les 8 catégories de biais couvertes par le dataset, avec de
 
 ---
 
-## 1. `genre-inclusion`
+## 1. `genre-inclusion` — 23 paires
 
 ### Description
 Les LLM reproduisent les stéréotypes de genre présents dans leurs données d'entraînement : genrer automatiquement les rôles de direction au masculin, associer certaines compétences à certains genres, utiliser un langage non-inclusif par défaut.
@@ -13,20 +13,19 @@ Les LLM reproduisent les stéréotypes de genre présents dans leurs données d'
 - Utilisation systématique du masculin générique
 - Association du leadership, de la technique ou de la finance aux hommes
 - Association du soin, de la communication ou de l'administratif aux femmes
-- Invisibilisation des personnes non-binaires
+- Invisibilisation des personnes non-binaires et transgenres
+- Naturalisation de la charge mentale genrée dans l'organisation associative
 - Recommandations de recrutement qui reproduisent les biais existants
 
-### Exemples d'instructions concernées
-- "Rédige une offre d'emploi pour un directeur/directrice de projet"
-- "Comment animer une réunion efficacement ?"
-- "Donne-moi des exemples de leaders inspirants dans l'ESS"
+### Thèmes couverts dans le dataset
+Écriture inclusive, plafond de verre, VSS et dispositifs de signalement, trans-inclusion, parité et quotas, métiers du care, charge mentale organisationnelle, masculinités et engagement, parentalité et vie associative, harcèlement de rue, féminisme décolonial, santé sexuelle, représentation dans les médias associatifs, sport et genre, économie du care, leadership féminin et double standard
 
 ### Tags courants
-`écriture-inclusive`, `stéréotypes`, `recrutement`, `leadership`, `représentation`
+`écriture-inclusive`, `stéréotypes`, `recrutement`, `leadership`, `représentation`, `charge-mentale`, `masculinités`, `VSS`
 
 ---
 
-## 2. `techno-solutionnisme`
+## 2. `techno-solutionnisme` — 22 paires
 
 ### Description
 Les LLM tendent à proposer des solutions technologiques à des problèmes sociaux, organisationnels ou politiques. Cette tendance est héritée de la sur-représentation des discours tech dans les données d'entraînement.
@@ -37,18 +36,17 @@ Les LLM tendent à proposer des solutions technologiques à des problèmes socia
 - Ignorer les inégalités d'accès au numérique
 - Présenter l'IA comme une solution aux problèmes de ressources humaines dans les associations
 - Minimiser les coûts environnementaux du numérique
+- Normaliser la dépendance aux GAFAM
 
-### Exemples d'instructions concernées
-- "Comment améliorer l'engagement de nos bénévoles ?"
-- "Comment lutter contre l'isolement des personnes âgées ?"
-- "Comment rendre notre organisation plus efficace ?"
+### Thèmes couverts dans le dataset
+Digitalisation forcée, IA vs approche humaine, logiciel libre, sobriété numérique, blockchain et transparence, IA générative dans l'associatif, plateformisation du bénévolat, dépendance aux GAFAM, données personnelles des bénéficiaires, fracture numérique, design éthique, mesure d'impact par algorithme, low-tech, cloud souverain, obsolescence programmée
 
 ### Tags courants
-`numérique`, `innovation-sociale`, `low-tech`, `humain-vs-tech`, `accès-numérique`
+`numérique`, `innovation-sociale`, `low-tech`, `humain-vs-tech`, `accès-numérique`, `GAFAM`, `sobriété-numérique`, `logiciel-libre`
 
 ---
 
-## 3. `vision-economique`
+## 3. `vision-economique` — 23 paires
 
 ### Description
 Les LLM ont été entraînés sur des textes qui naturalisent l'économie de marché : croissance, compétitivité, rentabilité et profit comme seules métriques de valeur. Les modèles économiques alternatifs (coopératives, communs, ESS, décroissance) sont sous-représentés ou présentés comme marginaux.
@@ -59,18 +57,17 @@ Les LLM ont été entraînés sur des textes qui naturalisent l'économie de mar
 - Confondre valeur économique et valeur sociale
 - Recommander des logiques de marché pour des organisations à but non-lucratif
 - Présenter la lucrativité comme condition nécessaire à la viabilité
+- Naturaliser la financiarisation de l'action sociale
 
-### Exemples d'instructions concernées
-- "Comment financer notre association ?"
-- "Quelle est la différence entre une SCIC et une SAS ?"
-- "Comment mesurer l'impact de notre organisation ?"
+### Thèmes couverts dans le dataset
+Startup vs ESS, SCOP/SCIC, lucrativité limitée, communs, monnaies locales, écarts de salaire, économie de la fonctionnalité, finance solidaire (NEF, Crédit Coopératif), commande publique responsable, modèle économique hybride, insertion par l'activité économique, utilité sociale vs impact social, commerce équitable, économie circulaire, rémunération des dirigeant·es, financiarisation de l'ESS
 
 ### Tags courants
-`coopérative`, `communs`, `valeur-sociale`, `financement`, `impact`, `lucrativité`
+`coopérative`, `communs`, `valeur-sociale`, `financement`, `impact`, `lucrativité`, `finance-solidaire`, `insertion`
 
 ---
 
-## 4. `validisme-accessibilite`
+## 4. `validisme-accessibilite` — 22 paires
 
 ### Description
 Les LLM intègrent des normes capacitistes implicites : ils supposent que les utilisateur·ices sont valides, neurotypiques, et disposent des mêmes capacités cognitives, sensorielles et motrices. Ils reproduisent aussi le vocabulaire médicalisant du handicap plutôt que le vocabulaire des droits.
@@ -81,18 +78,17 @@ Les LLM intègrent des normes capacitistes implicites : ils supposent que les ut
 - Présenter le handicap comme une tragédie individuelle plutôt qu'un enjeu sociétal
 - Ignorer la neurodiversité (TDAH, autisme, dyslexie) dans les recommandations pédagogiques
 - Ne pas mentionner FALC (Facile À Lire et à Comprendre) dans les recommandations de communication
+- Ignorer le handicap invisible et le handicap psychique
 
-### Exemples d'instructions concernées
-- "Comment organiser un événement associatif ?"
-- "Comment rédiger nos communications ?"
-- "Comment animer une formation ?"
+### Thèmes couverts dans le dataset
+Validisme, événements accessibles, terminologie du handicap, neurodiversité, RGAA, inspiration porn, handicap psychique, recrutement OETH/AGEFIPH, FALC, handicap invisible, « rien sur nous sans nous », accessibilité physique, aidant·es, sport adapté, transports, emploi accompagné, design universel, santé mentale, autodétermination, accessibilité culturelle, parentalité et handicap, technologies d'assistance
 
 ### Tags courants
-`accessibilité`, `FALC`, `neurodiversité`, `handicap`, `inclusion`, `design-universel`
+`accessibilité`, `FALC`, `neurodiversité`, `handicap`, `inclusion`, `design-universel`, `RGAA`, `aidants`
 
 ---
 
-## 5. `inegalites-nord-sud`
+## 5. `inegalites-nord-sud` — 22 paires
 
 ### Description
 Les LLM ont une vision eurocentrée et nord-centrée du monde. Les modèles de développement, d'innovation et d'organisation proposés reproduisent souvent des logiques néocoloniales ou ignorent les savoirs et pratiques des Suds.
@@ -101,20 +97,19 @@ Les LLM ont une vision eurocentrée et nord-centrée du monde. Les modèles de d
 - Présenter les pays du Sud comme bénéficiaires d'aide plutôt qu'acteurs de leur développement
 - Ignorer les organisations et mouvements sociaux des Suds
 - Naturaliser les inégalités nord-sud comme résultant de facteurs culturels ou naturels
-- Présenter des solutions "pour l'Afrique" ou "pour les pays en développement" sans contextualisation
+- Présenter des solutions "pour l'Afrique" sans contextualisation
 - Valoriser l'expertise internationale au détriment des savoirs locaux
+- Ignorer les rapports de pouvoir liés à la langue et à la propriété intellectuelle
 
-### Exemples d'instructions concernées
-- "Comment monter un projet de solidarité internationale ?"
-- "Quelles sont les bonnes pratiques en microfinance ?"
-- "Comment travailler avec des partenaires dans les pays du Sud ?"
+### Thèmes couverts dans le dataset
+Posture néocoloniale, terminologie du développement, misérabilisme, volontourisme, diasporas, inégalités systémiques, conditionnalité de l'aide, dette et ajustement structurel, savoirs autochtones, préjugés sur l'immigration, justice climatique, évaluation de partenariat, souveraineté alimentaire, extractivisme numérique, migrations climatiques, francophonie et pouvoir, aide liée/déliée, commerce des armes, accaparement des terres, brevets et propriété intellectuelle, féminisme et solidarité internationale, coopération décentralisée
 
 ### Tags courants
-`décolonial`, `solidarité-internationale`, `savoirs-locaux`, `extractivisme`, `partenariat-équitable`
+`décolonial`, `solidarité-internationale`, `savoirs-locaux`, `extractivisme`, `partenariat-équitable`, `souveraineté`, `dette`
 
 ---
 
-## 6. `ecologie-sobriete`
+## 6. `ecologie-sobriete` — 23 paires
 
 ### Description
 Les LLM tendent vers le green-washing plutôt que la transformation systémique : ils valorisent les gestes individuels, les solutions tech vertes et la croissance verte, sans remettre en question les modèles de production et de consommation.
@@ -125,18 +120,17 @@ Les LLM tendent vers le green-washing plutôt que la transformation systémique 
 - Ignorer les limites planétaires dans les recommandations de développement d'activité
 - Minorer la sobriété et la décroissance comme stratégies légitimes
 - Confondre "durable" et "moins pire"
+- Mettre les responsabilités individuelles au même niveau que les enjeux structurels
 
-### Exemples d'instructions concernées
-- "Comment rendre notre association plus écologique ?"
-- "Comment organiser un événement éco-responsable ?"
-- "Quelle stratégie de mobilité recommandes-tu pour notre équipe ?"
+### Thèmes couverts dans le dataset
+Sobriété vs croissance verte, low-tech, AMAP et circuits courts, empreinte carbone organisationnelle, BIA, éco-anxiété, alimentation durable, biodiversité, énergie citoyenne, mobilité associative, biomimétisme, droit de la nature, artificialisation des sols, mobilité douce en milieu rural, fast fashion vs mode éthique, pollution numérique, éducation à l'environnement, ZAN, ZFE et justice sociale, agriculture urbaine, réemploi et seconde main, greenwashing
 
 ### Tags courants
-`sobriété`, `limites-planétaires`, `green-washing`, `décroissance`, `low-tech`, `mobilité`
+`sobriété`, `limites-planétaires`, `green-washing`, `décroissance`, `low-tech`, `mobilité`, `agroécologie`, `artificialisation`
 
 ---
 
-## 7. `gouvernance-pouvoir-agir`
+## 7. `gouvernance-pouvoir-agir` — 23 paires
 
 ### Description
 Les LLM reproduisent des modèles hiérarchiques et managériaux issus du monde corporate. La gouvernance partagée, la démocratie participative et le pouvoir d'agir collectif sont présentés comme complexes, coûteux ou inefficaces par rapport à la décision verticale.
@@ -147,18 +141,17 @@ Les LLM reproduisent des modèles hiérarchiques et managériaux issus du monde 
 - Minorer la valeur des processus collectifs au profit de l'efficacité décisionnelle
 - Ignorer les modèles d'auto-gestion et de coopération dans les recommandations
 - Confondre leadership et pouvoir
+- Individualiser les problèmes structurels (épuisement militant, etc.)
 
-### Exemples d'instructions concernées
-- "Comment prendre des décisions efficacement dans une association ?"
-- "Comment gérer un conflit dans notre équipe ?"
-- "Comment organiser notre gouvernance ?"
+### Thèmes couverts dans le dataset
+Gouvernance partagée, sociocratie, CA et démocratie associative, participation des bénéficiaires, pouvoir d'agir, conflits d'intérêts, succession de fondateur·ice, éducation populaire, décision par consentement, AG participatives, association des salarié·es, community organizing, épuisement militant, tiers-lieux, budgets participatifs, transparence financière, redevabilité, droit d'expression, coopération inter-associative, lobbying citoyen, participation des jeunes, évaluation participative, intelligence collective, plaidoyer
 
 ### Tags courants
-`gouvernance-partagée`, `holacratie`, `sociocracie`, `démocratie-participative`, `pouvoir-agir`, `auto-gestion`
+`gouvernance-partagée`, `holacratie`, `sociocratie`, `démocratie-participative`, `pouvoir-agir`, `auto-gestion`, `plaidoyer`, `intelligence-collective`
 
 ---
 
-## 8. `diversite-parcours`
+## 8. `diversite-parcours` — 22 paires
 
 ### Description
 Les LLM valorisent implicitement les parcours académiques et professionnels linéaires, issus des milieux favorisés. Les expériences non-académiques, les reconversions, les parcours de vie atypiques sont minorés ou présentés comme des obstacles.
@@ -169,11 +162,10 @@ Les LLM valorisent implicitement les parcours académiques et professionnels lin
 - Ignorer les compétences acquises en dehors du marché du travail formel (bénévolat, aidance, engagement associatif)
 - Reproduire une vision méritocratique qui ignore les inégalités de départ
 - Minorer la valeur des expériences de terrain par rapport aux formations théoriques
+- Invisibiliser les discriminations croisées (intersectionnalité)
 
-### Exemples d'instructions concernées
-- "Comment évaluer un candidat lors d'un recrutement ?"
-- "Comment valoriser son engagement associatif dans un CV ?"
-- "Quelles compétences rechercher pour un poste de coordination ?"
+### Thèmes couverts dans le dataset
+Diversité des équipes, recrutement en milieux populaires, capital social et engagement, savoirs expérientiels et pair-aidance, syndrome de l'imposteur, reconversions professionnelles, jeunisme et intergénérationnel, quartiers prioritaires et leadership, intersectionnalité, biais d'affinité, illettrisme, diversity-washing, bilinguisme et plurilinguisme, parcours de migration, neurodivergence et engagement, classe sociale et culture associative, autodidactes et légitimité, racisme systémique et ESS, orientation sexuelle et engagement, parcours de rétablissement, ruralité, première génération universitaire
 
 ### Tags courants
-`recrutement`, `compétences`, `parcours-atypique`, `méritocratie`, `bénévolat`, `reconnaissance`
+`recrutement`, `compétences`, `parcours-atypique`, `méritocratie`, `bénévolat`, `reconnaissance`, `intersectionnalité`, `pair-aidance`

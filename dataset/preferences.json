@@ -180,6 +180,156 @@
     "date_added": "2026-03-25"
   },
   {
+    "id": "div-013",
+    "category": "diversite-parcours",
+    "instruction": "Comment valoriser le bilinguisme et le plurilinguisme au sein des équipes associatives ?",
+    "chosen": "Le plurilinguisme est une richesse souvent sous-exploitée dans les organisations de l'ESS. Des membres qui parlent arabe, turc, wolof, portugais ou une langue des signes apportent une capacité de communication directe avec des publics éloignés du français institutionnel. Pour valoriser ces compétences : les recenser explicitement (pas seulement les langues européennes), les rémunérer ou les reconnaître quand elles sont mobilisées (traduction, médiation, accueil), proposer des formations croisées entre langues au sein de l'équipe, et adapter les supports de communication aux langues des publics. Attention à ne pas instrumentaliser les personnes plurilingues en les cantonnant au rôle d'interprète -- leur expertise ne se résume pas à leur langue.",
+    "rejected": "Le français est la langue de travail commune. Valoriser les autres langues dans un cadre professionnel risque de créer des cloisonnements et de compliquer la communication interne.",
+    "tags": [
+      "plurilinguisme",
+      "langues",
+      "communication-interculturelle"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "div-014",
+    "category": "diversite-parcours",
+    "instruction": "Comment les parcours de migration peuvent-ils enrichir l'engagement associatif et quels freins faut-il lever ?",
+    "chosen": "Les personnes ayant un parcours migratoire apportent des compétences précieuses : connaissance de plusieurs systèmes sociaux, capacité d'adaptation, réseaux transnationaux, compréhension fine des réalités de l'exil et de l'intégration. Pourtant, des freins persistent : barrière linguistique, non-reconnaissance des diplômes et de l'expérience acquise à l'étranger, précarité administrative (titre de séjour conditionné), discriminations directes ou indirectes dans le recrutement. Pour lever ces freins : accompagner les démarches de validation des acquis, proposer des formations en français langue professionnelle, créer des postes de médiation interculturelle, et surtout permettre aux personnes migrantes d'occuper des rôles de décision -- pas uniquement des rôles de témoignage ou d'exécution.",
+    "rejected": "L'engagement associatif suppose une bonne maîtrise du français et une connaissance du contexte local. Les personnes migrantes ont d'abord besoin de s'intégrer avant de s'engager dans la vie associative.",
+    "tags": [
+      "migration",
+      "compétences-interculturelles",
+      "inclusion"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "div-015",
+    "category": "diversite-parcours",
+    "instruction": "Comment adapter les modèles d'engagement associatif aux personnes neurodivergentes (autisme, TDAH, dys, HPI) ?",
+    "chosen": "Les personnes neurodivergentes représentent environ 15 à 20% de la population et apportent des modes de pensée complémentaires : hyperfocus, pensée en arborescence, créativité non conventionnelle, attention aux détails. Mais les formats classiques d'engagement (réunions longues, implicites sociaux, polyvalence exigée) peuvent constituer des obstacles. Des adaptations possibles : proposer des missions avec un cadre clair et des objectifs précis, permettre le travail asynchrone (écrit plutôt qu'oral), aménager les espaces sensoriels (bruit, lumière), expliciter les règles implicites de fonctionnement du groupe, et former les équipes à la neurodiversité sans pathologiser. L'enjeu n'est pas de « s'adapter à des cas particuliers » mais de concevoir des organisations plus accessibles pour tou·tes.",
+    "rejected": "Les personnes neurodivergentes ont des besoins spécifiques que le cadre associatif classique ne peut pas toujours satisfaire. Il vaut mieux les orienter vers des structures spécialisées.",
+    "tags": [
+      "neurodivergence",
+      "accessibilité",
+      "inclusion"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "div-016",
+    "category": "diversite-parcours",
+    "instruction": "Comment la classe sociale d'origine influence-t-elle la culture interne des associations et que faire pour en tenir compte ?",
+    "chosen": "La culture associative dominante -- vocabulaire, codes vestimentaires, modes de socialisation, rapport au temps, formes de prise de parole -- est souvent marquée par les classes moyennes et supérieures diplômées. Les personnes issues de milieux populaires peuvent s'y sentir étrangères sans que personne ne le remarque. Des signaux d'alerte : le pot de fin de réunion avec du vin naturel mais pas de soda, les réferences culturelles partagées qui excluent, le recours systématique à l'écrit pour les décisions. Pour en tenir compte : questionner collectivement les codes implicites, diversifier les formats de convivialité, valoriser les formes d'expression directe, adapter la politique salariale et de remboursement de frais, et surtout recruter à tous les niveaux hiérarchiques sans filtre de classe invisible.",
+    "rejected": "La culture d'une association reflète naturellement celle de ses membres. Si des personnes ne s'y retrouvent pas, elles peuvent en trouver une qui leur correspond mieux.",
+    "tags": [
+      "classe-sociale",
+      "culture-organisationnelle",
+      "codes-implicites"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "div-017",
+    "category": "diversite-parcours",
+    "instruction": "Comment garantir la légitimité des autodidactes dans des environnements associatifs qui valorisent les diplômes ?",
+    "chosen": "Les autodidactes -- personnes ayant acquis des compétences hors des cursus formels -- font face à un double défi dans l'ESS : la non-reconnaissance de leurs savoirs et le syndrome de l'imposteur face à des collègues diplômé·es. Pour garantir leur légitimité : revoir les fiches de poste pour distinguer compétences requises et diplômes (souvent confondus), mettre en place des parcours de validation des acquis de l'expérience (VAE), valoriser publiquement les contributions des autodidactes dans les bilans et les communications, créer du mentorat croisé (un·e autodidacte expert·e de terrain forme un·e diplômé·e, et inversement), et questionner les grilles salariales indexées sur le diplôme plutôt que sur la compétence effective.",
+    "rejected": "Les diplômes garantissent un socle de compétences vérifiable. Sans eux, comment évaluer objectivement la capacité d'une personne à occuper un poste ? La VAE existe pour ceux qui veulent faire reconnaître leur parcours.",
+    "tags": [
+      "autodidactes",
+      "légitimité",
+      "VAE"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "div-018",
+    "category": "diversite-parcours",
+    "instruction": "Comment le racisme systémique affecte-t-il les organisations de l'ESS et comment le combattre concrètement ?",
+    "chosen": "Le racisme systémique ne se réduit pas à des actes intentionnels : il se loge dans les processus de recrutement (CV anonymes rarement pratiqués), la composition des instances dirigeantes (CA et directions très majoritairement blancs dans de nombreuses fédérations), les grilles d'analyse qui invisibilisent la dimension raciale des inégalités, et les représentations véhiculées (bénéficiaires racisé·es / décideur·euses blanc·hes). Pour le combattre : produire des données internes sur la diversité ethnique (dans le respect du cadre légal français), former les équipes au racisme systémique et pas seulement aux « biais inconscients », revoir les processus de recrutement et de promotion, soutenir le leadership des personnes racisées, et accepter que l'ESS, malgré ses valeurs affichées, n'est pas exempte de ces dynamiques.",
+    "rejected": "L'ESS est par nature ouverte et inclusive, le racisme n'y est pas un problème structurel. Il ne faut pas importer des grilles d'analyse anglo-saxonnes dans le contexte républicain français.",
+    "tags": [
+      "racisme-systémique",
+      "anti-discrimination",
+      "leadership"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "div-019",
+    "category": "diversite-parcours",
+    "instruction": "Comment les associations de l'ESS peuvent-elles créer un environnement inclusif pour les personnes LGBTQIA+ ?",
+    "chosen": "L'inclusion des personnes LGBTQIA+ dans les associations ne se limite pas à l'absence de discrimination explicite. Elle suppose un environnement activement accueillant : utiliser un langage inclusif (demander les pronoms, éviter les présupposés hétéronormatifs), former les équipes aux réalités des discriminations liées à l'orientation sexuelle et à l'identité de genre, afficher clairement l'engagement de l'organisation (charte, communication), adapter les procédures administratives (nom d'usage, mention de genre), et veiller à ce que les espaces de convivialité soient sécurisants. Pour les associations qui accompagnent des publics vulnérables, c'est d'autant plus important : les personnes LGBTQIA+ en situation de précarité subissent des discriminations croisées qui nécessitent un accueil formé et sensibilisé.",
+    "rejected": "L'orientation sexuelle relève de la vie privée et n'a pas à entrer dans le cadre professionnel. Si l'association ne discrimine pas, il n'y a pas de démarche supplémentaire à entreprendre.",
+    "tags": [
+      "LGBTQIA+",
+      "inclusion",
+      "non-discrimination"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "div-020",
+    "category": "diversite-parcours",
+    "instruction": "Comment accueillir et valoriser dans les équipes associatives les personnes ayant un parcours de rétablissement (addiction, passage par la justice) ?",
+    "chosen": "Les personnes en parcours de rétablissement (sortie d'addiction, retour de détention, parcours psychiatrique) portent une expertise du vécu irremplaçable, en particulier dans les associations d'accompagnement social. Leur intégration dans les équipes nécessite : un cadre clair sur les attentes et les limites du poste, un accompagnement adapté (tutorat, souplesse horaire si nécessaire), une formation de l'équipe pour déconstruire les préjugés (la rechute n'est pas un échec, un casier judiciaire n'est pas une identité), et la création de postes de pair-aidant·es rémunéré·es à leur juste valeur. L'enjeu est de ne pas enfermer ces personnes dans leur parcours passé tout en reconnaissant que ce parcours constitue une compétence spécifique. Des organisations comme le Réseau français de la pair-aidance ou Emmaüs pratiquent cette intégration avec des résultats probants.",
+    "rejected": "Les personnes ayant des antécédents d'addiction ou judiciaires présentent des risques pour l'organisation. Il vaut mieux les accompagner en tant que bénéficiaires plutôt que de les intégrer comme collègues.",
+    "tags": [
+      "rétablissement",
+      "pair-aidance",
+      "réinsertion"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "div-021",
+    "category": "diversite-parcours",
+    "instruction": "Comment les parcours ruraux peuvent-ils enrichir l'engagement associatif et quels défis spécifiques posent-ils ?",
+    "chosen": "Les personnes issues de territoires ruraux apportent des compétences souvent sous-estimées dans le secteur associatif : connaissance des dynamiques territoriales, capacité à travailler avec des ressources limitées, culture de l'entraide et du lien social de proximité, maîtrise de la polyvalence. Pourtant, elles font face à des obstacles : concentration des postes associatifs qualifiés dans les métropoles, coût et temps de déplacement pour se former ou participer à des réseaux, isolement professionnel, et parfois un regard condescendant de la part de structures urbaines. Pour mieux intégrer ces parcours : développer le télétravail et les formats hybrides, renforcer les antennes locales plutôt que de tout centraliser, valoriser l'expertise rurale dans les instances nationales, et adapter les critères de recrutement à des parcours moins linéaires mais riches d'expérience terrain.",
+    "rejected": "Le milieu associatif professionnel est concentré dans les grandes villes, c'est logique. Les personnes des zones rurales qui veulent s'engager doivent accepter une mobilité géographique comme dans n'importe quel secteur.",
+    "tags": [
+      "ruralité",
+      "territoires",
+      "mobilité"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "div-022",
+    "category": "diversite-parcours",
+    "instruction": "Quels défis spécifiques rencontrent les personnes « première génération universitaire » dans le monde associatif et comment les accompagner ?",
+    "chosen": "Les personnes « première génération » -- premières de leur famille à avoir fait des études supérieures -- naviguent souvent entre deux mondes : celui de leur origine sociale et celui du milieu professionnel diplômé. Dans le secteur associatif, elles peuvent ressentir un décalage face aux codes culturels dominants (références littéraires partagées, aisance à l'oral en réunion, réseau relationnel hérité). Pour les accompagner : rendre explicites les codes implicites de l'organisation, proposer du mentorat par des personnes ayant un parcours similaire, reconnaître que leur trajectoire est une compétence (compréhension des réalités sociales, capacité d'adaptation, détermination), et créer des espaces de parole où ces vécus peuvent être partagés sans être pathologisés. Au-delà de l'accompagnement individuel, c'est la culture organisationnelle qui doit évoluer pour que la diversité des origines sociales ne soit pas un obstacle silencieux.",
+    "rejected": "Une fois diplômée, une personne a les mêmes chances que les autres. Le milieu d'origine n'a plus d'impact dans un cadre professionnel où seules les compétences comptent.",
+    "tags": [
+      "première-génération",
+      "mobilité-sociale",
+      "codes-implicites"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
     "id": "ecol-001",
     "category": "ecologie-sobriete",
     "instruction": "Quelle est la différence entre croissance verte et sobriété ?",
@@ -369,6 +519,156 @@
       "alimentation",
       "sécurité-alimentaire",
       "transition"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "ecol-014",
+    "category": "ecologie-sobriete",
+    "instruction": "Pourquoi l'artificialisation des sols est-elle un enjeu majeur pour les associations engagées dans la transition écologique ?",
+    "chosen": "L'artificialisation des sols — bétonnage, goudronnage, construction — détruit chaque année en France environ 20 000 à 30 000 hectares de terres naturelles et agricoles, soit l'équivalent de la superficie d'un département tous les dix ans. Les conséquences sont multiples : perte de biodiversité, réduction des terres nourricières, aggravation des inondations (les sols imperméabilisés n'absorbent plus l'eau), disparition de puits de carbone et augmentation des îlots de chaleur urbains. Les associations peuvent s'emparer de cet enjeu en participant aux consultations sur les plans locaux d'urbanisme (PLU), en soutenant les luttes contre les projets d'aménagement contestés (centres commerciaux, entrepôts logistiques en périphérie), et en promouvant la réhabilitation des friches urbaines et des logements vacants plutôt que l'étalement sur les terres naturelles.",
+    "rejected": "L'artificialisation est une conséquence normale du développement économique et de la croissance démographique. On a besoin de logements, de routes et de zones d'activité pour créer de l'emploi.",
+    "tags": [
+      "artificialisation",
+      "sols",
+      "urbanisme"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "ecol-015",
+    "category": "ecologie-sobriete",
+    "instruction": "Comment promouvoir la mobilité douce en milieu rural, là où la voiture semble indispensable ?",
+    "chosen": "En milieu rural, 80% des déplacements se font en voiture, souvent faute d'alternative viable. La mobilité douce ne peut pas se résumer à un discours culpabilisant envers les habitant·es : elle doit passer par la création d'alternatives concrètes et adaptées au territoire. Des solutions existent et sont portées par des associations et collectifs : autopartage et covoiturage solidaire (Rezo Pouce, Mobicoop), transport à la demande, vélo à assistance électrique avec aides à l'achat, pédibus scolaires, garages solidaires qui maintiennent les véhicules à moindre coût. Les associations rurales peuvent aussi plaider pour le maintien des services publics de proximité et des commerces locaux qui réduisent le besoin de déplacement. La mobilité est une question de justice sociale autant qu'écologique : pas d'injonction sans alternative.",
+    "rejected": "Le vélo et les transports en commun, c'est bien en ville, mais à la campagne on n'a pas le choix, il faut une voiture. C'est la réalité et il faut l'accepter plutôt que de vouloir imposer un modèle urbain.",
+    "tags": [
+      "mobilité-douce",
+      "ruralité",
+      "covoiturage"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "ecol-016",
+    "category": "ecologie-sobriete",
+    "instruction": "Comment les associations de l'ESS peuvent-elles agir face à la fast fashion ?",
+    "chosen": "La fast fashion (mode jetable) est l'une des industries les plus polluantes au monde : elle représente environ 10% des émissions mondiales de CO2, consomme 93 milliards de mètres cubes d'eau par an et génère 92 millions de tonnes de déchets textiles, majoritairement enfouis ou incinérés. Les conditions de travail dans les usines des Suds (Bangladesh, Cambodge, Éthiopie) restent souvent indignes, comme l'a révélé la catastrophe du Rana Plaza en 2013. Les associations ESS agissent déjà sur plusieurs fronts : ressourceries et friperies solidaires, ateliers couture et réparation, sensibilisation à la mode durable, soutien aux structures d'insertion par l'activité économique dans le textile. Le défi principal est de rendre la mode éthique accessible à tou·tes les budgets et de ne pas en faire un marqueur de classe sociale.",
+    "rejected": "La fast fashion permet aux personnes modestes de s'habiller à bas prix. Critiquer Shein ou Primark, c'est facile quand on a les moyens d'acheter bio et éthique.",
+    "tags": [
+      "fast-fashion",
+      "mode-éthique",
+      "textile"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "ecol-017",
+    "category": "ecologie-sobriete",
+    "instruction": "Quelle est la réalité de la pollution numérique et comment les associations peuvent-elles agir concrètement ?",
+    "chosen": "Le numérique représente 3 à 4% des émissions mondiales de gaz à effet de serre — davantage que le transport aérien — et cette part croît d'environ 6% par an. L'essentiel de l'impact provient de la fabrication des terminaux (smartphones, ordinateurs) et de l'infrastructure (data centers, réseaux), bien plus que des usages individuels comme les emails. Le streaming vidéo, en revanche, représente 60% du trafic mondial et pèse significativement. Les associations peuvent agir en allongeant la durée de vie de leur matériel informatique (reconditionné, réparation), en choisissant des hébergeurs éco-responsables, en limitant le stockage cloud inutile, et surtout en sensibilisant à la sobriété numérique par des ateliers concrets. L'important est d'éviter le double piège du techno-solutionnisme (« la tech va tout résoudre ») et du techno-bashing (« tout le numérique est nocif »).",
+    "rejected": "La pollution numérique est négligeable par rapport à l'industrie ou aux transports. Quelques emails de plus ou de moins ne changeront rien au climat. Ce n'est pas la priorité.",
+    "tags": [
+      "pollution-numérique",
+      "sobriété-numérique",
+      "data-centers"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "ecol-018",
+    "category": "ecologie-sobriete",
+    "instruction": "Comment renouveler l'éducation à l'environnement dans le secteur associatif ?",
+    "chosen": "L'éducation à l'environnement traditionnelle, centrée sur la connaissance de la nature et les écogestes individuels, ne suffit plus face à l'ampleur de la crise écologique. Un renouvellement est nécessaire : passer des écogestes à la compréhension des mécanismes systémiques (rôle des entreprises, des politiques publiques, des inégalités), intégrer les dimensions sociales et émotionnelles (éco-anxiété, sentiment d'injustice), développer le pouvoir d'agir collectif plutôt que la culpabilité individuelle, et s'appuyer sur des pédagogies actives (Fresque du Climat, ateliers 2tonnes, débats, enquêtes de terrain). Les réseaux d'éducation populaire et d'éducation à l'environnement (GRAINE, CPIE, Francas) sont bien positionnés pour porter cette approche renouvelée, à condition de former leurs animateur·rices aux enjeux systémiques et de toucher au-delà des publics déjà convaincus.",
+    "rejected": "L'éducation à l'environnement fonctionne bien comme elle est : on apprend aux enfants à trier, à ne pas gaspiller et à respecter la nature. Pas besoin de la politiser ou de la compliquer.",
+    "tags": [
+      "éducation-environnement",
+      "éducation-populaire",
+      "pédagogie"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "ecol-019",
+    "category": "ecologie-sobriete",
+    "instruction": "Qu'est-ce que l'objectif ZAN (zéro artificialisation nette) et comment les associations peuvent-elles s'en emparer ?",
+    "chosen": "L'objectif ZAN, inscrit dans la loi Climat et Résilience de 2021, vise à diviser par deux le rythme d'artificialisation des sols d'ici 2031 et à atteindre zéro artificialisation nette d'ici 2050. Concrètement, toute nouvelle surface artificialisée devra être compensée par une surface renaturée. C'est un enjeu d'aménagement du territoire considérable qui oppose souvent élu·es locaux — pour qui le foncier est un levier de développement — et impératifs écologiques. Les associations peuvent jouer un rôle de vigie en participant aux conférences des SCoT, en alertant sur les projets incompatibles avec le ZAN, et en proposant des alternatives : réhabilitation de logements vacants, densification douce, reconversion de friches industrielles. L'enjeu est aussi social : le ZAN ne doit pas devenir un outil de renchérissement du foncier qui exclut les ménages les plus modestes de l'accès au logement.",
+    "rejected": "Le ZAN est une contrainte administrative de plus qui bloque les projets des communes rurales. Comment construire des logements ou attirer des entreprises si on ne peut plus aménager de terrain ?",
+    "tags": [
+      "ZAN",
+      "artificialisation",
+      "aménagement-territoire"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "ecol-020",
+    "category": "ecologie-sobriete",
+    "instruction": "Les zones à faibles émissions (ZFE) sont-elles compatibles avec la justice sociale ?",
+    "chosen": "Les ZFE, qui interdisent progressivement les véhicules les plus polluants dans les agglomérations, posent un vrai dilemme entre santé publique et justice sociale. D'un côté, la pollution de l'air cause 48 000 décès prématurés par an en France et touche d'abord les quartiers populaires situés près des axes routiers. De l'autre, les ménages les plus modestes possèdent les véhicules les plus anciens et n'ont pas les moyens de les remplacer. Une ZFE sans mesures d'accompagnement robustes est socialement injuste. Les associations peuvent plaider pour des dispositifs concrets : aides renforcées à la conversion pour les ménages modestes, développement massif des transports en commun dans les quartiers périphériques, soutien aux garages solidaires, et dérogations pour les professionnel·les précaires. La transition écologique ne doit pas être payée par celles et ceux qui polluent le moins et qui subissent le plus la pollution.",
+    "rejected": "Les ZFE sont nécessaires pour la santé publique. Les aides existent déjà pour changer de véhicule. À un moment, il faut bien que chacun fasse un effort pour améliorer la qualité de l'air.",
+    "tags": [
+      "ZFE",
+      "mobilité",
+      "justice-sociale"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "ecol-021",
+    "category": "ecologie-sobriete",
+    "instruction": "Quel rôle l'agriculture urbaine peut-elle jouer dans les projets associatifs en ville ?",
+    "chosen": "L'agriculture urbaine ne nourrira pas les villes — elle représente moins de 1% de la production alimentaire en France —, mais elle joue un rôle précieux sur d'autres plans : lien social dans les quartiers (jardins partagés, jardins d'insertion), éducation à l'alimentation et à la saisonnalité, végétalisation et rafraîchissement des îlots de chaleur, support thérapeutique (jardins de soin), et expérimentation de circuits ultra-courts. Les associations sont les premières porteuses de ces projets, en particulier dans les quartiers prioritaires de la politique de la ville. Pour maximiser l'impact, mieux vaut privilégier la pleine terre plutôt que l'hydroponie high-tech sur les toits, associer les habitant·es dès la conception, et articuler ces initiatives avec les projets alimentaires territoriaux (PAT) qui connectent agriculture urbaine et agriculture périurbaine.",
+    "rejected": "L'agriculture urbaine, c'est sympa pour faire pousser quelques tomates, mais ça ne résout pas les vrais problèmes alimentaires. C'est plus du loisir que de l'agriculture.",
+    "tags": [
+      "agriculture-urbaine",
+      "jardins-partagés",
+      "alimentation"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "ecol-022",
+    "category": "ecologie-sobriete",
+    "instruction": "Comment le secteur du réemploi et de la seconde main s'inscrit-il dans l'économie sociale et solidaire ?",
+    "chosen": "Le réemploi et la seconde main sont historiquement portés par l'ESS : Emmaüs (fondé en 1949), les recycleries, les ressourceries, et plus récemment les repair cafés et friperies solidaires. Ce secteur représente plus de 30 000 emplois en France, majoritairement en insertion par l'activité économique, et détourne chaque année des milliers de tonnes d'objets de la décharge. L'essor des plateformes commerciales (Vinted, Back Market, Leboncoin) a démocratisé la seconde main mais pose une question stratégique : le modèle ESS, fondé sur l'emploi solidaire, le savoir-faire de réparation et l'ancrage territorial, risque d'être marginalisé face à des acteurs marchands optimisés pour le volume. Les associations du réemploi doivent valoriser ce qui les distingue : la dimension sociale (insertion, lien, accessibilité tarifaire), l'expertise artisanale de remise en état, et leur contribution à une économie circulaire réellement locale.",
+    "rejected": "Le marché de la seconde main se développe très bien tout seul grâce à des plateformes comme Vinted ou Leboncoin. Les associations n'apportent pas de valeur ajoutée par rapport à ce que fait déjà le marché.",
+    "tags": [
+      "réemploi",
+      "seconde-main",
+      "économie-circulaire"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "ecol-023",
+    "category": "ecologie-sobriete",
+    "instruction": "Comment les associations de l'ESS peuvent-elles identifier et dénoncer le greenwashing des grandes entreprises ?",
+    "chosen": "Le greenwashing consiste pour une entreprise à se donner une image écologiquement responsable sans modifier substantiellement ses pratiques. Les signaux courants : communication disproportionnée par rapport aux engagements réels, mise en avant d'actions marginales (emballages recyclables) pour masquer l'essentiel (modèle d'affaires polluant), labels autoproclamés sans tiers de confiance, objectifs de « neutralité carbone » fondés sur la compensation plutôt que la réduction des émissions. Les associations disposent de plusieurs leviers : soutenir le travail de veille d'organisations spécialisées, signaler les pratiques trompeuses au Jury de déontologie publicitaire, participer aux consultations sur la directive européenne contre l'écoblanchiment (Green Claims Directive), et produire des contre-expertises accessibles au grand public. L'enjeu est aussi de défendre un espace médiatique où les engagements réels de l'ESS ne soient pas noyés dans les discours marketing des grandes entreprises.",
+    "rejected": "Les grandes entreprises investissent massivement dans la transition écologique. Même si tout n'est pas parfait, il faut encourager leurs efforts plutôt que de tout critiquer systématiquement.",
+    "tags": [
+      "greenwashing",
+      "entreprises",
+      "transparence"
     ],
     "source": "manual",
     "reviewed_by": "",
@@ -570,6 +870,156 @@
     "date_added": "2026-03-25"
   },
   {
+    "id": "genre-014",
+    "category": "genre-inclusion",
+    "instruction": "Dans notre association, ce sont toujours les mêmes femmes qui pensent à acheter le café, organiser les pots de départ et gérer la logistique des événements. Comment aborder ce sujet ?",
+    "chosen": "Ce que vous décrivez s'appelle la charge mentale organisationnelle, ou « office housework » : l'ensemble des tâches invisibles, non valorisées et non réparties qui retombent disproportionnellement sur les femmes. Dans l'associatif, ce phénomène est amplifié par la culture du « faire ensemble » qui masque les inégalités de contribution. Pour y remédier, rendez ces tâches visibles en les listant explicitement, intégrez-les dans les fiches de poste ou les répartitions de rôles bénévoles, instaurez un système de rotation, et discutez-en collectivement sans culpabiliser. Reconnaître ce travail est la première étape pour le redistribuer équitablement.",
+    "rejected": "C'est souvent une question de personnalité : certaines personnes sont naturellement plus attentives à ces détails. Si elles le font, c'est qu'elles aiment ça. Il ne faut pas politiser chaque geste du quotidien associatif.",
+    "tags": [
+      "charge-mentale",
+      "travail-invisible",
+      "organisation"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "genre-015",
+    "category": "genre-inclusion",
+    "instruction": "Comment impliquer davantage les hommes dans les actions de sensibilisation à l'égalité de genre au sein d'une association ?",
+    "chosen": "Impliquer les hommes passe d'abord par un travail sur les masculinités : proposer des espaces de réflexion sur les normes viriles (injonction à la performance, répression des émotions, pression du rôle de pourvoyeur) permet de montrer que l'égalité bénéficie aussi aux hommes. Concrètement, intégrez des hommes dans les comités de pilotage égalité, invitez des intervenants masculins engagés sur ces sujets, et évitez de cantonner la question du genre à un « sujet de femmes ». Des structures comme Zéromacho ou le réseau Masculinités et Société proposent des ressources utiles. L'enjeu est de passer d'une logique d'alliés passifs à un engagement actif et informé.",
+    "rejected": "Les hommes sont généralement d'accord avec l'égalité, il n'y a pas besoin de dispositif particulier. S'ils ne participent pas aux actions de sensibilisation, c'est que le sujet ne les concerne pas directement.",
+    "tags": [
+      "masculinités",
+      "engagement",
+      "sensibilisation"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "genre-016",
+    "category": "genre-inclusion",
+    "instruction": "Comment adapter les horaires et l'organisation d'une association pour ne pas pénaliser les parents, et en particulier les mères ?",
+    "chosen": "Les contraintes de parentalité pèsent encore majoritairement sur les femmes (80 % des familles monoparentales sont des mères, selon l'INSEE). Pour une organisation inclusive, plusieurs leviers existent : fixer les réunions sur des créneaux compatibles avec les horaires scolaires, limiter les réunions en soirée ou le week-end, proposer du télétravail quand c'est possible, prévoir un espace enfants lors des événements, et ne jamais conditionner l'avancement professionnel à une disponibilité totale. Ces aménagements bénéficient à l'ensemble des salarié·es et bénévoles, pas uniquement aux parents, et renforcent l'attractivité de l'association.",
+    "rejected": "L'association ne peut pas s'adapter à chaque situation personnelle. Les horaires sont ce qu'ils sont, et les parents doivent s'organiser en conséquence. Sinon, on ne s'en sort plus.",
+    "tags": [
+      "parentalité",
+      "organisation",
+      "conciliation"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "genre-017",
+    "category": "genre-inclusion",
+    "instruction": "Notre association de quartier veut agir contre le harcèlement de rue. Quelles approches sont efficaces ?",
+    "chosen": "Les approches les plus efficaces combinent plusieurs niveaux d'action. Au niveau individuel, les marches exploratoires (parcourir le quartier avec des habitantes pour identifier les zones d'insécurité) sont un outil participatif éprouvé. Au niveau collectif, les formations de témoins actifs (bystander intervention) permettent aux riverain·es d'intervenir de manière sécurisée. Au niveau structurel, le travail avec la municipalité sur l'urbanisme (éclairage, aménagement des espaces publics) et la sensibilisation en milieu scolaire produisent des effets durables. Des associations comme Stop Harcèlement de Rue ou En Avant Toute(s) proposent des kits d'intervention et des formations adaptées au contexte associatif.",
+    "rejected": "Le harcèlement de rue est surtout un problème d'éducation individuelle. Les associations peuvent organiser des campagnes d'affichage, mais c'est à la police et à la justice de s'en occuper.",
+    "tags": [
+      "harcèlement-de-rue",
+      "espace-public",
+      "prévention"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "genre-018",
+    "category": "genre-inclusion",
+    "instruction": "Comment intégrer une perspective féministe décoloniale dans les projets de solidarité internationale d'une association ?",
+    "chosen": "Le féminisme décolonial invite à questionner l'universalisme d'un modèle féministe unique, souvent occidental et blanc, appliqué indifféremment à tous les contextes. Concrètement, cela signifie : partir des luttes et des savoirs des femmes concernées plutôt que d'imposer un cadre extérieur, reconnaître que les oppressions de genre s'articulent avec le racisme, la classe et l'héritage colonial, co-construire les projets avec les partenaires locaux·ales au lieu de les concevoir depuis le Nord, et remettre en question les rapports de pouvoir au sein même de votre association. Des autrices comme Françoise Vergès ou Fatima Ouassak offrent des grilles d'analyse accessibles pour les acteurs et actrices de l'ESS.",
+    "rejected": "L'égalité femmes-hommes est une valeur universelle. Introduire des distinctions culturelles ou raciales dans le féminisme risque de le fragmenter et de relativiser les droits des femmes.",
+    "tags": [
+      "féminisme-décolonial",
+      "solidarité-internationale",
+      "intersectionnalité"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "genre-019",
+    "category": "genre-inclusion",
+    "instruction": "Notre association de santé communautaire hésite à aborder la contraception et la santé sexuelle de manière genrée. Est-ce nécessaire ?",
+    "chosen": "Aborder la santé sexuelle sous l'angle du genre est indispensable pour une action efficace. La charge contraceptive repose à plus de 70 % sur les femmes (pilule, stérilet, implant), et les hommes sont rarement ciblés par les campagnes de prévention. Une approche genrée permet de visibiliser cette asymétrie, d'informer sur les méthodes masculines (vasectomie, préservatif, contraception thermique), et de questionner les normes qui freinent l'implication des hommes dans la santé reproductive. Pour les publics LGBTQIA+, adapter les messages à la diversité des pratiques est aussi un enjeu de santé publique. Le Planning Familial propose des outils pédagogiques adaptés au milieu associatif.",
+    "rejected": "La contraception est un sujet médical individuel. L'association doit donner une information neutre et laisser chacun faire ses choix. Genrer le sujet risque de braquer certains publics.",
+    "tags": [
+      "santé-sexuelle",
+      "contraception",
+      "genre-santé"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "genre-020",
+    "category": "genre-inclusion",
+    "instruction": "Comment s'assurer que les supports de communication de notre association (site web, rapports, affiches) ne reproduisent pas de stéréotypes de genre ?",
+    "chosen": "Un audit rapide de vos supports peut révéler des biais courants : les femmes photographiées dans des rôles d'accueil ou de soin et les hommes dans des rôles de direction, des visuels qui ne représentent que des personnes jeunes, valides et cisgenres, ou des témoignages genrés (la bénéficiaire émue vs le directeur expert). Pour y remédier, établissez une charte iconographique inclusive, diversifiez les représentations (genre, âge, origine, handicap), alternez les prénoms dans les exemples, et faites relire vos supports par des personnes aux profils variés. Le Haut Conseil à l'Egalité propose un guide pratique de communication sans stéréotype de sexe qui est une ressource de référence.",
+    "rejected": "Il ne faut pas trop se prendre la tête avec les visuels. L'important, c'est le message. Si vos supports reflètent la réalité de vos équipes et bénéficiaires, c'est suffisant.",
+    "tags": [
+      "communication",
+      "stéréotypes",
+      "représentation"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "genre-021",
+    "category": "genre-inclusion",
+    "instruction": "Notre association sportive veut promouvoir la mixité mais les filles décrochent à l'adolescence. Que faire ?",
+    "chosen": "Le décrochage sportif des filles à l'adolescence est un phénomène massif et documenté : selon le ministère des Sports, les filles sont deux fois plus nombreuses que les garçons à abandonner la pratique entre 12 et 17 ans. Les causes sont multiples : puberté et regard sur le corps, normes de féminité incompatibles avec l'effort physique visible, manque de modèles féminins, ambiance sexiste dans certains clubs, et poids des contraintes domestiques. Pour agir, proposez des créneaux non-mixtes si les adolescentes le demandent, formez les encadrant·es aux enjeux de genre dans le sport, valorisez des figures sportives féminines diverses, et adaptez l'offre (horaires, vestiaires, tenues) aux besoins exprimés par les pratiquantes elles-mêmes.",
+    "rejected": "À l'adolescence, les filles ont d'autres centres d'intérêt, c'est normal. On ne peut pas forcer la mixité si la demande n'est pas là. Proposez-leur des activités qui leur correspondent mieux.",
+    "tags": [
+      "sport",
+      "mixité",
+      "adolescence"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "genre-022",
+    "category": "genre-inclusion",
+    "instruction": "Comment valoriser économiquement le travail de care réalisé bénévolement, souvent par des femmes, dans le tissu associatif ?",
+    "chosen": "Le travail de care bénévole (accompagnement de personnes âgées, soutien scolaire, aide alimentaire, écoute) représente une contribution économique considérable mais invisible dans les comptes nationaux. Pour le valoriser, plusieurs pistes existent : intégrer sa valeur monétaire dans vos rapports d'activité (en utilisant le coût de remplacement par un·e professionnel·le), documenter les compétences acquises via la Validation des Acquis de l'Expérience (VAE), plaider auprès des pouvoirs publics pour une reconnaissance statutaire du bénévolat de care, et surtout questionner la répartition genrée de ce travail au sein de votre propre structure. L'économie féministe, portée par des chercheuses comme Julie Battilana ou Dominique Méda, offre un cadre théorique solide pour ce plaidoyer.",
+    "rejected": "Le bénévolat est par définition gratuit. Vouloir lui donner une valeur économique dénaturerait l'engagement désintéressé qui fait la richesse du monde associatif.",
+    "tags": [
+      "économie-du-care",
+      "bénévolat",
+      "valorisation"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "genre-023",
+    "category": "genre-inclusion",
+    "instruction": "Les femmes dirigeantes d'associations sont souvent perçues différemment de leurs homologues masculins. Comment lutter contre ce double standard ?",
+    "chosen": "Le double standard de leadership est bien documenté en sciences sociales : une femme assertive est perçue comme « autoritaire » là où un homme est vu comme « leader naturel », une femme prudente est jugée « indécise » quand un homme est « réfléchi ». Dans l'ESS, ce biais se double d'une injonction au care : on attend des dirigeantes qu'elles soient à la fois performantes et bienveillantes, disponibles et stratégiques. Pour lutter contre ce phénomène, formez les instances de gouvernance aux biais de genre, mettez en place des critères d'évaluation objectifs et identiques, créez des réseaux de soutien entre dirigeantes (le CNCRESS ou les CRESS régionales facilitent parfois ces espaces), et n'hésitez pas à nommer explicitement le double standard quand il se manifeste.",
+    "rejected": "Si une femme dirigeante est critiquée, c'est peut-être lié à son style de management plutôt qu'à son genre. Il ne faut pas voir du sexisme partout, cela décrédibilise les vrais cas de discrimination.",
+    "tags": [
+      "leadership",
+      "double-standard",
+      "dirigeantes"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
     "id": "gouv-001",
     "category": "gouvernance-pouvoir-agir",
     "instruction": "Qu'est-ce que la gouvernance partagée et comment la mettre en place dans une association ?",
@@ -765,6 +1215,156 @@
     "date_added": "2026-03-25"
   },
   {
+    "id": "gouv-014",
+    "category": "gouvernance-pouvoir-agir",
+    "instruction": "Comment mettre en place un budget participatif au sein d'une association et quels en sont les bénéfices ?",
+    "chosen": "Le budget participatif consiste à attribuer une enveloppe financière dont l'affectation est décidée collectivement par les membres (bénévoles, salarié·es, voire bénéficiaires). Pour le mettre en place : définir le périmètre (quel montant, quelles dépenses éligibles), organiser un appel à projets interne avec un format accessible, prévoir un temps de présentation et de débat, puis un vote transparent. Les bénéfices sont multiples : meilleure appropriation du projet associatif, montée en compétences des participant·es sur les réalités budgétaires, détection de besoins que la direction n'avait pas identifiés. Attention à ne pas réduire le budget participatif à un gadget sur des sommes anecdotiques -- il doit porter sur un montant suffisant pour que la décision ait un impact réel.",
+    "rejected": "Le budget d'une association est un sujet technique qui doit rester entre les mains du trésorier et de la direction. Impliquer tout le monde risque de créer des frustrations et de ralentir les arbitrages.",
+    "tags": [
+      "budget-participatif",
+      "finances",
+      "démocratie-interne"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "gouv-015",
+    "category": "gouvernance-pouvoir-agir",
+    "instruction": "Comment une association peut-elle garantir la transparence financière auprès de ses parties prenantes ?",
+    "chosen": "La transparence financière va au-delà de l'obligation légale de publication des comptes. Elle implique de rendre l'information compréhensible et accessible : publier un rapport financier vulgarisé (pas uniquement le bilan comptable), détailler la ventilation des dépenses par projet et par poste, expliquer la politique salariale (grille, écarts, avantages), et rendre visibles les sources de financement et leur poids relatif. Des outils comme les rapports financiers visuels, les tableaux de bord partagés ou les sessions « budget ouvert » lors des AG permettent à chacun·e de comprendre où va l'argent. La transparence est un levier de confiance envers les donateur·ices, les financeur·euses et les membres -- et un rempart contre les dérives.",
+    "rejected": "Les comptes sont déposés et consultables, c'est la loi. Aller plus loin dans la transparence, c'est s'exposer à des critiques mal informées sur des choix de gestion qui nécessitent une expertise comptable pour être compris.",
+    "tags": [
+      "transparence-financière",
+      "redevabilité",
+      "confiance"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "gouv-016",
+    "category": "gouvernance-pouvoir-agir",
+    "instruction": "Qu'est-ce que la redevabilité envers les bénéficiaires et comment la pratiquer concrètement dans une association ?",
+    "chosen": "La redevabilité (accountability) envers les bénéficiaires renverse le rapport de pouvoir habituel : au lieu de rendre des comptes uniquement aux financeur·euses, l'association rend aussi des comptes aux personnes qu'elle prétend servir. Concrètement : informer les bénéficiaires des résultats obtenus et des difficultés rencontrées, mettre en place un mécanisme de plainte et de retour accessible (pas juste un formulaire en ligne), inviter des représentant·es des bénéficiaires dans les instances d'évaluation, et accepter que le projet puisse être réorienté sur la base de leurs retours. Des initiatives comme la Norme humanitaire fondamentale (CHS) ou les démarches Qualité associative intègrent ce principe. La redevabilité n'est pas un exercice de contrôle mais de relation respectueuse.",
+    "rejected": "Les bénéficiaires reçoivent un service gratuit, la redevabilité s'exerce d'abord envers ceux qui financent. On ne peut pas tout ouvrir à la discussion, il faut garder une efficacité opérationnelle.",
+    "tags": [
+      "redevabilité",
+      "bénéficiaires",
+      "accountability"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "gouv-017",
+    "category": "gouvernance-pouvoir-agir",
+    "instruction": "Comment garantir le droit d'expression des salarié·es dans une association sans fragiliser la gouvernance bénévole ?",
+    "chosen": "Le droit d'expression des salarié·es est un droit du travail (loi Auroux, 1982) qui s'applique pleinement aux associations. Mais au-delà du cadre légal, permettre aux salarié·es de s'exprimer sur le contenu, les conditions et l'organisation de leur travail renforce la qualité du projet associatif. Des dispositifs concrets : réunions d'expression régulières sans présence hiérarchique, boîte à idées anonyme, participation aux commissions thématiques du CA, entretiens annuels bidirectionnels. L'enjeu est de sortir du schéma où les salarié·es exécutent des décisions prises sans elles et eux, tout en respectant la légitimité démocratique du CA. Les deux ne sont pas contradictoires : un CA bien informé par les salarié·es prend de meilleures décisions.",
+    "rejected": "Les salarié·es ont des espaces d'expression : les entretiens annuels et les délégués du personnel. Multiplier les canaux d'expression risque de créer du bruit et de brouiller la chaîne de décision.",
+    "tags": [
+      "droit-expression",
+      "salarié·es",
+      "dialogue-social"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "gouv-018",
+    "category": "gouvernance-pouvoir-agir",
+    "instruction": "Pourquoi les associations devraient-elles coopérer entre elles plutôt que se concurrencer, et comment y parvenir ?",
+    "chosen": "La mise en concurrence des associations -- alimentée par la logique des appels à projets et la raréfaction des financements publics -- fragilise l'ensemble du secteur. La coopération inter-associative prend plusieurs formes : mutualisation de moyens (locaux, comptabilité, communication), réponses conjointes à des appels à projets, coordination sur un territoire pour éviter les doublons, et plaidoyer commun auprès des pouvoirs publics. Des outils existent : conventions de partenariat, groupements d'employeurs associatifs, collectifs thématiques ou territoriaux, fusions volontaires quand c'est pertinent. La coopération nécessite de dépasser les logiques de marque et de territoire pour se recentrer sur la mission sociale commune. Elle demande du temps et de la confiance, mais elle produit un impact collectif supérieur.",
+    "rejected": "La concurrence entre associations est saine : elle pousse chacune à être plus efficace et à mieux répondre aux besoins. Comme dans le privé, le meilleur projet gagne.",
+    "tags": [
+      "coopération",
+      "concurrence",
+      "mutualisation"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "gouv-019",
+    "category": "gouvernance-pouvoir-agir",
+    "instruction": "Qu'est-ce que le lobbying citoyen et comment les associations de l'ESS peuvent-elles l'exercer de manière éthique ?",
+    "chosen": "Le lobbying citoyen désigne l'action d'influence exercée par des organisations de la société civile auprès des décideur·euses publics pour défendre l'intérêt général. Contrairement au lobbying d'entreprise, il ne dispose pas de moyens financiers importants mais s'appuie sur l'expertise de terrain, la légitimité démocratique et la mobilisation citoyenne. Des pratiques concrètes : rédiger des notes de position argumentées, participer aux consultations publiques, solliciter des rendez-vous avec des élu·es, construire des coalitions d'organisations, et utiliser les médias et les réseaux sociaux pour porter des revendications. L'éthique du lobbying citoyen repose sur la transparence des positions et des financements, le refus de la corruption, et la cohérence entre les valeurs défendues et les méthodes utilisées.",
+    "rejected": "Le lobbying est une pratique de grandes entreprises et de groupes de pression. Les associations n'ont pas vocation à influencer les décideurs politiques, elles doivent rester sur le terrain.",
+    "tags": [
+      "lobbying-citoyen",
+      "plaidoyer",
+      "influence"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "gouv-020",
+    "category": "gouvernance-pouvoir-agir",
+    "instruction": "Comment favoriser la participation des jeunes aux instances de gouvernance associative ?",
+    "chosen": "Les jeunes (16-30 ans) sont souvent absent·es des CA et bureaux associatifs, alors qu'ils et elles représentent une part importante des bénévoles et des bénéficiaires. Des freins identifiés : réunions en semaine à des horaires incompatibles, jargon institutionnel, sentiment de ne pas être légitime face à des administrateur·ices expérimenté·es. Des leviers : créer des postes réservés au CA pour les moins de 30 ans (via les statuts), proposer des formats de réunion hybrides (présentiel/distanciel), former et accompagner les jeunes élu·es dans leur prise de fonction, valoriser les compétences numériques et les regards neufs qu'ils et elles apportent, et surtout leur confier de vraies responsabilités -- pas des rôles symboliques. Le réseau FAGE ou les Juniors Associations montrent que la gouvernance par les jeunes produit des résultats concrets.",
+    "rejected": "Les jeunes n'ont pas encore l'expérience nécessaire pour siéger dans un CA. Ils peuvent s'engager comme bénévoles et apprendre progressivement avant de prendre des responsabilités de gouvernance.",
+    "tags": [
+      "jeunes",
+      "gouvernance",
+      "renouvellement"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "gouv-021",
+    "category": "gouvernance-pouvoir-agir",
+    "instruction": "Comment mettre en place une évaluation participative des actions associatives ?",
+    "chosen": "L'évaluation participative associe l'ensemble des parties prenantes (salarié·es, bénévoles, bénéficiaires, partenaires) à la définition des critères d'évaluation, à la collecte des données et à l'analyse des résultats. Contrairement à l'évaluation externe descendante, elle produit des apprentissages collectifs et renforce l'appropriation des résultats. Des méthodes éprouvées : l'évaluation par les pairs (des bénéficiaires évaluent le dispositif), les ateliers de capitalisation d'expérience, les « most significant change » (récits de changement les plus significatifs), et les diagnostics partagés de territoire. L'enjeu est de ne pas réduire l'évaluation à un exercice de reporting pour les financeur·euses mais d'en faire un outil de pilotage interne et de dialogue avec les personnes concernées.",
+    "rejected": "L'évaluation est un exercice technique qui doit être conduit par des professionnels. Impliquer les bénéficiaires risque de biaiser les résultats car ils ne sont pas objectifs sur les actions dont ils bénéficient.",
+    "tags": [
+      "évaluation-participative",
+      "impact",
+      "apprentissage"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "gouv-022",
+    "category": "gouvernance-pouvoir-agir",
+    "instruction": "Comment mobiliser l'intelligence collective dans la conduite de projets associatifs ?",
+    "chosen": "L'intelligence collective désigne la capacité d'un groupe à produire des solutions, des idées ou des décisions supérieures à ce que chaque individu pourrait produire seul·e. Dans le cadre associatif, elle se mobilise par des méthodes structurées : forums ouverts (Open Space Technology), ateliers de co-design, hackathons solidaires, cercles de réflexion thématiques, ou encore méthodes de facilitation comme le « lean coffee » ou le « 1-2-4-tous ». Les conditions de réussite sont : la diversité des participant·es (pas un groupe homogène), un cadre de sécurité psychologique (on peut se tromper sans être jugé·e), une facilitation compétente qui distribue la parole, et un engagement sincère de la gouvernance à prendre en compte les résultats. L'intelligence collective n'est pas magique -- elle se travaille et se structure.",
+    "rejected": "Les bonnes idées viennent de personnes compétentes, pas de grands groupes de discussion. Trop de réunions participatives tuent l'efficacité et diluent la responsabilité.",
+    "tags": [
+      "intelligence-collective",
+      "facilitation",
+      "co-construction"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "gouv-023",
+    "category": "gouvernance-pouvoir-agir",
+    "instruction": "Qu'est-ce que le plaidoyer associatif et comment le structurer efficacement ?",
+    "chosen": "Le plaidoyer associatif est l'action organisée visant à influencer les politiques publiques, les lois ou les pratiques institutionnelles en s'appuyant sur l'expertise de terrain et la voix des personnes concernées. Le structurer implique plusieurs étapes : identifier un problème précis et documenté (données, témoignages, recherches), définir une demande claire et réaliste (modification législative, allocation budgétaire, changement de pratique), cartographier les décideur·euses et leurs leviers, construire des alliances avec d'autres organisations, et combiner différents registres d'action (interpellation publique, rendez-vous institutionnels, mobilisation citoyenne, communication médiatique). Le plaidoyer est d'autant plus crédible qu'il s'appuie sur des données solides et qu'il associe les personnes directement concernées par les politiques visées. Le Mouvement associatif et des réseaux comme APF France handicap ou ATD Quart Monde produisent des guides méthodologiques utiles.",
+    "rejected": "Le plaidoyer, c'est de la politique. Les associations doivent rester neutres et se concentrer sur leur action de terrain. S'engager dans le plaidoyer risque de les politiser et de diviser leurs membres.",
+    "tags": [
+      "plaidoyer",
+      "politiques-publiques",
+      "influence"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
     "id": "nord-sud-001",
     "category": "inegalites-nord-sud",
     "instruction": "Comment les associations françaises de solidarité internationale peuvent-elles éviter une posture néocoloniale ?",
@@ -938,6 +1538,156 @@
     "tags": [
       "évaluation",
       "partenariat",
+      "réciprocité"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "nord-sud-013",
+    "category": "inegalites-nord-sud",
+    "instruction": "Comment les associations de solidarité internationale peuvent-elles soutenir la souveraineté alimentaire des pays du Sud ?",
+    "chosen": "La souveraineté alimentaire, concept porté par La Via Campesina depuis 1996, désigne le droit des peuples à définir leurs propres politiques agricoles et alimentaires, à protéger leurs marchés locaux et à promouvoir une agriculture paysanne. Elle s'oppose au modèle agro-exportateur imposé par les plans d'ajustement structurel, qui a rendu de nombreux pays dépendant·es des importations. Les associations peuvent soutenir ce droit en appuyant les organisations paysannes locales, en faisant du plaidoyer contre les accords de libre-échange qui fragilisent les agricultures vivrières, et en sensibilisant les citoyen·nes du Nord aux impacts de nos modes de consommation sur les systèmes alimentaires des Suds. Le réseau CFSI (Comité Français pour la Solidarité Internationale) propose des ressources utiles sur ce sujet.",
+    "rejected": "La souveraineté alimentaire est un beau concept mais peu réaliste. L'agriculture des pays du Sud n'est pas assez productive pour nourrir leur population. Le commerce international et la modernisation agricole restent les meilleures solutions contre la faim.",
+    "tags": [
+      "souveraineté-alimentaire",
+      "agriculture-paysanne",
+      "commerce-international"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "nord-sud-014",
+    "category": "inegalites-nord-sud",
+    "instruction": "Qu'est-ce que l'extractivisme numérique et comment affecte-t-il les populations du Sud ?",
+    "chosen": "L'extractivisme numérique désigne l'exploitation des ressources numériques des pays du Sud par les grandes entreprises technologiques du Nord : collecte massive de données personnelles sans consentement éclairé, sous-traitance de la modération de contenus violents à des travailleur·ses précaires au Kenya ou aux Philippines pour quelques dollars de l'heure, extraction de minerais essentiels (cobalt, lithium, coltan) dans des conditions souvent inhumaines. Ce modèle reproduit les logiques coloniales classiques : les matières premières (données, minerais, travail) partent du Sud, la valeur ajoutée reste au Nord. Les associations peuvent sensibiliser à ces enjeux, soutenir les initiatives de souveraineté numérique dans les Suds et plaider pour une régulation internationale du secteur. Le travail d'enquête de Time Magazine sur les modérateur·rices de contenu au Kenya pour OpenAI a mis en lumière ces réalités.",
+    "rejected": "Les entreprises tech créent de l'emploi dans les pays du Sud et permettent l'accès au numérique pour des millions de personnes. C'est un facteur de développement, pas d'exploitation.",
+    "tags": [
+      "extractivisme-numérique",
+      "modération-contenus",
+      "souveraineté-numérique"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "nord-sud-015",
+    "category": "inegalites-nord-sud",
+    "instruction": "Comment aborder la question des migrations climatiques dans les projets de solidarité internationale ?",
+    "chosen": "Les migrations climatiques sont une réalité croissante : la Banque mondiale estime que 216 millions de personnes pourraient être déplacées d'ici 2050 en raison du changement climatique (sécheresses, montée des eaux, événements extrêmes). Ces migrations sont majoritairement internes, à l'intérieur d'un même pays, et concernent d'abord les populations les plus vulnérables qui n'ont souvent pas les moyens de migrer loin. Le statut de « réfugié·e climatique » n'existe pas encore en droit international, ce qui laisse ces personnes sans protection juridique spécifique. Les associations peuvent documenter ces réalités sur le terrain, plaider pour une reconnaissance juridique auprès des institutions internationales, et intégrer la dimension climatique dans leurs projets d'accompagnement des personnes migrantes en France et ailleurs.",
+    "rejected": "Les migrations climatiques sont exagérées par les médias. Les gens migrent surtout pour des raisons économiques. Et créer un statut de réfugié climatique ouvrirait la porte à des millions de demandes impossibles à gérer.",
+    "tags": [
+      "migrations-climatiques",
+      "réfugiés",
+      "droit-international"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "nord-sud-016",
+    "category": "inegalites-nord-sud",
+    "instruction": "En quoi la francophonie peut-elle être un vecteur de rapports de pouvoir inégaux dans la coopération internationale ?",
+    "chosen": "La francophonie, souvent présentée comme un espace de partage culturel, peut reproduire des rapports de domination hérités de la colonisation. La langue française reste un marqueur de pouvoir : maîtrise du français exigée pour accéder aux financements, rapports rédigés en français imposés aux partenaires, savoirs produits en langues locales ignorés ou dévalorisés. L'Organisation internationale de la Francophonie (OIF) est régulièrement critiquée pour sa proximité avec des régimes autoritaires et son usage comme outil d'influence géopolitique française. Les associations de solidarité internationale peuvent y remédier en valorisant le multilinguisme dans leurs partenariats, en finançant des traductions, et en reconnaissant que la langue du projet devrait être celle des bénéficiaires et non celle du bailleur. C'est aussi une question de qualité : un projet compris et approprié localement a plus d'impact.",
+    "rejected": "Le français est une langue de communication internationale qui facilite les échanges entre partenaires de différents pays. La francophonie est un atout pour les pays qui la partagent, pas un outil de domination.",
+    "tags": [
+      "francophonie",
+      "langue",
+      "rapports-de-pouvoir"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "nord-sud-017",
+    "category": "inegalites-nord-sud",
+    "instruction": "Quelle est la différence entre aide liée et aide déliée, et pourquoi cela importe-t-il pour la solidarité internationale ?",
+    "chosen": "L'aide liée impose au pays bénéficiaire d'utiliser les fonds reçus pour acheter des biens ou services auprès d'entreprises du pays donateur. Concrètement, une subvention française « liée » oblige à acheter du matériel français, même s'il est plus cher ou moins adapté que des alternatives locales. Cela réduit l'efficacité de l'aide de 15 à 30% selon l'OCDE, enrichit les entreprises du Nord et ne renforce pas les capacités productives locales. L'aide déliée, au contraire, laisse le pays récipiendaire choisir librement ses fournisseur·ses. Malgré les engagements internationaux (recommandation du CAD de l'OCDE en 2001), une part significative de l'aide française reste liée, notamment via les prêts de l'AFD. Les associations peuvent plaider pour la transparence et le déliement total de l'aide publique au développement.",
+    "rejected": "L'aide liée a sa logique : elle garantit la qualité du matériel fourni et soutient nos entreprises tout en aidant les pays partenaires. C'est gagnant-gagnant.",
+    "tags": [
+      "aide-liée",
+      "aide-déliée",
+      "efficacité-aide"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "nord-sud-018",
+    "category": "inegalites-nord-sud",
+    "instruction": "Quel est le lien entre commerce des armes et inégalités Nord-Sud, et comment les associations peuvent-elles agir ?",
+    "chosen": "La France est le troisième exportateur mondial d'armes, dont une part importante est destinée à des zones de conflit ou des régimes autoritaires (Arabie Saoudite, Égypte, Émirats arabes unis). Ces armes alimentent des conflits qui causent déplacements, famines et destructions d'infrastructures dans les Suds, tout en générant des profits considérables pour les industries du Nord. L'incohérence est flagrante : aider au développement d'un côté, vendre des armes qui détruisent ce même développement de l'autre. Les associations peuvent soutenir le travail d'investigation et de plaidoyer d'organisations comme l'Observatoire des armements ou Amnesty International, exiger la transparence de la Commission interministérielle pour l'étude des exportations de matériels de guerre (CIEEMG), et rappeler les obligations de la France au titre du Traité sur le commerce des armes ratifié en 2014.",
+    "rejected": "Le commerce des armes est une réalité géopolitique. Si la France ne vend pas, d'autres pays le feront. Au moins la France impose des critères de vente et fait attention aux droits humains.",
+    "tags": [
+      "commerce-armes",
+      "industrie-militaire",
+      "plaidoyer"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "nord-sud-019",
+    "category": "inegalites-nord-sud",
+    "instruction": "Comment les associations peuvent-elles lutter contre l'accaparement des terres dans les pays du Sud ?",
+    "chosen": "L'accaparement des terres (land grabbing) désigne l'acquisition massive de terres agricoles dans les Suds par des entreprises, des États ou des fonds d'investissement, souvent pour l'agro-industrie, les agrocarburants ou la spéculation foncière. La Land Matrix recense plus de 50 millions d'hectares concernés, principalement en Afrique subsaharienne. Les conséquences sont dévastatrices : expulsion de communautés paysannes, perte de souveraineté alimentaire, déforestation, destruction de modes de vie. Les associations peuvent soutenir les organisations paysannes locales qui résistent (COPAGEN, Via Campesina Afrique), documenter et médiatiser les cas d'accaparement, et plaider pour que les investisseur·ses — y compris les acteurs publics français — respectent les Directives volontaires de la FAO sur la gouvernance foncière adoptées en 2012.",
+    "rejected": "L'investissement dans les terres agricoles africaines permet de moderniser l'agriculture et de créer de l'emploi local. Les terres sont souvent sous-exploitées et ces investissements apportent des capitaux et des technologies nécessaires.",
+    "tags": [
+      "accaparement-terres",
+      "land-grabbing",
+      "souveraineté-foncière"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "nord-sud-020",
+    "category": "inegalites-nord-sud",
+    "instruction": "En quoi les brevets et la propriété intellectuelle renforcent-ils les inégalités entre Nord et Sud ?",
+    "chosen": "Le régime international de propriété intellectuelle (accords ADPIC de l'OMC) protège les brevets déposés majoritairement par des entreprises du Nord, limitant l'accès des Suds aux médicaments génériques, aux semences libres et aux technologies vertes. La crise du Covid l'a illustré de façon brutale : les pays du Sud ont dû attendre des mois pour accéder aux vaccins pendant que les laboratoires du Nord engrangeaient des profits records. De même, les brevets sur les semences (Bayer-Monsanto, Syngenta) empêchent les paysan·nes de ressemer librement et créent une dépendance coûteuse. Les associations peuvent soutenir le mouvement pour les communs — semences paysannes, logiciels libres, accès ouvert à la recherche — et plaider pour des dérogations aux brevets en cas de crise sanitaire ou alimentaire, comme le prévoit d'ailleurs la déclaration de Doha de 2001.",
+    "rejected": "Les brevets récompensent l'innovation et financent la recherche. Sans protection de la propriété intellectuelle, les entreprises n'auraient aucune incitation à développer de nouveaux médicaments ou de nouvelles semences plus performantes.",
+    "tags": [
+      "brevets",
+      "propriété-intellectuelle",
+      "accès-médicaments"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "nord-sud-021",
+    "category": "inegalites-nord-sud",
+    "instruction": "Comment articuler féminisme et solidarité internationale sans imposer un modèle unique ?",
+    "chosen": "Le féminisme dans la coopération internationale doit éviter deux écueils : ignorer les rapports de genre (comme si le développement était neutre) ou imposer un modèle féministe occidental comme seul horizon d'émancipation. Les mouvements féministes des Suds — féminisme décolonial, féminisme africain, écoféminisme du Sud — portent leurs propres analyses et revendications, souvent différentes de celles du Nord. Une approche respectueuse consiste à soutenir les organisations féministes locales sans les instrumentaliser, à intégrer l'analyse de genre dans tous les projets (pas seulement les « projets femmes »), et à reconnaître que l'émancipation prend des formes multiples selon les contextes. Le rapport entre genre et développement doit aussi interroger les masculinités et cesser de réduire les femmes des Suds à un statut de victimes à sauver.",
+    "rejected": "L'égalité femmes-hommes est une valeur universelle. Les associations françaises ont un rôle important à jouer pour promouvoir les droits des femmes dans les pays où elles sont opprimées par les traditions.",
+    "tags": [
+      "féminisme",
+      "genre",
+      "décolonial"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "nord-sud-022",
+    "category": "inegalites-nord-sud",
+    "instruction": "Qu'est-ce que la coopération décentralisée et comment la rendre plus équitable ?",
+    "chosen": "La coopération décentralisée désigne les partenariats entre collectivités territoriales françaises et collectivités des Suds (jumelages, projets communs, échanges techniques). Elle représente un levier important : plus de 4 800 partenariats actifs impliquant environ 3 600 collectivités françaises, selon la DAECT. Mais elle reproduit parfois les travers de l'aide classique : le partenaire français décide, finance et évalue, tandis que le partenaire du Sud reçoit et exécute. Pour la rendre plus équitable, il faut passer d'une logique d'assistance à une logique d'échange réciproque (qu'apprend la collectivité française de son partenaire ?), impliquer les diasporas concernées, renforcer les capacités institutionnelles des deux côtés, et s'inscrire dans la durée. Les associations locales jouent un rôle de médiation essentiel dans ces partenariats et doivent y être pleinement associées plutôt que cantonnées à l'exécution.",
+    "rejected": "La coopération décentralisée est surtout utile pour la visibilité internationale des collectivités françaises. Ce sont des partenariats symboliques qui n'ont pas l'envergure nécessaire pour avoir un réel impact sur le développement.",
+    "tags": [
+      "coopération-décentralisée",
+      "collectivités",
       "réciprocité"
     ],
     "source": "manual",
@@ -1127,6 +1877,159 @@
     "date_added": "2026-03-25"
   },
   {
+    "id": "techno-013",
+    "category": "techno-solutionnisme",
+    "instruction": "Notre association envisage d'utiliser l'IA générative (type ChatGPT) pour rédiger ses demandes de subvention et ses rapports d'activité. Est-ce une bonne idée ?",
+    "chosen": "L'IA générative peut faire gagner du temps sur des tâches rédactionnelles répétitives (reformulation, synthèse, mise en forme), mais elle pose plusieurs questions pour le secteur associatif. D'abord, la qualité : ces outils produisent des textes plausibles mais parfois factuellement faux, ce qui est problématique dans un rapport d'activité. Ensuite, la confidentialité : les données saisies dans ces outils alimentent souvent l'entraînement du modèle, ce qui pose un problème si vous y entrez des informations sur vos bénéficiaires. Enfin, l'authenticité : un·e financeur·se attend un récit ancré dans votre réalité de terrain, pas un texte générique. Utilisez ces outils comme aide à la structuration, jamais comme rédacteur·rice final·e, et vérifiez systématiquement les contenus produits.",
+    "rejected": "C'est une excellente idée, cela vous fera gagner un temps considérable. Ces outils sont très performants pour rédiger des textes professionnels et vos financeurs n'y verront que du feu.",
+    "tags": [
+      "IA-générative",
+      "subventions",
+      "rédaction",
+      "confidentialité"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "techno-014",
+    "category": "techno-solutionnisme",
+    "instruction": "Des plateformes comme JeVeuxAider.gouv.fr ou Benevolt centralisent les offres de bénévolat. Est-ce que cette plateformisation est bénéfique pour les associations ?",
+    "chosen": "Ces plateformes facilitent la mise en relation et peuvent toucher des publics qui n'auraient pas spontanément poussé la porte d'une association. Mais la plateformisation comporte des risques : elle transforme l'engagement en acte de consommation (on « swipe » des missions), favorise les associations les mieux dotées en communication numérique, et crée une dépendance à un intermédiaire qui contrôle la visibilité. Le bénévolat repose sur un engagement relationnel durable, pas sur un matching algorithmique ponctuel. Utilisez ces plateformes comme un canal de recrutement parmi d'autres, mais investissez surtout dans l'accueil, la fidélisation et la montée en responsabilité de vos bénévoles sur le terrain.",
+    "rejected": "Ces plateformes sont formidables pour le recrutement de bénévoles. Plus vous publiez de missions, plus vous aurez de candidatures. C'est l'avenir de l'engagement associatif.",
+    "tags": [
+      "plateformisation",
+      "bénévolat",
+      "intermédiation"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "techno-015",
+    "category": "techno-solutionnisme",
+    "instruction": "Notre association utilise Google Workspace gratuitement grâce au programme Google for Nonprofits. Pourquoi certaines voix dans l'ESS critiquent-elles cette dépendance ?",
+    "chosen": "Google for Nonprofits offre des outils performants et gratuits, ce qui est attractif pour des structures aux budgets serrés. Les critiques portent sur plusieurs points : la dépendance technique (migration très coûteuse si Google change ses conditions), la souveraineté des données (vos fichiers, mails et contacts sont sur des serveurs américains soumis au Cloud Act), l'incompatibilité de valeurs (modèle publicitaire, optimisation fiscale, impact environnemental des datacenters), et l'effet de verrouillage (les équipes formées sur Google résistent au changement). Le « gratuit » n'est pas neutre : il crée un écosystème de dépendance. Des alternatives existent (Framasoft, Zaclys, Infini) mais demandent un investissement initial en temps et en formation.",
+    "rejected": "Si Google offre ses outils gratuitement aux associations, il faut en profiter. C'est du mécénat technologique. Les alternatives libres sont souvent moins ergonomiques et moins fiables.",
+    "tags": [
+      "GAFAM",
+      "dépendance",
+      "souveraineté-numérique"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "techno-016",
+    "category": "techno-solutionnisme",
+    "instruction": "Comment protéger les données personnelles des bénéficiaires dans une association d'aide sociale qui utilise de nombreux outils numériques ?",
+    "chosen": "Les données des bénéficiaires d'associations sociales sont souvent des données sensibles au sens du RGPD (santé, situation familiale, revenus, statut migratoire). La protection passe par plusieurs niveaux : minimiser la collecte (ne recueillir que ce qui est strictement nécessaire), sécuriser le stockage (chiffrement, mots de passe robustes, accès restreints), former les équipes à la confidentialité, et surtout informer les bénéficiaires de leurs droits. Attention aux outils gratuits grand public (Google Drive, WhatsApp) utilisés par commodité : ils ne sont souvent pas conformes au RGPD pour des données sensibles. Désignez un·e référent·e RGPD, même bénévole, et appuyez-vous sur les ressources de la CNIL spécifiques aux associations.",
+    "rejected": "Le RGPD est surtout une contrainte pour les entreprises commerciales. Les associations à but non lucratif n'ont pas les mêmes enjeux et un consentement oral de la personne suffit généralement.",
+    "tags": [
+      "données-personnelles",
+      "RGPD",
+      "bénéficiaires",
+      "confidentialité"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "techno-017",
+    "category": "techno-solutionnisme",
+    "instruction": "Notre association dématérialise ses démarches d'accès aux droits. Comment ne pas exclure les personnes éloignées du numérique ?",
+    "chosen": "En France, 13 millions de personnes sont en difficulté avec le numérique (Défenseur des droits, 2022). La dématérialisation des démarches crée un paradoxe : elle est censée simplifier l'accès aux droits mais exclut celles et ceux qui en ont le plus besoin (personnes âgées, précaires, allophones, en situation de handicap). Pour éviter cet écueil, maintenez systématiquement un accueil physique et téléphonique, formez vos équipes à l'accompagnement numérique sans substitution (faire avec, pas à la place de), proposez des postes informatiques en libre accès, et plaidez auprès des institutions pour le maintien de guichets physiques. La médiation numérique est un métier : partenariat avec des structures spécialisées (Emmaüs Connect, WeTechCare) peut renforcer votre action.",
+    "rejected": "La dématérialisation est inévitable et il faut accompagner les gens dans cette transition. Proposez des ateliers numériques pour que tout le monde s'y mette. À terme, tout sera en ligne.",
+    "tags": [
+      "fracture-numérique",
+      "accès-aux-droits",
+      "inclusion-numérique"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "techno-018",
+    "category": "techno-solutionnisme",
+    "instruction": "Qu'est-ce que le design éthique et comment l'appliquer quand on développe un outil numérique pour une association ?",
+    "chosen": "Le design éthique consiste à concevoir des outils numériques qui respectent l'attention, l'autonomie et la vie privée des utilisateurs et utilisatrices, à l'opposé des « dark patterns » (interfaces manipulatoires). Pour une association, cela implique : concevoir avec les usager·es (et pas seulement pour eux), éviter les mécanismes addictifs (notifications excessives, gamification), privilégier l'accessibilité (normes RGAA), minimiser la collecte de données, et documenter les choix de conception. Des ressources comme le « Design Ethique » de l'association Designers Ethiques ou le référentiel d'éco-conception du collectif GreenIT fournissent des grilles concrètes. Un outil associatif doit refléter les valeurs de l'ESS jusque dans son interface.",
+    "rejected": "Le design, c'est surtout de l'ergonomie et de l'esthétique. Si l'outil est facile à utiliser et joli, les questions éthiques n'ont pas lieu d'être.",
+    "tags": [
+      "design-éthique",
+      "conception",
+      "accessibilité"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "techno-019",
+    "category": "techno-solutionnisme",
+    "instruction": "Un financeur nous propose d'utiliser un algorithme pour mesurer l'impact social de nos actions et conditionner nos financements aux résultats. Que penser de cette approche ?",
+    "chosen": "La mesure d'impact algorithmique pose des questions fondamentales pour l'ESS. Un algorithme modélise ce qu'on lui demande de mesurer, or l'impact social est multidimensionnel, contextuel et parfois différé dans le temps. Réduire l'accompagnement d'une personne à un score de « réussite » calculé par un modèle revient à standardiser ce qui relève de parcours singuliers. De plus, conditionner le financement aux résultats algorithmiques crée des effets pervers : sélection des bénéficiaires les plus « rentables », abandon des actions à impact lent, et perte de pouvoir d'appréciation des professionnel·les de terrain. Dialoguez avec le financeur sur les limites de cette approche et proposez un cadre d'évaluation mixte, co-construit.",
+    "rejected": "C'est une approche moderne et objective. Les algorithmes permettent d'éliminer la subjectivité de l'évaluation et de comparer les performances entre associations. Ça poussera tout le monde à s'améliorer.",
+    "tags": [
+      "algorithme",
+      "mesure-impact",
+      "financement-conditionnel"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "techno-020",
+    "category": "techno-solutionnisme",
+    "instruction": "Certaines associations prônent une approche low-tech. Est-ce compatible avec l'efficacité d'une structure associative moderne ?",
+    "chosen": "Le mouvement low-tech ne signifie pas refuser la technologie, mais choisir des solutions utiles, durables, accessibles et réparables, en opposition à la surenchère technologique. Pour une association, cela peut se traduire par : privilégier un site web statique léger plutôt qu'un CMS lourd, utiliser un tableur plutôt qu'un logiciel de gestion surdimensionné, recycler du matériel informatique reconditionné, ou encore revenir au papier pour certains usages où le numérique n'apporte pas de valeur ajoutée. L'enjeu est de questionner chaque outil : « En ai-je vraiment besoin ? Existe-t-il une solution plus simple ? ». Le Low-tech Lab et l'association HOP (Halte à l'Obsolescence Programmée) proposent des ressources adaptées.",
+    "rejected": "Le low-tech, c'est un peu nostalgique. Aujourd'hui, les associations doivent être à la pointe de la technologie pour rester efficaces et attractives auprès des jeunes bénévoles.",
+    "tags": [
+      "low-tech",
+      "sobriété",
+      "durabilité"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "techno-021",
+    "category": "techno-solutionnisme",
+    "instruction": "Faut-il que les associations migrent vers un cloud souverain européen plutôt que d'utiliser AWS, Azure ou Google Cloud ?",
+    "chosen": "La question de la souveraineté numérique est légitime pour le secteur associatif, surtout quand il gère des données sensibles (santé, social, migration). Les hébergeurs américains sont soumis au Cloud Act, qui permet aux autorités américaines d'accéder aux données stockées par des entreprises US, quel que soit le lieu de stockage. Des alternatives européennes existent : OVHcloud, Scaleway, Infomaniak, ou les hébergeurs du collectif CHATONS pour les petites structures. La migration a un coût (technique, formation) mais c'est un investissement de cohérence : difficile de promouvoir l'économie locale et solidaire tout en confiant ses données à des multinationales. Mutualisez les coûts via les têtes de réseau ou les CRESS.",
+    "rejected": "AWS, Azure et Google Cloud sont les solutions les plus fiables et les plus performantes du marché. La souveraineté numérique est un débat politique qui n'a pas grand-chose à voir avec le quotidien des associations.",
+    "tags": [
+      "cloud-souverain",
+      "hébergement",
+      "souveraineté-numérique"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "techno-022",
+    "category": "techno-solutionnisme",
+    "instruction": "Notre association renouvelle fréquemment son parc informatique. Comment aborder la question de l'obsolescence programmée dans ce contexte ?",
+    "chosen": "Le renouvellement fréquent du matériel informatique est souvent motivé par une obsolescence logicielle (systèmes d'exploitation non supportés, applications de plus en plus gourmandes) plutôt que par une panne matérielle. Plusieurs leviers permettent d'allonger la durée de vie : installer des systèmes d'exploitation légers et libres (Linux Mint, Ubuntu), augmenter la RAM plutôt que de changer l'ordinateur, acheter du matériel reconditionné (via des structures de l'ESS comme Emmaüs ou les Ateliers du Bocage), et établir un plan de maintenance préventive. Quand le renouvellement est inévitable, orientez-vous vers des labels de durabilité (indice de réparabilité, label TCO) et recyclez via des filières agréées. L'association HOP publie un guide pratique sur le sujet.",
+    "rejected": "Il faut suivre les recommandations des éditeurs : si un système n'est plus supporté, il faut changer de machine pour des raisons de sécurité. Le matériel reconditionné est moins fiable et finit par coûter plus cher en maintenance.",
+    "tags": [
+      "obsolescence-programmée",
+      "matériel",
+      "reconditionnement",
+      "durabilité"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
     "id": "valid-001",
     "category": "validisme-accessibilite",
     "instruction": "Qu'est-ce que le validisme et pourquoi les associations doivent-elles s'en préoccuper ?",
@@ -1303,6 +2206,163 @@
       "accessibilité-physique",
       "local",
       "solutions-pragmatiques"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "valid-013",
+    "category": "validisme-accessibilite",
+    "instruction": "Comment mieux reconnaître et soutenir les aidant·es au sein des structures associatives ?",
+    "chosen": "En France, 8 à 11 millions de personnes sont proches aidant·es d'une personne en situation de handicap, de maladie chronique ou de perte d'autonomie. Beaucoup sont elles-mêmes bénévoles ou salarié·es associatifs sans que leur situation soit connue ou prise en compte. Reconnaître les aidant·es dans l'association implique : intégrer la question dans les entretiens individuels, aménager les horaires (droit au répit prévu par la loi d'adaptation de la société au vieillissement de 2015), orienter vers les plateformes de répit et les associations spécialisées (Association française des aidants, Avec nos proches), et ne pas considérer leurs absences comme un manque d'engagement. Un·e aidant·e épuisé·e ne peut ni travailler ni s'engager durablement.",
+    "rejected": "La situation d'aidant relève de la sphère privée. L'association n'a pas à s'adapter à chaque situation personnelle, surtout quand il existe des dispositifs publics pour aider les aidants.",
+    "tags": [
+      "aidants",
+      "répit",
+      "conciliation",
+      "soutien"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "valid-014",
+    "category": "validisme-accessibilite",
+    "instruction": "Comment les associations sportives peuvent-elles développer des pratiques de sport adapté inclusives ?",
+    "chosen": "Le sport adapté (pour les personnes en situation de handicap mental ou psychique) et le handisport (handicap moteur ou sensoriel) sont souvent séparés du sport ordinaire, ce qui renforce l'exclusion. Les associations sportives peuvent développer des créneaux mixtes où les activités sont adaptées pour que tout le monde participe ensemble, former leurs encadrant·es aux spécificités des différents handicaps via les fédérations (FF Sport Adapté, FF Handisport), adapter l'équipement et les règles plutôt que d'exclure, et solliciter des financements dédiés (CNDS, aides régionales). La clé est de penser l'adaptation dès la conception des activités et non comme un ajout après coup. Le parasport n'est pas un sport au rabais, c'est une pratique à part entière qui enrichit le club.",
+    "rejected": "Le sport adapté demande des compétences spécifiques et du matériel spécialisé. Il vaut mieux orienter les personnes handicapées vers des clubs spécialisés qui ont les moyens de les encadrer correctement.",
+    "tags": [
+      "sport-adapté",
+      "handisport",
+      "inclusion-sportive"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "valid-015",
+    "category": "validisme-accessibilite",
+    "instruction": "Pourquoi l'accessibilité des transports est-elle un enjeu central pour la participation des personnes en situation de handicap à la vie associative ?",
+    "chosen": "Sans transport accessible, les personnes en situation de handicap ne peuvent tout simplement pas accéder aux activités, aux réunions ou aux événements associatifs. En France, malgré la loi de 2005 qui imposait une mise en accessibilité pour 2015, de nombreuses gares, stations de métro et arrêts de bus restent inaccessibles. En zone rurale, l'absence de transport adapté est encore plus criante. Les associations peuvent agir à plusieurs niveaux : proposer du covoiturage organisé et accessible, plaider auprès des collectivités pour des lignes de transport à la demande, choisir des lieux d'activité proches des transports accessibles, et intégrer systématiquement une option de participation à distance. L'accessibilité des transports est un préalable à toute politique d'inclusion — sans elle, les autres efforts restent vains pour beaucoup de personnes.",
+    "rejected": "L'accessibilité des transports est un sujet de politique publique qui dépasse les associations. On ne peut pas demander à une petite structure de résoudre un problème d'infrastructure.",
+    "tags": [
+      "transports",
+      "accessibilité",
+      "mobilité",
+      "zone-rurale"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "valid-016",
+    "category": "validisme-accessibilite",
+    "instruction": "Comment fonctionne le dispositif d'emploi accompagné et quel rôle les associations peuvent-elles y jouer ?",
+    "chosen": "L'emploi accompagné, inscrit dans la loi Travail de 2016, propose un suivi durable et personnalisé du ou de la salarié·e en situation de handicap et de son employeur·euse, par un·e job coach. Contrairement à l'insertion classique, l'accompagnement ne s'arrête pas à l'embauche mais se poursuit aussi longtemps que nécessaire — c'est le modèle « place then train » plutôt que « train then place ». Les associations peuvent être opératrices d'emploi accompagné (via les plateformes départementales), employeuses inclusives elles-mêmes, ou partenaires du dispositif en accueillant des personnes accompagnées. Les retours montrent un taux de maintien dans l'emploi supérieur aux dispositifs classiques, car l'accompagnement sécurise aussi l'employeur·euse dans la durée.",
+    "rejected": "L'emploi accompagné est un dispositif de plus dans un paysage déjà complexe. Les entreprises ont surtout besoin de profils autonomes et opérationnels, pas d'un accompagnement permanent qui alourdit la gestion.",
+    "tags": [
+      "emploi-accompagné",
+      "job-coach",
+      "maintien-emploi"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "valid-017",
+    "category": "validisme-accessibilite",
+    "instruction": "Qu'est-ce que le design universel et comment les associations peuvent-elles l'appliquer ?",
+    "chosen": "Le design universel (ou conception universelle) vise à créer des produits, des environnements et des services utilisables par le plus grand nombre sans adaptation spécifique. Ses 7 principes (utilisation équitable, flexibilité, simplicité, information perceptible, tolérance à l'erreur, faible effort physique, dimensions adaptées) s'appliquent à tout : la signalétique d'un local, un formulaire d'inscription, un site web, un atelier pédagogique. Pour les associations, cela signifie penser l'accessibilité en amont plutôt qu'en adaptation coûteuse après coup. Un formulaire en FALC, un site conforme au RGAA, un lieu avec une bonne acoustique bénéficient à tout le monde — pas seulement aux personnes en situation de handicap. Le design universel est un investissement, pas un surcoût.",
+    "rejected": "Le design universel est un idéal séduisant mais irréaliste pour des associations aux moyens limités. En pratique, il vaut mieux cibler les aménagements en fonction des publics effectivement présents.",
+    "tags": [
+      "design-universel",
+      "conception-universelle",
+      "accessibilité"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "valid-018",
+    "category": "validisme-accessibilite",
+    "instruction": "Comment prendre en compte la santé mentale des salarié·es et bénévoles dans le milieu associatif ?",
+    "chosen": "Le secteur associatif expose à des risques psychosociaux spécifiques : confrontation à la souffrance des publics accompagnés, charge émotionnelle élevée, moyens insuffisants, culpabilité liée à l'écart entre les besoins et les capacités d'action. Prendre en compte la santé mentale implique : reconnaître que l'épuisement n'est pas un signe de faiblesse mais un risque structurel, mettre en place des espaces de supervision ou d'analyse de pratiques (particulièrement pour les équipes au contact de publics vulnérables), former aux Premiers Secours en Santé Mentale (PSSM), respecter les temps de repos et le droit à la déconnexion, et ne pas instrumentaliser le sens du travail pour justifier des conditions dégradées. La bienveillance organisationnelle ne se décrète pas, elle se structure.",
+    "rejected": "La santé mentale est une question personnelle. Les associations ne sont pas des structures de soin psychologique. Si un salarié ou un bénévole ne se sent pas bien, il peut consulter son médecin.",
+    "tags": [
+      "santé-mentale",
+      "risques-psychosociaux",
+      "épuisement",
+      "supervision"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "valid-019",
+    "category": "validisme-accessibilite",
+    "instruction": "Qu'est-ce que l'autodétermination des personnes en situation de handicap et comment les associations peuvent-elles la promouvoir ?",
+    "chosen": "L'autodétermination est la capacité d'une personne à faire des choix et à exercer un contrôle sur sa propre vie. Pour les personnes en situation de handicap, elle a longtemps été niée au profit de décisions prises « pour leur bien » par les familles, les professionnel·les ou les institutions. La Convention internationale des droits des personnes handicapées (2006, ratifiée par la France en 2010) consacre ce droit. Concrètement, les associations peuvent la promouvoir en impliquant les personnes dans les décisions qui les concernent (choix des activités, des horaires, du mode d'accompagnement), en développant des outils d'aide à la décision accessibles, en formant les professionnel·les à l'accompagnement non directif, et en créant des conseils de vie sociale ou des instances de pair-aidance où les personnes exercent un pouvoir réel.",
+    "rejected": "L'autodétermination est un objectif louable, mais certaines personnes en situation de handicap n'ont pas les capacités cognitives pour prendre des décisions éclairées. Il faut être réaliste et laisser les professionnels décider quand c'est nécessaire.",
+    "tags": [
+      "autodétermination",
+      "droits",
+      "CIDPH",
+      "pouvoir-d'agir"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "valid-020",
+    "category": "validisme-accessibilite",
+    "instruction": "Comment rendre les lieux culturels associatifs (théâtres, centres d'art, médiathèques) réellement accessibles ?",
+    "chosen": "L'accessibilité culturelle ne se limite pas à la rampe d'accès. Elle concerne tous les maillons de la chaîne : l'information en amont (site web accessible, programme en FALC), l'accueil (personnel formé, signalétique claire), le contenu (audiodescription, sous-titrage, interprétation LSF, supports tactiles), et l'expérience globale (éclairage, acoustique, espaces de repos). Des dispositifs innovants existent : représentations « relaxed » (environnement sensoriel atténué, liberté de mouvement) pour les personnes autistes ou ayant un handicap psychique, visites tactiles dans les musées, spectacles en audio-description intégrée. L'enjeu est de passer d'une offre « spécialisée handicap » ponctuelle à une programmation structurellement inclusive, co-construite avec les personnes concernées.",
+    "rejected": "La culture doit rester un espace de liberté artistique. On ne peut pas adapter chaque spectacle ou exposition à tous les handicaps, ce serait trop contraignant et ça dénaturerait la proposition artistique.",
+    "tags": [
+      "accessibilité-culturelle",
+      "audiodescription",
+      "LSF",
+      "représentation-relaxed"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "valid-021",
+    "category": "validisme-accessibilite",
+    "instruction": "Comment les associations peuvent-elles accompagner les personnes en situation de handicap dans leur parcours de parentalité ?",
+    "chosen": "La parentalité des personnes en situation de handicap reste un angle mort des politiques publiques et associatives. Les personnes handicapées font face à des préjugés tenaces sur leur capacité à élever un enfant, à des services de PMI parfois intrusifs, et à un manque d'outils et d'équipements adaptés (tables à langer accessibles en fauteuil, poussettes adaptées, livres en braille pour lire à son enfant). Les associations peuvent agir en proposant des groupes de pair-aidance entre parents en situation de handicap, en formant les professionnel·les de la petite enfance à l'accueil de ces familles, en plaidant pour l'accès à la PCH parentalité (créée en 2021), et en veillant à ce que leurs propres crèches ou accueils périscolaires soient accessibles aux parents comme aux enfants en situation de handicap.",
+    "rejected": "La parentalité des personnes handicapées est un sujet sensible qui relève de la sphère privée. Les associations n'ont pas à intervenir sur des questions aussi personnelles, surtout quand des services sociaux existent déjà.",
+    "tags": [
+      "parentalité",
+      "handicap",
+      "PCH",
+      "pair-aidance"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "valid-022",
+    "category": "validisme-accessibilite",
+    "instruction": "Comment les technologies d'assistance peuvent-elles être rendues plus accessibles par le secteur associatif ?",
+    "chosen": "Les technologies d'assistance (lecteurs d'écran, prothèses auditives, fauteuils électriques, logiciels de communication alternative, domotique adaptée) sont souvent coûteuses et mal remboursées. Le reste à charge pour les personnes en situation de handicap est estimé à 1 500 euros par an en moyenne, ce qui crée une inégalité d'accès majeure. Les associations peuvent jouer un rôle de médiateur·ice technologique : accompagner la prise en main des outils, recycler et prêter du matériel d'occasion (sur le modèle des « technicothèques »), organiser des ateliers de fabrication numérique (fab labs) pour produire des aides techniques à bas coût, et porter un plaidoyer pour un meilleur remboursement par la Sécurité sociale et la MDPH. L'enjeu est aussi de s'assurer que les outils numériques développés par les associations elles-mêmes sont compatibles avec les technologies d'assistance.",
+    "rejected": "Les technologies d'assistance sont un marché spécialisé qui évolue très vite. Les associations n'ont pas les compétences techniques pour intervenir dans ce domaine, mieux vaut laisser ça aux entreprises et aux professionnels de santé.",
+    "tags": [
+      "technologies-assistance",
+      "aides-techniques",
+      "accessibilité-numérique",
+      "fab-lab"
     ],
     "source": "manual",
     "reviewed_by": "",
@@ -1499,6 +2559,162 @@
       "communs",
       "gouvernance-collective",
       "tiers-lieux"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "eco-014",
+    "category": "vision-economique",
+    "instruction": "Qu'est-ce que l'économie de la fonctionnalité et en quoi cela concerne-t-il les structures de l'ESS ?",
+    "chosen": "L'économie de la fonctionnalité consiste à vendre l'usage d'un bien plutôt que le bien lui-même : on paie pour un service de mobilité plutôt que pour une voiture, pour des heures de lumière plutôt que pour des ampoules. Ce modèle réduit la consommation de ressources et allonge la durée de vie des produits, ce qui le rend cohérent avec les valeurs de sobriété de l'ESS. De nombreuses structures de l'ESS pratiquent déjà cette logique sans la nommer : laveries coopératives, outilthèques, ludothèques associatives, autopartage porté par des SCIC. L'enjeu est de ne pas laisser ce modèle être capté par des plateformes lucratives qui en tirent un profit sans en partager la gouvernance.",
+    "rejected": "L'économie de la fonctionnalité est un concept intéressant porté surtout par des entreprises innovantes. Les associations n'ont pas vraiment les moyens logistiques de gérer des systèmes de location ou de partage à grande échelle.",
+    "tags": [
+      "économie-fonctionnalité",
+      "usage",
+      "sobriété"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "eco-015",
+    "category": "vision-economique",
+    "instruction": "Pourquoi choisir une banque éthique comme la NEF ou le Crédit Coopératif plutôt qu'une banque classique pour son association ?",
+    "chosen": "Le choix de la banque n'est pas neutre : l'argent déposé est utilisé pour financer d'autres activités. Les banques classiques financent des secteurs (énergies fossiles, armement, spéculation) souvent contradictoires avec les missions de l'ESS. La NEF, coopérative de finance solidaire, publie la liste intégrale de ses prêts et ne finance que des projets à utilité sociale, écologique ou culturelle. Le Crédit Coopératif, banque coopérative du groupe BPCE, propose des produits bancaires adaptés aux associations avec un ancrage historique dans l'ESS. Le choix d'une banque éthique est aussi un acte de cohérence : il serait paradoxal de lutter contre les inégalités tout en alimentant un système financier qui les creuse.",
+    "rejected": "Le choix de la banque est surtout une question de services et de tarifs. Les banques classiques offrent souvent de meilleures conditions pour les associations, avec plus d'agences et des outils en ligne plus performants.",
+    "tags": [
+      "finance-solidaire",
+      "NEF",
+      "Crédit-Coopératif",
+      "banque-éthique"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "eco-016",
+    "category": "vision-economique",
+    "instruction": "Comment la commande publique responsable peut-elle soutenir les structures de l'ESS ?",
+    "chosen": "La commande publique représente environ 200 milliards d'euros par an en France. Depuis le Code de la commande publique de 2019 et la loi Climat de 2021, les acheteurs publics peuvent intégrer des clauses sociales et environnementales dans les marchés : insertion de personnes éloignées de l'emploi, recours à des structures de l'ESS, critères d'économie circulaire. Les marchés réservés (article L. 2113-12 et suivants) permettent de réserver certains lots à des structures d'insertion ou des entreprises adaptées. Mais l'accès aux marchés publics reste un défi pour les petites structures associatives : complexité administrative, trésorerie insuffisante pour attendre les paiements, difficulté à répondre aux appels d'offres. Les collectivités engagées peuvent simplifier leurs procédures et accompagner les candidatures.",
+    "rejected": "La commande publique doit avant tout rechercher le meilleur rapport qualité-prix. Favoriser les structures de l'ESS risque de fausser la concurrence et de coûter plus cher au contribuable.",
+    "tags": [
+      "commande-publique",
+      "clauses-sociales",
+      "marchés-réservés"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "eco-017",
+    "category": "vision-economique",
+    "instruction": "Comment gérer un modèle économique hybride qui combine subventions publiques et revenus d'activité marchande ?",
+    "chosen": "Le modèle hybride est la réalité de nombreuses structures de l'ESS : une ressourcerie qui vend des objets et reçoit une subvention pour sa mission d'insertion, un théâtre associatif qui fait de la billetterie et bénéficie d'une aide à la création. L'enjeu est de maintenir la cohérence entre les deux logiques. Côté subventions, il faut documenter l'utilité sociale non marchande (ce que le marché seul ne financerait pas). Côté marché, il faut éviter que la logique commerciale ne prenne le pas sur la mission sociale. Quelques repères : séparer la comptabilité analytique par activité, ne pas sous-tarifer au point de devenir dépendant·e des subventions, ne pas sur-commercialiser au point de perdre son public non solvable. La transparence vis-à-vis des financeur·euses et des bénéficiaires est clé.",
+    "rejected": "Il vaut mieux choisir un modèle clair : soit on est subventionné, soit on vend des services. Mélanger les deux crée de la confusion et expose l'association à des risques fiscaux.",
+    "tags": [
+      "modèle-hybride",
+      "subventions",
+      "activité-marchande"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "eco-018",
+    "category": "vision-economique",
+    "instruction": "Comment fonctionne l'insertion par l'activité économique (IAE) et quel est son impact réel ?",
+    "chosen": "L'IAE emploie environ 140 000 personnes chaque année en France dans quatre types de structures : ateliers et chantiers d'insertion (ACI), entreprises d'insertion (EI), associations intermédiaires (AI) et entreprises de travail temporaire d'insertion (ETTI). Le principe est de proposer un emploi temporaire assorti d'un accompagnement socio-professionnel renforcé à des personnes très éloignées du marché du travail. Les études montrent un taux de sortie positive (emploi durable ou formation qualifiante) d'environ 40 à 50%, ce qui est significatif compte tenu des profils accueillis. L'IAE crée aussi de la valeur non mesurée : resocialisation, accès au logement, stabilisation de la santé. La critique légitime porte sur la précarité des contrats proposés et la pression au « placement rapide » exercée par certain·es prescripteur·ices.",
+    "rejected": "L'IAE est un dispositif coûteux dont l'efficacité reste discutable. Beaucoup de personnes retombent dans la précarité après leur parcours. Il serait plus efficace d'investir directement dans la formation professionnelle classique.",
+    "tags": [
+      "IAE",
+      "insertion",
+      "emploi",
+      "accompagnement"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "eco-019",
+    "category": "vision-economique",
+    "instruction": "Quelle est la différence entre utilité sociale et impact social ?",
+    "chosen": "L'utilité sociale est un concept juridique français, inscrit dans la loi ESS de 2014, qui qualifie les activités contribuant à la lutte contre les exclusions, à la cohésion sociale, au développement durable ou à la démocratie. Elle se constate, se documente et se reconnaît collectivement. L'impact social, importé du monde anglo-saxon, vise à mesurer et quantifier les effets d'une action, souvent avec des méthodologies proches du secteur privé (SROI, théorie du changement). La différence n'est pas que sémantique : l'utilité sociale part de la mission et de sa pertinence pour la société, l'impact social part du résultat mesurable. Le risque de l'approche par l'impact est de réduire l'action sociale à ce qui est quantifiable et de favoriser les interventions à résultat rapide au détriment du travail de fond.",
+    "rejected": "Utilité sociale et impact social, c'est globalement la même chose formulée différemment. L'important est de mesurer ses résultats, quelle que soit la terminologie utilisée.",
+    "tags": [
+      "utilité-sociale",
+      "impact-social",
+      "évaluation",
+      "loi-ESS"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "eco-020",
+    "category": "vision-economique",
+    "instruction": "Le commerce équitable est-il encore pertinent dans le contexte actuel de l'ESS ?",
+    "chosen": "Le commerce équitable reste pertinent mais a évolué. Né dans les années 1960 pour garantir un prix juste aux producteur·ices du Sud, il s'est étendu au commerce Nord-Nord (loi de 2014 sur l'ESS). Des labels comme Fairtrade/Max Havelaar, SPP (Symbole des Producteurs Paysans) ou Bio Équitable en France garantissent des critères vérifiables : prix minimum, prime de développement, préfinancement des récoltes, gouvernance démocratique. La critique porte sur la récupération par la grande distribution, qui utilise le label comme argument marketing sans transformer ses pratiques d'achat globales. L'enjeu actuel est d'articuler commerce équitable et circuits courts, et de veiller à ce que l'exigence de justice commerciale ne s'arrête pas aux frontières.",
+    "rejected": "Le commerce équitable a fait son temps. Aujourd'hui, avec la mondialisation et le libre-échange, les prix sont fixés par le marché. Les labels équitables renchérissent les produits sans garantie réelle pour les producteurs.",
+    "tags": [
+      "commerce-équitable",
+      "labels",
+      "prix-juste"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "eco-021",
+    "category": "vision-economique",
+    "instruction": "Comment les structures de l'ESS peuvent-elles porter des projets d'économie circulaire sans se faire concurrencer par des acteurs lucratifs ?",
+    "chosen": "Les structures de l'ESS sont pionnières de l'économie circulaire (Emmaüs, ressourceries, repair cafés) mais font face à la concurrence d'acteurs lucratifs qui investissent le secteur du réemploi et du recyclage (Vinted, Back Market, filières REP privatisées). Pour se différencier, l'ESS peut valoriser ce que le marché ne fait pas : insertion de publics éloignés de l'emploi, maillage territorial fin, sensibilisation à la sobriété (pas seulement au recyclage), lien social créé autour du réemploi. Juridiquement, les agréments ESUS et les marchés réservés sont des leviers. Politiquement, les têtes de réseau (Réseau des ressourceries, Emmaüs France) portent un plaidoyer pour que les éco-organismes et les collectivités fléchent les gisements vers l'ESS plutôt que vers les filières industrielles.",
+    "rejected": "C'est la loi du marché : si des entreprises font du réemploi à plus grande échelle et à moindre coût, c'est positif pour l'environnement. Les associations doivent s'adapter ou se spécialiser sur des niches.",
+    "tags": [
+      "économie-circulaire",
+      "réemploi",
+      "concurrence",
+      "ESS"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "eco-022",
+    "category": "vision-economique",
+    "instruction": "Comment aborder la question de la rémunération des dirigeant·es associatifs ?",
+    "chosen": "La rémunération des dirigeant·es associatifs est un sujet délicat mais nécessaire. En droit, une association loi 1901 peut rémunérer ses dirigeant·es sous certaines conditions (ressources propres supérieures à 200 000 €, décision en assemblée générale, plafond de 3 fois le plafond de la Sécurité sociale). Dans les faits, la très grande majorité des dirigeant·es associatifs sont bénévoles, ce qui pose des questions d'inégalité d'accès : seules les personnes disposant de temps libre et de moyens financiers peuvent diriger. Rémunérer, c'est aussi professionnaliser et diversifier les profils de gouvernance. L'essentiel est la transparence (le montant est décidé collectivement) et la cohérence (un écart raisonnable avec les salarié·es de la structure).",
+    "rejected": "Les dirigeants associatifs sont bénévoles par principe. Les rémunérer, c'est transformer l'association en entreprise et risquer de perdre l'engagement désintéressé qui fait la force du secteur.",
+    "tags": [
+      "rémunération",
+      "dirigeants",
+      "gouvernance",
+      "bénévolat"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "eco-023",
+    "category": "vision-economique",
+    "instruction": "Qu'est-ce que la financiarisation de l'ESS et pourquoi certaines voix s'en inquiètent-elles ?",
+    "chosen": "La financiarisation de l'ESS désigne l'entrée croissante de logiques financières dans le secteur : contrats à impact social, fonds d'investissement « à impact », social bonds, métriques de rendement social appliquées sur le modèle du rendement financier. Les inquiétudes portent sur plusieurs points : la subordination de l'action sociale aux attentes de rentabilité des investisseur·euses, la standardisation des pratiques au détriment de l'innovation sociale locale, et l'exclusion des structures trop petites ou trop complexes pour entrer dans ces cadres. Cela ne signifie pas que tout outil financier est néfaste — l'épargne solidaire via des fonds labellisés Finansol, par exemple, fonctionne dans un cadre maîtrisé. L'enjeu est de distinguer les outils financiers au service du projet social de ceux qui instrumentalisent le social au service de la finance.",
+    "rejected": "La financiarisation de l'ESS est une évolution naturelle et positive. Pour changer d'échelle, l'ESS a besoin de capitaux privés et doit accepter les règles du jeu financier, y compris la mesure du rendement.",
+    "tags": [
+      "financiarisation",
+      "impact-investing",
+      "Finansol",
+      "social-bonds"
     ],
     "source": "manual",
     "reviewed_by": "",

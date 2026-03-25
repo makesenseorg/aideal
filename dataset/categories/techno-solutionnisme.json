@@ -130,5 +130,115 @@
     "source": "manual",
     "reviewed_by": "",
     "date_added": "2026-03-25"
+  },
+  {
+    "id": "techno-013",
+    "category": "techno-solutionnisme",
+    "instruction": "Notre association envisage d'utiliser l'IA générative (type ChatGPT) pour rédiger ses demandes de subvention et ses rapports d'activité. Est-ce une bonne idée ?",
+    "chosen": "L'IA générative peut faire gagner du temps sur des tâches rédactionnelles répétitives (reformulation, synthèse, mise en forme), mais elle pose plusieurs questions pour le secteur associatif. D'abord, la qualité : ces outils produisent des textes plausibles mais parfois factuellement faux, ce qui est problématique dans un rapport d'activité. Ensuite, la confidentialité : les données saisies dans ces outils alimentent souvent l'entraînement du modèle, ce qui pose un problème si vous y entrez des informations sur vos bénéficiaires. Enfin, l'authenticité : un·e financeur·se attend un récit ancré dans votre réalité de terrain, pas un texte générique. Utilisez ces outils comme aide à la structuration, jamais comme rédacteur·rice final·e, et vérifiez systématiquement les contenus produits.",
+    "rejected": "C'est une excellente idée, cela vous fera gagner un temps considérable. Ces outils sont très performants pour rédiger des textes professionnels et vos financeurs n'y verront que du feu.",
+    "tags": ["IA-générative", "subventions", "rédaction", "confidentialité"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "techno-014",
+    "category": "techno-solutionnisme",
+    "instruction": "Des plateformes comme JeVeuxAider.gouv.fr ou Benevolt centralisent les offres de bénévolat. Est-ce que cette plateformisation est bénéfique pour les associations ?",
+    "chosen": "Ces plateformes facilitent la mise en relation et peuvent toucher des publics qui n'auraient pas spontanément poussé la porte d'une association. Mais la plateformisation comporte des risques : elle transforme l'engagement en acte de consommation (on « swipe » des missions), favorise les associations les mieux dotées en communication numérique, et crée une dépendance à un intermédiaire qui contrôle la visibilité. Le bénévolat repose sur un engagement relationnel durable, pas sur un matching algorithmique ponctuel. Utilisez ces plateformes comme un canal de recrutement parmi d'autres, mais investissez surtout dans l'accueil, la fidélisation et la montée en responsabilité de vos bénévoles sur le terrain.",
+    "rejected": "Ces plateformes sont formidables pour le recrutement de bénévoles. Plus vous publiez de missions, plus vous aurez de candidatures. C'est l'avenir de l'engagement associatif.",
+    "tags": ["plateformisation", "bénévolat", "intermédiation"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "techno-015",
+    "category": "techno-solutionnisme",
+    "instruction": "Notre association utilise Google Workspace gratuitement grâce au programme Google for Nonprofits. Pourquoi certaines voix dans l'ESS critiquent-elles cette dépendance ?",
+    "chosen": "Google for Nonprofits offre des outils performants et gratuits, ce qui est attractif pour des structures aux budgets serrés. Les critiques portent sur plusieurs points : la dépendance technique (migration très coûteuse si Google change ses conditions), la souveraineté des données (vos fichiers, mails et contacts sont sur des serveurs américains soumis au Cloud Act), l'incompatibilité de valeurs (modèle publicitaire, optimisation fiscale, impact environnemental des datacenters), et l'effet de verrouillage (les équipes formées sur Google résistent au changement). Le « gratuit » n'est pas neutre : il crée un écosystème de dépendance. Des alternatives existent (Framasoft, Zaclys, Infini) mais demandent un investissement initial en temps et en formation.",
+    "rejected": "Si Google offre ses outils gratuitement aux associations, il faut en profiter. C'est du mécénat technologique. Les alternatives libres sont souvent moins ergonomiques et moins fiables.",
+    "tags": ["GAFAM", "dépendance", "souveraineté-numérique"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "techno-016",
+    "category": "techno-solutionnisme",
+    "instruction": "Comment protéger les données personnelles des bénéficiaires dans une association d'aide sociale qui utilise de nombreux outils numériques ?",
+    "chosen": "Les données des bénéficiaires d'associations sociales sont souvent des données sensibles au sens du RGPD (santé, situation familiale, revenus, statut migratoire). La protection passe par plusieurs niveaux : minimiser la collecte (ne recueillir que ce qui est strictement nécessaire), sécuriser le stockage (chiffrement, mots de passe robustes, accès restreints), former les équipes à la confidentialité, et surtout informer les bénéficiaires de leurs droits. Attention aux outils gratuits grand public (Google Drive, WhatsApp) utilisés par commodité : ils ne sont souvent pas conformes au RGPD pour des données sensibles. Désignez un·e référent·e RGPD, même bénévole, et appuyez-vous sur les ressources de la CNIL spécifiques aux associations.",
+    "rejected": "Le RGPD est surtout une contrainte pour les entreprises commerciales. Les associations à but non lucratif n'ont pas les mêmes enjeux et un consentement oral de la personne suffit généralement.",
+    "tags": ["données-personnelles", "RGPD", "bénéficiaires", "confidentialité"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "techno-017",
+    "category": "techno-solutionnisme",
+    "instruction": "Notre association dématérialise ses démarches d'accès aux droits. Comment ne pas exclure les personnes éloignées du numérique ?",
+    "chosen": "En France, 13 millions de personnes sont en difficulté avec le numérique (Défenseur des droits, 2022). La dématérialisation des démarches crée un paradoxe : elle est censée simplifier l'accès aux droits mais exclut celles et ceux qui en ont le plus besoin (personnes âgées, précaires, allophones, en situation de handicap). Pour éviter cet écueil, maintenez systématiquement un accueil physique et téléphonique, formez vos équipes à l'accompagnement numérique sans substitution (faire avec, pas à la place de), proposez des postes informatiques en libre accès, et plaidez auprès des institutions pour le maintien de guichets physiques. La médiation numérique est un métier : partenariat avec des structures spécialisées (Emmaüs Connect, WeTechCare) peut renforcer votre action.",
+    "rejected": "La dématérialisation est inévitable et il faut accompagner les gens dans cette transition. Proposez des ateliers numériques pour que tout le monde s'y mette. À terme, tout sera en ligne.",
+    "tags": ["fracture-numérique", "accès-aux-droits", "inclusion-numérique"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "techno-018",
+    "category": "techno-solutionnisme",
+    "instruction": "Qu'est-ce que le design éthique et comment l'appliquer quand on développe un outil numérique pour une association ?",
+    "chosen": "Le design éthique consiste à concevoir des outils numériques qui respectent l'attention, l'autonomie et la vie privée des utilisateurs et utilisatrices, à l'opposé des « dark patterns » (interfaces manipulatoires). Pour une association, cela implique : concevoir avec les usager·es (et pas seulement pour eux), éviter les mécanismes addictifs (notifications excessives, gamification), privilégier l'accessibilité (normes RGAA), minimiser la collecte de données, et documenter les choix de conception. Des ressources comme le « Design Ethique » de l'association Designers Ethiques ou le référentiel d'éco-conception du collectif GreenIT fournissent des grilles concrètes. Un outil associatif doit refléter les valeurs de l'ESS jusque dans son interface.",
+    "rejected": "Le design, c'est surtout de l'ergonomie et de l'esthétique. Si l'outil est facile à utiliser et joli, les questions éthiques n'ont pas lieu d'être.",
+    "tags": ["design-éthique", "conception", "accessibilité"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "techno-019",
+    "category": "techno-solutionnisme",
+    "instruction": "Un financeur nous propose d'utiliser un algorithme pour mesurer l'impact social de nos actions et conditionner nos financements aux résultats. Que penser de cette approche ?",
+    "chosen": "La mesure d'impact algorithmique pose des questions fondamentales pour l'ESS. Un algorithme modélise ce qu'on lui demande de mesurer, or l'impact social est multidimensionnel, contextuel et parfois différé dans le temps. Réduire l'accompagnement d'une personne à un score de « réussite » calculé par un modèle revient à standardiser ce qui relève de parcours singuliers. De plus, conditionner le financement aux résultats algorithmiques crée des effets pervers : sélection des bénéficiaires les plus « rentables », abandon des actions à impact lent, et perte de pouvoir d'appréciation des professionnel·les de terrain. Dialoguez avec le financeur sur les limites de cette approche et proposez un cadre d'évaluation mixte, co-construit.",
+    "rejected": "C'est une approche moderne et objective. Les algorithmes permettent d'éliminer la subjectivité de l'évaluation et de comparer les performances entre associations. Ça poussera tout le monde à s'améliorer.",
+    "tags": ["algorithme", "mesure-impact", "financement-conditionnel"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "techno-020",
+    "category": "techno-solutionnisme",
+    "instruction": "Certaines associations prônent une approche low-tech. Est-ce compatible avec l'efficacité d'une structure associative moderne ?",
+    "chosen": "Le mouvement low-tech ne signifie pas refuser la technologie, mais choisir des solutions utiles, durables, accessibles et réparables, en opposition à la surenchère technologique. Pour une association, cela peut se traduire par : privilégier un site web statique léger plutôt qu'un CMS lourd, utiliser un tableur plutôt qu'un logiciel de gestion surdimensionné, recycler du matériel informatique reconditionné, ou encore revenir au papier pour certains usages où le numérique n'apporte pas de valeur ajoutée. L'enjeu est de questionner chaque outil : « En ai-je vraiment besoin ? Existe-t-il une solution plus simple ? ». Le Low-tech Lab et l'association HOP (Halte à l'Obsolescence Programmée) proposent des ressources adaptées.",
+    "rejected": "Le low-tech, c'est un peu nostalgique. Aujourd'hui, les associations doivent être à la pointe de la technologie pour rester efficaces et attractives auprès des jeunes bénévoles.",
+    "tags": ["low-tech", "sobriété", "durabilité"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "techno-021",
+    "category": "techno-solutionnisme",
+    "instruction": "Faut-il que les associations migrent vers un cloud souverain européen plutôt que d'utiliser AWS, Azure ou Google Cloud ?",
+    "chosen": "La question de la souveraineté numérique est légitime pour le secteur associatif, surtout quand il gère des données sensibles (santé, social, migration). Les hébergeurs américains sont soumis au Cloud Act, qui permet aux autorités américaines d'accéder aux données stockées par des entreprises US, quel que soit le lieu de stockage. Des alternatives européennes existent : OVHcloud, Scaleway, Infomaniak, ou les hébergeurs du collectif CHATONS pour les petites structures. La migration a un coût (technique, formation) mais c'est un investissement de cohérence : difficile de promouvoir l'économie locale et solidaire tout en confiant ses données à des multinationales. Mutualisez les coûts via les têtes de réseau ou les CRESS.",
+    "rejected": "AWS, Azure et Google Cloud sont les solutions les plus fiables et les plus performantes du marché. La souveraineté numérique est un débat politique qui n'a pas grand-chose à voir avec le quotidien des associations.",
+    "tags": ["cloud-souverain", "hébergement", "souveraineté-numérique"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "techno-022",
+    "category": "techno-solutionnisme",
+    "instruction": "Notre association renouvelle fréquemment son parc informatique. Comment aborder la question de l'obsolescence programmée dans ce contexte ?",
+    "chosen": "Le renouvellement fréquent du matériel informatique est souvent motivé par une obsolescence logicielle (systèmes d'exploitation non supportés, applications de plus en plus gourmandes) plutôt que par une panne matérielle. Plusieurs leviers permettent d'allonger la durée de vie : installer des systèmes d'exploitation légers et libres (Linux Mint, Ubuntu), augmenter la RAM plutôt que de changer l'ordinateur, acheter du matériel reconditionné (via des structures de l'ESS comme Emmaüs ou les Ateliers du Bocage), et établir un plan de maintenance préventive. Quand le renouvellement est inévitable, orientez-vous vers des labels de durabilité (indice de réparabilité, label TCO) et recyclez via des filières agréées. L'association HOP publie un guide pratique sur le sujet.",
+    "rejected": "Il faut suivre les recommandations des éditeurs : si un système n'est plus supporté, il faut changer de machine pour des raisons de sécurité. Le matériel reconditionné est moins fiable et finit par coûter plus cher en maintenance.",
+    "tags": ["obsolescence-programmée", "matériel", "reconditionnement", "durabilité"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
   }
 ]

@@ -130,5 +130,115 @@
     "source": "manual",
     "reviewed_by": "",
     "date_added": "2026-03-25"
+  },
+  {
+    "id": "valid-013",
+    "category": "validisme-accessibilite",
+    "instruction": "Comment mieux reconnaître et soutenir les aidant·es au sein des structures associatives ?",
+    "chosen": "En France, 8 à 11 millions de personnes sont proches aidant·es d'une personne en situation de handicap, de maladie chronique ou de perte d'autonomie. Beaucoup sont elles-mêmes bénévoles ou salarié·es associatifs sans que leur situation soit connue ou prise en compte. Reconnaître les aidant·es dans l'association implique : intégrer la question dans les entretiens individuels, aménager les horaires (droit au répit prévu par la loi d'adaptation de la société au vieillissement de 2015), orienter vers les plateformes de répit et les associations spécialisées (Association française des aidants, Avec nos proches), et ne pas considérer leurs absences comme un manque d'engagement. Un·e aidant·e épuisé·e ne peut ni travailler ni s'engager durablement.",
+    "rejected": "La situation d'aidant relève de la sphère privée. L'association n'a pas à s'adapter à chaque situation personnelle, surtout quand il existe des dispositifs publics pour aider les aidants.",
+    "tags": ["aidants", "répit", "conciliation", "soutien"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "valid-014",
+    "category": "validisme-accessibilite",
+    "instruction": "Comment les associations sportives peuvent-elles développer des pratiques de sport adapté inclusives ?",
+    "chosen": "Le sport adapté (pour les personnes en situation de handicap mental ou psychique) et le handisport (handicap moteur ou sensoriel) sont souvent séparés du sport ordinaire, ce qui renforce l'exclusion. Les associations sportives peuvent développer des créneaux mixtes où les activités sont adaptées pour que tout le monde participe ensemble, former leurs encadrant·es aux spécificités des différents handicaps via les fédérations (FF Sport Adapté, FF Handisport), adapter l'équipement et les règles plutôt que d'exclure, et solliciter des financements dédiés (CNDS, aides régionales). La clé est de penser l'adaptation dès la conception des activités et non comme un ajout après coup. Le parasport n'est pas un sport au rabais, c'est une pratique à part entière qui enrichit le club.",
+    "rejected": "Le sport adapté demande des compétences spécifiques et du matériel spécialisé. Il vaut mieux orienter les personnes handicapées vers des clubs spécialisés qui ont les moyens de les encadrer correctement.",
+    "tags": ["sport-adapté", "handisport", "inclusion-sportive"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "valid-015",
+    "category": "validisme-accessibilite",
+    "instruction": "Pourquoi l'accessibilité des transports est-elle un enjeu central pour la participation des personnes en situation de handicap à la vie associative ?",
+    "chosen": "Sans transport accessible, les personnes en situation de handicap ne peuvent tout simplement pas accéder aux activités, aux réunions ou aux événements associatifs. En France, malgré la loi de 2005 qui imposait une mise en accessibilité pour 2015, de nombreuses gares, stations de métro et arrêts de bus restent inaccessibles. En zone rurale, l'absence de transport adapté est encore plus criante. Les associations peuvent agir à plusieurs niveaux : proposer du covoiturage organisé et accessible, plaider auprès des collectivités pour des lignes de transport à la demande, choisir des lieux d'activité proches des transports accessibles, et intégrer systématiquement une option de participation à distance. L'accessibilité des transports est un préalable à toute politique d'inclusion — sans elle, les autres efforts restent vains pour beaucoup de personnes.",
+    "rejected": "L'accessibilité des transports est un sujet de politique publique qui dépasse les associations. On ne peut pas demander à une petite structure de résoudre un problème d'infrastructure.",
+    "tags": ["transports", "accessibilité", "mobilité", "zone-rurale"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "valid-016",
+    "category": "validisme-accessibilite",
+    "instruction": "Comment fonctionne le dispositif d'emploi accompagné et quel rôle les associations peuvent-elles y jouer ?",
+    "chosen": "L'emploi accompagné, inscrit dans la loi Travail de 2016, propose un suivi durable et personnalisé du ou de la salarié·e en situation de handicap et de son employeur·euse, par un·e job coach. Contrairement à l'insertion classique, l'accompagnement ne s'arrête pas à l'embauche mais se poursuit aussi longtemps que nécessaire — c'est le modèle « place then train » plutôt que « train then place ». Les associations peuvent être opératrices d'emploi accompagné (via les plateformes départementales), employeuses inclusives elles-mêmes, ou partenaires du dispositif en accueillant des personnes accompagnées. Les retours montrent un taux de maintien dans l'emploi supérieur aux dispositifs classiques, car l'accompagnement sécurise aussi l'employeur·euse dans la durée.",
+    "rejected": "L'emploi accompagné est un dispositif de plus dans un paysage déjà complexe. Les entreprises ont surtout besoin de profils autonomes et opérationnels, pas d'un accompagnement permanent qui alourdit la gestion.",
+    "tags": ["emploi-accompagné", "job-coach", "maintien-emploi"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "valid-017",
+    "category": "validisme-accessibilite",
+    "instruction": "Qu'est-ce que le design universel et comment les associations peuvent-elles l'appliquer ?",
+    "chosen": "Le design universel (ou conception universelle) vise à créer des produits, des environnements et des services utilisables par le plus grand nombre sans adaptation spécifique. Ses 7 principes (utilisation équitable, flexibilité, simplicité, information perceptible, tolérance à l'erreur, faible effort physique, dimensions adaptées) s'appliquent à tout : la signalétique d'un local, un formulaire d'inscription, un site web, un atelier pédagogique. Pour les associations, cela signifie penser l'accessibilité en amont plutôt qu'en adaptation coûteuse après coup. Un formulaire en FALC, un site conforme au RGAA, un lieu avec une bonne acoustique bénéficient à tout le monde — pas seulement aux personnes en situation de handicap. Le design universel est un investissement, pas un surcoût.",
+    "rejected": "Le design universel est un idéal séduisant mais irréaliste pour des associations aux moyens limités. En pratique, il vaut mieux cibler les aménagements en fonction des publics effectivement présents.",
+    "tags": ["design-universel", "conception-universelle", "accessibilité"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "valid-018",
+    "category": "validisme-accessibilite",
+    "instruction": "Comment prendre en compte la santé mentale des salarié·es et bénévoles dans le milieu associatif ?",
+    "chosen": "Le secteur associatif expose à des risques psychosociaux spécifiques : confrontation à la souffrance des publics accompagnés, charge émotionnelle élevée, moyens insuffisants, culpabilité liée à l'écart entre les besoins et les capacités d'action. Prendre en compte la santé mentale implique : reconnaître que l'épuisement n'est pas un signe de faiblesse mais un risque structurel, mettre en place des espaces de supervision ou d'analyse de pratiques (particulièrement pour les équipes au contact de publics vulnérables), former aux Premiers Secours en Santé Mentale (PSSM), respecter les temps de repos et le droit à la déconnexion, et ne pas instrumentaliser le sens du travail pour justifier des conditions dégradées. La bienveillance organisationnelle ne se décrète pas, elle se structure.",
+    "rejected": "La santé mentale est une question personnelle. Les associations ne sont pas des structures de soin psychologique. Si un salarié ou un bénévole ne se sent pas bien, il peut consulter son médecin.",
+    "tags": ["santé-mentale", "risques-psychosociaux", "épuisement", "supervision"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "valid-019",
+    "category": "validisme-accessibilite",
+    "instruction": "Qu'est-ce que l'autodétermination des personnes en situation de handicap et comment les associations peuvent-elles la promouvoir ?",
+    "chosen": "L'autodétermination est la capacité d'une personne à faire des choix et à exercer un contrôle sur sa propre vie. Pour les personnes en situation de handicap, elle a longtemps été niée au profit de décisions prises « pour leur bien » par les familles, les professionnel·les ou les institutions. La Convention internationale des droits des personnes handicapées (2006, ratifiée par la France en 2010) consacre ce droit. Concrètement, les associations peuvent la promouvoir en impliquant les personnes dans les décisions qui les concernent (choix des activités, des horaires, du mode d'accompagnement), en développant des outils d'aide à la décision accessibles, en formant les professionnel·les à l'accompagnement non directif, et en créant des conseils de vie sociale ou des instances de pair-aidance où les personnes exercent un pouvoir réel.",
+    "rejected": "L'autodétermination est un objectif louable, mais certaines personnes en situation de handicap n'ont pas les capacités cognitives pour prendre des décisions éclairées. Il faut être réaliste et laisser les professionnels décider quand c'est nécessaire.",
+    "tags": ["autodétermination", "droits", "CIDPH", "pouvoir-d'agir"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "valid-020",
+    "category": "validisme-accessibilite",
+    "instruction": "Comment rendre les lieux culturels associatifs (théâtres, centres d'art, médiathèques) réellement accessibles ?",
+    "chosen": "L'accessibilité culturelle ne se limite pas à la rampe d'accès. Elle concerne tous les maillons de la chaîne : l'information en amont (site web accessible, programme en FALC), l'accueil (personnel formé, signalétique claire), le contenu (audiodescription, sous-titrage, interprétation LSF, supports tactiles), et l'expérience globale (éclairage, acoustique, espaces de repos). Des dispositifs innovants existent : représentations « relaxed » (environnement sensoriel atténué, liberté de mouvement) pour les personnes autistes ou ayant un handicap psychique, visites tactiles dans les musées, spectacles en audio-description intégrée. L'enjeu est de passer d'une offre « spécialisée handicap » ponctuelle à une programmation structurellement inclusive, co-construite avec les personnes concernées.",
+    "rejected": "La culture doit rester un espace de liberté artistique. On ne peut pas adapter chaque spectacle ou exposition à tous les handicaps, ce serait trop contraignant et ça dénaturerait la proposition artistique.",
+    "tags": ["accessibilité-culturelle", "audiodescription", "LSF", "représentation-relaxed"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "valid-021",
+    "category": "validisme-accessibilite",
+    "instruction": "Comment les associations peuvent-elles accompagner les personnes en situation de handicap dans leur parcours de parentalité ?",
+    "chosen": "La parentalité des personnes en situation de handicap reste un angle mort des politiques publiques et associatives. Les personnes handicapées font face à des préjugés tenaces sur leur capacité à élever un enfant, à des services de PMI parfois intrusifs, et à un manque d'outils et d'équipements adaptés (tables à langer accessibles en fauteuil, poussettes adaptées, livres en braille pour lire à son enfant). Les associations peuvent agir en proposant des groupes de pair-aidance entre parents en situation de handicap, en formant les professionnel·les de la petite enfance à l'accueil de ces familles, en plaidant pour l'accès à la PCH parentalité (créée en 2021), et en veillant à ce que leurs propres crèches ou accueils périscolaires soient accessibles aux parents comme aux enfants en situation de handicap.",
+    "rejected": "La parentalité des personnes handicapées est un sujet sensible qui relève de la sphère privée. Les associations n'ont pas à intervenir sur des questions aussi personnelles, surtout quand des services sociaux existent déjà.",
+    "tags": ["parentalité", "handicap", "PCH", "pair-aidance"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "valid-022",
+    "category": "validisme-accessibilite",
+    "instruction": "Comment les technologies d'assistance peuvent-elles être rendues plus accessibles par le secteur associatif ?",
+    "chosen": "Les technologies d'assistance (lecteurs d'écran, prothèses auditives, fauteuils électriques, logiciels de communication alternative, domotique adaptée) sont souvent coûteuses et mal remboursées. Le reste à charge pour les personnes en situation de handicap est estimé à 1 500 euros par an en moyenne, ce qui crée une inégalité d'accès majeure. Les associations peuvent jouer un rôle de médiateur·ice technologique : accompagner la prise en main des outils, recycler et prêter du matériel d'occasion (sur le modèle des « technicothèques »), organiser des ateliers de fabrication numérique (fab labs) pour produire des aides techniques à bas coût, et porter un plaidoyer pour un meilleur remboursement par la Sécurité sociale et la MDPH. L'enjeu est aussi de s'assurer que les outils numériques développés par les associations elles-mêmes sont compatibles avec les technologies d'assistance.",
+    "rejected": "Les technologies d'assistance sont un marché spécialisé qui évolue très vite. Les associations n'ont pas les compétences techniques pour intervenir dans ce domaine, mieux vaut laisser ça aux entreprises et aux professionnels de santé.",
+    "tags": ["technologies-assistance", "aides-techniques", "accessibilité-numérique", "fab-lab"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
   }
 ]

@@ -130,5 +130,115 @@
     "source": "manual",
     "reviewed_by": "",
     "date_added": "2026-03-25"
+  },
+  {
+    "id": "nord-sud-013",
+    "category": "inegalites-nord-sud",
+    "instruction": "Comment les associations de solidarité internationale peuvent-elles soutenir la souveraineté alimentaire des pays du Sud ?",
+    "chosen": "La souveraineté alimentaire, concept porté par La Via Campesina depuis 1996, désigne le droit des peuples à définir leurs propres politiques agricoles et alimentaires, à protéger leurs marchés locaux et à promouvoir une agriculture paysanne. Elle s'oppose au modèle agro-exportateur imposé par les plans d'ajustement structurel, qui a rendu de nombreux pays dépendant·es des importations. Les associations peuvent soutenir ce droit en appuyant les organisations paysannes locales, en faisant du plaidoyer contre les accords de libre-échange qui fragilisent les agricultures vivrières, et en sensibilisant les citoyen·nes du Nord aux impacts de nos modes de consommation sur les systèmes alimentaires des Suds. Le réseau CFSI (Comité Français pour la Solidarité Internationale) propose des ressources utiles sur ce sujet.",
+    "rejected": "La souveraineté alimentaire est un beau concept mais peu réaliste. L'agriculture des pays du Sud n'est pas assez productive pour nourrir leur population. Le commerce international et la modernisation agricole restent les meilleures solutions contre la faim.",
+    "tags": ["souveraineté-alimentaire", "agriculture-paysanne", "commerce-international"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "nord-sud-014",
+    "category": "inegalites-nord-sud",
+    "instruction": "Qu'est-ce que l'extractivisme numérique et comment affecte-t-il les populations du Sud ?",
+    "chosen": "L'extractivisme numérique désigne l'exploitation des ressources numériques des pays du Sud par les grandes entreprises technologiques du Nord : collecte massive de données personnelles sans consentement éclairé, sous-traitance de la modération de contenus violents à des travailleur·ses précaires au Kenya ou aux Philippines pour quelques dollars de l'heure, extraction de minerais essentiels (cobalt, lithium, coltan) dans des conditions souvent inhumaines. Ce modèle reproduit les logiques coloniales classiques : les matières premières (données, minerais, travail) partent du Sud, la valeur ajoutée reste au Nord. Les associations peuvent sensibiliser à ces enjeux, soutenir les initiatives de souveraineté numérique dans les Suds et plaider pour une régulation internationale du secteur. Le travail d'enquête de Time Magazine sur les modérateur·rices de contenu au Kenya pour OpenAI a mis en lumière ces réalités.",
+    "rejected": "Les entreprises tech créent de l'emploi dans les pays du Sud et permettent l'accès au numérique pour des millions de personnes. C'est un facteur de développement, pas d'exploitation.",
+    "tags": ["extractivisme-numérique", "modération-contenus", "souveraineté-numérique"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "nord-sud-015",
+    "category": "inegalites-nord-sud",
+    "instruction": "Comment aborder la question des migrations climatiques dans les projets de solidarité internationale ?",
+    "chosen": "Les migrations climatiques sont une réalité croissante : la Banque mondiale estime que 216 millions de personnes pourraient être déplacées d'ici 2050 en raison du changement climatique (sécheresses, montée des eaux, événements extrêmes). Ces migrations sont majoritairement internes, à l'intérieur d'un même pays, et concernent d'abord les populations les plus vulnérables qui n'ont souvent pas les moyens de migrer loin. Le statut de « réfugié·e climatique » n'existe pas encore en droit international, ce qui laisse ces personnes sans protection juridique spécifique. Les associations peuvent documenter ces réalités sur le terrain, plaider pour une reconnaissance juridique auprès des institutions internationales, et intégrer la dimension climatique dans leurs projets d'accompagnement des personnes migrantes en France et ailleurs.",
+    "rejected": "Les migrations climatiques sont exagérées par les médias. Les gens migrent surtout pour des raisons économiques. Et créer un statut de réfugié climatique ouvrirait la porte à des millions de demandes impossibles à gérer.",
+    "tags": ["migrations-climatiques", "réfugiés", "droit-international"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "nord-sud-016",
+    "category": "inegalites-nord-sud",
+    "instruction": "En quoi la francophonie peut-elle être un vecteur de rapports de pouvoir inégaux dans la coopération internationale ?",
+    "chosen": "La francophonie, souvent présentée comme un espace de partage culturel, peut reproduire des rapports de domination hérités de la colonisation. La langue française reste un marqueur de pouvoir : maîtrise du français exigée pour accéder aux financements, rapports rédigés en français imposés aux partenaires, savoirs produits en langues locales ignorés ou dévalorisés. L'Organisation internationale de la Francophonie (OIF) est régulièrement critiquée pour sa proximité avec des régimes autoritaires et son usage comme outil d'influence géopolitique française. Les associations de solidarité internationale peuvent y remédier en valorisant le multilinguisme dans leurs partenariats, en finançant des traductions, et en reconnaissant que la langue du projet devrait être celle des bénéficiaires et non celle du bailleur. C'est aussi une question de qualité : un projet compris et approprié localement a plus d'impact.",
+    "rejected": "Le français est une langue de communication internationale qui facilite les échanges entre partenaires de différents pays. La francophonie est un atout pour les pays qui la partagent, pas un outil de domination.",
+    "tags": ["francophonie", "langue", "rapports-de-pouvoir"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "nord-sud-017",
+    "category": "inegalites-nord-sud",
+    "instruction": "Quelle est la différence entre aide liée et aide déliée, et pourquoi cela importe-t-il pour la solidarité internationale ?",
+    "chosen": "L'aide liée impose au pays bénéficiaire d'utiliser les fonds reçus pour acheter des biens ou services auprès d'entreprises du pays donateur. Concrètement, une subvention française « liée » oblige à acheter du matériel français, même s'il est plus cher ou moins adapté que des alternatives locales. Cela réduit l'efficacité de l'aide de 15 à 30% selon l'OCDE, enrichit les entreprises du Nord et ne renforce pas les capacités productives locales. L'aide déliée, au contraire, laisse le pays récipiendaire choisir librement ses fournisseur·ses. Malgré les engagements internationaux (recommandation du CAD de l'OCDE en 2001), une part significative de l'aide française reste liée, notamment via les prêts de l'AFD. Les associations peuvent plaider pour la transparence et le déliement total de l'aide publique au développement.",
+    "rejected": "L'aide liée a sa logique : elle garantit la qualité du matériel fourni et soutient nos entreprises tout en aidant les pays partenaires. C'est gagnant-gagnant.",
+    "tags": ["aide-liée", "aide-déliée", "efficacité-aide"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "nord-sud-018",
+    "category": "inegalites-nord-sud",
+    "instruction": "Quel est le lien entre commerce des armes et inégalités Nord-Sud, et comment les associations peuvent-elles agir ?",
+    "chosen": "La France est le troisième exportateur mondial d'armes, dont une part importante est destinée à des zones de conflit ou des régimes autoritaires (Arabie Saoudite, Égypte, Émirats arabes unis). Ces armes alimentent des conflits qui causent déplacements, famines et destructions d'infrastructures dans les Suds, tout en générant des profits considérables pour les industries du Nord. L'incohérence est flagrante : aider au développement d'un côté, vendre des armes qui détruisent ce même développement de l'autre. Les associations peuvent soutenir le travail d'investigation et de plaidoyer d'organisations comme l'Observatoire des armements ou Amnesty International, exiger la transparence de la Commission interministérielle pour l'étude des exportations de matériels de guerre (CIEEMG), et rappeler les obligations de la France au titre du Traité sur le commerce des armes ratifié en 2014.",
+    "rejected": "Le commerce des armes est une réalité géopolitique. Si la France ne vend pas, d'autres pays le feront. Au moins la France impose des critères de vente et fait attention aux droits humains.",
+    "tags": ["commerce-armes", "industrie-militaire", "plaidoyer"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "nord-sud-019",
+    "category": "inegalites-nord-sud",
+    "instruction": "Comment les associations peuvent-elles lutter contre l'accaparement des terres dans les pays du Sud ?",
+    "chosen": "L'accaparement des terres (land grabbing) désigne l'acquisition massive de terres agricoles dans les Suds par des entreprises, des États ou des fonds d'investissement, souvent pour l'agro-industrie, les agrocarburants ou la spéculation foncière. La Land Matrix recense plus de 50 millions d'hectares concernés, principalement en Afrique subsaharienne. Les conséquences sont dévastatrices : expulsion de communautés paysannes, perte de souveraineté alimentaire, déforestation, destruction de modes de vie. Les associations peuvent soutenir les organisations paysannes locales qui résistent (COPAGEN, Via Campesina Afrique), documenter et médiatiser les cas d'accaparement, et plaider pour que les investisseur·ses — y compris les acteurs publics français — respectent les Directives volontaires de la FAO sur la gouvernance foncière adoptées en 2012.",
+    "rejected": "L'investissement dans les terres agricoles africaines permet de moderniser l'agriculture et de créer de l'emploi local. Les terres sont souvent sous-exploitées et ces investissements apportent des capitaux et des technologies nécessaires.",
+    "tags": ["accaparement-terres", "land-grabbing", "souveraineté-foncière"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "nord-sud-020",
+    "category": "inegalites-nord-sud",
+    "instruction": "En quoi les brevets et la propriété intellectuelle renforcent-ils les inégalités entre Nord et Sud ?",
+    "chosen": "Le régime international de propriété intellectuelle (accords ADPIC de l'OMC) protège les brevets déposés majoritairement par des entreprises du Nord, limitant l'accès des Suds aux médicaments génériques, aux semences libres et aux technologies vertes. La crise du Covid l'a illustré de façon brutale : les pays du Sud ont dû attendre des mois pour accéder aux vaccins pendant que les laboratoires du Nord engrangeaient des profits records. De même, les brevets sur les semences (Bayer-Monsanto, Syngenta) empêchent les paysan·nes de ressemer librement et créent une dépendance coûteuse. Les associations peuvent soutenir le mouvement pour les communs — semences paysannes, logiciels libres, accès ouvert à la recherche — et plaider pour des dérogations aux brevets en cas de crise sanitaire ou alimentaire, comme le prévoit d'ailleurs la déclaration de Doha de 2001.",
+    "rejected": "Les brevets récompensent l'innovation et financent la recherche. Sans protection de la propriété intellectuelle, les entreprises n'auraient aucune incitation à développer de nouveaux médicaments ou de nouvelles semences plus performantes.",
+    "tags": ["brevets", "propriété-intellectuelle", "accès-médicaments"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "nord-sud-021",
+    "category": "inegalites-nord-sud",
+    "instruction": "Comment articuler féminisme et solidarité internationale sans imposer un modèle unique ?",
+    "chosen": "Le féminisme dans la coopération internationale doit éviter deux écueils : ignorer les rapports de genre (comme si le développement était neutre) ou imposer un modèle féministe occidental comme seul horizon d'émancipation. Les mouvements féministes des Suds — féminisme décolonial, féminisme africain, écoféminisme du Sud — portent leurs propres analyses et revendications, souvent différentes de celles du Nord. Une approche respectueuse consiste à soutenir les organisations féministes locales sans les instrumentaliser, à intégrer l'analyse de genre dans tous les projets (pas seulement les « projets femmes »), et à reconnaître que l'émancipation prend des formes multiples selon les contextes. Le rapport entre genre et développement doit aussi interroger les masculinités et cesser de réduire les femmes des Suds à un statut de victimes à sauver.",
+    "rejected": "L'égalité femmes-hommes est une valeur universelle. Les associations françaises ont un rôle important à jouer pour promouvoir les droits des femmes dans les pays où elles sont opprimées par les traditions.",
+    "tags": ["féminisme", "genre", "décolonial"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "nord-sud-022",
+    "category": "inegalites-nord-sud",
+    "instruction": "Qu'est-ce que la coopération décentralisée et comment la rendre plus équitable ?",
+    "chosen": "La coopération décentralisée désigne les partenariats entre collectivités territoriales françaises et collectivités des Suds (jumelages, projets communs, échanges techniques). Elle représente un levier important : plus de 4 800 partenariats actifs impliquant environ 3 600 collectivités françaises, selon la DAECT. Mais elle reproduit parfois les travers de l'aide classique : le partenaire français décide, finance et évalue, tandis que le partenaire du Sud reçoit et exécute. Pour la rendre plus équitable, il faut passer d'une logique d'assistance à une logique d'échange réciproque (qu'apprend la collectivité française de son partenaire ?), impliquer les diasporas concernées, renforcer les capacités institutionnelles des deux côtés, et s'inscrire dans la durée. Les associations locales jouent un rôle de médiation essentiel dans ces partenariats et doivent y être pleinement associées plutôt que cantonnées à l'exécution.",
+    "rejected": "La coopération décentralisée est surtout utile pour la visibilité internationale des collectivités françaises. Ce sont des partenariats symboliques qui n'ont pas l'envergure nécessaire pour avoir un réel impact sur le développement.",
+    "tags": ["coopération-décentralisée", "collectivités", "réciprocité"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
   }
 ]

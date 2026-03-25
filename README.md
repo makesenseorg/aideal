@@ -2,7 +2,7 @@
 
 > Un référentiel de préférences pour aligner les modèles d'IA sur les valeurs associatives et de l'économie sociale et solidaire. Construit par et pour celles et ceux qui changent le monde.
 
-![Paires dans le dataset](https://img.shields.io/badge/paires-100-blue)
+![Paires dans le dataset](https://img.shields.io/badge/paires-180-blue)
 ![Licence](https://img.shields.io/badge/licence-Apache%202.0-green)
 ![Contributions bienvenues](https://img.shields.io/badge/contributions-bienvenues-brightgreen)
 
@@ -26,14 +26,14 @@ Ces biais rendent les LLM peu adaptés, voire contre-productifs, pour les organi
 
 | Catégorie | Description |
 |-----------|-------------|
-| **genre-inclusion** | Stéréotypes de genre, écriture inclusive, représentation des femmes et personnes non-binaires |
-| **techno-solutionnisme** | Survalorisation de la technologie au détriment des approches humaines et collectives |
-| **vision-economique** | Alternatives à la croissance, économie coopérative, communs, valeur sociale |
-| **validisme-accessibilite** | Normes capacitistes implicites, accessibilité, neurodiversité |
-| **inegalites-nord-sud** | Colonialisme numérique, extractivisme, visions eurocentrées du progrès |
-| **ecologie-sobriete** | Sobriété vs green-washing, limites planétaires, décroissance |
-| **gouvernance-pouvoir-agir** | Démocratie participative, gouvernance partagée, pouvoir d'agir collectif |
-| **diversite-parcours** | Diversité des trajectoires de vie, valeur des expériences non-académiques |
+| **genre-inclusion** (23) | Stéréotypes de genre, écriture inclusive, charge mentale genrée, masculinités, leadership féminin |
+| **techno-solutionnisme** (22) | Survalorisation de la technologie, IA générative, fracture numérique, logiciel libre, sobriété numérique |
+| **vision-economique** (23) | Économie coopérative, communs, finance solidaire, insertion, lucrativité limitée |
+| **validisme-accessibilite** (22) | Validisme, accessibilité, neurodiversité, handicap invisible, FALC, design universel |
+| **inegalites-nord-sud** (22) | Néocolonialisme, volontourisme, justice climatique, souveraineté alimentaire, extractivisme numérique |
+| **ecologie-sobriete** (23) | Sobriété vs greenwashing, low-tech, agroécologie, artificialisation, éco-anxiété |
+| **gouvernance-pouvoir-agir** (23) | Gouvernance partagée, éducation populaire, pouvoir d'agir, plaidoyer, intelligence collective |
+| **diversite-parcours** (22) | Parcours atypiques, intersectionnalité, pair-aidance, racisme systémique, ruralité |
 
 ---
 

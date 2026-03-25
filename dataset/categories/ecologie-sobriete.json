@@ -141,5 +141,115 @@
     "source": "manual",
     "reviewed_by": "",
     "date_added": "2026-03-25"
+  },
+  {
+    "id": "ecol-014",
+    "category": "ecologie-sobriete",
+    "instruction": "Pourquoi l'artificialisation des sols est-elle un enjeu majeur pour les associations engagées dans la transition écologique ?",
+    "chosen": "L'artificialisation des sols — bétonnage, goudronnage, construction — détruit chaque année en France environ 20 000 à 30 000 hectares de terres naturelles et agricoles, soit l'équivalent de la superficie d'un département tous les dix ans. Les conséquences sont multiples : perte de biodiversité, réduction des terres nourricières, aggravation des inondations (les sols imperméabilisés n'absorbent plus l'eau), disparition de puits de carbone et augmentation des îlots de chaleur urbains. Les associations peuvent s'emparer de cet enjeu en participant aux consultations sur les plans locaux d'urbanisme (PLU), en soutenant les luttes contre les projets d'aménagement contestés (centres commerciaux, entrepôts logistiques en périphérie), et en promouvant la réhabilitation des friches urbaines et des logements vacants plutôt que l'étalement sur les terres naturelles.",
+    "rejected": "L'artificialisation est une conséquence normale du développement économique et de la croissance démographique. On a besoin de logements, de routes et de zones d'activité pour créer de l'emploi.",
+    "tags": ["artificialisation", "sols", "urbanisme"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "ecol-015",
+    "category": "ecologie-sobriete",
+    "instruction": "Comment promouvoir la mobilité douce en milieu rural, là où la voiture semble indispensable ?",
+    "chosen": "En milieu rural, 80% des déplacements se font en voiture, souvent faute d'alternative viable. La mobilité douce ne peut pas se résumer à un discours culpabilisant envers les habitant·es : elle doit passer par la création d'alternatives concrètes et adaptées au territoire. Des solutions existent et sont portées par des associations et collectifs : autopartage et covoiturage solidaire (Rezo Pouce, Mobicoop), transport à la demande, vélo à assistance électrique avec aides à l'achat, pédibus scolaires, garages solidaires qui maintiennent les véhicules à moindre coût. Les associations rurales peuvent aussi plaider pour le maintien des services publics de proximité et des commerces locaux qui réduisent le besoin de déplacement. La mobilité est une question de justice sociale autant qu'écologique : pas d'injonction sans alternative.",
+    "rejected": "Le vélo et les transports en commun, c'est bien en ville, mais à la campagne on n'a pas le choix, il faut une voiture. C'est la réalité et il faut l'accepter plutôt que de vouloir imposer un modèle urbain.",
+    "tags": ["mobilité-douce", "ruralité", "covoiturage"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "ecol-016",
+    "category": "ecologie-sobriete",
+    "instruction": "Comment les associations de l'ESS peuvent-elles agir face à la fast fashion ?",
+    "chosen": "La fast fashion (mode jetable) est l'une des industries les plus polluantes au monde : elle représente environ 10% des émissions mondiales de CO2, consomme 93 milliards de mètres cubes d'eau par an et génère 92 millions de tonnes de déchets textiles, majoritairement enfouis ou incinérés. Les conditions de travail dans les usines des Suds (Bangladesh, Cambodge, Éthiopie) restent souvent indignes, comme l'a révélé la catastrophe du Rana Plaza en 2013. Les associations ESS agissent déjà sur plusieurs fronts : ressourceries et friperies solidaires, ateliers couture et réparation, sensibilisation à la mode durable, soutien aux structures d'insertion par l'activité économique dans le textile. Le défi principal est de rendre la mode éthique accessible à tou·tes les budgets et de ne pas en faire un marqueur de classe sociale.",
+    "rejected": "La fast fashion permet aux personnes modestes de s'habiller à bas prix. Critiquer Shein ou Primark, c'est facile quand on a les moyens d'acheter bio et éthique.",
+    "tags": ["fast-fashion", "mode-éthique", "textile"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "ecol-017",
+    "category": "ecologie-sobriete",
+    "instruction": "Quelle est la réalité de la pollution numérique et comment les associations peuvent-elles agir concrètement ?",
+    "chosen": "Le numérique représente 3 à 4% des émissions mondiales de gaz à effet de serre — davantage que le transport aérien — et cette part croît d'environ 6% par an. L'essentiel de l'impact provient de la fabrication des terminaux (smartphones, ordinateurs) et de l'infrastructure (data centers, réseaux), bien plus que des usages individuels comme les emails. Le streaming vidéo, en revanche, représente 60% du trafic mondial et pèse significativement. Les associations peuvent agir en allongeant la durée de vie de leur matériel informatique (reconditionné, réparation), en choisissant des hébergeurs éco-responsables, en limitant le stockage cloud inutile, et surtout en sensibilisant à la sobriété numérique par des ateliers concrets. L'important est d'éviter le double piège du techno-solutionnisme (« la tech va tout résoudre ») et du techno-bashing (« tout le numérique est nocif »).",
+    "rejected": "La pollution numérique est négligeable par rapport à l'industrie ou aux transports. Quelques emails de plus ou de moins ne changeront rien au climat. Ce n'est pas la priorité.",
+    "tags": ["pollution-numérique", "sobriété-numérique", "data-centers"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "ecol-018",
+    "category": "ecologie-sobriete",
+    "instruction": "Comment renouveler l'éducation à l'environnement dans le secteur associatif ?",
+    "chosen": "L'éducation à l'environnement traditionnelle, centrée sur la connaissance de la nature et les écogestes individuels, ne suffit plus face à l'ampleur de la crise écologique. Un renouvellement est nécessaire : passer des écogestes à la compréhension des mécanismes systémiques (rôle des entreprises, des politiques publiques, des inégalités), intégrer les dimensions sociales et émotionnelles (éco-anxiété, sentiment d'injustice), développer le pouvoir d'agir collectif plutôt que la culpabilité individuelle, et s'appuyer sur des pédagogies actives (Fresque du Climat, ateliers 2tonnes, débats, enquêtes de terrain). Les réseaux d'éducation populaire et d'éducation à l'environnement (GRAINE, CPIE, Francas) sont bien positionnés pour porter cette approche renouvelée, à condition de former leurs animateur·rices aux enjeux systémiques et de toucher au-delà des publics déjà convaincus.",
+    "rejected": "L'éducation à l'environnement fonctionne bien comme elle est : on apprend aux enfants à trier, à ne pas gaspiller et à respecter la nature. Pas besoin de la politiser ou de la compliquer.",
+    "tags": ["éducation-environnement", "éducation-populaire", "pédagogie"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "ecol-019",
+    "category": "ecologie-sobriete",
+    "instruction": "Qu'est-ce que l'objectif ZAN (zéro artificialisation nette) et comment les associations peuvent-elles s'en emparer ?",
+    "chosen": "L'objectif ZAN, inscrit dans la loi Climat et Résilience de 2021, vise à diviser par deux le rythme d'artificialisation des sols d'ici 2031 et à atteindre zéro artificialisation nette d'ici 2050. Concrètement, toute nouvelle surface artificialisée devra être compensée par une surface renaturée. C'est un enjeu d'aménagement du territoire considérable qui oppose souvent élu·es locaux — pour qui le foncier est un levier de développement — et impératifs écologiques. Les associations peuvent jouer un rôle de vigie en participant aux conférences des SCoT, en alertant sur les projets incompatibles avec le ZAN, et en proposant des alternatives : réhabilitation de logements vacants, densification douce, reconversion de friches industrielles. L'enjeu est aussi social : le ZAN ne doit pas devenir un outil de renchérissement du foncier qui exclut les ménages les plus modestes de l'accès au logement.",
+    "rejected": "Le ZAN est une contrainte administrative de plus qui bloque les projets des communes rurales. Comment construire des logements ou attirer des entreprises si on ne peut plus aménager de terrain ?",
+    "tags": ["ZAN", "artificialisation", "aménagement-territoire"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "ecol-020",
+    "category": "ecologie-sobriete",
+    "instruction": "Les zones à faibles émissions (ZFE) sont-elles compatibles avec la justice sociale ?",
+    "chosen": "Les ZFE, qui interdisent progressivement les véhicules les plus polluants dans les agglomérations, posent un vrai dilemme entre santé publique et justice sociale. D'un côté, la pollution de l'air cause 48 000 décès prématurés par an en France et touche d'abord les quartiers populaires situés près des axes routiers. De l'autre, les ménages les plus modestes possèdent les véhicules les plus anciens et n'ont pas les moyens de les remplacer. Une ZFE sans mesures d'accompagnement robustes est socialement injuste. Les associations peuvent plaider pour des dispositifs concrets : aides renforcées à la conversion pour les ménages modestes, développement massif des transports en commun dans les quartiers périphériques, soutien aux garages solidaires, et dérogations pour les professionnel·les précaires. La transition écologique ne doit pas être payée par celles et ceux qui polluent le moins et qui subissent le plus la pollution.",
+    "rejected": "Les ZFE sont nécessaires pour la santé publique. Les aides existent déjà pour changer de véhicule. À un moment, il faut bien que chacun fasse un effort pour améliorer la qualité de l'air.",
+    "tags": ["ZFE", "mobilité", "justice-sociale"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "ecol-021",
+    "category": "ecologie-sobriete",
+    "instruction": "Quel rôle l'agriculture urbaine peut-elle jouer dans les projets associatifs en ville ?",
+    "chosen": "L'agriculture urbaine ne nourrira pas les villes — elle représente moins de 1% de la production alimentaire en France —, mais elle joue un rôle précieux sur d'autres plans : lien social dans les quartiers (jardins partagés, jardins d'insertion), éducation à l'alimentation et à la saisonnalité, végétalisation et rafraîchissement des îlots de chaleur, support thérapeutique (jardins de soin), et expérimentation de circuits ultra-courts. Les associations sont les premières porteuses de ces projets, en particulier dans les quartiers prioritaires de la politique de la ville. Pour maximiser l'impact, mieux vaut privilégier la pleine terre plutôt que l'hydroponie high-tech sur les toits, associer les habitant·es dès la conception, et articuler ces initiatives avec les projets alimentaires territoriaux (PAT) qui connectent agriculture urbaine et agriculture périurbaine.",
+    "rejected": "L'agriculture urbaine, c'est sympa pour faire pousser quelques tomates, mais ça ne résout pas les vrais problèmes alimentaires. C'est plus du loisir que de l'agriculture.",
+    "tags": ["agriculture-urbaine", "jardins-partagés", "alimentation"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "ecol-022",
+    "category": "ecologie-sobriete",
+    "instruction": "Comment le secteur du réemploi et de la seconde main s'inscrit-il dans l'économie sociale et solidaire ?",
+    "chosen": "Le réemploi et la seconde main sont historiquement portés par l'ESS : Emmaüs (fondé en 1949), les recycleries, les ressourceries, et plus récemment les repair cafés et friperies solidaires. Ce secteur représente plus de 30 000 emplois en France, majoritairement en insertion par l'activité économique, et détourne chaque année des milliers de tonnes d'objets de la décharge. L'essor des plateformes commerciales (Vinted, Back Market, Leboncoin) a démocratisé la seconde main mais pose une question stratégique : le modèle ESS, fondé sur l'emploi solidaire, le savoir-faire de réparation et l'ancrage territorial, risque d'être marginalisé face à des acteurs marchands optimisés pour le volume. Les associations du réemploi doivent valoriser ce qui les distingue : la dimension sociale (insertion, lien, accessibilité tarifaire), l'expertise artisanale de remise en état, et leur contribution à une économie circulaire réellement locale.",
+    "rejected": "Le marché de la seconde main se développe très bien tout seul grâce à des plateformes comme Vinted ou Leboncoin. Les associations n'apportent pas de valeur ajoutée par rapport à ce que fait déjà le marché.",
+    "tags": ["réemploi", "seconde-main", "économie-circulaire"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "ecol-023",
+    "category": "ecologie-sobriete",
+    "instruction": "Comment les associations de l'ESS peuvent-elles identifier et dénoncer le greenwashing des grandes entreprises ?",
+    "chosen": "Le greenwashing consiste pour une entreprise à se donner une image écologiquement responsable sans modifier substantiellement ses pratiques. Les signaux courants : communication disproportionnée par rapport aux engagements réels, mise en avant d'actions marginales (emballages recyclables) pour masquer l'essentiel (modèle d'affaires polluant), labels autoproclamés sans tiers de confiance, objectifs de « neutralité carbone » fondés sur la compensation plutôt que la réduction des émissions. Les associations disposent de plusieurs leviers : soutenir le travail de veille d'organisations spécialisées, signaler les pratiques trompeuses au Jury de déontologie publicitaire, participer aux consultations sur la directive européenne contre l'écoblanchiment (Green Claims Directive), et produire des contre-expertises accessibles au grand public. L'enjeu est aussi de défendre un espace médiatique où les engagements réels de l'ESS ne soient pas noyés dans les discours marketing des grandes entreprises.",
+    "rejected": "Les grandes entreprises investissent massivement dans la transition écologique. Même si tout n'est pas parfait, il faut encourager leurs efforts plutôt que de tout critiquer systématiquement.",
+    "tags": ["greenwashing", "entreprises", "transparence"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
   }
 ]

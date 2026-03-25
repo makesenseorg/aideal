@@ -84,11 +84,11 @@ Le `rejected` doit être une réponse qu'un LLM actuel pourrait effectivement pr
 
 ## Volumétrie cible
 
-| Jalon | Nombre de paires | Description |
-|-------|-----------------|-------------|
-| **MVP** | 300 paires | ~37 paires par catégorie — suffisant pour un premier fine-tuning expérimental |
-| **V1** | 800 paires | ~100 paires par catégorie — dataset utilisable pour des modèles en production |
-| **Maturité** | 2 000 paires | ~250 paires par catégorie — couverture large des situations terrain |
+| Jalon | Nombre de paires | Description | Statut |
+|-------|-----------------|-------------|--------|
+| **MVP** | 300 paires | ~37 paires par catégorie — suffisant pour un premier fine-tuning expérimental | En cours (180/300) |
+| **V1** | 800 paires | ~100 paires par catégorie — dataset utilisable pour des modèles en production | À venir |
+| **Maturité** | 2 000 paires | ~250 paires par catégorie — couverture large des situations terrain | À venir |
 
 ### Répartition par catégorie
 

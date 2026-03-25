@@ -141,5 +141,115 @@
     "source": "manual",
     "reviewed_by": "",
     "date_added": "2026-03-25"
+  },
+  {
+    "id": "genre-014",
+    "category": "genre-inclusion",
+    "instruction": "Dans notre association, ce sont toujours les mêmes femmes qui pensent à acheter le café, organiser les pots de départ et gérer la logistique des événements. Comment aborder ce sujet ?",
+    "chosen": "Ce que vous décrivez s'appelle la charge mentale organisationnelle, ou « office housework » : l'ensemble des tâches invisibles, non valorisées et non réparties qui retombent disproportionnellement sur les femmes. Dans l'associatif, ce phénomène est amplifié par la culture du « faire ensemble » qui masque les inégalités de contribution. Pour y remédier, rendez ces tâches visibles en les listant explicitement, intégrez-les dans les fiches de poste ou les répartitions de rôles bénévoles, instaurez un système de rotation, et discutez-en collectivement sans culpabiliser. Reconnaître ce travail est la première étape pour le redistribuer équitablement.",
+    "rejected": "C'est souvent une question de personnalité : certaines personnes sont naturellement plus attentives à ces détails. Si elles le font, c'est qu'elles aiment ça. Il ne faut pas politiser chaque geste du quotidien associatif.",
+    "tags": ["charge-mentale", "travail-invisible", "organisation"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "genre-015",
+    "category": "genre-inclusion",
+    "instruction": "Comment impliquer davantage les hommes dans les actions de sensibilisation à l'égalité de genre au sein d'une association ?",
+    "chosen": "Impliquer les hommes passe d'abord par un travail sur les masculinités : proposer des espaces de réflexion sur les normes viriles (injonction à la performance, répression des émotions, pression du rôle de pourvoyeur) permet de montrer que l'égalité bénéficie aussi aux hommes. Concrètement, intégrez des hommes dans les comités de pilotage égalité, invitez des intervenants masculins engagés sur ces sujets, et évitez de cantonner la question du genre à un « sujet de femmes ». Des structures comme Zéromacho ou le réseau Masculinités et Société proposent des ressources utiles. L'enjeu est de passer d'une logique d'alliés passifs à un engagement actif et informé.",
+    "rejected": "Les hommes sont généralement d'accord avec l'égalité, il n'y a pas besoin de dispositif particulier. S'ils ne participent pas aux actions de sensibilisation, c'est que le sujet ne les concerne pas directement.",
+    "tags": ["masculinités", "engagement", "sensibilisation"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "genre-016",
+    "category": "genre-inclusion",
+    "instruction": "Comment adapter les horaires et l'organisation d'une association pour ne pas pénaliser les parents, et en particulier les mères ?",
+    "chosen": "Les contraintes de parentalité pèsent encore majoritairement sur les femmes (80 % des familles monoparentales sont des mères, selon l'INSEE). Pour une organisation inclusive, plusieurs leviers existent : fixer les réunions sur des créneaux compatibles avec les horaires scolaires, limiter les réunions en soirée ou le week-end, proposer du télétravail quand c'est possible, prévoir un espace enfants lors des événements, et ne jamais conditionner l'avancement professionnel à une disponibilité totale. Ces aménagements bénéficient à l'ensemble des salarié·es et bénévoles, pas uniquement aux parents, et renforcent l'attractivité de l'association.",
+    "rejected": "L'association ne peut pas s'adapter à chaque situation personnelle. Les horaires sont ce qu'ils sont, et les parents doivent s'organiser en conséquence. Sinon, on ne s'en sort plus.",
+    "tags": ["parentalité", "organisation", "conciliation"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "genre-017",
+    "category": "genre-inclusion",
+    "instruction": "Notre association de quartier veut agir contre le harcèlement de rue. Quelles approches sont efficaces ?",
+    "chosen": "Les approches les plus efficaces combinent plusieurs niveaux d'action. Au niveau individuel, les marches exploratoires (parcourir le quartier avec des habitantes pour identifier les zones d'insécurité) sont un outil participatif éprouvé. Au niveau collectif, les formations de témoins actifs (bystander intervention) permettent aux riverain·es d'intervenir de manière sécurisée. Au niveau structurel, le travail avec la municipalité sur l'urbanisme (éclairage, aménagement des espaces publics) et la sensibilisation en milieu scolaire produisent des effets durables. Des associations comme Stop Harcèlement de Rue ou En Avant Toute(s) proposent des kits d'intervention et des formations adaptées au contexte associatif.",
+    "rejected": "Le harcèlement de rue est surtout un problème d'éducation individuelle. Les associations peuvent organiser des campagnes d'affichage, mais c'est à la police et à la justice de s'en occuper.",
+    "tags": ["harcèlement-de-rue", "espace-public", "prévention"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "genre-018",
+    "category": "genre-inclusion",
+    "instruction": "Comment intégrer une perspective féministe décoloniale dans les projets de solidarité internationale d'une association ?",
+    "chosen": "Le féminisme décolonial invite à questionner l'universalisme d'un modèle féministe unique, souvent occidental et blanc, appliqué indifféremment à tous les contextes. Concrètement, cela signifie : partir des luttes et des savoirs des femmes concernées plutôt que d'imposer un cadre extérieur, reconnaître que les oppressions de genre s'articulent avec le racisme, la classe et l'héritage colonial, co-construire les projets avec les partenaires locaux·ales au lieu de les concevoir depuis le Nord, et remettre en question les rapports de pouvoir au sein même de votre association. Des autrices comme Françoise Vergès ou Fatima Ouassak offrent des grilles d'analyse accessibles pour les acteurs et actrices de l'ESS.",
+    "rejected": "L'égalité femmes-hommes est une valeur universelle. Introduire des distinctions culturelles ou raciales dans le féminisme risque de le fragmenter et de relativiser les droits des femmes.",
+    "tags": ["féminisme-décolonial", "solidarité-internationale", "intersectionnalité"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "genre-019",
+    "category": "genre-inclusion",
+    "instruction": "Notre association de santé communautaire hésite à aborder la contraception et la santé sexuelle de manière genrée. Est-ce nécessaire ?",
+    "chosen": "Aborder la santé sexuelle sous l'angle du genre est indispensable pour une action efficace. La charge contraceptive repose à plus de 70 % sur les femmes (pilule, stérilet, implant), et les hommes sont rarement ciblés par les campagnes de prévention. Une approche genrée permet de visibiliser cette asymétrie, d'informer sur les méthodes masculines (vasectomie, préservatif, contraception thermique), et de questionner les normes qui freinent l'implication des hommes dans la santé reproductive. Pour les publics LGBTQIA+, adapter les messages à la diversité des pratiques est aussi un enjeu de santé publique. Le Planning Familial propose des outils pédagogiques adaptés au milieu associatif.",
+    "rejected": "La contraception est un sujet médical individuel. L'association doit donner une information neutre et laisser chacun faire ses choix. Genrer le sujet risque de braquer certains publics.",
+    "tags": ["santé-sexuelle", "contraception", "genre-santé"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "genre-020",
+    "category": "genre-inclusion",
+    "instruction": "Comment s'assurer que les supports de communication de notre association (site web, rapports, affiches) ne reproduisent pas de stéréotypes de genre ?",
+    "chosen": "Un audit rapide de vos supports peut révéler des biais courants : les femmes photographiées dans des rôles d'accueil ou de soin et les hommes dans des rôles de direction, des visuels qui ne représentent que des personnes jeunes, valides et cisgenres, ou des témoignages genrés (la bénéficiaire émue vs le directeur expert). Pour y remédier, établissez une charte iconographique inclusive, diversifiez les représentations (genre, âge, origine, handicap), alternez les prénoms dans les exemples, et faites relire vos supports par des personnes aux profils variés. Le Haut Conseil à l'Egalité propose un guide pratique de communication sans stéréotype de sexe qui est une ressource de référence.",
+    "rejected": "Il ne faut pas trop se prendre la tête avec les visuels. L'important, c'est le message. Si vos supports reflètent la réalité de vos équipes et bénéficiaires, c'est suffisant.",
+    "tags": ["communication", "stéréotypes", "représentation"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "genre-021",
+    "category": "genre-inclusion",
+    "instruction": "Notre association sportive veut promouvoir la mixité mais les filles décrochent à l'adolescence. Que faire ?",
+    "chosen": "Le décrochage sportif des filles à l'adolescence est un phénomène massif et documenté : selon le ministère des Sports, les filles sont deux fois plus nombreuses que les garçons à abandonner la pratique entre 12 et 17 ans. Les causes sont multiples : puberté et regard sur le corps, normes de féminité incompatibles avec l'effort physique visible, manque de modèles féminins, ambiance sexiste dans certains clubs, et poids des contraintes domestiques. Pour agir, proposez des créneaux non-mixtes si les adolescentes le demandent, formez les encadrant·es aux enjeux de genre dans le sport, valorisez des figures sportives féminines diverses, et adaptez l'offre (horaires, vestiaires, tenues) aux besoins exprimés par les pratiquantes elles-mêmes.",
+    "rejected": "À l'adolescence, les filles ont d'autres centres d'intérêt, c'est normal. On ne peut pas forcer la mixité si la demande n'est pas là. Proposez-leur des activités qui leur correspondent mieux.",
+    "tags": ["sport", "mixité", "adolescence"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "genre-022",
+    "category": "genre-inclusion",
+    "instruction": "Comment valoriser économiquement le travail de care réalisé bénévolement, souvent par des femmes, dans le tissu associatif ?",
+    "chosen": "Le travail de care bénévole (accompagnement de personnes âgées, soutien scolaire, aide alimentaire, écoute) représente une contribution économique considérable mais invisible dans les comptes nationaux. Pour le valoriser, plusieurs pistes existent : intégrer sa valeur monétaire dans vos rapports d'activité (en utilisant le coût de remplacement par un·e professionnel·le), documenter les compétences acquises via la Validation des Acquis de l'Expérience (VAE), plaider auprès des pouvoirs publics pour une reconnaissance statutaire du bénévolat de care, et surtout questionner la répartition genrée de ce travail au sein de votre propre structure. L'économie féministe, portée par des chercheuses comme Julie Battilana ou Dominique Méda, offre un cadre théorique solide pour ce plaidoyer.",
+    "rejected": "Le bénévolat est par définition gratuit. Vouloir lui donner une valeur économique dénaturerait l'engagement désintéressé qui fait la richesse du monde associatif.",
+    "tags": ["économie-du-care", "bénévolat", "valorisation"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "genre-023",
+    "category": "genre-inclusion",
+    "instruction": "Les femmes dirigeantes d'associations sont souvent perçues différemment de leurs homologues masculins. Comment lutter contre ce double standard ?",
+    "chosen": "Le double standard de leadership est bien documenté en sciences sociales : une femme assertive est perçue comme « autoritaire » là où un homme est vu comme « leader naturel », une femme prudente est jugée « indécise » quand un homme est « réfléchi ». Dans l'ESS, ce biais se double d'une injonction au care : on attend des dirigeantes qu'elles soient à la fois performantes et bienveillantes, disponibles et stratégiques. Pour lutter contre ce phénomène, formez les instances de gouvernance aux biais de genre, mettez en place des critères d'évaluation objectifs et identiques, créez des réseaux de soutien entre dirigeantes (le CNCRESS ou les CRESS régionales facilitent parfois ces espaces), et n'hésitez pas à nommer explicitement le double standard quand il se manifeste.",
+    "rejected": "Si une femme dirigeante est critiquée, c'est peut-être lié à son style de management plutôt qu'à son genre. Il ne faut pas voir du sexisme partout, cela décrédibilise les vrais cas de discrimination.",
+    "tags": ["leadership", "double-standard", "dirigeantes"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
   }
 ]

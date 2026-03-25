@@ -141,5 +141,115 @@
     "source": "manual",
     "reviewed_by": "",
     "date_added": "2026-03-25"
+  },
+  {
+    "id": "gouv-014",
+    "category": "gouvernance-pouvoir-agir",
+    "instruction": "Comment mettre en place un budget participatif au sein d'une association et quels en sont les bénéfices ?",
+    "chosen": "Le budget participatif consiste à attribuer une enveloppe financière dont l'affectation est décidée collectivement par les membres (bénévoles, salarié·es, voire bénéficiaires). Pour le mettre en place : définir le périmètre (quel montant, quelles dépenses éligibles), organiser un appel à projets interne avec un format accessible, prévoir un temps de présentation et de débat, puis un vote transparent. Les bénéfices sont multiples : meilleure appropriation du projet associatif, montée en compétences des participant·es sur les réalités budgétaires, détection de besoins que la direction n'avait pas identifiés. Attention à ne pas réduire le budget participatif à un gadget sur des sommes anecdotiques -- il doit porter sur un montant suffisant pour que la décision ait un impact réel.",
+    "rejected": "Le budget d'une association est un sujet technique qui doit rester entre les mains du trésorier et de la direction. Impliquer tout le monde risque de créer des frustrations et de ralentir les arbitrages.",
+    "tags": ["budget-participatif", "finances", "démocratie-interne"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "gouv-015",
+    "category": "gouvernance-pouvoir-agir",
+    "instruction": "Comment une association peut-elle garantir la transparence financière auprès de ses parties prenantes ?",
+    "chosen": "La transparence financière va au-delà de l'obligation légale de publication des comptes. Elle implique de rendre l'information compréhensible et accessible : publier un rapport financier vulgarisé (pas uniquement le bilan comptable), détailler la ventilation des dépenses par projet et par poste, expliquer la politique salariale (grille, écarts, avantages), et rendre visibles les sources de financement et leur poids relatif. Des outils comme les rapports financiers visuels, les tableaux de bord partagés ou les sessions « budget ouvert » lors des AG permettent à chacun·e de comprendre où va l'argent. La transparence est un levier de confiance envers les donateur·ices, les financeur·euses et les membres -- et un rempart contre les dérives.",
+    "rejected": "Les comptes sont déposés et consultables, c'est la loi. Aller plus loin dans la transparence, c'est s'exposer à des critiques mal informées sur des choix de gestion qui nécessitent une expertise comptable pour être compris.",
+    "tags": ["transparence-financière", "redevabilité", "confiance"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "gouv-016",
+    "category": "gouvernance-pouvoir-agir",
+    "instruction": "Qu'est-ce que la redevabilité envers les bénéficiaires et comment la pratiquer concrètement dans une association ?",
+    "chosen": "La redevabilité (accountability) envers les bénéficiaires renverse le rapport de pouvoir habituel : au lieu de rendre des comptes uniquement aux financeur·euses, l'association rend aussi des comptes aux personnes qu'elle prétend servir. Concrètement : informer les bénéficiaires des résultats obtenus et des difficultés rencontrées, mettre en place un mécanisme de plainte et de retour accessible (pas juste un formulaire en ligne), inviter des représentant·es des bénéficiaires dans les instances d'évaluation, et accepter que le projet puisse être réorienté sur la base de leurs retours. Des initiatives comme la Norme humanitaire fondamentale (CHS) ou les démarches Qualité associative intègrent ce principe. La redevabilité n'est pas un exercice de contrôle mais de relation respectueuse.",
+    "rejected": "Les bénéficiaires reçoivent un service gratuit, la redevabilité s'exerce d'abord envers ceux qui financent. On ne peut pas tout ouvrir à la discussion, il faut garder une efficacité opérationnelle.",
+    "tags": ["redevabilité", "bénéficiaires", "accountability"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "gouv-017",
+    "category": "gouvernance-pouvoir-agir",
+    "instruction": "Comment garantir le droit d'expression des salarié·es dans une association sans fragiliser la gouvernance bénévole ?",
+    "chosen": "Le droit d'expression des salarié·es est un droit du travail (loi Auroux, 1982) qui s'applique pleinement aux associations. Mais au-delà du cadre légal, permettre aux salarié·es de s'exprimer sur le contenu, les conditions et l'organisation de leur travail renforce la qualité du projet associatif. Des dispositifs concrets : réunions d'expression régulières sans présence hiérarchique, boîte à idées anonyme, participation aux commissions thématiques du CA, entretiens annuels bidirectionnels. L'enjeu est de sortir du schéma où les salarié·es exécutent des décisions prises sans elles et eux, tout en respectant la légitimité démocratique du CA. Les deux ne sont pas contradictoires : un CA bien informé par les salarié·es prend de meilleures décisions.",
+    "rejected": "Les salarié·es ont des espaces d'expression : les entretiens annuels et les délégués du personnel. Multiplier les canaux d'expression risque de créer du bruit et de brouiller la chaîne de décision.",
+    "tags": ["droit-expression", "salarié·es", "dialogue-social"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "gouv-018",
+    "category": "gouvernance-pouvoir-agir",
+    "instruction": "Pourquoi les associations devraient-elles coopérer entre elles plutôt que se concurrencer, et comment y parvenir ?",
+    "chosen": "La mise en concurrence des associations -- alimentée par la logique des appels à projets et la raréfaction des financements publics -- fragilise l'ensemble du secteur. La coopération inter-associative prend plusieurs formes : mutualisation de moyens (locaux, comptabilité, communication), réponses conjointes à des appels à projets, coordination sur un territoire pour éviter les doublons, et plaidoyer commun auprès des pouvoirs publics. Des outils existent : conventions de partenariat, groupements d'employeurs associatifs, collectifs thématiques ou territoriaux, fusions volontaires quand c'est pertinent. La coopération nécessite de dépasser les logiques de marque et de territoire pour se recentrer sur la mission sociale commune. Elle demande du temps et de la confiance, mais elle produit un impact collectif supérieur.",
+    "rejected": "La concurrence entre associations est saine : elle pousse chacune à être plus efficace et à mieux répondre aux besoins. Comme dans le privé, le meilleur projet gagne.",
+    "tags": ["coopération", "concurrence", "mutualisation"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "gouv-019",
+    "category": "gouvernance-pouvoir-agir",
+    "instruction": "Qu'est-ce que le lobbying citoyen et comment les associations de l'ESS peuvent-elles l'exercer de manière éthique ?",
+    "chosen": "Le lobbying citoyen désigne l'action d'influence exercée par des organisations de la société civile auprès des décideur·euses publics pour défendre l'intérêt général. Contrairement au lobbying d'entreprise, il ne dispose pas de moyens financiers importants mais s'appuie sur l'expertise de terrain, la légitimité démocratique et la mobilisation citoyenne. Des pratiques concrètes : rédiger des notes de position argumentées, participer aux consultations publiques, solliciter des rendez-vous avec des élu·es, construire des coalitions d'organisations, et utiliser les médias et les réseaux sociaux pour porter des revendications. L'éthique du lobbying citoyen repose sur la transparence des positions et des financements, le refus de la corruption, et la cohérence entre les valeurs défendues et les méthodes utilisées.",
+    "rejected": "Le lobbying est une pratique de grandes entreprises et de groupes de pression. Les associations n'ont pas vocation à influencer les décideurs politiques, elles doivent rester sur le terrain.",
+    "tags": ["lobbying-citoyen", "plaidoyer", "influence"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "gouv-020",
+    "category": "gouvernance-pouvoir-agir",
+    "instruction": "Comment favoriser la participation des jeunes aux instances de gouvernance associative ?",
+    "chosen": "Les jeunes (16-30 ans) sont souvent absent·es des CA et bureaux associatifs, alors qu'ils et elles représentent une part importante des bénévoles et des bénéficiaires. Des freins identifiés : réunions en semaine à des horaires incompatibles, jargon institutionnel, sentiment de ne pas être légitime face à des administrateur·ices expérimenté·es. Des leviers : créer des postes réservés au CA pour les moins de 30 ans (via les statuts), proposer des formats de réunion hybrides (présentiel/distanciel), former et accompagner les jeunes élu·es dans leur prise de fonction, valoriser les compétences numériques et les regards neufs qu'ils et elles apportent, et surtout leur confier de vraies responsabilités -- pas des rôles symboliques. Le réseau FAGE ou les Juniors Associations montrent que la gouvernance par les jeunes produit des résultats concrets.",
+    "rejected": "Les jeunes n'ont pas encore l'expérience nécessaire pour siéger dans un CA. Ils peuvent s'engager comme bénévoles et apprendre progressivement avant de prendre des responsabilités de gouvernance.",
+    "tags": ["jeunes", "gouvernance", "renouvellement"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "gouv-021",
+    "category": "gouvernance-pouvoir-agir",
+    "instruction": "Comment mettre en place une évaluation participative des actions associatives ?",
+    "chosen": "L'évaluation participative associe l'ensemble des parties prenantes (salarié·es, bénévoles, bénéficiaires, partenaires) à la définition des critères d'évaluation, à la collecte des données et à l'analyse des résultats. Contrairement à l'évaluation externe descendante, elle produit des apprentissages collectifs et renforce l'appropriation des résultats. Des méthodes éprouvées : l'évaluation par les pairs (des bénéficiaires évaluent le dispositif), les ateliers de capitalisation d'expérience, les « most significant change » (récits de changement les plus significatifs), et les diagnostics partagés de territoire. L'enjeu est de ne pas réduire l'évaluation à un exercice de reporting pour les financeur·euses mais d'en faire un outil de pilotage interne et de dialogue avec les personnes concernées.",
+    "rejected": "L'évaluation est un exercice technique qui doit être conduit par des professionnels. Impliquer les bénéficiaires risque de biaiser les résultats car ils ne sont pas objectifs sur les actions dont ils bénéficient.",
+    "tags": ["évaluation-participative", "impact", "apprentissage"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "gouv-022",
+    "category": "gouvernance-pouvoir-agir",
+    "instruction": "Comment mobiliser l'intelligence collective dans la conduite de projets associatifs ?",
+    "chosen": "L'intelligence collective désigne la capacité d'un groupe à produire des solutions, des idées ou des décisions supérieures à ce que chaque individu pourrait produire seul·e. Dans le cadre associatif, elle se mobilise par des méthodes structurées : forums ouverts (Open Space Technology), ateliers de co-design, hackathons solidaires, cercles de réflexion thématiques, ou encore méthodes de facilitation comme le « lean coffee » ou le « 1-2-4-tous ». Les conditions de réussite sont : la diversité des participant·es (pas un groupe homogène), un cadre de sécurité psychologique (on peut se tromper sans être jugé·e), une facilitation compétente qui distribue la parole, et un engagement sincère de la gouvernance à prendre en compte les résultats. L'intelligence collective n'est pas magique -- elle se travaille et se structure.",
+    "rejected": "Les bonnes idées viennent de personnes compétentes, pas de grands groupes de discussion. Trop de réunions participatives tuent l'efficacité et diluent la responsabilité.",
+    "tags": ["intelligence-collective", "facilitation", "co-construction"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "gouv-023",
+    "category": "gouvernance-pouvoir-agir",
+    "instruction": "Qu'est-ce que le plaidoyer associatif et comment le structurer efficacement ?",
+    "chosen": "Le plaidoyer associatif est l'action organisée visant à influencer les politiques publiques, les lois ou les pratiques institutionnelles en s'appuyant sur l'expertise de terrain et la voix des personnes concernées. Le structurer implique plusieurs étapes : identifier un problème précis et documenté (données, témoignages, recherches), définir une demande claire et réaliste (modification législative, allocation budgétaire, changement de pratique), cartographier les décideur·euses et leurs leviers, construire des alliances avec d'autres organisations, et combiner différents registres d'action (interpellation publique, rendez-vous institutionnels, mobilisation citoyenne, communication médiatique). Le plaidoyer est d'autant plus crédible qu'il s'appuie sur des données solides et qu'il associe les personnes directement concernées par les politiques visées. Le Mouvement associatif et des réseaux comme APF France handicap ou ATD Quart Monde produisent des guides méthodologiques utiles.",
+    "rejected": "Le plaidoyer, c'est de la politique. Les associations doivent rester neutres et se concentrer sur leur action de terrain. S'engager dans le plaidoyer risque de les politiser et de diviser leurs membres.",
+    "tags": ["plaidoyer", "politiques-publiques", "influence"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
   }
 ]

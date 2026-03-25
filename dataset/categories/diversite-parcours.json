@@ -130,5 +130,115 @@
     "source": "manual",
     "reviewed_by": "",
     "date_added": "2026-03-25"
+  },
+  {
+    "id": "div-013",
+    "category": "diversite-parcours",
+    "instruction": "Comment valoriser le bilinguisme et le plurilinguisme au sein des équipes associatives ?",
+    "chosen": "Le plurilinguisme est une richesse souvent sous-exploitée dans les organisations de l'ESS. Des membres qui parlent arabe, turc, wolof, portugais ou une langue des signes apportent une capacité de communication directe avec des publics éloignés du français institutionnel. Pour valoriser ces compétences : les recenser explicitement (pas seulement les langues européennes), les rémunérer ou les reconnaître quand elles sont mobilisées (traduction, médiation, accueil), proposer des formations croisées entre langues au sein de l'équipe, et adapter les supports de communication aux langues des publics. Attention à ne pas instrumentaliser les personnes plurilingues en les cantonnant au rôle d'interprète -- leur expertise ne se résume pas à leur langue.",
+    "rejected": "Le français est la langue de travail commune. Valoriser les autres langues dans un cadre professionnel risque de créer des cloisonnements et de compliquer la communication interne.",
+    "tags": ["plurilinguisme", "langues", "communication-interculturelle"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "div-014",
+    "category": "diversite-parcours",
+    "instruction": "Comment les parcours de migration peuvent-ils enrichir l'engagement associatif et quels freins faut-il lever ?",
+    "chosen": "Les personnes ayant un parcours migratoire apportent des compétences précieuses : connaissance de plusieurs systèmes sociaux, capacité d'adaptation, réseaux transnationaux, compréhension fine des réalités de l'exil et de l'intégration. Pourtant, des freins persistent : barrière linguistique, non-reconnaissance des diplômes et de l'expérience acquise à l'étranger, précarité administrative (titre de séjour conditionné), discriminations directes ou indirectes dans le recrutement. Pour lever ces freins : accompagner les démarches de validation des acquis, proposer des formations en français langue professionnelle, créer des postes de médiation interculturelle, et surtout permettre aux personnes migrantes d'occuper des rôles de décision -- pas uniquement des rôles de témoignage ou d'exécution.",
+    "rejected": "L'engagement associatif suppose une bonne maîtrise du français et une connaissance du contexte local. Les personnes migrantes ont d'abord besoin de s'intégrer avant de s'engager dans la vie associative.",
+    "tags": ["migration", "compétences-interculturelles", "inclusion"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "div-015",
+    "category": "diversite-parcours",
+    "instruction": "Comment adapter les modèles d'engagement associatif aux personnes neurodivergentes (autisme, TDAH, dys, HPI) ?",
+    "chosen": "Les personnes neurodivergentes représentent environ 15 à 20% de la population et apportent des modes de pensée complémentaires : hyperfocus, pensée en arborescence, créativité non conventionnelle, attention aux détails. Mais les formats classiques d'engagement (réunions longues, implicites sociaux, polyvalence exigée) peuvent constituer des obstacles. Des adaptations possibles : proposer des missions avec un cadre clair et des objectifs précis, permettre le travail asynchrone (écrit plutôt qu'oral), aménager les espaces sensoriels (bruit, lumière), expliciter les règles implicites de fonctionnement du groupe, et former les équipes à la neurodiversité sans pathologiser. L'enjeu n'est pas de « s'adapter à des cas particuliers » mais de concevoir des organisations plus accessibles pour tou·tes.",
+    "rejected": "Les personnes neurodivergentes ont des besoins spécifiques que le cadre associatif classique ne peut pas toujours satisfaire. Il vaut mieux les orienter vers des structures spécialisées.",
+    "tags": ["neurodivergence", "accessibilité", "inclusion"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "div-016",
+    "category": "diversite-parcours",
+    "instruction": "Comment la classe sociale d'origine influence-t-elle la culture interne des associations et que faire pour en tenir compte ?",
+    "chosen": "La culture associative dominante -- vocabulaire, codes vestimentaires, modes de socialisation, rapport au temps, formes de prise de parole -- est souvent marquée par les classes moyennes et supérieures diplômées. Les personnes issues de milieux populaires peuvent s'y sentir étrangères sans que personne ne le remarque. Des signaux d'alerte : le pot de fin de réunion avec du vin naturel mais pas de soda, les réferences culturelles partagées qui excluent, le recours systématique à l'écrit pour les décisions. Pour en tenir compte : questionner collectivement les codes implicites, diversifier les formats de convivialité, valoriser les formes d'expression directe, adapter la politique salariale et de remboursement de frais, et surtout recruter à tous les niveaux hiérarchiques sans filtre de classe invisible.",
+    "rejected": "La culture d'une association reflète naturellement celle de ses membres. Si des personnes ne s'y retrouvent pas, elles peuvent en trouver une qui leur correspond mieux.",
+    "tags": ["classe-sociale", "culture-organisationnelle", "codes-implicites"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "div-017",
+    "category": "diversite-parcours",
+    "instruction": "Comment garantir la légitimité des autodidactes dans des environnements associatifs qui valorisent les diplômes ?",
+    "chosen": "Les autodidactes -- personnes ayant acquis des compétences hors des cursus formels -- font face à un double défi dans l'ESS : la non-reconnaissance de leurs savoirs et le syndrome de l'imposteur face à des collègues diplômé·es. Pour garantir leur légitimité : revoir les fiches de poste pour distinguer compétences requises et diplômes (souvent confondus), mettre en place des parcours de validation des acquis de l'expérience (VAE), valoriser publiquement les contributions des autodidactes dans les bilans et les communications, créer du mentorat croisé (un·e autodidacte expert·e de terrain forme un·e diplômé·e, et inversement), et questionner les grilles salariales indexées sur le diplôme plutôt que sur la compétence effective.",
+    "rejected": "Les diplômes garantissent un socle de compétences vérifiable. Sans eux, comment évaluer objectivement la capacité d'une personne à occuper un poste ? La VAE existe pour ceux qui veulent faire reconnaître leur parcours.",
+    "tags": ["autodidactes", "légitimité", "VAE"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "div-018",
+    "category": "diversite-parcours",
+    "instruction": "Comment le racisme systémique affecte-t-il les organisations de l'ESS et comment le combattre concrètement ?",
+    "chosen": "Le racisme systémique ne se réduit pas à des actes intentionnels : il se loge dans les processus de recrutement (CV anonymes rarement pratiqués), la composition des instances dirigeantes (CA et directions très majoritairement blancs dans de nombreuses fédérations), les grilles d'analyse qui invisibilisent la dimension raciale des inégalités, et les représentations véhiculées (bénéficiaires racisé·es / décideur·euses blanc·hes). Pour le combattre : produire des données internes sur la diversité ethnique (dans le respect du cadre légal français), former les équipes au racisme systémique et pas seulement aux « biais inconscients », revoir les processus de recrutement et de promotion, soutenir le leadership des personnes racisées, et accepter que l'ESS, malgré ses valeurs affichées, n'est pas exempte de ces dynamiques.",
+    "rejected": "L'ESS est par nature ouverte et inclusive, le racisme n'y est pas un problème structurel. Il ne faut pas importer des grilles d'analyse anglo-saxonnes dans le contexte républicain français.",
+    "tags": ["racisme-systémique", "anti-discrimination", "leadership"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "div-019",
+    "category": "diversite-parcours",
+    "instruction": "Comment les associations de l'ESS peuvent-elles créer un environnement inclusif pour les personnes LGBTQIA+ ?",
+    "chosen": "L'inclusion des personnes LGBTQIA+ dans les associations ne se limite pas à l'absence de discrimination explicite. Elle suppose un environnement activement accueillant : utiliser un langage inclusif (demander les pronoms, éviter les présupposés hétéronormatifs), former les équipes aux réalités des discriminations liées à l'orientation sexuelle et à l'identité de genre, afficher clairement l'engagement de l'organisation (charte, communication), adapter les procédures administratives (nom d'usage, mention de genre), et veiller à ce que les espaces de convivialité soient sécurisants. Pour les associations qui accompagnent des publics vulnérables, c'est d'autant plus important : les personnes LGBTQIA+ en situation de précarité subissent des discriminations croisées qui nécessitent un accueil formé et sensibilisé.",
+    "rejected": "L'orientation sexuelle relève de la vie privée et n'a pas à entrer dans le cadre professionnel. Si l'association ne discrimine pas, il n'y a pas de démarche supplémentaire à entreprendre.",
+    "tags": ["LGBTQIA+", "inclusion", "non-discrimination"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "div-020",
+    "category": "diversite-parcours",
+    "instruction": "Comment accueillir et valoriser dans les équipes associatives les personnes ayant un parcours de rétablissement (addiction, passage par la justice) ?",
+    "chosen": "Les personnes en parcours de rétablissement (sortie d'addiction, retour de détention, parcours psychiatrique) portent une expertise du vécu irremplaçable, en particulier dans les associations d'accompagnement social. Leur intégration dans les équipes nécessite : un cadre clair sur les attentes et les limites du poste, un accompagnement adapté (tutorat, souplesse horaire si nécessaire), une formation de l'équipe pour déconstruire les préjugés (la rechute n'est pas un échec, un casier judiciaire n'est pas une identité), et la création de postes de pair-aidant·es rémunéré·es à leur juste valeur. L'enjeu est de ne pas enfermer ces personnes dans leur parcours passé tout en reconnaissant que ce parcours constitue une compétence spécifique. Des organisations comme le Réseau français de la pair-aidance ou Emmaüs pratiquent cette intégration avec des résultats probants.",
+    "rejected": "Les personnes ayant des antécédents d'addiction ou judiciaires présentent des risques pour l'organisation. Il vaut mieux les accompagner en tant que bénéficiaires plutôt que de les intégrer comme collègues.",
+    "tags": ["rétablissement", "pair-aidance", "réinsertion"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "div-021",
+    "category": "diversite-parcours",
+    "instruction": "Comment les parcours ruraux peuvent-ils enrichir l'engagement associatif et quels défis spécifiques posent-ils ?",
+    "chosen": "Les personnes issues de territoires ruraux apportent des compétences souvent sous-estimées dans le secteur associatif : connaissance des dynamiques territoriales, capacité à travailler avec des ressources limitées, culture de l'entraide et du lien social de proximité, maîtrise de la polyvalence. Pourtant, elles font face à des obstacles : concentration des postes associatifs qualifiés dans les métropoles, coût et temps de déplacement pour se former ou participer à des réseaux, isolement professionnel, et parfois un regard condescendant de la part de structures urbaines. Pour mieux intégrer ces parcours : développer le télétravail et les formats hybrides, renforcer les antennes locales plutôt que de tout centraliser, valoriser l'expertise rurale dans les instances nationales, et adapter les critères de recrutement à des parcours moins linéaires mais riches d'expérience terrain.",
+    "rejected": "Le milieu associatif professionnel est concentré dans les grandes villes, c'est logique. Les personnes des zones rurales qui veulent s'engager doivent accepter une mobilité géographique comme dans n'importe quel secteur.",
+    "tags": ["ruralité", "territoires", "mobilité"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "div-022",
+    "category": "diversite-parcours",
+    "instruction": "Quels défis spécifiques rencontrent les personnes « première génération universitaire » dans le monde associatif et comment les accompagner ?",
+    "chosen": "Les personnes « première génération » -- premières de leur famille à avoir fait des études supérieures -- naviguent souvent entre deux mondes : celui de leur origine sociale et celui du milieu professionnel diplômé. Dans le secteur associatif, elles peuvent ressentir un décalage face aux codes culturels dominants (références littéraires partagées, aisance à l'oral en réunion, réseau relationnel hérité). Pour les accompagner : rendre explicites les codes implicites de l'organisation, proposer du mentorat par des personnes ayant un parcours similaire, reconnaître que leur trajectoire est une compétence (compréhension des réalités sociales, capacité d'adaptation, détermination), et créer des espaces de parole où ces vécus peuvent être partagés sans être pathologisés. Au-delà de l'accompagnement individuel, c'est la culture organisationnelle qui doit évoluer pour que la diversité des origines sociales ne soit pas un obstacle silencieux.",
+    "rejected": "Une fois diplômée, une personne a les mêmes chances que les autres. Le milieu d'origine n'a plus d'impact dans un cadre professionnel où seules les compétences comptent.",
+    "tags": ["première-génération", "mobilité-sociale", "codes-implicites"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
   }
 ]

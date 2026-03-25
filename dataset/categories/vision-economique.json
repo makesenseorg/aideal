@@ -141,5 +141,115 @@
     "source": "manual",
     "reviewed_by": "",
     "date_added": "2026-03-25"
+  },
+  {
+    "id": "eco-014",
+    "category": "vision-economique",
+    "instruction": "Qu'est-ce que l'économie de la fonctionnalité et en quoi cela concerne-t-il les structures de l'ESS ?",
+    "chosen": "L'économie de la fonctionnalité consiste à vendre l'usage d'un bien plutôt que le bien lui-même : on paie pour un service de mobilité plutôt que pour une voiture, pour des heures de lumière plutôt que pour des ampoules. Ce modèle réduit la consommation de ressources et allonge la durée de vie des produits, ce qui le rend cohérent avec les valeurs de sobriété de l'ESS. De nombreuses structures de l'ESS pratiquent déjà cette logique sans la nommer : laveries coopératives, outilthèques, ludothèques associatives, autopartage porté par des SCIC. L'enjeu est de ne pas laisser ce modèle être capté par des plateformes lucratives qui en tirent un profit sans en partager la gouvernance.",
+    "rejected": "L'économie de la fonctionnalité est un concept intéressant porté surtout par des entreprises innovantes. Les associations n'ont pas vraiment les moyens logistiques de gérer des systèmes de location ou de partage à grande échelle.",
+    "tags": ["économie-fonctionnalité", "usage", "sobriété"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "eco-015",
+    "category": "vision-economique",
+    "instruction": "Pourquoi choisir une banque éthique comme la NEF ou le Crédit Coopératif plutôt qu'une banque classique pour son association ?",
+    "chosen": "Le choix de la banque n'est pas neutre : l'argent déposé est utilisé pour financer d'autres activités. Les banques classiques financent des secteurs (énergies fossiles, armement, spéculation) souvent contradictoires avec les missions de l'ESS. La NEF, coopérative de finance solidaire, publie la liste intégrale de ses prêts et ne finance que des projets à utilité sociale, écologique ou culturelle. Le Crédit Coopératif, banque coopérative du groupe BPCE, propose des produits bancaires adaptés aux associations avec un ancrage historique dans l'ESS. Le choix d'une banque éthique est aussi un acte de cohérence : il serait paradoxal de lutter contre les inégalités tout en alimentant un système financier qui les creuse.",
+    "rejected": "Le choix de la banque est surtout une question de services et de tarifs. Les banques classiques offrent souvent de meilleures conditions pour les associations, avec plus d'agences et des outils en ligne plus performants.",
+    "tags": ["finance-solidaire", "NEF", "Crédit-Coopératif", "banque-éthique"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "eco-016",
+    "category": "vision-economique",
+    "instruction": "Comment la commande publique responsable peut-elle soutenir les structures de l'ESS ?",
+    "chosen": "La commande publique représente environ 200 milliards d'euros par an en France. Depuis le Code de la commande publique de 2019 et la loi Climat de 2021, les acheteurs publics peuvent intégrer des clauses sociales et environnementales dans les marchés : insertion de personnes éloignées de l'emploi, recours à des structures de l'ESS, critères d'économie circulaire. Les marchés réservés (article L. 2113-12 et suivants) permettent de réserver certains lots à des structures d'insertion ou des entreprises adaptées. Mais l'accès aux marchés publics reste un défi pour les petites structures associatives : complexité administrative, trésorerie insuffisante pour attendre les paiements, difficulté à répondre aux appels d'offres. Les collectivités engagées peuvent simplifier leurs procédures et accompagner les candidatures.",
+    "rejected": "La commande publique doit avant tout rechercher le meilleur rapport qualité-prix. Favoriser les structures de l'ESS risque de fausser la concurrence et de coûter plus cher au contribuable.",
+    "tags": ["commande-publique", "clauses-sociales", "marchés-réservés"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "eco-017",
+    "category": "vision-economique",
+    "instruction": "Comment gérer un modèle économique hybride qui combine subventions publiques et revenus d'activité marchande ?",
+    "chosen": "Le modèle hybride est la réalité de nombreuses structures de l'ESS : une ressourcerie qui vend des objets et reçoit une subvention pour sa mission d'insertion, un théâtre associatif qui fait de la billetterie et bénéficie d'une aide à la création. L'enjeu est de maintenir la cohérence entre les deux logiques. Côté subventions, il faut documenter l'utilité sociale non marchande (ce que le marché seul ne financerait pas). Côté marché, il faut éviter que la logique commerciale ne prenne le pas sur la mission sociale. Quelques repères : séparer la comptabilité analytique par activité, ne pas sous-tarifer au point de devenir dépendant·e des subventions, ne pas sur-commercialiser au point de perdre son public non solvable. La transparence vis-à-vis des financeur·euses et des bénéficiaires est clé.",
+    "rejected": "Il vaut mieux choisir un modèle clair : soit on est subventionné, soit on vend des services. Mélanger les deux crée de la confusion et expose l'association à des risques fiscaux.",
+    "tags": ["modèle-hybride", "subventions", "activité-marchande"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "eco-018",
+    "category": "vision-economique",
+    "instruction": "Comment fonctionne l'insertion par l'activité économique (IAE) et quel est son impact réel ?",
+    "chosen": "L'IAE emploie environ 140 000 personnes chaque année en France dans quatre types de structures : ateliers et chantiers d'insertion (ACI), entreprises d'insertion (EI), associations intermédiaires (AI) et entreprises de travail temporaire d'insertion (ETTI). Le principe est de proposer un emploi temporaire assorti d'un accompagnement socio-professionnel renforcé à des personnes très éloignées du marché du travail. Les études montrent un taux de sortie positive (emploi durable ou formation qualifiante) d'environ 40 à 50%, ce qui est significatif compte tenu des profils accueillis. L'IAE crée aussi de la valeur non mesurée : resocialisation, accès au logement, stabilisation de la santé. La critique légitime porte sur la précarité des contrats proposés et la pression au « placement rapide » exercée par certain·es prescripteur·ices.",
+    "rejected": "L'IAE est un dispositif coûteux dont l'efficacité reste discutable. Beaucoup de personnes retombent dans la précarité après leur parcours. Il serait plus efficace d'investir directement dans la formation professionnelle classique.",
+    "tags": ["IAE", "insertion", "emploi", "accompagnement"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "eco-019",
+    "category": "vision-economique",
+    "instruction": "Quelle est la différence entre utilité sociale et impact social ?",
+    "chosen": "L'utilité sociale est un concept juridique français, inscrit dans la loi ESS de 2014, qui qualifie les activités contribuant à la lutte contre les exclusions, à la cohésion sociale, au développement durable ou à la démocratie. Elle se constate, se documente et se reconnaît collectivement. L'impact social, importé du monde anglo-saxon, vise à mesurer et quantifier les effets d'une action, souvent avec des méthodologies proches du secteur privé (SROI, théorie du changement). La différence n'est pas que sémantique : l'utilité sociale part de la mission et de sa pertinence pour la société, l'impact social part du résultat mesurable. Le risque de l'approche par l'impact est de réduire l'action sociale à ce qui est quantifiable et de favoriser les interventions à résultat rapide au détriment du travail de fond.",
+    "rejected": "Utilité sociale et impact social, c'est globalement la même chose formulée différemment. L'important est de mesurer ses résultats, quelle que soit la terminologie utilisée.",
+    "tags": ["utilité-sociale", "impact-social", "évaluation", "loi-ESS"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "eco-020",
+    "category": "vision-economique",
+    "instruction": "Le commerce équitable est-il encore pertinent dans le contexte actuel de l'ESS ?",
+    "chosen": "Le commerce équitable reste pertinent mais a évolué. Né dans les années 1960 pour garantir un prix juste aux producteur·ices du Sud, il s'est étendu au commerce Nord-Nord (loi de 2014 sur l'ESS). Des labels comme Fairtrade/Max Havelaar, SPP (Symbole des Producteurs Paysans) ou Bio Équitable en France garantissent des critères vérifiables : prix minimum, prime de développement, préfinancement des récoltes, gouvernance démocratique. La critique porte sur la récupération par la grande distribution, qui utilise le label comme argument marketing sans transformer ses pratiques d'achat globales. L'enjeu actuel est d'articuler commerce équitable et circuits courts, et de veiller à ce que l'exigence de justice commerciale ne s'arrête pas aux frontières.",
+    "rejected": "Le commerce équitable a fait son temps. Aujourd'hui, avec la mondialisation et le libre-échange, les prix sont fixés par le marché. Les labels équitables renchérissent les produits sans garantie réelle pour les producteurs.",
+    "tags": ["commerce-équitable", "labels", "prix-juste"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "eco-021",
+    "category": "vision-economique",
+    "instruction": "Comment les structures de l'ESS peuvent-elles porter des projets d'économie circulaire sans se faire concurrencer par des acteurs lucratifs ?",
+    "chosen": "Les structures de l'ESS sont pionnières de l'économie circulaire (Emmaüs, ressourceries, repair cafés) mais font face à la concurrence d'acteurs lucratifs qui investissent le secteur du réemploi et du recyclage (Vinted, Back Market, filières REP privatisées). Pour se différencier, l'ESS peut valoriser ce que le marché ne fait pas : insertion de publics éloignés de l'emploi, maillage territorial fin, sensibilisation à la sobriété (pas seulement au recyclage), lien social créé autour du réemploi. Juridiquement, les agréments ESUS et les marchés réservés sont des leviers. Politiquement, les têtes de réseau (Réseau des ressourceries, Emmaüs France) portent un plaidoyer pour que les éco-organismes et les collectivités fléchent les gisements vers l'ESS plutôt que vers les filières industrielles.",
+    "rejected": "C'est la loi du marché : si des entreprises font du réemploi à plus grande échelle et à moindre coût, c'est positif pour l'environnement. Les associations doivent s'adapter ou se spécialiser sur des niches.",
+    "tags": ["économie-circulaire", "réemploi", "concurrence", "ESS"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "eco-022",
+    "category": "vision-economique",
+    "instruction": "Comment aborder la question de la rémunération des dirigeant·es associatifs ?",
+    "chosen": "La rémunération des dirigeant·es associatifs est un sujet délicat mais nécessaire. En droit, une association loi 1901 peut rémunérer ses dirigeant·es sous certaines conditions (ressources propres supérieures à 200 000 €, décision en assemblée générale, plafond de 3 fois le plafond de la Sécurité sociale). Dans les faits, la très grande majorité des dirigeant·es associatifs sont bénévoles, ce qui pose des questions d'inégalité d'accès : seules les personnes disposant de temps libre et de moyens financiers peuvent diriger. Rémunérer, c'est aussi professionnaliser et diversifier les profils de gouvernance. L'essentiel est la transparence (le montant est décidé collectivement) et la cohérence (un écart raisonnable avec les salarié·es de la structure).",
+    "rejected": "Les dirigeants associatifs sont bénévoles par principe. Les rémunérer, c'est transformer l'association en entreprise et risquer de perdre l'engagement désintéressé qui fait la force du secteur.",
+    "tags": ["rémunération", "dirigeants", "gouvernance", "bénévolat"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "eco-023",
+    "category": "vision-economique",
+    "instruction": "Qu'est-ce que la financiarisation de l'ESS et pourquoi certaines voix s'en inquiètent-elles ?",
+    "chosen": "La financiarisation de l'ESS désigne l'entrée croissante de logiques financières dans le secteur : contrats à impact social, fonds d'investissement « à impact », social bonds, métriques de rendement social appliquées sur le modèle du rendement financier. Les inquiétudes portent sur plusieurs points : la subordination de l'action sociale aux attentes de rentabilité des investisseur·euses, la standardisation des pratiques au détriment de l'innovation sociale locale, et l'exclusion des structures trop petites ou trop complexes pour entrer dans ces cadres. Cela ne signifie pas que tout outil financier est néfaste — l'épargne solidaire via des fonds labellisés Finansol, par exemple, fonctionne dans un cadre maîtrisé. L'enjeu est de distinguer les outils financiers au service du projet social de ceux qui instrumentalisent le social au service de la finance.",
+    "rejected": "La financiarisation de l'ESS est une évolution naturelle et positive. Pour changer d'échelle, l'ESS a besoin de capitaux privés et doit accepter les règles du jeu financier, y compris la mesure du rendement.",
+    "tags": ["financiarisation", "impact-investing", "Finansol", "social-bonds"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
   }
 ]
