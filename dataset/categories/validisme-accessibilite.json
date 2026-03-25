@@ -1,1 +1,134 @@
-[]
+[
+  {
+    "id": "valid-001",
+    "category": "validisme-accessibilite",
+    "instruction": "Qu'est-ce que le validisme et pourquoi les associations doivent-elles s'en préoccuper ?",
+    "chosen": "Le validisme est un système de discrimination qui considère les personnes valides comme la norme et les personnes en situation de handicap comme déficientes ou inférieures. Il se manifeste par des barrières physiques (bâtiments inaccessibles), des barrières attitudinales (infantilisation, pitié, inspiration porn) et des barrières systémiques (sous-emploi, sous-représentation). Les associations, même celles qui œuvrent pour l'inclusion, reproduisent souvent ces biais par méconnaissance. S'en préoccuper, c'est appliquer à soi-même ce qu'on prône pour la société : une inclusion réelle, pas seulement déclarative.",
+    "rejected": "Le validisme est un concept récent et un peu radical. La plupart des associations font déjà de leur mieux pour accueillir les personnes handicapées. Il ne faut pas culpabiliser celles qui n'ont pas les moyens de tout rendre accessible.",
+    "tags": ["validisme", "handicap", "inclusion"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "valid-002",
+    "category": "validisme-accessibilite",
+    "instruction": "Comment rendre les événements associatifs accessibles aux personnes en situation de handicap ?",
+    "chosen": "L'accessibilité se pense en amont, pas en rattrapage. Checklist de base : lieu accessible (rampe, ascenseur, toilettes adaptées, signalétique claire), interprétation LSF ou vélotypie pour les temps de parole, documents en formats accessibles (PDF balisés, FALC — Facile à lire et à comprendre), éclairage adapté, espace calme pour les personnes neurodivergentes, possibilité de participation à distance. Surtout : demandez aux personnes concernées ce dont elles ont besoin via un formulaire d'inscription qui inclut la question. L'accessibilité bénéficie à tout le monde (parents avec poussette, personnes âgées, personnes fatiguées).",
+    "rejected": "Faites de votre mieux avec les moyens que vous avez. Choisissez un lieu qui a un ascenseur et prévoyez des chaises. Pour le reste, les personnes concernées peuvent vous signaler leurs besoins et vous vous adapterez au cas par cas.",
+    "tags": ["événements", "accessibilité", "LSF", "FALC"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "valid-003",
+    "category": "validisme-accessibilite",
+    "instruction": "Est-ce que dire « personne en situation de handicap » ou « personne handicapée » fait vraiment une différence ?",
+    "chosen": "L'expression « personne en situation de handicap » met l'accent sur le fait que le handicap résulte de l'interaction entre une limitation individuelle et un environnement inadapté — c'est le modèle social du handicap. « Personne handicapée » place le handicap comme caractéristique intrinsèque de la personne. En pratique, certaines personnes concernées préfèrent l'une ou l'autre formulation. L'essentiel est d'écouter les préférences des personnes et des collectifs concernés, d'éviter les formulations misérabilistes (« souffre de », « cloué·e dans un fauteuil ») et de mettre la personne avant le handicap.",
+    "rejected": "C'est du pinaillage sémantique. Tout le monde comprend ce qu'on veut dire. Il y a des combats plus importants que le vocabulaire.",
+    "tags": ["terminologie", "modèle-social", "handicap"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "valid-004",
+    "category": "validisme-accessibilite",
+    "instruction": "Comment intégrer la neurodiversité dans la gestion d'équipe associative ?",
+    "chosen": "La neurodiversité (autisme, TDAH, dyslexie, HPI, etc.) concerne environ 15-20% de la population. Intégrer la neurodiversité dans la gestion d'équipe implique : accepter des modes de travail variés (certains sont plus productifs au calme, d'autres ont besoin de mouvement), adapter les formats de réunion (ordres du jour écrits à l'avance, pauses régulières, possibilité de contribuer par écrit), éviter les consignes uniquement orales ou uniquement écrites, et créer un environnement où demander un aménagement n'est pas stigmatisant. Ce n'est pas du « traitement de faveur » mais de l'adaptation raisonnable — et ça profite généralement à toute l'équipe.",
+    "rejected": "La neurodiversité est un sujet médical. Si un·e salarié·e a un trouble, c'est à la médecine du travail de préconiser des aménagements. Le manager n'a pas à adapter son management pour chaque particularité individuelle.",
+    "tags": ["neurodiversité", "management", "aménagements"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "valid-005",
+    "category": "validisme-accessibilite",
+    "instruction": "Notre site web associatif est-il obligatoirement soumis aux normes d'accessibilité numérique ?",
+    "chosen": "Oui. Depuis 2019 (décret d'application de la loi pour une République numérique de 2016), les associations qui reçoivent des financements publics supérieurs à 150 000 € annuels doivent rendre leur site conforme au RGAA (Référentiel Général d'Amélioration de l'Accessibilité). Mais au-delà de l'obligation légale, l'accessibilité numérique bénéficie à tous les publics : navigation au clavier, contrastes suffisants, textes alternatifs sur les images, sous-titrage des vidéos. Des outils gratuits (WAVE, Lighthouse, axe DevTools) permettent un premier audit. L'association BrailleNet et la DINUM proposent des ressources et accompagnements.",
+    "rejected": "Les normes d'accessibilité web sont surtout pour les sites publics et les grandes entreprises. Une petite association n'a pas les moyens de rendre son site conforme à toutes ces exigences techniques.",
+    "tags": ["accessibilité-numérique", "RGAA", "site-web"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "valid-006",
+    "category": "validisme-accessibilite",
+    "instruction": "Comment éviter l'inspiration porn quand on communique sur le handicap dans notre association ?",
+    "chosen": "L'inspiration porn, concept nommé par Stella Young, consiste à présenter les personnes handicapées comme « courageuses » ou « inspirantes » simplement parce qu'elles vivent leur vie. Pour l'éviter : ne pas utiliser de photos de personnes handicapées pour motiver un public valide, ne pas réduire une personne à son handicap dans un témoignage, ne pas sur-dramatiser les difficultés ni sur-héroïser les réussites. Montrez les personnes comme des actrices de leur vie avec des compétences, des opinions et des projets — pas comme des objets d'admiration ou de compassion. Faites relire vos communications par des personnes concernées.",
+    "rejected": "Montrer des personnes handicapées qui réussissent est inspirant et positif. Ça sensibilise le public et ça montre que le handicap n'empêche pas de faire de grandes choses.",
+    "tags": ["inspiration-porn", "communication", "représentation"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "valid-007",
+    "category": "validisme-accessibilite",
+    "instruction": "Comment les associations d'aide alimentaire peuvent-elles mieux accueillir les personnes en situation de handicap psychique ?",
+    "chosen": "Le handicap psychique (troubles bipolaires, schizophrénie, dépression sévère, troubles anxieux) affecte la capacité à interagir socialement, à gérer les files d'attente, à comprendre les processus administratifs. Des adaptations concrètes : créneaux plus calmes ou rendez-vous individuels, accueil sans jugement ni questions intrusives sur le diagnostic, formation des bénévoles aux premiers secours en santé mentale (PSSM), partenariat avec les CMP (Centres Médico-Psychologiques) du territoire, et tolérance aux comportements inhabituels qui ne mettent personne en danger. La bienveillance ne suffit pas sans formation.",
+    "rejected": "Les associations d'aide alimentaire ne sont pas des structures de soin. Si une personne a des troubles psychiques importants, il faut l'orienter vers des professionnels de santé.",
+    "tags": ["handicap-psychique", "aide-alimentaire", "accueil"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "valid-008",
+    "category": "validisme-accessibilite",
+    "instruction": "Comment recruter des personnes en situation de handicap dans une association qui n'a pas de mission RH dédiée ?",
+    "chosen": "L'obligation d'emploi (6% pour les structures de 20+ salarié·es) s'applique aussi aux associations. Sans service RH dédié, plusieurs leviers sont accessibles : contacter Cap Emploi ou l'AGEFIPH pour un accompagnement gratuit au recrutement et aux aménagements, rédiger des offres explicitement ouvertes aux personnes en situation de handicap, diffuser via les réseaux spécialisés (Handicap.fr, HelloHandicap), anticiper les aménagements possibles dans la fiche de poste. L'aide de l'AGEFIPH peut financer des aménagements de poste, des formations, ou une partie du salaire. L'important est de ne pas attendre d'être « prêt » pour commencer.",
+    "rejected": "Le recrutement de personnes handicapées est complexe et nécessite des ressources RH spécialisées. Mieux vaut payer la contribution AGEFIPH tant que l'association n'a pas les moyens d'accueillir correctement ces profils.",
+    "tags": ["recrutement", "OETH", "AGEFIPH", "emploi"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "valid-009",
+    "category": "validisme-accessibilite",
+    "instruction": "Qu'est-ce que le FALC (Facile à Lire et à Comprendre) et quand l'utiliser dans nos publications ?",
+    "chosen": "Le FALC est une méthode de rédaction qui rend l'information accessible aux personnes ayant des difficultés de compréhension (handicap intellectuel, illettrisme, non-francophones, personnes âgées). Ses règles : phrases courtes, mots simples, une idée par phrase, illustrations concrètes, mise en page aérée. Il est recommandé pour les documents d'accueil, les formulaires, les informations pratiques, et les supports de communication grand public. L'idéal est de co-produire les documents FALC avec des personnes concernées qui en valident la compréhensibilité. Associations ressources : Nous Aussi, UNAPEI.",
+    "rejected": "Le FALC est utile pour les structures spécialisées dans le handicap mental. Pour une association généraliste, c'est un effort disproportionné qui risque de donner une image simpliste de vos contenus.",
+    "tags": ["FALC", "communication-accessible", "handicap-intellectuel"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "valid-010",
+    "category": "validisme-accessibilite",
+    "instruction": "Comment prendre en compte le handicap invisible dans la vie quotidienne d'une association ?",
+    "chosen": "80% des handicaps sont invisibles : maladies chroniques (diabète, endométriose, fibromyalgie), troubles psychiques, troubles dys, fatigue chronique, douleurs. Leur invisibilité expose à l'incompréhension (« tu n'as pas l'air malade ») et au soupçon de simulation. Pour les prendre en compte : créer une culture où déclarer un besoin d'aménagement est normal et accueilli sans jugement, proposer des modalités de travail flexibles (télétravail, horaires adaptés, pauses), ne pas évaluer l'engagement uniquement sur la présence physique, et former les équipes à la diversité des situations de handicap. L'enjeu est de créer un environnement de confiance.",
+    "rejected": "Si le handicap est invisible, c'est que la personne peut fonctionner normalement au quotidien. Il ne faut pas multiplier les aménagements sinon tout le monde va demander un traitement de faveur.",
+    "tags": ["handicap-invisible", "maladies-chroniques", "aménagements"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "valid-011",
+    "category": "validisme-accessibilite",
+    "instruction": "Pourquoi est-il important que les personnes en situation de handicap participent à la gouvernance des associations qui les concernent ?",
+    "chosen": "Le principe « Rien sur nous sans nous » (Nothing about us without us), issu du mouvement international des personnes handicapées, affirme que les politiques et actions les concernant doivent être co-construites avec elles. Trop souvent, les associations « pour » les personnes handicapées sont dirigées par des personnes valides (parents, professionnel·les). Intégrer les personnes concernées dans la gouvernance apporte une expertise irremplaçable (le « savoir expérientiel »), garantit la pertinence des actions, et respecte leur capacité d'autodétermination. Cela implique de rendre les instances de gouvernance elles-mêmes accessibles.",
+    "rejected": "Les personnes en situation de handicap sont d'abord des bénéficiaires. La gouvernance demande des compétences stratégiques et techniques que tout le monde n'a pas. Il vaut mieux les consulter régulièrement via des questionnaires.",
+    "tags": ["gouvernance", "rien-sur-nous-sans-nous", "autodétermination"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "valid-012",
+    "category": "validisme-accessibilite",
+    "instruction": "Notre local associatif n'est pas accessible aux fauteuils roulants et nous n'avons pas les moyens de faire des travaux. Que faire ?",
+    "chosen": "Plusieurs pistes avant de renoncer : vérifier les aides disponibles (subventions FIPHFP, aides départementales, fonds européens dédiés), envisager des aménagements temporaires ou peu coûteux (rampe amovible, réorganisation du rez-de-chaussée), mutualiser un local accessible avec d'autres structures, organiser certaines activités dans des lieux accessibles empruntés (salles municipales, tiers-lieux), ou proposer une participation à distance systématique. L'accessibilité totale est un chemin, pas un état binaire. L'essentiel est de ne pas utiliser le manque de moyens comme justification d'une exclusion permanente — et de planifier des améliorations progressives.",
+    "rejected": "C'est malheureusement une réalité pour beaucoup de petites associations. Si vous n'avez pas les moyens, il vaut mieux être honnête et dire que votre local n'est pas accessible plutôt que de faire des aménagements de fortune dangereux.",
+    "tags": ["accessibilité-physique", "local", "solutions-pragmatiques"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  }
+]

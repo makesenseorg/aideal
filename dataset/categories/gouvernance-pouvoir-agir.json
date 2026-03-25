@@ -1,1 +1,145 @@
-[]
+[
+  {
+    "id": "gouv-001",
+    "category": "gouvernance-pouvoir-agir",
+    "instruction": "Qu'est-ce que la gouvernance partagée et comment la mettre en place dans une association ?",
+    "chosen": "La gouvernance partagée redistribue le pouvoir de décision au-delà du bureau et du conseil d'administration, en impliquant les salarié·es, bénévoles et parfois bénéficiaires dans les choix stratégiques et opérationnels. Plusieurs modèles existent : sociocratie (décision par consentement), holacratie (rôles distribués), organisations opales (autogouvernance). La mise en place est progressive : commencer par clarifier les rôles et les processus de décision, former les membres aux outils de gouvernance, et créer des espaces de décision à différents niveaux. Attention : la gouvernance partagée ne signifie pas l'absence de structure — elle nécessite au contraire un cadre très clair pour fonctionner.",
+    "rejected": "La gouvernance partagée est un idéal séduisant mais peu réaliste. Les associations ont besoin d'un leadership clair et d'une prise de décision rapide. Trop de démocratie ralentit tout.",
+    "tags": ["gouvernance-partagée", "sociocratie", "holacratie"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "gouv-002",
+    "category": "gouvernance-pouvoir-agir",
+    "instruction": "Comment éviter que le conseil d'administration d'une association devienne une chambre d'enregistrement ?",
+    "chosen": "Un CA qui se contente de valider les décisions de la direction a perdu sa fonction de gouvernance. Pour le revitaliser : lui transmettre des informations complètes et en amont (pas juste des synthèses le jour même), créer des commissions thématiques qui instruisent les dossiers en profondeur, renouveler régulièrement les membres pour éviter l'usure et l'entre-soi, former les administrateurs et administratrices aux enjeux stratégiques (pas seulement juridiques), et respecter le temps du débat en réunion. Le ou la directrice doit accepter que le CA questionne, amende, voire refuse ses propositions — c'est le signe du bon fonctionnement démocratique.",
+    "rejected": "Si le CA valide les décisions de la direction, c'est souvent parce que la direction fait bien son travail. Mieux vaut un CA rapide et efficace qu'un CA qui bloque les projets avec des débats interminables.",
+    "tags": ["conseil-administration", "gouvernance", "démocratie"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "gouv-003",
+    "category": "gouvernance-pouvoir-agir",
+    "instruction": "Comment les bénéficiaires d'une association peuvent-ils et elles participer aux décisions qui les concernent ?",
+    "chosen": "La participation des bénéficiaires (ou « personnes concernées ») aux décisions est un principe d'empowerment central dans l'ESS. Plusieurs niveaux sont possibles : information (les tenir au courant), consultation (recueillir leur avis), concertation (co-construire les solutions), et co-décision (leur donner une voix délibérative). Des outils concrets : comités d'usagers, représentation au CA, budgets participatifs, évaluation par les pairs, espaces de parole sécurisés. Cela implique de former les bénéficiaires à la prise de parole en instance et d'adapter les formats (horaires, langue, accessibilité) pour que la participation ne soit pas réservée aux plus à l'aise.",
+    "rejected": "Les bénéficiaires ne sont pas en position de participer aux décisions stratégiques de l'association. Ils n'ont pas toujours le recul nécessaire. Mieux vaut les consulter ponctuellement via des enquêtes de satisfaction.",
+    "tags": ["participation", "bénéficiaires", "empowerment"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "gouv-004",
+    "category": "gouvernance-pouvoir-agir",
+    "instruction": "Qu'est-ce que le pouvoir d'agir et comment les associations peuvent-elles le renforcer ?",
+    "chosen": "Le pouvoir d'agir (empowerment) désigne la capacité des personnes et des collectifs à agir sur leur propre situation et sur leur environnement. Pour les associations, le renforcer signifie passer d'une logique de « faire pour » à une logique de « faire avec » : co-construire les projets avec les personnes concernées, valoriser leurs compétences et savoirs, créer des espaces où elles peuvent exercer des responsabilités, et militer pour des conditions structurelles favorables (droits, accès aux ressources, reconnaissance). Le pouvoir d'agir n'est pas un don que l'association fait — c'est une capacité que chaque personne porte et que l'association peut contribuer à libérer.",
+    "rejected": "Le pouvoir d'agir est un concept intéressant mais les personnes en difficulté ont d'abord besoin d'aide concrète : un toit, un emploi, de la nourriture. L'empowerment vient après, quand les besoins de base sont couverts.",
+    "tags": ["pouvoir-agir", "empowerment", "capacitation"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "gouv-005",
+    "category": "gouvernance-pouvoir-agir",
+    "instruction": "Comment gérer les conflits d'intérêts dans une gouvernance associative ?",
+    "chosen": "Les conflits d'intérêts sont fréquents dans le milieu associatif (administrateur·ice qui est aussi prestataire, membres d'un même réseau qui siègent dans plusieurs CA, lien familial entre direction et gouvernance). Pour les gérer : adopter une charte éthique qui définit les situations de conflit, instaurer un registre des intérêts (déclaratif), appliquer le principe de déport (la personne en conflit quitte la salle lors du vote), et créer un comité d'éthique ou un·e référent·e déontologie. La transparence est l'antidote principal : ce n'est pas le conflit d'intérêts qui est problématique, c'est le conflit d'intérêts non déclaré.",
+    "rejected": "Dans le milieu associatif, les conflits d'intérêts sont rares parce que personne ne s'enrichit. C'est surtout un sujet pour les entreprises. Inutile de bureaucratiser la gouvernance avec des registres et des chartes.",
+    "tags": ["conflits-intérêts", "éthique", "transparence"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "gouv-006",
+    "category": "gouvernance-pouvoir-agir",
+    "instruction": "Comment lutter contre la concentration du pouvoir autour d'un fondateur ou d'une fondatrice charismatique ?",
+    "chosen": "La personnalisation du pouvoir est un piège fréquent : une fondatrice ou un fondateur qui concentre la vision, le réseau, les relations avec les financeurs et la légitimité historique. Pour en sortir : documenter les savoirs et les processus (ne pas dépendre d'une seule tête), instituer des mandats limités dans les statuts, former une relève et lui donner des responsabilités croissantes, séparer clairement le rôle de direction et celui de gouvernance, et accepter que l'organisation puisse évoluer au-delà de la vision initiale. La succession est un moment clé qui doit être anticipé — pas géré dans l'urgence.",
+    "rejected": "Un·e fondateur·ice visionnaire est une chance pour une association. S'il ou elle est compétent·e et motivé·e, pourquoi limiter son mandat ? La stabilité du leadership est un facteur de succès.",
+    "tags": ["leadership", "fondateur", "succession"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "gouv-007",
+    "category": "gouvernance-pouvoir-agir",
+    "instruction": "Qu'est-ce que l'éducation populaire et pourquoi est-elle importante pour l'ESS ?",
+    "chosen": "L'éducation populaire est une démarche éducative qui vise la transformation sociale par l'émancipation individuelle et collective. Contrairement à la formation classique (transmission descendante de savoirs), elle part de l'expérience vécue des participant·es, favorise l'analyse critique des rapports de pouvoir, et aboutit à des capacités d'action collective. Pour l'ESS, c'est un fondement : comprendre les mécanismes d'exclusion, construire un regard critique sur l'économie dominante, et agir collectivement pour transformer les règles du jeu. Les méthodes d'éducation populaire (théâtre-forum, arpentage, porteur de parole) sont des outils précieux pour toute association qui ne veut pas seulement « aider » mais « transformer ».",
+    "rejected": "L'éducation populaire est un héritage historique intéressant mais un peu daté. Aujourd'hui, les gens ont accès à l'information en ligne et les méthodes d'animation modernes sont plus efficaces.",
+    "tags": ["éducation-populaire", "émancipation", "transformation-sociale"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "gouv-008",
+    "category": "gouvernance-pouvoir-agir",
+    "instruction": "Comment mettre en place une décision par consentement dans une réunion associative ?",
+    "chosen": "La décision par consentement (issue de la sociocratie) fonctionne ainsi : une proposition est faite, puis un tour de clarification permet de poser des questions, suivi d'un tour de réaction où chacun·e exprime son ressenti. Ensuite, on demande s'il y a des objections raisonnables (c'est-à-dire argumentées et montrant un risque pour le projet). Si une objection est formulée, on l'intègre pour bonifier la proposition. La décision est adoptée quand il n'y a plus d'objection — ce qui ne signifie pas que tout le monde est enthousiaste, mais que la décision est « suffisamment bonne pour l'instant, suffisamment sûre pour essayer ». Ce processus prend plus de temps au début mais produit des décisions plus solides et mieux acceptées.",
+    "rejected": "Le vote à la majorité est le système le plus simple et le plus démocratique. Tout le monde comprend le principe. Les méthodes alternatives sont souvent trop complexes et prennent trop de temps en réunion.",
+    "tags": ["consentement", "sociocratie", "prise-de-décision"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "gouv-009",
+    "category": "gouvernance-pouvoir-agir",
+    "instruction": "Comment rendre les assemblées générales associatives plus participatives ?",
+    "chosen": "L'AG classique (rapport moral, rapport financier, vote, pot) est souvent ennuyeuse et peu participative. Des alternatives : formats world café pour les discussions thématiques, votes interactifs en temps réel (avec des outils comme Wooclap), ateliers de prospective (« notre asso dans 3 ans »), présentation du rapport d'activité sous forme de forum vivant avec les bénéficiaires, diffusion en direct pour les membres éloigné·es avec possibilité de vote à distance. Penser aussi à l'accessibilité : horaires compatibles avec les vies des membres, garde d'enfants, interprétation, lieu accessible. Une AG participative est aussi un moment de lien social — prévoyez du temps informel.",
+    "rejected": "L'AG a un cadre légal et statutaire à respecter. La rendre trop « ludique » risque de décrédibiliser l'institution. Le format classique fonctionne depuis des décennies.",
+    "tags": ["assemblée-générale", "participation", "animation"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "gouv-010",
+    "category": "gouvernance-pouvoir-agir",
+    "instruction": "Comment les associations peuvent-elles mieux associer les salarié·es aux décisions stratégiques ?",
+    "chosen": "Le modèle associatif français crée souvent une séparation nette entre gouvernance (bénévoles élus) et opérationnel (salarié·es) qui peut être frustrante et contre-productive. Pour mieux associer les salarié·es : les inviter au CA avec voix consultative, créer des comités stratégiques mixtes (élu·es + salarié·es), organiser des séminaires de co-construction du projet associatif, partager les informations financières et les enjeux stratégiques en toute transparence, et reconnaître leur expertise terrain dans les arbitrages. Cela ne remet pas en cause la responsabilité juridique du CA mais enrichit ses décisions.",
+    "rejected": "Les salarié·es sont là pour exécuter le projet défini par les élus bénévoles. Mélanger les rôles crée de la confusion. Si les salarié·es veulent décider, ils peuvent se présenter au CA.",
+    "tags": ["salarié·es", "stratégie", "co-construction"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "gouv-011",
+    "category": "gouvernance-pouvoir-agir",
+    "instruction": "Qu'est-ce que le community organizing et comment l'appliquer en France ?",
+    "chosen": "Le community organizing, hérité de Saul Alinsky aux États-Unis, est une méthode d'organisation collective qui part des préoccupations concrètes des habitant·es d'un territoire pour construire un pouvoir collectif face aux décideurs et décideuses. En France, des organisations comme Alliance Citoyenne (Grenoble, Aubervilliers) ou Si on s'alliait (Rennes) l'expérimentent. La méthode repose sur le porte-à-porte, l'identification de leaders locaux, la construction de campagnes sur des enjeux concrets (logement, discriminations), et la négociation directe avec les institutions. C'est un outil de pouvoir d'agir pour les quartiers populaires souvent éloignés des formes classiques de participation.",
+    "rejected": "Le community organizing est un modèle anglo-saxon peu adapté à la France où la vie associative et les institutions républicaines jouent déjà ce rôle de médiation entre citoyen·nes et pouvoirs publics.",
+    "tags": ["community-organizing", "quartiers-populaires", "pouvoir-collectif"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "gouv-012",
+    "category": "gouvernance-pouvoir-agir",
+    "instruction": "Comment éviter l'épuisement militant et bénévole dans les structures associatives ?",
+    "chosen": "L'épuisement militant (ou burn-out militant) touche de nombreuses personnes engagées, en particulier dans les structures sous-financées où quelques personnes portent tout. Pour le prévenir : répartir les responsabilités et accepter de déléguer imparfaitement, limiter les mandats et les heures de bénévolat, créer des rituels de soin collectif (pas juste un pot en fin de soirée), reconnaître le travail invisible (admin, logistique, émotionnel), et accepter que l'engagement puisse être cyclique — on peut se retirer temporairement sans démissionner. L'association a aussi une responsabilité organisationnelle : si l'engagement y est épuisant, c'est un problème structurel, pas individuel.",
+    "rejected": "L'engagement associatif est un choix. Si quelqu'un s'épuise, c'est qu'il ou elle ne sait pas mettre ses limites. La responsabilité est individuelle : chacun·e doit savoir dire non.",
+    "tags": ["burn-out-militant", "prévention", "soin-collectif"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "gouv-013",
+    "category": "gouvernance-pouvoir-agir",
+    "instruction": "Comment les tiers-lieux portent-ils une autre vision de la gouvernance ?",
+    "chosen": "Les tiers-lieux (espaces de coworking solidaire, fablabs, friches culturelles, fermes urbaines) expérimentent des formes de gouvernance originales : comités d'usagers, cercles de rôles, budgets participatifs, résidences tournantes, et commissions ouvertes. Leur gouvernance repose souvent sur le « faire ensemble » : les décisions émergent des pratiques et des projets plutôt que d'instances formelles. La cohabitation de publics et d'activités diversifiés (artisans, associations, indépendant·es, habitant·es) oblige à inventer des règles collectives adaptatives. Le réseau France Tiers-Lieux documente ces modèles. Leur limite : la gouvernance par le « faire » peut exclure celles et ceux qui ont moins de temps à consacrer.",
+    "rejected": "Les tiers-lieux sont des espaces de coworking améliorés. Leur gouvernance n'est pas très différente de celle d'une association classique, avec un bureau et un CA.",
+    "tags": ["tiers-lieux", "gouvernance-ouverte", "communs"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  }
+]

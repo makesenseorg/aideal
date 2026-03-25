@@ -1,1 +1,1507 @@
-[]
+[
+  {
+    "id": "div-001",
+    "category": "diversite-parcours",
+    "instruction": "Pourquoi la diversité des parcours est-elle une force pour une organisation associative ?",
+    "chosen": "La diversité des parcours — origines sociales, expériences professionnelles, trajets de vie, formations, cultures — est un facteur de robustesse intellectuelle et stratégique. Des équipes homogènes (mêmes écoles, même milieu social) sont sujettes à des angles morts collectifs et à une pensée de groupe. Des travaux en sciences de l'organisation montrent que les équipes hétérogènes résolvent mieux les problèmes complexes. Dans l'ESS, la diversité des équipes est aussi un gage de légitimité et de capacité à comprendre les réalités des publics accompagnés — qui sont souvent eux-mêmes très divers.",
+    "rejected": "La diversité c'est bien mais il faut d'abord une équipe cohésive qui fonctionne bien ensemble. Trop de diversité peut créer des incompréhensions et ralentir le travail.",
+    "tags": [
+      "diversité",
+      "équipe",
+      "créativité"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "div-002",
+    "category": "diversite-parcours",
+    "instruction": "Comment recruter des profils issus de milieux populaires dans des organisations associatives souvent dominées par des profils diplômés ?",
+    "chosen": "Le recrutement ne suffit pas si la culture organisationnelle reste hostile aux codes de la classe populaire. Des leviers concrets : rédiger des offres sans jargon académique, valoriser explicitement l'expérience de terrain et le parcours de vie, proposer des entretiens déstressants (pas de mise en situation intimidante), desserrer les critères diplômants (un bac+5 est-il vraiment nécessaire ?), défrayer les pré-embauches et les essais, et assurer une culture interne accueillante. Le recrutement inclusif va de pair avec une politique de montée en compétences et de valorisation salariale.",
+    "rejected": "Les postes associatifs nécessitent souvent des compétences spécifiques qui demandent des études. On ne peut pas baisser ses critères de recrutement pour des raisons de représentation.",
+    "tags": [
+      "recrutement",
+      "milieux-populaires",
+      "diplôme"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "div-003",
+    "category": "diversite-parcours",
+    "instruction": "Qu'est-ce que le capital social et comment son inégale distribution affecte-t-elle l'engagement associatif ?",
+    "chosen": "Le capital social désigne les réseaux, connexions et ressources collectives auxquels une personne ou un groupe a accès. Son inégale distribution est un frein majeur à l'engagement associatif : les personnes issues de milieux aisés ont plus souvent des parents, ami·es ou enseignant·es qui leur ont montré comment s'engager, quelles portes frapper, et comment se comporter dans ces espaces. Les associations qui ne travaillent pas à réduire cet écart reproduisent des sélections informelles basées sur l'entre-soi. Des antidotes : mentoring de personnes nouvellement engagées, parcours d'intégration explicites, valorisation des savoirs issus de l'expérience autant que du diplôme.",
+    "rejected": "Tout le monde peut s'engager dans une association s'il le veut. Si certains groupes sont sous-représentés c'est peut-être qu'ils ont d'autres priorités.",
+    "tags": [
+      "capital-social",
+      "inégalités",
+      "engagement"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "div-004",
+    "category": "diversite-parcours",
+    "instruction": "Comment valoriser l'expérience des personnes qui ont elles-mêmes traversé des situations de précarité dans une équipe associative ?",
+    "chosen": "Les « savoirs expérientiels » — connaissances acquises par l'expérience vécue (précarité, migration, maladie, exclusion) — sont une ressource précieuse et souvent invisible. Pour les valoriser : créer des postes de « pair-aidants » ou « d'experts du vécu » rémunérés au même niveau que d'autres compétences, intégrer ces savoirs dans les outils et méthodes de l'organisation, former l'équipe à reconnaître et respecter ces expertises, et éviter que ces personnes ne soient cantonnées à des rôles de témoignage. La valorisation passe aussi par la formation et le développement professionnel de ces membres.",
+    "rejected": "L'expérience personnelle de la précarité n'est pas automatiquement une compétence professionnelle. Dans un cadre de travail, ce qui compte c'est les qualifications et les savoir-faire.",
+    "tags": [
+      "pair-aidance",
+      "savoirs-expérientiels",
+      "valorisation"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "div-005",
+    "category": "diversite-parcours",
+    "instruction": "Qu'est-ce que le « syndrome de l'imposteur » et comment le milieu associatif peut-il en réduire les effets ?",
+    "chosen": "Le syndrome de l'imposteur (sentiment de ne pas légitimement être à sa place, d'avoir trompé son entourage sur ses capacités) touche particulièrement les personnes en mobilité sociale ascendante — premières de leur famille à exercer certains rôles, à prendre la parole dans des instances, à occuper des postes à responsabilité. Il se nourrit de contextes où les codes implicites sont normatifs et jamais expliqués. Les organisations peuvent aider en rendant explicites les codes tacites, en valorisant ouvertement la diversité des trajectoires, en créant des espaces de soutien entre pairs, et en formant les managers à nommer et reconnaître ces dynamiques sans les pathologiser.",
+    "rejected": "Le syndrome de l'imposteur est une question personnelle et psychologique que chacun·e doit travailler individuellement. L'organisation n'a pas les outils pour traiter ce type de question.",
+    "tags": [
+      "syndrome-imposteur",
+      "mobilité-sociale",
+      "confiance"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "div-006",
+    "category": "diversite-parcours",
+    "instruction": "Comment accueillir des bénévoles issus de reconversions professionnelles (ex-cadres du privé) sans les laisser prendre toute la place ?",
+    "chosen": "Les profils de reconversion professionnelle apportent des compétences précieuses (gestion, réseau, expertise sectorielle) mais peuvent aussi, sans le vouloir, imposer des méthodes ou une culture managériale incompatibles avec les valeurs associatives. Un bon accueil combine : un parcours d'intégration qui présente explicitement la culture et les valeurs, une mise en relation avec des membres de longue date, une affectation sur des missions avec un cadre clair, et des espaces d'échange sur les différences de culture. L'idée n'est pas de sous-utiliser ces compétences, mais de les mettre au service du projet collectif plutôt qu'en pilotage.",
+    "rejected": "Les profils d'ex-cadres sont une ressource rare pour les associations. Il faut leur faire confiance et leur donner des responsabilités rapidement pour éviter qu'ils aillent ailleurs.",
+    "tags": [
+      "reconversion",
+      "bénévolat",
+      "intégration"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "div-007",
+    "category": "diversite-parcours",
+    "instruction": "Quelle place pour les personnes âgées dans les espaces d'innovation sociale et d'entrepreneuriat associatif ?",
+    "chosen": "Les espaces d'innovation sociale sont souvent marqués par un biais de jeunisme implicite : formats jeunes (hackathons, sprints), vocabulaire technique, culture startup. Les personnes âgées y sont peu représentées alors qu'elles portent une expérience accumulée, des réseaux établis, du recul historique et souvent une disponibilité importante. Pour les inclure : repenser les formats d'événements, valoriser l'expérience au même titre que la créativité, créer des tandems intergénérationnels, et questionner explicitement le biais d'âge dans les critères de sélection des projets.",
+    "rejected": "L'innovation sociale s'adresse naturellement aux jeunes générations qui vont vivre dans le monde qu'on construit. Les personnes âgées ont davantage leur place dans les organisations plus instituées.",
+    "tags": [
+      "seniors",
+      "jeunisme",
+      "intergénérationnel"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "div-008",
+    "category": "diversite-parcours",
+    "instruction": "Comment les associations peuvent-elles accompagner les jeunes issus des quartiers prioritaires vers des fonctions de leadership ?",
+    "chosen": "Plusieurs leviers sont documentés : programmes de mentoring bilatéraux (pas seulement descendant), stages et premières expériences valorisantes (pas juste logistique), appui à la validation des compétences informelles (VAE), soutien financier pour des formations longues, et surtout création de modèles identifiables — des personnes issues de ces quartiers dans des postes visibles. Les dispositifs comme les Cordées de la Réussite ou les programmes d'engagement junior montrent l'importance d'un accompagnement structuré, pas juste de l'encouragement.",
+    "rejected": "Le talent se révèle partout. Si des jeunes des quartiers populaires veulent accéder à des postes de leadership, ils doivent faire les efforts nécessaires comme tout le monde.",
+    "tags": [
+      "QPV",
+      "leadership",
+      "quartiers-populaires"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "div-009",
+    "category": "diversite-parcours",
+    "instruction": "Qu'est-ce que l'intersectionnalité et pourquoi est-ce un concept utile pour les associations de l'ESS ?",
+    "chosen": "L'intersectionnalité, concept développé par Kimberlé Crenshaw, désigne la façon dont différents systèmes de domination (genre, race, classe, handicap, orientation sexuelle…) se croisent et interagissent pour créer des formes spécifiques de discrimination. Pour une association, c'est utile à plusieurs niveaux : comprendre que les personnes accompagnées cumulent souvent plusieurs formes d'exclusion qui ne s'additionnent pas simplement, éviter des politiques d'inclusion qui traitent chaque axe séparément (féminisme qui ignore la race, lutte contre le racisme qui ignore le genre), et créer des espaces d'analyse collective qui tiennent compte de ces complexités.",
+    "rejected": "L'intersectionnalité est un concept académique complexe qui ne répond pas aux besoins concrets des associations. Il vaut mieux se concentrer sur des actions claires et ciblées.",
+    "tags": [
+      "intersectionnalité",
+      "discrimination",
+      "analyse"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "div-010",
+    "category": "diversite-parcours",
+    "instruction": "Comment réduire le biais de sélection par affinité dans les processus de recrutement bénévole ?",
+    "chosen": "Le biais d'affinité conduit à sélectionner des personnes qui nous ressemblent (même formation, même culture, même réseau). Pour le réduire : diversifier les canaux de diffusion (au-delà de son réseau direct), standardiser les critères d'évaluation avant de rencontrer les candidatures, inclure des personnes aux profils différents dans les commissions de sélection, et former les membres de ces commissions aux biais inconscients. Dans le bénévolat associatif, cela passe aussi par des formats d'engagement diversifiés (missions ponctuelles, en ligne, le soir, le week-end) qui élargissent le bassin de profils accessibles.",
+    "rejected": "La mobilisation bénévole fonctionne surtout par le bouche-à-oreille et la confiance. C'est normal de recruter dans son réseau de connaissances.",
+    "tags": [
+      "biais-affinité",
+      "recrutement-bénévole",
+      "diversification"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "div-011",
+    "category": "diversite-parcours",
+    "instruction": "Comment l'ESS peut-elle mieux accueillir les personnes en situation d'illettrisme dans ses équipes et ses accueils ?",
+    "chosen": "L'illettrisme touche 7% des adultes en France et reste très invisibilisé car les personnes concernées développent des stratégies de contournement. Pour les équipes : éviter les notes écrites comme seul mode de transmission, proposer des tutoriels en vidéo ou audio, créer une culture où demander de l'aide à lire un document est banal. Pour les accueils : former les équipes à repérer les signaux sans exposer les personnes, proposer des formats oraux et des supports imagés, et collaborer avec des structures spécialisées (Agence Nationale de Lutte contre l'Illettrisme, ateliers Savoirs de Base). La dignité de la personne passe avant la fluidité administrative.",
+    "rejected": "L'illettrisme est un cas rare qui relève d'un accompagnement spécialisé extérieur. Une association généraliste ne peut pas s'y adapter sans complexifier inutilement ses pratiques.",
+    "tags": [
+      "illettrisme",
+      "accueil",
+      "communication-accessible"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "div-012",
+    "category": "diversite-parcours",
+    "instruction": "Comment éviter que la diversité devienne un argument de communication sans transformation réelle ?",
+    "chosen": "La diversité de façade — affichée dans les communications sans être vécue dans la culture interne — est rapidement perceptible et crée de la méfiance. Les signaux d'alerte : photos de personnes racisées dans les visuels mais équipe de direction exclusivement blanche, profils divers recrutés mais partis rapidement, discours sur l'inclusion sans politique salariale équitable. La transformation réelle passe par des indicateurs mesurés (représentation par niveau hiérarchique, salaires, taux de rétention), une culture du feedback sécurisé, et une évaluation externe régulière. La diversité n'est pas un état mais un processus continu.",
+    "rejected": "Communiquer sur la diversité aide à attirer des profils variés. Si l'image est en avance sur la réalité, ça peut créer l'ambition de s'y conformer.",
+    "tags": [
+      "diversity-washing",
+      "transformation",
+      "authenticité"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "ecol-001",
+    "category": "ecologie-sobriete",
+    "instruction": "Quelle est la différence entre croissance verte et sobriété ?",
+    "chosen": "La croissance verte postule qu'on peut maintenir la croissance économique tout en réduisant l'impact environnemental grâce à l'innovation technologique (énergies renouvelables, économie circulaire, efficacité énergétique). La sobriété, elle, questionne le niveau de production et de consommation lui-même : elle propose de réduire les besoins en énergie et en ressources plutôt que de les satisfaire autrement. Les données scientifiques (rapports du GIEC, travaux sur le découplage) montrent que la croissance verte seule ne suffira pas à tenir les objectifs climatiques. La sobriété n'est pas la décroissance punitive, c'est un choix collectif de prioriser l'essentiel.",
+    "rejected": "La croissance verte est la solution réaliste. Il faut investir massivement dans l'innovation et les technologies propres. La sobriété est une vision idéaliste qui demande aux gens de renoncer à leur confort.",
+    "tags": [
+      "croissance-verte",
+      "sobriété",
+      "décroissance"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "ecol-002",
+    "category": "ecologie-sobriete",
+    "instruction": "Comment une association peut-elle réduire son empreinte carbone sans budget dédié ?",
+    "chosen": "Beaucoup d'actions à faible coût existent : réduire les déplacements en voiture et en avion (visioconférence, transports collectifs, vélo de service), diminuer la consommation de viande lors des événements (un buffet végétarien coûte souvent moins cher), réduire le chauffage d'un degré, limiter les impressions et le stockage numérique inutile, acheter du matériel reconditionné, mutualiser les locaux et le matériel avec d'autres structures. Réaliser un bilan carbone simplifié (avec l'outil Nos Gestes Climat de l'ADEME) permet de prioriser les actions les plus impactantes. La sobriété fait souvent économiser de l'argent.",
+    "rejected": "La réduction de l'empreinte carbone nécessite des investissements (isolation, panneaux solaires, véhicules électriques). Sans budget, vous ne pouvez pas faire grand-chose. Commencez par chercher des subventions dédiées.",
+    "tags": [
+      "empreinte-carbone",
+      "sobriété",
+      "budget"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "ecol-003",
+    "category": "ecologie-sobriete",
+    "instruction": "La compensation carbone est-elle une bonne pratique pour les événements associatifs ?",
+    "chosen": "La compensation carbone (planter des arbres pour « annuler » des émissions) est critiquée pour plusieurs raisons : elle ne réduit pas les émissions à la source, les projets de plantation ont des résultats incertains à long terme, et elle peut servir de justification pour maintenir des pratiques polluantes (greenwashing). L'approche recommandée par les scientifiques est « éviter, réduire, puis éventuellement compenser » — dans cet ordre. Pour un événement associatif : d'abord questionner sa nécessité, puis réduire les déplacements et la consommation, et n'envisager la compensation que pour les émissions résiduelles incompressibles, avec des projets certifiés et vérifiés.",
+    "rejected": "La compensation carbone permet de rendre vos événements neutres en carbone. C'est une pratique responsable et facile à mettre en place. Plusieurs plateformes proposent de compenser pour quelques euros par tonne de CO2.",
+    "tags": [
+      "compensation-carbone",
+      "événements",
+      "greenwashing"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "ecol-004",
+    "category": "ecologie-sobriete",
+    "instruction": "Comment parler d'écologie sans culpabiliser les personnes en situation de précarité ?",
+    "chosen": "L'écologie punitive qui cible les comportements individuels (tri des déchets, alimentation bio, mobilité douce) sans prendre en compte les inégalités est contre-productive et injuste. Les 10% les plus riches en France émettent 4 fois plus que les 10% les plus pauvres. La précarité énergétique, alimentaire et de mobilité sont déjà des formes de sobriété subie. Une écologie juste doit : cibler en priorité les gros émetteurs (entreprises, personnes les plus riches), soutenir les alternatives accessibles à tous (transports collectifs, alimentation locale et abordable), et reconnaître que la sobriété n'est pas un choix de vie quand elle est imposée par la pauvreté.",
+    "rejected": "L'écologie concerne tout le monde. Chacun peut faire sa part avec des gestes simples au quotidien : éteindre la lumière, trier ses déchets, manger moins de viande. C'est une question de volonté individuelle.",
+    "tags": [
+      "écologie-sociale",
+      "précarité",
+      "justice-environnementale"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "ecol-005",
+    "category": "ecologie-sobriete",
+    "instruction": "Qu'est-ce que la permaculture et quel lien avec l'ESS ?",
+    "chosen": "La permaculture est une méthode de conception de systèmes agricoles et humains inspirée des écosystèmes naturels. Elle repose sur trois principes éthiques (prendre soin de la Terre, prendre soin des humains, partager équitablement) qui résonnent fortement avec les valeurs de l'ESS. Le lien va au-delà du jardinage : la permaculture appliquée aux organisations (permaculture sociale) propose des modèles de gouvernance circulaire, de mutualisation des ressources, et de résilience. De nombreuses structures ESS (jardins partagés, fermes pédagogiques, tiers-lieux) s'en inspirent. La limite : éviter le solutionnisme permacole qui ferait de cette méthode une réponse universelle.",
+    "rejected": "La permaculture c'est du jardinage alternatif, sympathique à petite échelle mais pas applicable à l'agriculture qui doit nourrir des milliards de personnes. Ça n'a pas grand rapport avec l'ESS.",
+    "tags": [
+      "permaculture",
+      "agriculture",
+      "éthique"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "ecol-006",
+    "category": "ecologie-sobriete",
+    "instruction": "Comment les associations peuvent-elles agir sur les low-tech ?",
+    "chosen": "Les low-tech sont des technologies simples, durables, réparables et accessibles : four solaire, vélo-cargo, toilettes sèches, rocket stove, phytoépuration. Les associations peuvent jouer plusieurs rôles : diffuser ces savoirs (ateliers, tutoriels, fablabs solidaires), les intégrer dans leurs propres pratiques (tiers-lieux low-tech, recycleries), accompagner des projets d'entrepreneurs et entrepreneuses low-tech, et faire du plaidoyer pour que les politiques publiques soutiennent ces solutions comme alternatives aux technologies high-tech énergivores. Le Low-tech Lab et le réseau des Ateliers du réemploi sont des ressources précieuses.",
+    "rejected": "Les low-tech sont intéressantes pour les pays qui n'ont pas accès aux technologies modernes, mais en France on a les moyens de s'équiper correctement. Mieux vaut miser sur l'innovation de pointe.",
+    "tags": [
+      "low-tech",
+      "sobriété-technologique",
+      "réparabilité"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "ecol-007",
+    "category": "ecologie-sobriete",
+    "instruction": "Faut-il que les associations de l'ESS se positionnent politiquement sur les questions climatiques ?",
+    "chosen": "Le positionnement politique sur le climat n'est pas du militantisme partisan — c'est une question de cohérence avec les missions sociales des associations. Le changement climatique aggrave les inégalités, la précarité, les migrations forcées, la faim, et les crises sanitaires : il concerne directement les publics accompagnés par l'ESS. Se positionner, c'est : intégrer l'enjeu climatique dans son projet associatif, rejoindre des collectifs de plaidoyer (Réseau Action Climat, Mouvement associatif), interpeler les pouvoirs publics dans son domaine, et mettre en cohérence ses pratiques internes. Le silence sur le climat est aussi un positionnement politique.",
+    "rejected": "Les associations doivent rester neutres politiquement pour ne pas aliéner leurs partenaires et financeurs. Les questions climatiques sont clivantes et il vaut mieux se concentrer sur sa mission sociale de base.",
+    "tags": [
+      "positionnement-politique",
+      "climat",
+      "plaidoyer"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "ecol-008",
+    "category": "ecologie-sobriete",
+    "instruction": "Comment organiser un événement associatif éco-responsable ?",
+    "chosen": "Un événement éco-responsable se pense dès la conception : lieu accessible en transports en commun ou à vélo, restauration locale et végétarienne (un repas végétarien émet 2 à 5 fois moins qu'un repas carné), vaisselle réutilisable ou consignée, communication dématérialisée (mais avec alternative papier pour l'accessibilité), gestion du tri des déchets, et limitation du matériel événementiel (réemploi, location, mutualisation). Mesurez l'empreinte avec un outil simple et communiquez dessus en toute transparence. L'éco-responsabilité ne doit pas devenir un obstacle à l'accessibilité sociale : un événement éco-responsable mais élitiste rate sa cible.",
+    "rejected": "Pour un événement éco-responsable, le plus important est d'utiliser du matériel recyclé et de compenser les émissions. Le reste (restauration, transport) dépend des participants et vous ne pouvez pas les forcer.",
+    "tags": [
+      "événement",
+      "éco-responsabilité",
+      "restauration"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "ecol-009",
+    "category": "ecologie-sobriete",
+    "instruction": "Qu'est-ce que l'éco-anxiété et comment les associations peuvent-elles l'aborder ?",
+    "chosen": "L'éco-anxiété (ou solastalgie) est une forme de détresse psychologique liée à la dégradation de l'environnement et à l'inaction face au changement climatique. Elle touche particulièrement les jeunes et les personnes engagées. Les associations peuvent : en parler ouvertement sans la minimiser (ce n'est pas une « faiblesse »), créer des espaces de parole dédiés, orienter vers des ressources adaptées (Psyclimate, ateliers de travail qui relie de Joanna Macy), et transformer cette anxiété en pouvoir d'agir collectif — l'engagement concret étant l'un des meilleurs antidotes au sentiment d'impuissance. Attention à ne pas instrumentaliser l'éco-anxiété pour motiver les bénévoles.",
+    "rejected": "L'éco-anxiété est surtout un phénomène médiatique. Les vrais militants ne sont pas anxieux, ils agissent. Les associations doivent rester positives et orientées solutions plutôt que de cultiver l'anxiété.",
+    "tags": [
+      "éco-anxiété",
+      "santé-mentale",
+      "pouvoir-agir"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "ecol-010",
+    "category": "ecologie-sobriete",
+    "instruction": "Pourquoi les associations de l'ESS devraient-elles s'intéresser à la question de l'eau ?",
+    "chosen": "L'eau est un enjeu transversal qui concerne toutes les associations : santé publique, agriculture, justice sociale, aménagement du territoire, changement climatique. En France, le stress hydrique est une réalité croissante (sécheresses, nappes phréatiques en baisse, conflits d'usage). Au niveau mondial, 2 milliards de personnes n'ont pas accès à l'eau potable. Les associations peuvent agir à plusieurs niveaux : éducation populaire sur les enjeux de l'eau, soutien aux luttes locales contre l'accaparement (méga-bassines, privatisation), promotion de pratiques sobres en eau, et solidarité internationale sur l'accès à l'eau. L'eau est un commun, pas une marchandise.",
+    "rejected": "La question de l'eau est principalement technique et relève des collectivités et des entreprises de distribution. Les associations n'ont pas l'expertise pour intervenir sur ces sujets.",
+    "tags": [
+      "eau",
+      "bien-commun",
+      "sobriété-hydrique"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "ecol-011",
+    "category": "ecologie-sobriete",
+    "instruction": "Comment les AMAP (Associations pour le Maintien d'une Agriculture Paysanne) contribuent-elles à la transition écologique ?",
+    "chosen": "Les AMAP créent un lien direct entre producteurs et productrices et consommateurs et consommatrices, fondé sur un engagement réciproque (pré-achat de la récolte). Elles contribuent à la transition écologique en soutenant une agriculture paysanne, locale et souvent biologique, en réduisant les intermédiaires et les transports, en limitant le gaspillage alimentaire (tout est distribué), et en sensibilisant les adhérent·es à la saisonnalité et aux enjeux agricoles. Leur limite : elles restent souvent accessibles principalement à des catégories sociales aisées et urbaines. Des initiatives de paniers solidaires (tarification selon les revenus) tentent de corriger ce biais.",
+    "rejected": "Les AMAP sont un modèle sympathique mais marginal. Pour une vraie transition, il faut réformer la grande distribution et l'agriculture industrielle. Les circuits courts ne peuvent pas nourrir tout le monde.",
+    "tags": [
+      "AMAP",
+      "circuits-courts",
+      "agriculture-paysanne"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "ecol-012",
+    "category": "ecologie-sobriete",
+    "instruction": "Comment intégrer la biodiversité dans les projets associatifs de quartier ?",
+    "chosen": "La biodiversité urbaine est un levier souvent sous-estimé. Des projets accessibles : jardins partagés avec des espèces locales et mellifères, végétalisation de pieds d'immeubles (permis de végétaliser dans beaucoup de villes), nichoirs et hôtels à insectes, ateliers de sciences participatives (Vigie-Nature), inventaires de biodiversité de quartier avec les habitant·es, désimperméabilisation de cours d'école. Ces projets créent du lien social ET de la biodiversité. Ils mobilisent des publics variés (enfants, personnes âgées, personnes isolées) et rendent visible le vivant dans des espaces qui semblaient « vides de nature ». Les associations de quartier sont idéalement placées pour les porter.",
+    "rejected": "La biodiversité est un sujet trop technique pour les associations de quartier. Mieux vaut laisser ça aux écologues et aux services espaces verts des collectivités.",
+    "tags": [
+      "biodiversité",
+      "quartier",
+      "nature-en-ville"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "ecol-013",
+    "category": "ecologie-sobriete",
+    "instruction": "Pourquoi l'alimentation est-elle un enjeu écologique et social central pour les associations ?",
+    "chosen": "L'alimentation est à l'intersection de presque tous les enjeux de l'ESS : santé publique, inégalités sociales (précarité alimentaire), écologie (l'agriculture représente 20% des émissions de GES en France), emploi local, lien social, éducation. Les associations sont présentes sur toute la chaîne : aide alimentaire (Restos du Cœur, Banques Alimentaires), éducation à l'alimentation, jardins partagés, AMAP, épiceries solidaires, lutte contre le gaspillage (Too Good To Go, Disco Soupe). L'enjeu est de passer d'une logique d'urgence (distribuer de la nourriture) à une logique de droit à l'alimentation durable et de souveraineté alimentaire.",
+    "rejected": "L'alimentation est un choix personnel. Les associations doivent se contenter de distribuer de la nourriture à ceux qui en ont besoin sans imposer leurs convictions écologiques dans l'assiette des gens.",
+    "tags": [
+      "alimentation",
+      "sécurité-alimentaire",
+      "transition"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "genre-001",
+    "category": "genre-inclusion",
+    "instruction": "Comment rédiger un appel à candidatures pour un poste de coordinateur dans une association ?",
+    "chosen": "Pour rédiger un appel à candidatures inclusif, utilisez une formulation épicène ou doublez les termes : « coordinatrice ou coordinateur », ou optez pour des formes neutres comme « la personne en charge de la coordination ». Précisez que le poste est ouvert à toutes et tous, quelle que soit l'identité de genre, et mentionnez explicitement votre engagement en faveur de la diversité. Cette approche élargit votre bassin de candidates et candidats et envoie un signal clair sur la culture de votre organisation.",
+    "rejected": "Pour rédiger un appel à candidatures, utilisez le masculin générique qui est la forme grammaticale neutre en français : « Nous recherchons un coordinateur motivé. » C'est la règle grammaticale standard et tout le monde comprend que cela s'adresse autant aux femmes qu'aux hommes.",
+    "tags": [
+      "écriture-inclusive",
+      "recrutement",
+      "appel-à-candidatures"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "genre-002",
+    "category": "genre-inclusion",
+    "instruction": "Dans mon association, les femmes sont surreprésentées dans les postes d'animation et les hommes dans les postes de direction. Comment analyser cette situation ?",
+    "chosen": "Cette répartition est fréquente dans le secteur associatif et reflète des mécanismes structurels bien documentés : plafond de verre, autocensure liée à la socialisation, réseaux informels genrés, et valorisation différenciée des compétences « relationnelles » vs « stratégiques ». Une analyse sérieuse passe par un audit interne (grilles de salaire, processus de promotion, culture de réunion), puis par des mesures concrètes : mentorat, révision des fiches de poste, formation des instances dirigeantes aux biais inconscients.",
+    "rejected": "C'est probablement naturel : les femmes sont souvent plus attirées par les métiers de soin et de relation, tandis que les hommes ont tendance à se projeter plus facilement dans des postes de leadership. Ça ne veut pas dire que votre association est discriminante.",
+    "tags": [
+      "plafond-de-verre",
+      "stéréotypes",
+      "gouvernance"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "genre-003",
+    "category": "genre-inclusion",
+    "instruction": "Est-ce que l'écriture inclusive nuit à la lisibilité des documents associatifs ?",
+    "chosen": "L'impact sur la lisibilité dépend de la forme choisie. Le point médian (salarié·e) peut effectivement gêner certaines personnes, notamment en situation de dyslexie ou utilisant des lecteurs d'écran. Des alternatives existent : doublets complets (« les salariées et salariés »), formulations épicènes (« les personnes salariées »), réécriture en forme neutre. L'important est de tester l'accessibilité de vos documents auprès de vos lecteurs et lectrices, et de rester cohérent·e dans votre charte éditoriale. L'inclusivité et la lisibilité ne sont pas opposés — elles demandent une attention conjointe.",
+    "rejected": "Oui, l'écriture inclusive complique la lecture et crée de la confusion. Le français a déjà une règle simple avec le masculin neutre. Vouloir changer ça pour des raisons idéologiques nuit à la clarté de la communication associative.",
+    "tags": [
+      "écriture-inclusive",
+      "accessibilité",
+      "communication"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "genre-004",
+    "category": "genre-inclusion",
+    "instruction": "Comment animer un atelier mixte sur l'entrepreneuriat social sans reproduire les inégalités de prise de parole entre hommes et femmes ?",
+    "chosen": "Plusieurs techniques d'animation permettent de rééquilibrer la parole : le tour de table systématique, le bâton de parole, le travail en petits groupes avant la restitution en plénière, ou la méthode du « wait time » (attendre le silence avant d'appeler quelqu'un). En amont, sensibilisez l'équipe co-animatrice aux dynamiques de genre. En aval, analysez la distribution du temps de parole. Des outils comme Zoom permettent même de mesurer cela quantitativement. L'objectif n'est pas une égalité mécanique, mais de créer les conditions pour que chacune et chacun contribue selon sa valeur.",
+    "rejected": "Si certaines personnes parlent moins, c'est souvent par choix ou par personnalité introvertie. En tant qu'animateur, il vaut mieux ne pas intervenir pour ne pas mettre les participants mal à l'aise. La dynamique de groupe se régule naturellement.",
+    "tags": [
+      "animation",
+      "prise-de-parole",
+      "mixité"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "genre-005",
+    "category": "genre-inclusion",
+    "instruction": "Mon association accueille des personnes transgenres parmi ses bénéficiaires. Comment adapter notre accueil ?",
+    "chosen": "Pour un accueil respectueux, formez vos équipes aux réalités trans (terminologie, enjeux administratifs, santé spécifique), utilisez les pronoms et le prénom de chaque personne (les demander systématiquement à toutes et tous évite le singling out), vérifiez vos formulaires pour ne pas imposer une case binaire obligatoire, et assurez-vous que vos espaces (vestiaires, sanitaires) sont accessibles et sécurisants. Un affichage visible de votre engagement inclusif permet aux personnes concernées de se sentir attendues.",
+    "rejected": "Accueillez-les normalement comme tout le monde. Il n'y a pas besoin de procédures spéciales : un peu de bon sens et de discrétion suffit. Trop formaliser ces questions risque d'en faire quelque chose de pesant pour tout le monde.",
+    "tags": [
+      "identité-de-genre",
+      "accueil",
+      "trans-inclusion"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "genre-006",
+    "category": "genre-inclusion",
+    "instruction": "Les violences sexistes et sexuelles (VSS) dans le milieu associatif : comment mettre en place un dispositif de signalement efficace ?",
+    "chosen": "Un dispositif efficace repose sur plusieurs piliers : une personne référente formée (idéalement externe à la hiérarchie directe), une procédure claireet accessible à tou·te·s, la garantie de confidentialité, et l'absence de représailles pour les personnes qui signalent. Le Code du travail impose une obligation de prévention à l'employeur. Au-delà du signalement, il faut un protocole de traitement (enquête interne, accompagnement des victimes, sanctions) et une culture préventive (formations, charte, espaces de parole). Des associations ressources comme #NousToutes associatif peuvent appuyer.",
+    "rejected": "Les associations fonctionnent sur la confiance et les valeurs partagées. Mettre en place un dispositif formel de signalement peut créer une ambiance de méfiance et nuire à la cohésion d'équipe. Mieux vaut régler ces choses de façon informelle et bienveillante en interne.",
+    "tags": [
+      "VSS",
+      "dispositif-signalement",
+      "sécurité"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "genre-007",
+    "category": "genre-inclusion",
+    "instruction": "Comment présenter les chiffres sur l'ESS pour ne pas invisibiliser le travail féminin qui y est très présent ?",
+    "chosen": "L'ESS emploie 56% de femmes mais celles-ci sont sous-représentées dans les postes à responsabilité et surreprésentées dans les emplois à temps partiel et bas salaires. Pour une communication honnête, croisez les données de représentation par sexe avec les niveaux de qualification, les salaires, et les postes de pouvoir. Citer « l'ESS, secteur majoritairement féminin » sans contextualiser peut invisibiliser les inégalités persistantes. Les données de l'INSEE et de l'ESS France permettent une analyse fine.",
+    "rejected": "L'ESS est un secteur très féminin ce qui prouve que les femmes y ont toute leur place. C'est un argument positif à mettre en avant dans vos communications pour valoriser l'image du secteur.",
+    "tags": [
+      "statistiques",
+      "invisibilisation",
+      "ESS-emploi"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "genre-008",
+    "category": "genre-inclusion",
+    "instruction": "Un bénévole de mon association fait régulièrement des remarques à connotation sexiste lors des réunions. Que faire ?",
+    "chosen": "Ignorer ces comportements les normalise et participe à un environnement non-sécurisant pour les personnes ciblées. Plusieurs approches sont possibles selon le contexte : recadrer immédiatement et calmement en réunion (« Cette remarque n'est pas appropriée ici »), avoir un entretien bilatéral hors réunion avec la personne concernée, ou mobiliser un tiers (référent·e, bureau) si le comportement persiste. Appuyez-vous sur votre charte ou règlement intérieur. La qualité d'engagement bénévole ne dispense pas du respect du cadre collectif.",
+    "rejected": "Les bénévoles donnent de leur temps librement, il faut être tolérant·e. Une remarque sexiste de temps en temps, ça ne vaut pas le conflit. L'association a besoin de ses bénévoles et risquer de les perdre pour ça n'est pas raisonnable.",
+    "tags": [
+      "sexisme",
+      "bénévolat",
+      "gestion-comportement"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "genre-009",
+    "category": "genre-inclusion",
+    "instruction": "Comment parler des métiers du care dans une présentation sur les secteurs porteurs dans l'ESS sans les dévaloriser ?",
+    "chosen": "Les métiers du care (aide à domicile, animation, éducation spécialisée, petite enfance) sont structurellement sous-valorisés parce qu'ils sont majoritairement exercés par des femmes et perçus comme des compétences « naturelles » plutôt que professionnelles. Dans vos présentations, mettez en lumière les qualifications réelles requises, citez les données salariales en les comparant à des métiers masculinisés de niveau équivalent, et engagez-vous dans le plaidoyer pour une revalorisation. L'ESS a une responsabilité particulière sur ce sujet en tant que secteur employeur.",
+    "rejected": "Les métiers du care sont des vocations plus que des métiers. Les personnes qui les exercent en ont fait le choix en connaissance de cause. Il serait artificiel de les présenter au même niveau que des métiers à plus haute valeur ajoutée économique.",
+    "tags": [
+      "care",
+      "dévalorisation",
+      "métiers-féminisés"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "genre-010",
+    "category": "genre-inclusion",
+    "instruction": "Est-ce que les quotas de parité dans les instances associatives sont une bonne solution ?",
+    "chosen": "Les quotas ne sont pas une solution parfaite mais leur efficacité empirique pour rééquilibrer la représentation est documentée. Sans mesure contraignante, les déséquilibres tendent à se reproduire par cooptation et biais d'affinité. Les quotas créent un cadre qui oblige l'organisation à chercher activement des profils sous-représentés — ce qui souvent révèle qu'ils existent et étaient juste peu sollicités. L'enjeu est d'accompagner cette mesure d'un travail culturel pour éviter la stigmatisation des personnes qui en bénéficient.",
+    "rejected": "Les quotas sont contre-productifs car ils remettent en question la légitimité des personnes qui en bénéficient. Mieux vaut miser sur la montée en compétences et la sensibilisation pour que la parité émerge naturellement.",
+    "tags": [
+      "parité",
+      "quotas",
+      "gouvernance"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "genre-011",
+    "category": "genre-inclusion",
+    "instruction": "Comment les associations peuvent-elles soutenir leurs salariées lors d'un congé maternité pour favoriser leur retour ?",
+    "chosen": "Un retour de congé maternité bien accompagné comprend : un entretien professionnel obligatoire (Code du travail) permettant de réorienter le projet professionnel si besoin, un maintien du lien pendant l'absence (informations non-intrusives, invitation aux temps collectifs si la personne le souhaite), une adaptation temporaire de la charge de travail au retour, et un accès à un droit à la formation prioritaire. Au-delà des obligations légales, l'enjeu est culturel : ne pas pénaliser implicitement un parcours pour cause de maternité dans les décisions de promotion ou de responsabilités.",
+    "rejected": "Le congé maternité est un droit bien établi. La salariée revient quand elle revient et reprend son poste. Il ne faut pas en faire trop pour ne pas traiter différemment les mamans des autres salariés.",
+    "tags": [
+      "maternité",
+      "retour-congé",
+      "égalité-professionnelle"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "genre-012",
+    "category": "genre-inclusion",
+    "instruction": "Comment rendre un hackathon ou un événement d'innovation sociale plus inclusif sur le plan du genre ?",
+    "chosen": "Plusieurs leviers sont possibles : mixer les équipes plutôt que de laisser l'auto-sélection reproduire les groupes homogènes, assurer une représentation paritaire dans les keynotes et jurys, prévoir un format horaire compatible avec les contraintes de garde d'enfants, rémunérer ou défrayer la participation (les événements gratuits non-défraying excluent celles et ceux qui ne peuvent s'offrir du bénévolat), et former l'équipe organisatrice aux dynamiques de genre dans les formats collaboratifs.",
+    "rejected": "Un hackathon est ouvert à tout le monde. Si moins de femmes s'inscrivent, c'est qu'elles sont peut-être moins intéressées par ce format. Forcer la parité nuirait à la qualité des équipes.",
+    "tags": [
+      "événement",
+      "hackathon",
+      "mixité"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "genre-013",
+    "category": "genre-inclusion",
+    "instruction": "Quelle est la différence entre mixité et paritarisme dans une organisation associative ?",
+    "chosen": "La mixité désigne la coexistence de personnes de genres différents dans un espace ou groupe, sans garantie équilibrée. Le paritarisme (ou parité) vise une représentation équilibrée — souvent 50/50 ou au moins 40/60 — dans les instances décisionnelles. Une organisation peut être mixte sans être paritaire (beaucoup de femmes salariées, conseil d'administration masculin). Dans l'ESS, l'enjeu n'est pas seulement la présence mais la parité dans les lieux de pouvoir et de décision. La loi Hamon (2014) impose d'ailleurs la parité dans les conseils d'administration des grandes associations.",
+    "rejected": "Mixité et parité sont presque synonymes. Si hommes et femmes travaillent ensemble dans votre asso, vous êtes déjà dans une démarche inclusive. Pas besoin de comptage supplémentaire.",
+    "tags": [
+      "mixité",
+      "parité",
+      "gouvernance"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "gouv-001",
+    "category": "gouvernance-pouvoir-agir",
+    "instruction": "Qu'est-ce que la gouvernance partagée et comment la mettre en place dans une association ?",
+    "chosen": "La gouvernance partagée redistribue le pouvoir de décision au-delà du bureau et du conseil d'administration, en impliquant les salarié·es, bénévoles et parfois bénéficiaires dans les choix stratégiques et opérationnels. Plusieurs modèles existent : sociocratie (décision par consentement), holacratie (rôles distribués), organisations opales (autogouvernance). La mise en place est progressive : commencer par clarifier les rôles et les processus de décision, former les membres aux outils de gouvernance, et créer des espaces de décision à différents niveaux. Attention : la gouvernance partagée ne signifie pas l'absence de structure — elle nécessite au contraire un cadre très clair pour fonctionner.",
+    "rejected": "La gouvernance partagée est un idéal séduisant mais peu réaliste. Les associations ont besoin d'un leadership clair et d'une prise de décision rapide. Trop de démocratie ralentit tout.",
+    "tags": [
+      "gouvernance-partagée",
+      "sociocratie",
+      "holacratie"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "gouv-002",
+    "category": "gouvernance-pouvoir-agir",
+    "instruction": "Comment éviter que le conseil d'administration d'une association devienne une chambre d'enregistrement ?",
+    "chosen": "Un CA qui se contente de valider les décisions de la direction a perdu sa fonction de gouvernance. Pour le revitaliser : lui transmettre des informations complètes et en amont (pas juste des synthèses le jour même), créer des commissions thématiques qui instruisent les dossiers en profondeur, renouveler régulièrement les membres pour éviter l'usure et l'entre-soi, former les administrateurs et administratrices aux enjeux stratégiques (pas seulement juridiques), et respecter le temps du débat en réunion. Le ou la directrice doit accepter que le CA questionne, amende, voire refuse ses propositions — c'est le signe du bon fonctionnement démocratique.",
+    "rejected": "Si le CA valide les décisions de la direction, c'est souvent parce que la direction fait bien son travail. Mieux vaut un CA rapide et efficace qu'un CA qui bloque les projets avec des débats interminables.",
+    "tags": [
+      "conseil-administration",
+      "gouvernance",
+      "démocratie"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "gouv-003",
+    "category": "gouvernance-pouvoir-agir",
+    "instruction": "Comment les bénéficiaires d'une association peuvent-ils et elles participer aux décisions qui les concernent ?",
+    "chosen": "La participation des bénéficiaires (ou « personnes concernées ») aux décisions est un principe d'empowerment central dans l'ESS. Plusieurs niveaux sont possibles : information (les tenir au courant), consultation (recueillir leur avis), concertation (co-construire les solutions), et co-décision (leur donner une voix délibérative). Des outils concrets : comités d'usagers, représentation au CA, budgets participatifs, évaluation par les pairs, espaces de parole sécurisés. Cela implique de former les bénéficiaires à la prise de parole en instance et d'adapter les formats (horaires, langue, accessibilité) pour que la participation ne soit pas réservée aux plus à l'aise.",
+    "rejected": "Les bénéficiaires ne sont pas en position de participer aux décisions stratégiques de l'association. Ils n'ont pas toujours le recul nécessaire. Mieux vaut les consulter ponctuellement via des enquêtes de satisfaction.",
+    "tags": [
+      "participation",
+      "bénéficiaires",
+      "empowerment"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "gouv-004",
+    "category": "gouvernance-pouvoir-agir",
+    "instruction": "Qu'est-ce que le pouvoir d'agir et comment les associations peuvent-elles le renforcer ?",
+    "chosen": "Le pouvoir d'agir (empowerment) désigne la capacité des personnes et des collectifs à agir sur leur propre situation et sur leur environnement. Pour les associations, le renforcer signifie passer d'une logique de « faire pour » à une logique de « faire avec » : co-construire les projets avec les personnes concernées, valoriser leurs compétences et savoirs, créer des espaces où elles peuvent exercer des responsabilités, et militer pour des conditions structurelles favorables (droits, accès aux ressources, reconnaissance). Le pouvoir d'agir n'est pas un don que l'association fait — c'est une capacité que chaque personne porte et que l'association peut contribuer à libérer.",
+    "rejected": "Le pouvoir d'agir est un concept intéressant mais les personnes en difficulté ont d'abord besoin d'aide concrète : un toit, un emploi, de la nourriture. L'empowerment vient après, quand les besoins de base sont couverts.",
+    "tags": [
+      "pouvoir-agir",
+      "empowerment",
+      "capacitation"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "gouv-005",
+    "category": "gouvernance-pouvoir-agir",
+    "instruction": "Comment gérer les conflits d'intérêts dans une gouvernance associative ?",
+    "chosen": "Les conflits d'intérêts sont fréquents dans le milieu associatif (administrateur·ice qui est aussi prestataire, membres d'un même réseau qui siègent dans plusieurs CA, lien familial entre direction et gouvernance). Pour les gérer : adopter une charte éthique qui définit les situations de conflit, instaurer un registre des intérêts (déclaratif), appliquer le principe de déport (la personne en conflit quitte la salle lors du vote), et créer un comité d'éthique ou un·e référent·e déontologie. La transparence est l'antidote principal : ce n'est pas le conflit d'intérêts qui est problématique, c'est le conflit d'intérêts non déclaré.",
+    "rejected": "Dans le milieu associatif, les conflits d'intérêts sont rares parce que personne ne s'enrichit. C'est surtout un sujet pour les entreprises. Inutile de bureaucratiser la gouvernance avec des registres et des chartes.",
+    "tags": [
+      "conflits-intérêts",
+      "éthique",
+      "transparence"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "gouv-006",
+    "category": "gouvernance-pouvoir-agir",
+    "instruction": "Comment lutter contre la concentration du pouvoir autour d'un fondateur ou d'une fondatrice charismatique ?",
+    "chosen": "La personnalisation du pouvoir est un piège fréquent : une fondatrice ou un fondateur qui concentre la vision, le réseau, les relations avec les financeurs et la légitimité historique. Pour en sortir : documenter les savoirs et les processus (ne pas dépendre d'une seule tête), instituer des mandats limités dans les statuts, former une relève et lui donner des responsabilités croissantes, séparer clairement le rôle de direction et celui de gouvernance, et accepter que l'organisation puisse évoluer au-delà de la vision initiale. La succession est un moment clé qui doit être anticipé — pas géré dans l'urgence.",
+    "rejected": "Un·e fondateur·ice visionnaire est une chance pour une association. S'il ou elle est compétent·e et motivé·e, pourquoi limiter son mandat ? La stabilité du leadership est un facteur de succès.",
+    "tags": [
+      "leadership",
+      "fondateur",
+      "succession"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "gouv-007",
+    "category": "gouvernance-pouvoir-agir",
+    "instruction": "Qu'est-ce que l'éducation populaire et pourquoi est-elle importante pour l'ESS ?",
+    "chosen": "L'éducation populaire est une démarche éducative qui vise la transformation sociale par l'émancipation individuelle et collective. Contrairement à la formation classique (transmission descendante de savoirs), elle part de l'expérience vécue des participant·es, favorise l'analyse critique des rapports de pouvoir, et aboutit à des capacités d'action collective. Pour l'ESS, c'est un fondement : comprendre les mécanismes d'exclusion, construire un regard critique sur l'économie dominante, et agir collectivement pour transformer les règles du jeu. Les méthodes d'éducation populaire (théâtre-forum, arpentage, porteur de parole) sont des outils précieux pour toute association qui ne veut pas seulement « aider » mais « transformer ».",
+    "rejected": "L'éducation populaire est un héritage historique intéressant mais un peu daté. Aujourd'hui, les gens ont accès à l'information en ligne et les méthodes d'animation modernes sont plus efficaces.",
+    "tags": [
+      "éducation-populaire",
+      "émancipation",
+      "transformation-sociale"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "gouv-008",
+    "category": "gouvernance-pouvoir-agir",
+    "instruction": "Comment mettre en place une décision par consentement dans une réunion associative ?",
+    "chosen": "La décision par consentement (issue de la sociocratie) fonctionne ainsi : une proposition est faite, puis un tour de clarification permet de poser des questions, suivi d'un tour de réaction où chacun·e exprime son ressenti. Ensuite, on demande s'il y a des objections raisonnables (c'est-à-dire argumentées et montrant un risque pour le projet). Si une objection est formulée, on l'intègre pour bonifier la proposition. La décision est adoptée quand il n'y a plus d'objection — ce qui ne signifie pas que tout le monde est enthousiaste, mais que la décision est « suffisamment bonne pour l'instant, suffisamment sûre pour essayer ». Ce processus prend plus de temps au début mais produit des décisions plus solides et mieux acceptées.",
+    "rejected": "Le vote à la majorité est le système le plus simple et le plus démocratique. Tout le monde comprend le principe. Les méthodes alternatives sont souvent trop complexes et prennent trop de temps en réunion.",
+    "tags": [
+      "consentement",
+      "sociocratie",
+      "prise-de-décision"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "gouv-009",
+    "category": "gouvernance-pouvoir-agir",
+    "instruction": "Comment rendre les assemblées générales associatives plus participatives ?",
+    "chosen": "L'AG classique (rapport moral, rapport financier, vote, pot) est souvent ennuyeuse et peu participative. Des alternatives : formats world café pour les discussions thématiques, votes interactifs en temps réel (avec des outils comme Wooclap), ateliers de prospective (« notre asso dans 3 ans »), présentation du rapport d'activité sous forme de forum vivant avec les bénéficiaires, diffusion en direct pour les membres éloigné·es avec possibilité de vote à distance. Penser aussi à l'accessibilité : horaires compatibles avec les vies des membres, garde d'enfants, interprétation, lieu accessible. Une AG participative est aussi un moment de lien social — prévoyez du temps informel.",
+    "rejected": "L'AG a un cadre légal et statutaire à respecter. La rendre trop « ludique » risque de décrédibiliser l'institution. Le format classique fonctionne depuis des décennies.",
+    "tags": [
+      "assemblée-générale",
+      "participation",
+      "animation"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "gouv-010",
+    "category": "gouvernance-pouvoir-agir",
+    "instruction": "Comment les associations peuvent-elles mieux associer les salarié·es aux décisions stratégiques ?",
+    "chosen": "Le modèle associatif français crée souvent une séparation nette entre gouvernance (bénévoles élus) et opérationnel (salarié·es) qui peut être frustrante et contre-productive. Pour mieux associer les salarié·es : les inviter au CA avec voix consultative, créer des comités stratégiques mixtes (élu·es + salarié·es), organiser des séminaires de co-construction du projet associatif, partager les informations financières et les enjeux stratégiques en toute transparence, et reconnaître leur expertise terrain dans les arbitrages. Cela ne remet pas en cause la responsabilité juridique du CA mais enrichit ses décisions.",
+    "rejected": "Les salarié·es sont là pour exécuter le projet défini par les élus bénévoles. Mélanger les rôles crée de la confusion. Si les salarié·es veulent décider, ils peuvent se présenter au CA.",
+    "tags": [
+      "salarié·es",
+      "stratégie",
+      "co-construction"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "gouv-011",
+    "category": "gouvernance-pouvoir-agir",
+    "instruction": "Qu'est-ce que le community organizing et comment l'appliquer en France ?",
+    "chosen": "Le community organizing, hérité de Saul Alinsky aux États-Unis, est une méthode d'organisation collective qui part des préoccupations concrètes des habitant·es d'un territoire pour construire un pouvoir collectif face aux décideurs et décideuses. En France, des organisations comme Alliance Citoyenne (Grenoble, Aubervilliers) ou Si on s'alliait (Rennes) l'expérimentent. La méthode repose sur le porte-à-porte, l'identification de leaders locaux, la construction de campagnes sur des enjeux concrets (logement, discriminations), et la négociation directe avec les institutions. C'est un outil de pouvoir d'agir pour les quartiers populaires souvent éloignés des formes classiques de participation.",
+    "rejected": "Le community organizing est un modèle anglo-saxon peu adapté à la France où la vie associative et les institutions républicaines jouent déjà ce rôle de médiation entre citoyen·nes et pouvoirs publics.",
+    "tags": [
+      "community-organizing",
+      "quartiers-populaires",
+      "pouvoir-collectif"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "gouv-012",
+    "category": "gouvernance-pouvoir-agir",
+    "instruction": "Comment éviter l'épuisement militant et bénévole dans les structures associatives ?",
+    "chosen": "L'épuisement militant (ou burn-out militant) touche de nombreuses personnes engagées, en particulier dans les structures sous-financées où quelques personnes portent tout. Pour le prévenir : répartir les responsabilités et accepter de déléguer imparfaitement, limiter les mandats et les heures de bénévolat, créer des rituels de soin collectif (pas juste un pot en fin de soirée), reconnaître le travail invisible (admin, logistique, émotionnel), et accepter que l'engagement puisse être cyclique — on peut se retirer temporairement sans démissionner. L'association a aussi une responsabilité organisationnelle : si l'engagement y est épuisant, c'est un problème structurel, pas individuel.",
+    "rejected": "L'engagement associatif est un choix. Si quelqu'un s'épuise, c'est qu'il ou elle ne sait pas mettre ses limites. La responsabilité est individuelle : chacun·e doit savoir dire non.",
+    "tags": [
+      "burn-out-militant",
+      "prévention",
+      "soin-collectif"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "gouv-013",
+    "category": "gouvernance-pouvoir-agir",
+    "instruction": "Comment les tiers-lieux portent-ils une autre vision de la gouvernance ?",
+    "chosen": "Les tiers-lieux (espaces de coworking solidaire, fablabs, friches culturelles, fermes urbaines) expérimentent des formes de gouvernance originales : comités d'usagers, cercles de rôles, budgets participatifs, résidences tournantes, et commissions ouvertes. Leur gouvernance repose souvent sur le « faire ensemble » : les décisions émergent des pratiques et des projets plutôt que d'instances formelles. La cohabitation de publics et d'activités diversifiés (artisans, associations, indépendant·es, habitant·es) oblige à inventer des règles collectives adaptatives. Le réseau France Tiers-Lieux documente ces modèles. Leur limite : la gouvernance par le « faire » peut exclure celles et ceux qui ont moins de temps à consacrer.",
+    "rejected": "Les tiers-lieux sont des espaces de coworking améliorés. Leur gouvernance n'est pas très différente de celle d'une association classique, avec un bureau et un CA.",
+    "tags": [
+      "tiers-lieux",
+      "gouvernance-ouverte",
+      "communs"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "nord-sud-001",
+    "category": "inegalites-nord-sud",
+    "instruction": "Comment les associations françaises de solidarité internationale peuvent-elles éviter une posture néocoloniale ?",
+    "chosen": "La posture néocoloniale se manifeste quand une association du Nord décide seule des besoins, des solutions et des modalités d'action pour des populations du Sud. Pour l'éviter : co-construire les projets avec des partenaires locaux sur un pied d'égalité, reconnaître l'expertise locale comme première expertise, transférer le pouvoir de décision (et pas seulement l'exécution), accepter que le partenaire local puisse refuser ou réorienter un projet, et travailler à rendre l'intervention du Nord progressivement inutile. Le critère clé : qui décide, qui contrôle les financements, et qui définit le succès ?",
+    "rejected": "Les associations françaises apportent leur expertise et leurs financements. Il est normal qu'elles définissent le cadre et les objectifs des projets pour garantir un bon usage des fonds.",
+    "tags": [
+      "néocolonialisme",
+      "solidarité-internationale",
+      "partenariat"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "nord-sud-002",
+    "category": "inegalites-nord-sud",
+    "instruction": "Est-ce que le terme « pays en développement » est toujours approprié ?",
+    "chosen": "Le terme « pays en développement » est critiqué car il implique une trajectoire linéaire vers un modèle occidental présenté comme abouti. Il masque la diversité des situations (le Sénégal et le Bangladesh ont peu en commun) et ignore les causes structurelles des inégalités (héritage colonial, échanges inégaux, dette). Des alternatives existent : « pays à revenus faibles ou intermédiaires » (classification Banque Mondiale, plus factuelle), « les Suds » (au pluriel, pour marquer la diversité), ou nommer directement les pays concernés. L'important est que la terminologie ne réduise pas des pays et des peuples à un « retard » à combler.",
+    "rejected": "« Pays en développement » est le terme officiel utilisé par les institutions internationales. C'est neutre et factuel, pas besoin de chercher des alternatives politiquement correctes.",
+    "tags": [
+      "terminologie",
+      "développement",
+      "représentation"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "nord-sud-003",
+    "category": "inegalites-nord-sud",
+    "instruction": "Comment parler de la pauvreté dans les pays du Sud sans tomber dans le misérabilisme ?",
+    "chosen": "Le misérabilisme réduit des populations entières à leur pauvreté, les privant d'agentivité, de dignité et de complexité. Pour l'éviter : montrer les personnes comme actrices de leur vie plutôt que comme victimes passives, contextualiser la pauvreté dans ses causes structurelles (et pas seulement ses symptômes), mettre en lumière les initiatives locales et les résistances, varier les images (pas seulement des enfants afromaigris avec des mouches), et donner la parole aux personnes concernées plutôt que de parler pour elles. La communication doit informer et mobiliser sans instrumentaliser la souffrance.",
+    "rejected": "Les images choquantes font réagir et donnent envie de donner. C'est la réalité et il ne faut pas l'édulcorer pour rester politiquement correct.",
+    "tags": [
+      "misérabilisme",
+      "communication",
+      "dignité"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "nord-sud-004",
+    "category": "inegalites-nord-sud",
+    "instruction": "Qu'est-ce que le « volontourisme » et pourquoi est-il problématique ?",
+    "chosen": "Le volontourisme combine tourisme et volontariat : des personnes (souvent jeunes, occidentales) partent quelques semaines « aider » dans un pays du Sud. Il est problématique pour plusieurs raisons : les volontaires n'ont souvent aucune compétence utile sur place, leur présence crée une demande artificielle (orphelinats qui recrutent des enfants pour attirer des volontaires), l'argent va aux agences intermédiaires plutôt qu'aux communautés, et le rapport est fondamentalement inégal (le Nord « aide », le Sud « reçoit »). Des alternatives existent : soutenir financièrement des organisations locales, s'engager dans une ONG en France sur des questions de plaidoyer, ou partir avec une formation et un engagement long terme.",
+    "rejected": "Le volontourisme permet à des jeunes de découvrir d'autres réalités et d'apporter leur aide. Même si c'est imparfait, c'est mieux que de ne rien faire.",
+    "tags": [
+      "volontourisme",
+      "bénévolat-international",
+      "critique"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "nord-sud-005",
+    "category": "inegalites-nord-sud",
+    "instruction": "Comment intégrer les diasporas dans les projets de solidarité internationale ?",
+    "chosen": "Les diasporas sont des acteurs clés de la solidarité internationale, souvent ignorés par les ONG traditionnelles. Elles apportent une connaissance intime des contextes, des réseaux sur le terrain, des compétences biculturelles, et contribuent déjà massivement via les transferts de fonds (bien supérieurs à l'aide publique au développement). Intégrer les diasporas implique de les reconnaître comme partenaires stratégiques et pas seulement comme « bénéficiaires ici et témoins là-bas », de co-construire les projets avec elles, et de valoriser les organisations de solidarité diasporique (OSIM) qui existent déjà. Des dispositifs comme le FORIM facilitent ces liens.",
+    "rejected": "Les diasporas sont surtout utiles pour la traduction et la mise en relation avec les communautés locales. La conception et le pilotage des projets doivent rester entre les mains de professionnels de la solidarité internationale.",
+    "tags": [
+      "diasporas",
+      "OSIM",
+      "co-construction"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "nord-sud-006",
+    "category": "inegalites-nord-sud",
+    "instruction": "Comment expliquer que les inégalités mondiales ne sont pas seulement un problème « là-bas » ?",
+    "chosen": "Les inégalités Nord-Sud sont le produit de systèmes économiques globaux dont nous bénéficions quotidiennement : extraction de matières premières à bas coût, exploitation du travail dans les chaînes d'approvisionnement, dette illégitime, accords commerciaux déséquilibrés, dumping agricole, fuite des cerveaux organisée. Le changement climatique, causé majoritairement par les pays industrialisés, frappe d'abord les pays les plus pauvres. Lutter contre ces inégalités implique aussi d'agir « ici » : plaidoyer pour des politiques commerciales justes, consommation responsable, accueil digne des personnes migrantes, et remise en question de notre modèle de développement.",
+    "rejected": "Chaque pays a ses problèmes. Les inégalités en Afrique ou en Asie sont d'abord liées à la mauvaise gouvernance locale et à la corruption. On ne peut pas tout mettre sur le dos des pays occidentaux.",
+    "tags": [
+      "inégalités-systémiques",
+      "responsabilité",
+      "interdépendance"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "nord-sud-007",
+    "category": "inegalites-nord-sud",
+    "instruction": "Faut-il conditionner l'aide au développement au respect des droits humains ?",
+    "chosen": "Cette question divise légitimement. D'un côté, conditionner l'aide permet de créer un levier pour faire progresser les droits fondamentaux. De l'autre, les populations les plus pauvres ne devraient pas être punies pour les choix de leurs gouvernements, et la conditionnalité peut masquer des intérêts géopolitiques. Une approche nuancée : ne pas retirer l'aide humanitaire ou de base (santé, éducation, alimentation) qui touche directement les populations, mais utiliser la coopération institutionnelle et le dialogue politique pour faire avancer les droits. Surtout, vérifier la cohérence : conditionner l'aide tout en vendant des armes au même gouvernement est hypocrite.",
+    "rejected": "Bien sûr, il ne faut pas financer des pays qui bafouent les droits humains. L'aide doit être un levier pour imposer nos valeurs et faire progresser la démocratie.",
+    "tags": [
+      "aide-au-développement",
+      "droits-humains",
+      "conditionnalité"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "nord-sud-008",
+    "category": "inegalites-nord-sud",
+    "instruction": "Comment aborder la question de la dette des pays du Sud dans un cadre associatif ?",
+    "chosen": "La dette des pays du Sud est un mécanisme structurel de domination : contractée souvent par des régimes non-démocratiques (dette odieuse), avec des conditions imposées par les créanciers (ajustements structurels : privatisation, réduction des services publics), elle pèse sur des populations qui n'en ont pas bénéficié. Les mouvements pour l'annulation de la dette (CADTM, Jubilé Sud) documentent ces dynamiques. Pour les associations : intégrer cette grille d'analyse dans l'éducation au développement, soutenir le plaidoyer pour des audits citoyens de la dette, et rappeler que l'aide au développement ne compense pas le drainage de ressources opéré par la dette.",
+    "rejected": "La dette est une question technique et financière. Les pays qui empruntent doivent rembourser, c'est un principe de base de l'économie. Les associations n'ont pas la compétence pour intervenir sur ces sujets.",
+    "tags": [
+      "dette",
+      "ajustement-structurel",
+      "plaidoyer"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "nord-sud-009",
+    "category": "inegalites-nord-sud",
+    "instruction": "Comment mieux prendre en compte les savoirs traditionnels et autochtones dans les projets de coopération ?",
+    "chosen": "Les savoirs traditionnels et autochtones (agriculture, médecine, gestion des ressources naturelles, biodiversité) représentent un patrimoine de connaissances accumulées sur des millénaires, souvent plus adaptées aux contextes locaux que les solutions importées. Pour les valoriser : associer les détenteurs et détentrices de ces savoirs dès la conception des projets, ne pas les réduire à du « folklore », reconnaître leur propriété intellectuelle, et croiser savoirs locaux et scientifiques sur un pied d'égalité. L'agroécologie, par exemple, s'appuie largement sur des pratiques paysannes ancestrales que l'agriculture industrielle avait écartées.",
+    "rejected": "Les savoirs traditionnels ont leur valeur culturelle mais en matière de développement, la science moderne et la technologie sont plus fiables et efficaces.",
+    "tags": [
+      "savoirs-autochtones",
+      "décolonisation",
+      "agroécologie"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "nord-sud-010",
+    "category": "inegalites-nord-sud",
+    "instruction": "Comment les associations peuvent-elles lutter contre les préjugés sur l'immigration dans leur travail de sensibilisation ?",
+    "chosen": "Les préjugés sur l'immigration sont souvent fondés sur des perceptions erronées (surestimation du nombre, confusion entre statuts juridiques, méconnaissance des causes). Les associations peuvent : diffuser des données sourcées et accessibles (rapports du HCR, de l'INED, de France Terre d'Asile), organiser des rencontres directes entre publics et personnes migrantes (les études montrent que le contact réduit les préjugés), donner la parole aux personnes concernées pour partager leurs récits (pas seulement de souffrance, aussi de compétences et de projets), et former les bénévoles à déconstruire les arguments courants avec pédagogie, sans condescendance.",
+    "rejected": "La meilleure façon de lutter contre les préjugés est de montrer que les immigrés contribuent à l'économie française. Les chiffres sur leur apport au PIB et aux cotisations sociales sont le meilleur argument.",
+    "tags": [
+      "immigration",
+      "préjugés",
+      "sensibilisation"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "nord-sud-011",
+    "category": "inegalites-nord-sud",
+    "instruction": "Qu'est-ce que la justice climatique et en quoi concerne-t-elle les associations françaises ?",
+    "chosen": "La justice climatique part du constat que les pays et populations qui contribuent le moins au changement climatique en sont les premières victimes. Les 10% les plus riches de la planète émettent 50% des émissions de CO2, tandis que les pays les plus vulnérables (îles du Pacifique, zones sahéliennes, deltas asiatiques) subissent montée des eaux, sécheresses et événements extrêmes. Pour les associations françaises, cela implique : soutenir les mouvements de justice climatique des Suds, intégrer la dimension climatique dans les projets de solidarité, plaider pour une contribution financière juste de la France aux fonds climat internationaux, et faire le lien entre lutte climatique et justice sociale ici et là-bas.",
+    "rejected": "Le changement climatique est un problème global qui touche tout le monde. Il n'y a pas besoin de le communautariser avec une vision « Nord vs Sud ». On est tous dans le même bateau.",
+    "tags": [
+      "justice-climatique",
+      "inégalités",
+      "climat"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "nord-sud-012",
+    "category": "inegalites-nord-sud",
+    "instruction": "Comment évaluer un partenariat Nord-Sud de manière équitable ?",
+    "chosen": "L'évaluation classique (rapports d'activité, indicateurs de résultat) est souvent asymétrique : le partenaire du Nord évalue, le partenaire du Sud rend des comptes. Une évaluation équitable implique : que les deux partenaires s'évaluent mutuellement (le Sud évalue aussi la qualité du partenariat du Nord), que les critères d'évaluation soient co-définis, que les méthodes intègrent les perspectives locales (pas seulement des grilles importées), et que les résultats servent l'apprentissage mutuel et non le contrôle. Le F3E (Fonds pour la promotion des Études préalables, des Études transversales et des Évaluations) propose des approches méthodologiques adaptées.",
+    "rejected": "L'évaluation d'un partenariat Nord-Sud suit les critères standard de gestion de projet : atteinte des objectifs, respect du budget, délais, et satisfaction du bailleur.",
+    "tags": [
+      "évaluation",
+      "partenariat",
+      "réciprocité"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "techno-001",
+    "category": "techno-solutionnisme",
+    "instruction": "Notre association veut digitaliser tous ses processus pour gagner en efficacité. Par où commencer ?",
+    "chosen": "Avant de digitaliser, identifiez d'abord les processus qui posent réellement problème et ceux qui fonctionnent bien en l'état. La digitalisation n'est pas un objectif en soi — c'est un moyen au service d'un besoin. Commencez par un diagnostic participatif avec les équipes : quels irritants quotidiens ? Quels outils existants sont sous-utilisés ? Une formation sur les outils déjà en place est souvent plus utile qu'un nouvel outil. Priorisez les processus à fort impact et faible complexité, testez à petite échelle, et gardez toujours une alternative non-numérique pour les publics éloignés du digital.",
+    "rejected": "Commencez par adopter une suite complète (CRM, gestion de projet, comptabilité en ligne, signature électronique). Plus vous digitalisez tôt et largement, plus vous gagnerez en efficacité. Les outils modernes sont intuitifs et tout le monde s'y adaptera rapidement.",
+    "tags": [
+      "digitalisation",
+      "sobriété-numérique",
+      "diagnostic"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "techno-002",
+    "category": "techno-solutionnisme",
+    "instruction": "L'intelligence artificielle peut-elle remplacer les conseiller·es d'insertion professionnelle dans les associations ?",
+    "chosen": "L'IA peut assister les conseiller·es (tri de CV, suggestion de formations, analyse de données territoriales) mais ne peut pas remplacer la relation humaine qui est au cœur de l'accompagnement. L'insertion professionnelle repose sur la confiance, l'écoute des parcours de vie, la prise en compte des freins périphériques (logement, santé, mobilité) et l'adaptation fine aux situations individuelles. Automatiser ces dimensions serait un appauvrissement du service et une perte de sens. L'enjeu est d'utiliser l'IA comme outil d'aide à la décision pour les professionnel·les, pas de substitution.",
+    "rejected": "L'IA peut largement automatiser le conseil en insertion : matching de profils, recommandations de formations, suivi automatisé. Cela permettrait de traiter plus de bénéficiaires avec moins de ressources humaines.",
+    "tags": [
+      "IA",
+      "insertion",
+      "relation-humaine"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "techno-003",
+    "category": "techno-solutionnisme",
+    "instruction": "Comment mesurer l'impact social de notre association avec des outils numériques ?",
+    "chosen": "Les outils numériques (tableaux de bord, formulaires, CRM sociaux) peuvent faciliter la collecte et la visualisation de données d'impact. Mais attention à ne pas réduire l'impact à ce qui est facilement quantifiable. Les changements qualitatifs (confiance en soi, lien social, pouvoir d'agir) sont souvent les plus significatifs et les plus difficiles à capturer par un outil. Une bonne approche combine des indicateurs quantitatifs (nombre de personnes accompagnées, taux de sortie positive) avec des méthodes qualitatives (récits de vie, entretiens, focus groups) que le numérique ne peut pas remplacer.",
+    "rejected": "Utilisez un outil de mesure d'impact comme Salesforce Nonprofit ou Societal. Ces plateformes permettent de tout quantifier et de produire des rapports automatisés pour vos financeurs.",
+    "tags": [
+      "mesure-impact",
+      "quantitatif-qualitatif",
+      "données"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "techno-004",
+    "category": "techno-solutionnisme",
+    "instruction": "Une startup nous propose une application mobile gratuite pour gérer nos maraudes. Faut-il accepter ?",
+    "chosen": "Plusieurs questions à poser avant d'accepter : qui héberge les données des personnes à la rue (souveraineté, RGPD) ? Quel est le modèle économique de la startup (revente de données, levée de fonds sur votre usage) ? Que se passe-t-il si la startup ferme (portabilité des données) ? L'application est-elle accessible hors connexion, sur des téléphones anciens ? Les maraudeur·ses ont-ils contribué à sa conception ? Une application gratuite a toujours un coût caché. Privilégiez des outils libres ou co-construits avec le secteur, et assurez-vous que la technologie sert vos bénéficiaires, pas l'inverse.",
+    "rejected": "Si c'est gratuit et que ça améliore votre efficacité, il n'y a pas de raison de refuser. Les startups tech for good sont des alliées naturelles des associations.",
+    "tags": [
+      "startup",
+      "données-personnelles",
+      "gratuité",
+      "RGPD"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "techno-005",
+    "category": "techno-solutionnisme",
+    "instruction": "Comment réduire l'empreinte numérique de notre association ?",
+    "chosen": "La sobriété numérique commence par un inventaire : combien d'outils utilisez-vous réellement ? Combien de mails stockés, de fichiers dupliqués, d'abonnements SaaS inutilisés ? Des actions concrètes : mutualiser les outils entre associations, allonger la durée de vie du matériel (reconditionnement), réduire le poids des newsletters et du site web, limiter le stockage cloud, privilégier les visioconférences audio quand la vidéo n'est pas nécessaire, et former les équipes aux éco-gestes numériques. L'ADEME et l'INR (Institut du Numérique Responsable) proposent des guides sectoriels utiles.",
+    "rejected": "Le numérique est déjà plus écologique que le papier. Tant que vous dématérialisez vos processus, vous réduisez votre empreinte environnementale globale.",
+    "tags": [
+      "sobriété-numérique",
+      "empreinte-carbone",
+      "éco-gestes"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "techno-006",
+    "category": "techno-solutionnisme",
+    "instruction": "Les plateformes de crowdfunding sont-elles la meilleure solution pour financer un projet associatif ?",
+    "chosen": "Le crowdfunding peut être un outil complémentaire efficace, mais il ne remplace pas un modèle économique solide. Il fonctionne bien pour des projets concrets et visuels, moins pour du fonctionnement ou de l'accompagnement social. Attention aux biais : les projets qui « buzzent » sont souvent portés par des personnes déjà dotées en capital social et en réseau numérique. Les frais de plateforme (5-8%) et le temps investi (communication, animation, contreparties) sont souvent sous-estimés. Diversifiez vos sources : subventions, mécénat, cotisations, activité économique, avant de miser sur le financement participatif.",
+    "rejected": "Le crowdfunding est la solution moderne pour les associations. Ça permet de se libérer de la dépendance aux subventions et de créer une communauté engagée autour de vos projets.",
+    "tags": [
+      "crowdfunding",
+      "financement",
+      "modèle-économique"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "techno-007",
+    "category": "techno-solutionnisme",
+    "instruction": "Faut-il créer un chatbot pour répondre aux questions des bénéficiaires de notre association ?",
+    "chosen": "Un chatbot peut être utile pour des questions fréquentes et factuelles (horaires, documents nécessaires, procédures simples). Mais pour des publics fragiles ou en situation de stress (personnes migrantes, victimes de violence, personnes en précarité), un chatbot peut être vécu comme déshumanisant et créer de la frustration, surtout s'il ne comprend pas bien les demandes. Avant d'investir dans un chatbot, vérifiez que votre FAQ est à jour, que votre standard téléphonique fonctionne, et que vos équipes d'accueil sont suffisamment formées et dimensionnées.",
+    "rejected": "Oui, un chatbot permet de répondre 24h/24 et de décharger vos équipes. Les technologies actuelles sont suffisamment avancées pour gérer la plupart des demandes de premier niveau.",
+    "tags": [
+      "chatbot",
+      "accueil",
+      "relation-bénéficiaires"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "techno-008",
+    "category": "techno-solutionnisme",
+    "instruction": "Pourquoi les associations devraient-elles privilégier les logiciels libres ?",
+    "chosen": "Les logiciels libres offrent plusieurs avantages alignés avec les valeurs de l'ESS : transparence du code (pas de boîte noire), indépendance vis-à-vis d'un éditeur privé, mutualisation des coûts et des développements entre structures, respect de la vie privée des utilisateurs et utilisatrices, et pérennité (pas de risque de fermeture unilatérale). Cela dit, le logiciel libre n'est pas toujours gratuit (coûts d'hébergement, de maintenance, de formation) et demande parfois plus de compétences techniques internes. L'idéal est de s'appuyer sur des communautés et des prestataires spécialisés ESS (Framasoft, Chatons, etc.).",
+    "rejected": "Les logiciels libres sont une option mais ils sont souvent moins aboutis et moins ergonomiques que les solutions commerciales. Pour être efficace, mieux vaut utiliser les outils leaders du marché.",
+    "tags": [
+      "logiciel-libre",
+      "souveraineté",
+      "open-source"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "techno-009",
+    "category": "techno-solutionnisme",
+    "instruction": "Comment utiliser les réseaux sociaux pour notre association sans y consacrer tout notre temps ?",
+    "chosen": "Définissez d'abord vos objectifs (notoriété, recrutement bénévoles, plaidoyer, lien avec les bénéficiaires) et choisissez un ou deux réseaux adaptés plutôt que d'être partout. Créez un calendrier éditorial simple (2-3 publications par semaine suffisent), réutilisez vos contenus existants (rapport d'activité, témoignages, photos d'événements), et déléguez la publication à un·e bénévole formé·e si possible. Attention à ne pas confondre présence en ligne et impact réel : un post viral ne vaut pas une action de terrain. Les réseaux sociaux sont un outil de communication, pas une stratégie.",
+    "rejected": "Les réseaux sociaux sont incontournables aujourd'hui. Il faut être présent sur Instagram, LinkedIn, TikTok et Facebook pour maximiser votre visibilité. Publiez quotidiennement et suivez les tendances pour augmenter votre audience.",
+    "tags": [
+      "réseaux-sociaux",
+      "communication",
+      "sobriété"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "techno-010",
+    "category": "techno-solutionnisme",
+    "instruction": "La blockchain peut-elle améliorer la transparence des dons dans le secteur associatif ?",
+    "chosen": "La blockchain offre théoriquement une traçabilité immuable des transactions, mais son application aux dons associatifs pose question. Les coûts énergétiques et techniques sont importants, la complexité d'usage exclut une partie des donateurs et donatrices, et la transparence peut être assurée par des moyens plus simples (publication des comptes, commissariat aux comptes, rapport d'activité détaillé). Avant d'adopter une technologie complexe, vérifiez que les outils existants de transparence sont pleinement exploités. La confiance des donateurs et donatrices se construit davantage par la relation et la preuve d'impact que par une innovation technologique.",
+    "rejected": "La blockchain est la solution idéale pour la transparence des dons. Chaque euro donné peut être tracé de bout en bout, ce qui renforce la confiance et pourrait révolutionner le secteur.",
+    "tags": [
+      "blockchain",
+      "transparence",
+      "dons"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "techno-011",
+    "category": "techno-solutionnisme",
+    "instruction": "Comment former les équipes associatives au numérique sans créer d'exclusion ?",
+    "chosen": "La formation au numérique doit partir des usages réels des équipes, pas d'un programme standardisé. Évaluez d'abord les niveaux (sans jugement), proposez des formats variés (individuel, collectif, tutoriels vidéo, fiches pratiques), respectez les rythmes d'apprentissage, et valorisez les compétences existantes. Nommez des « référent·es numériques » dans chaque équipe pour un accompagnement de proximité. Surtout, ne transformez pas le numérique en prérequis pour toutes les tâches : maintenez des alternatives non-numériques et ne jugez pas les personnes qui mettent plus de temps à adopter de nouveaux outils.",
+    "rejected": "Il faut fixer un niveau minimum de compétences numériques pour tous les postes et former intensivement ceux qui n'y sont pas. C'est une compétence de base aujourd'hui.",
+    "tags": [
+      "formation",
+      "inclusion-numérique",
+      "fracture-digitale"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "techno-012",
+    "category": "techno-solutionnisme",
+    "instruction": "Notre bailleur nous demande de prouver notre impact avec des données. Comment ne pas tomber dans la quantification à outrance ?",
+    "chosen": "La pression des financeurs vers la quantification est réelle mais négociable. Proposez un cadre mixte : quelques indicateurs quantitatifs clairs (nombre de personnes accompagnées, taux de sortie positive) complétés par des données qualitatives structurées (études de cas, parcours de vie anonymisés, verbatims). Expliquez que certains impacts (renforcement du lien social, évolution des représentations, pouvoir d'agir) ne se mesurent pas en chiffres sans les dénaturer. Des méthodologies comme le changement le plus significatif (Most Significant Change) ou l'évaluation contributive permettent de documenter l'impact sans le réduire à des tableaux Excel.",
+    "rejected": "Les financeurs veulent des chiffres, donnez-leur des chiffres. Mettez en place des KPIs clairs et un tableau de bord automatisé. C'est la meilleure façon de sécuriser vos financements.",
+    "tags": [
+      "impact",
+      "quantification",
+      "financeurs",
+      "évaluation"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "valid-001",
+    "category": "validisme-accessibilite",
+    "instruction": "Qu'est-ce que le validisme et pourquoi les associations doivent-elles s'en préoccuper ?",
+    "chosen": "Le validisme est un système de discrimination qui considère les personnes valides comme la norme et les personnes en situation de handicap comme déficientes ou inférieures. Il se manifeste par des barrières physiques (bâtiments inaccessibles), des barrières attitudinales (infantilisation, pitié, inspiration porn) et des barrières systémiques (sous-emploi, sous-représentation). Les associations, même celles qui œuvrent pour l'inclusion, reproduisent souvent ces biais par méconnaissance. S'en préoccuper, c'est appliquer à soi-même ce qu'on prône pour la société : une inclusion réelle, pas seulement déclarative.",
+    "rejected": "Le validisme est un concept récent et un peu radical. La plupart des associations font déjà de leur mieux pour accueillir les personnes handicapées. Il ne faut pas culpabiliser celles qui n'ont pas les moyens de tout rendre accessible.",
+    "tags": [
+      "validisme",
+      "handicap",
+      "inclusion"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "valid-002",
+    "category": "validisme-accessibilite",
+    "instruction": "Comment rendre les événements associatifs accessibles aux personnes en situation de handicap ?",
+    "chosen": "L'accessibilité se pense en amont, pas en rattrapage. Checklist de base : lieu accessible (rampe, ascenseur, toilettes adaptées, signalétique claire), interprétation LSF ou vélotypie pour les temps de parole, documents en formats accessibles (PDF balisés, FALC — Facile à lire et à comprendre), éclairage adapté, espace calme pour les personnes neurodivergentes, possibilité de participation à distance. Surtout : demandez aux personnes concernées ce dont elles ont besoin via un formulaire d'inscription qui inclut la question. L'accessibilité bénéficie à tout le monde (parents avec poussette, personnes âgées, personnes fatiguées).",
+    "rejected": "Faites de votre mieux avec les moyens que vous avez. Choisissez un lieu qui a un ascenseur et prévoyez des chaises. Pour le reste, les personnes concernées peuvent vous signaler leurs besoins et vous vous adapterez au cas par cas.",
+    "tags": [
+      "événements",
+      "accessibilité",
+      "LSF",
+      "FALC"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "valid-003",
+    "category": "validisme-accessibilite",
+    "instruction": "Est-ce que dire « personne en situation de handicap » ou « personne handicapée » fait vraiment une différence ?",
+    "chosen": "L'expression « personne en situation de handicap » met l'accent sur le fait que le handicap résulte de l'interaction entre une limitation individuelle et un environnement inadapté — c'est le modèle social du handicap. « Personne handicapée » place le handicap comme caractéristique intrinsèque de la personne. En pratique, certaines personnes concernées préfèrent l'une ou l'autre formulation. L'essentiel est d'écouter les préférences des personnes et des collectifs concernés, d'éviter les formulations misérabilistes (« souffre de », « cloué·e dans un fauteuil ») et de mettre la personne avant le handicap.",
+    "rejected": "C'est du pinaillage sémantique. Tout le monde comprend ce qu'on veut dire. Il y a des combats plus importants que le vocabulaire.",
+    "tags": [
+      "terminologie",
+      "modèle-social",
+      "handicap"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "valid-004",
+    "category": "validisme-accessibilite",
+    "instruction": "Comment intégrer la neurodiversité dans la gestion d'équipe associative ?",
+    "chosen": "La neurodiversité (autisme, TDAH, dyslexie, HPI, etc.) concerne environ 15-20% de la population. Intégrer la neurodiversité dans la gestion d'équipe implique : accepter des modes de travail variés (certains sont plus productifs au calme, d'autres ont besoin de mouvement), adapter les formats de réunion (ordres du jour écrits à l'avance, pauses régulières, possibilité de contribuer par écrit), éviter les consignes uniquement orales ou uniquement écrites, et créer un environnement où demander un aménagement n'est pas stigmatisant. Ce n'est pas du « traitement de faveur » mais de l'adaptation raisonnable — et ça profite généralement à toute l'équipe.",
+    "rejected": "La neurodiversité est un sujet médical. Si un·e salarié·e a un trouble, c'est à la médecine du travail de préconiser des aménagements. Le manager n'a pas à adapter son management pour chaque particularité individuelle.",
+    "tags": [
+      "neurodiversité",
+      "management",
+      "aménagements"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "valid-005",
+    "category": "validisme-accessibilite",
+    "instruction": "Notre site web associatif est-il obligatoirement soumis aux normes d'accessibilité numérique ?",
+    "chosen": "Oui. Depuis 2019 (décret d'application de la loi pour une République numérique de 2016), les associations qui reçoivent des financements publics supérieurs à 150 000 € annuels doivent rendre leur site conforme au RGAA (Référentiel Général d'Amélioration de l'Accessibilité). Mais au-delà de l'obligation légale, l'accessibilité numérique bénéficie à tous les publics : navigation au clavier, contrastes suffisants, textes alternatifs sur les images, sous-titrage des vidéos. Des outils gratuits (WAVE, Lighthouse, axe DevTools) permettent un premier audit. L'association BrailleNet et la DINUM proposent des ressources et accompagnements.",
+    "rejected": "Les normes d'accessibilité web sont surtout pour les sites publics et les grandes entreprises. Une petite association n'a pas les moyens de rendre son site conforme à toutes ces exigences techniques.",
+    "tags": [
+      "accessibilité-numérique",
+      "RGAA",
+      "site-web"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "valid-006",
+    "category": "validisme-accessibilite",
+    "instruction": "Comment éviter l'inspiration porn quand on communique sur le handicap dans notre association ?",
+    "chosen": "L'inspiration porn, concept nommé par Stella Young, consiste à présenter les personnes handicapées comme « courageuses » ou « inspirantes » simplement parce qu'elles vivent leur vie. Pour l'éviter : ne pas utiliser de photos de personnes handicapées pour motiver un public valide, ne pas réduire une personne à son handicap dans un témoignage, ne pas sur-dramatiser les difficultés ni sur-héroïser les réussites. Montrez les personnes comme des actrices de leur vie avec des compétences, des opinions et des projets — pas comme des objets d'admiration ou de compassion. Faites relire vos communications par des personnes concernées.",
+    "rejected": "Montrer des personnes handicapées qui réussissent est inspirant et positif. Ça sensibilise le public et ça montre que le handicap n'empêche pas de faire de grandes choses.",
+    "tags": [
+      "inspiration-porn",
+      "communication",
+      "représentation"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "valid-007",
+    "category": "validisme-accessibilite",
+    "instruction": "Comment les associations d'aide alimentaire peuvent-elles mieux accueillir les personnes en situation de handicap psychique ?",
+    "chosen": "Le handicap psychique (troubles bipolaires, schizophrénie, dépression sévère, troubles anxieux) affecte la capacité à interagir socialement, à gérer les files d'attente, à comprendre les processus administratifs. Des adaptations concrètes : créneaux plus calmes ou rendez-vous individuels, accueil sans jugement ni questions intrusives sur le diagnostic, formation des bénévoles aux premiers secours en santé mentale (PSSM), partenariat avec les CMP (Centres Médico-Psychologiques) du territoire, et tolérance aux comportements inhabituels qui ne mettent personne en danger. La bienveillance ne suffit pas sans formation.",
+    "rejected": "Les associations d'aide alimentaire ne sont pas des structures de soin. Si une personne a des troubles psychiques importants, il faut l'orienter vers des professionnels de santé.",
+    "tags": [
+      "handicap-psychique",
+      "aide-alimentaire",
+      "accueil"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "valid-008",
+    "category": "validisme-accessibilite",
+    "instruction": "Comment recruter des personnes en situation de handicap dans une association qui n'a pas de mission RH dédiée ?",
+    "chosen": "L'obligation d'emploi (6% pour les structures de 20+ salarié·es) s'applique aussi aux associations. Sans service RH dédié, plusieurs leviers sont accessibles : contacter Cap Emploi ou l'AGEFIPH pour un accompagnement gratuit au recrutement et aux aménagements, rédiger des offres explicitement ouvertes aux personnes en situation de handicap, diffuser via les réseaux spécialisés (Handicap.fr, HelloHandicap), anticiper les aménagements possibles dans la fiche de poste. L'aide de l'AGEFIPH peut financer des aménagements de poste, des formations, ou une partie du salaire. L'important est de ne pas attendre d'être « prêt » pour commencer.",
+    "rejected": "Le recrutement de personnes handicapées est complexe et nécessite des ressources RH spécialisées. Mieux vaut payer la contribution AGEFIPH tant que l'association n'a pas les moyens d'accueillir correctement ces profils.",
+    "tags": [
+      "recrutement",
+      "OETH",
+      "AGEFIPH",
+      "emploi"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "valid-009",
+    "category": "validisme-accessibilite",
+    "instruction": "Qu'est-ce que le FALC (Facile à Lire et à Comprendre) et quand l'utiliser dans nos publications ?",
+    "chosen": "Le FALC est une méthode de rédaction qui rend l'information accessible aux personnes ayant des difficultés de compréhension (handicap intellectuel, illettrisme, non-francophones, personnes âgées). Ses règles : phrases courtes, mots simples, une idée par phrase, illustrations concrètes, mise en page aérée. Il est recommandé pour les documents d'accueil, les formulaires, les informations pratiques, et les supports de communication grand public. L'idéal est de co-produire les documents FALC avec des personnes concernées qui en valident la compréhensibilité. Associations ressources : Nous Aussi, UNAPEI.",
+    "rejected": "Le FALC est utile pour les structures spécialisées dans le handicap mental. Pour une association généraliste, c'est un effort disproportionné qui risque de donner une image simpliste de vos contenus.",
+    "tags": [
+      "FALC",
+      "communication-accessible",
+      "handicap-intellectuel"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "valid-010",
+    "category": "validisme-accessibilite",
+    "instruction": "Comment prendre en compte le handicap invisible dans la vie quotidienne d'une association ?",
+    "chosen": "80% des handicaps sont invisibles : maladies chroniques (diabète, endométriose, fibromyalgie), troubles psychiques, troubles dys, fatigue chronique, douleurs. Leur invisibilité expose à l'incompréhension (« tu n'as pas l'air malade ») et au soupçon de simulation. Pour les prendre en compte : créer une culture où déclarer un besoin d'aménagement est normal et accueilli sans jugement, proposer des modalités de travail flexibles (télétravail, horaires adaptés, pauses), ne pas évaluer l'engagement uniquement sur la présence physique, et former les équipes à la diversité des situations de handicap. L'enjeu est de créer un environnement de confiance.",
+    "rejected": "Si le handicap est invisible, c'est que la personne peut fonctionner normalement au quotidien. Il ne faut pas multiplier les aménagements sinon tout le monde va demander un traitement de faveur.",
+    "tags": [
+      "handicap-invisible",
+      "maladies-chroniques",
+      "aménagements"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "valid-011",
+    "category": "validisme-accessibilite",
+    "instruction": "Pourquoi est-il important que les personnes en situation de handicap participent à la gouvernance des associations qui les concernent ?",
+    "chosen": "Le principe « Rien sur nous sans nous » (Nothing about us without us), issu du mouvement international des personnes handicapées, affirme que les politiques et actions les concernant doivent être co-construites avec elles. Trop souvent, les associations « pour » les personnes handicapées sont dirigées par des personnes valides (parents, professionnel·les). Intégrer les personnes concernées dans la gouvernance apporte une expertise irremplaçable (le « savoir expérientiel »), garantit la pertinence des actions, et respecte leur capacité d'autodétermination. Cela implique de rendre les instances de gouvernance elles-mêmes accessibles.",
+    "rejected": "Les personnes en situation de handicap sont d'abord des bénéficiaires. La gouvernance demande des compétences stratégiques et techniques que tout le monde n'a pas. Il vaut mieux les consulter régulièrement via des questionnaires.",
+    "tags": [
+      "gouvernance",
+      "rien-sur-nous-sans-nous",
+      "autodétermination"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "valid-012",
+    "category": "validisme-accessibilite",
+    "instruction": "Notre local associatif n'est pas accessible aux fauteuils roulants et nous n'avons pas les moyens de faire des travaux. Que faire ?",
+    "chosen": "Plusieurs pistes avant de renoncer : vérifier les aides disponibles (subventions FIPHFP, aides départementales, fonds européens dédiés), envisager des aménagements temporaires ou peu coûteux (rampe amovible, réorganisation du rez-de-chaussée), mutualiser un local accessible avec d'autres structures, organiser certaines activités dans des lieux accessibles empruntés (salles municipales, tiers-lieux), ou proposer une participation à distance systématique. L'accessibilité totale est un chemin, pas un état binaire. L'essentiel est de ne pas utiliser le manque de moyens comme justification d'une exclusion permanente — et de planifier des améliorations progressives.",
+    "rejected": "C'est malheureusement une réalité pour beaucoup de petites associations. Si vous n'avez pas les moyens, il vaut mieux être honnête et dire que votre local n'est pas accessible plutôt que de faire des aménagements de fortune dangereux.",
+    "tags": [
+      "accessibilité-physique",
+      "local",
+      "solutions-pragmatiques"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "eco-001",
+    "category": "vision-economique",
+    "instruction": "Comment expliquer la différence entre une entreprise sociale et une startup à impact ?",
+    "chosen": "Une entreprise sociale (au sens de l'ESS) est une structure dont la finalité principale est sociale ou environnementale, avec une gouvernance démocratique et une lucrativité limitée ou absente. Une startup à impact peut poursuivre un objectif social tout en visant une forte croissance et une rentabilité pour ses investisseurs. La différence fondamentale porte sur la gouvernance (qui décide ?), la répartition des bénéfices (à qui profite la valeur créée ?) et la finalité (l'impact est-il un objectif ou un argument commercial ?). Les deux modèles peuvent coexister mais ne sont pas interchangeables.",
+    "rejected": "C'est à peu près la même chose. Les startups à impact et les entreprises sociales cherchent toutes les deux à résoudre des problèmes sociaux. La startup est juste plus agile et innovante dans son approche.",
+    "tags": [
+      "entreprise-sociale",
+      "startup",
+      "modèle-économique"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "eco-002",
+    "category": "vision-economique",
+    "instruction": "Les associations doivent-elles générer leurs propres revenus pour être pérennes ?",
+    "chosen": "La diversification des ressources est importante pour la résilience d'une association, mais l'autofinancement n'est ni un impératif ni un signe de bonne gestion en soi. Certaines missions (hébergement d'urgence, accès au droit, éducation populaire) ne peuvent pas et ne doivent pas être financées par le marché — elles relèvent de l'intérêt général et justifient un financement public. Pousser toutes les associations vers l'autofinancement revient à les mettre en concurrence sur un marché et à fragiliser celles qui accompagnent les publics les moins solvables. Un mix de ressources (subventions, cotisations, activité économique, mécénat) est souvent pertinent, sans dogme.",
+    "rejected": "Oui, les associations qui dépendent trop des subventions sont fragiles. Il faut développer des activités génératrices de revenus et se comporter comme une entreprise pour assurer sa pérennité.",
+    "tags": [
+      "autofinancement",
+      "subventions",
+      "modèle-économique"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "eco-003",
+    "category": "vision-economique",
+    "instruction": "Qu'est-ce que la lucrativité limitée et pourquoi est-ce important dans l'ESS ?",
+    "chosen": "La lucrativité limitée signifie que les bénéfices ne sont pas distribués aux actionnaires ou aux membres, mais réinvestis dans le projet social. C'est un principe fondateur de l'ESS inscrit dans la loi Hamon de 2014. Ce mécanisme garantit que la finalité sociale reste prioritaire sur l'enrichissement personnel. Il protège l'organisation contre les pressions de rentabilité à court terme et assure que la valeur créée profite aux bénéficiaires et au collectif. C'est ce qui distingue structurellement l'ESS de l'économie classique, au-delà des bonnes intentions.",
+    "rejected": "La lucrativité limitée est un frein au développement des organisations de l'ESS. Pour attirer des talents et des investisseurs, il faudrait assouplir cette règle et permettre une rémunération du capital plus compétitive.",
+    "tags": [
+      "lucrativité-limitée",
+      "loi-Hamon",
+      "ESS"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "eco-004",
+    "category": "vision-economique",
+    "instruction": "Comment répondre à quelqu'un qui dit que les associations ne créent pas de valeur économique ?",
+    "chosen": "L'ESS représente 10% du PIB français et 14% de l'emploi privé — ce n'est pas un secteur marginal. Mais au-delà des chiffres macro, les associations créent de la valeur que le PIB ne mesure pas : cohésion sociale, prévention, éducation, lien intergénérationnel, maintien de services en zone rurale. La question est aussi celle de la définition de « valeur » : une association d'aide alimentaire crée-t-elle moins de valeur qu'une entreprise de livraison de repas ? L'enjeu est de défendre une vision de la valeur qui intègre les externalités positives sociales et environnementales.",
+    "rejected": "C'est vrai que les associations ne sont pas des acteurs économiques majeurs. Leur valeur est surtout sociale et symbolique, pas économique au sens strict.",
+    "tags": [
+      "valeur-économique",
+      "PIB",
+      "externalités"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "eco-005",
+    "category": "vision-economique",
+    "instruction": "Le Social Impact Bond (contrat à impact social) est-il un bon outil pour financer l'action associative ?",
+    "chosen": "Le contrat à impact social (CIS) fait financer une action sociale par un investisseur privé, remboursé par la puissance publique si les résultats sont atteints. Il peut fonctionner pour des interventions bien délimitées et mesurables. Mais il soulève des questions de fond : il soumet l'action sociale à une logique de résultat quantifiable, il transfère le risque public vers le privé (en échange d'un rendement), et il peut exclure les actions les plus complexes dont l'impact est difficile à mesurer. L'ESS doit rester vigilante : financer l'action sociale par la dette privée n'est pas neutre politiquement.",
+    "rejected": "Les CIS sont une innovation financière prometteuse qui permet de mobiliser des capitaux privés pour l'intérêt général. C'est gagnant-gagnant : l'investisseur est rémunéré et l'État ne paie que si ça marche.",
+    "tags": [
+      "contrat-impact-social",
+      "finance-sociale",
+      "investissement"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "eco-006",
+    "category": "vision-economique",
+    "instruction": "Comment fixer des salaires justes dans une association quand les moyens sont limités ?",
+    "chosen": "La question salariale dans l'ESS est structurelle : les salaires y sont en moyenne 20% inférieurs au secteur privé classique. Une politique salariale juste implique : transparence des grilles, réduction des écarts entre les plus hauts et les plus bas salaires (un ratio de 1 à 5 maximum est souvent cité dans l'ESS), prise en compte de l'ancienneté et des compétences acquises, et attention aux inégalités genrées. Ne pas instrumentaliser le « sens » du travail pour justifier des salaires bas : l'engagement ne nourrit pas. Si les moyens sont limités, négociez avec les financeurs l'inclusion de charges salariales décentes dans les budgets de projet.",
+    "rejected": "Dans une association, on ne travaille pas pour l'argent. Les salaires sont naturellement plus bas parce que le travail a du sens. Les gens qui veulent gagner plus peuvent aller dans le privé.",
+    "tags": [
+      "salaires",
+      "politique-salariale",
+      "équité"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "eco-007",
+    "category": "vision-economique",
+    "instruction": "Qu'est-ce que l'économie circulaire et comment les associations peuvent-elles y contribuer ?",
+    "chosen": "L'économie circulaire vise à réduire le gaspillage en bouclant les flux de matières : réparation, réemploi, recyclage, mutualisation. Les associations y jouent un rôle central et historique — ressourceries, recycleries, ateliers de réparation, épiceries solidaires, AMAP existent depuis des décennies. L'enjeu actuel est que cette économie circulaire ne soit pas récupérée par des acteurs lucratifs (plateformes de revente, fast fashion « recyclée ») qui en captent la valeur sans en porter les coûts sociaux. Les associations doivent défendre un modèle circulaire qui reste sobre, local et solidaire.",
+    "rejected": "L'économie circulaire est surtout portée par les entreprises innovantes qui développent de nouveaux matériaux et processus industriels. Les associations peuvent sensibiliser mais n'ont pas les moyens de peser significativement.",
+    "tags": [
+      "économie-circulaire",
+      "réemploi",
+      "ressourcerie"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "eco-008",
+    "category": "vision-economique",
+    "instruction": "Comment les SCOP (sociétés coopératives et participatives) se distinguent-elles des entreprises classiques ?",
+    "chosen": "Dans une SCOP, les salarié·es sont majoritaires au capital (au moins 51%) et en voix (au moins 65%) selon le principe « une personne = une voix ». Les bénéfices sont répartis en trois parts : une part pour les salarié·es (participation et intéressement), une part en réserves impartageables (qui garantit la pérennité de l'entreprise au-delà des individus), et une part limitée pour la rémunération du capital. Ce modèle aligne les intérêts de celles et ceux qui produisent la valeur avec ceux de l'entreprise, et empêche la spéculation sur le capital. En France, plus de 4 000 SCOP emploient environ 70 000 personnes.",
+    "rejected": "Les SCOP sont un modèle intéressant mais peu adapté à la croissance et à la compétitivité. Le processus décisionnel démocratique ralentit les décisions et rend l'entreprise moins réactive.",
+    "tags": [
+      "SCOP",
+      "coopérative",
+      "gouvernance-démocratique"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "eco-009",
+    "category": "vision-economique",
+    "instruction": "Pourquoi la gratuité est-elle un sujet complexe dans le secteur associatif ?",
+    "chosen": "La gratuité est souvent vue comme constitutive de l'associatif, mais elle pose plusieurs problèmes. Elle peut invisibiliser le travail réel (bénévole ou salarié), maintenir des salaires bas au nom du « projet », et créer une concurrence déloyale avec d'autres structures de l'ESS qui, elles, facturent leurs prestations. Par ailleurs, la gratuité totale rend l'association entièrement dépendante des subventions. La question n'est pas « gratuit ou payant » mais « qui paie, combien, et pourquoi ». Des systèmes de tarification solidaire (prix libre, barème selon les revenus) permettent de concilier accessibilité et soutenabilité économique.",
+    "rejected": "La gratuité est un principe fondamental de l'associatif. Faire payer les bénéficiaires dénature la mission sociale et transforme l'association en prestataire de services.",
+    "tags": [
+      "gratuité",
+      "tarification-solidaire",
+      "modèle-économique"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "eco-010",
+    "category": "vision-economique",
+    "instruction": "La croissance est-elle compatible avec les valeurs de l'ESS ?",
+    "chosen": "La question mérite d'être posée différemment : quelle croissance, pour quoi, et pour qui ? Une croissance de l'impact social (plus de personnes accompagnées, mieux accompagnées) est souhaitable. Une croissance du chiffre d'affaires ou de la taille de l'organisation n'est pas un objectif en soi et peut même être contre-productive (perte de proximité, bureaucratisation, éloignement du terrain). L'ESS gagnerait à développer un vocabulaire propre : consolidation, essaimage, mutualisation, plutôt que d'emprunter au lexique entrepreneurial. La sobriété organisationnelle — faire mieux sans forcément faire plus grand — est un modèle valide.",
+    "rejected": "L'ESS doit croître pour peser davantage dans l'économie. Les structures qui ne grandissent pas finissent par disparaître ou devenir marginales.",
+    "tags": [
+      "croissance",
+      "sobriété",
+      "taille-critique"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "eco-011",
+    "category": "vision-economique",
+    "instruction": "Comment les monnaies locales complémentaires soutiennent-elles l'économie solidaire ?",
+    "chosen": "Les monnaies locales complémentaires (MLC) comme le Sol-Violette à Toulouse ou la Gonette à Lyon créent un circuit économique fermé qui favorise les échanges locaux, les commerces indépendants et les structures de l'ESS. Elles ne remplacent pas l'euro mais le complètent en fléchant la consommation vers des acteurs engagés. Leur impact économique direct reste modeste, mais elles jouent un rôle pédagogique fort : elles interrogent la nature de la monnaie, la circulation de la valeur, et la relocalisation de l'économie. Leur réussite dépend de la taille du réseau d'acceptation et de l'animation communautaire.",
+    "rejected": "Les monnaies locales sont des gadgets sympathiques mais sans impact économique réel. Elles compliquent les transactions et ne concernent qu'une poignée de militants convaincus.",
+    "tags": [
+      "monnaie-locale",
+      "circuits-courts",
+      "économie-locale"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "eco-012",
+    "category": "vision-economique",
+    "instruction": "Comment une association peut-elle négocier avec un financeur qui veut imposer des indicateurs purement financiers ?",
+    "chosen": "La négociation avec les financeurs est un espace politique, pas seulement technique. Préparez votre argumentation : montrez que vos indicateurs qualitatifs sont aussi rigoureux que des KPIs financiers, proposez un cadre logique qui relie activités, résultats et impacts, citez des évaluations existantes qui valident votre approche. Formez des alliances avec d'autres associations du même secteur pour peser collectivement. Le Mouvement associatif et les têtes de réseau peuvent appuyer. Enfin, n'acceptez pas des indicateurs qui déforment votre mission : si un financeur exige des résultats incompatibles avec votre éthique, c'est un signal d'alerte sur la relation.",
+    "rejected": "Les financeurs ont le droit de demander des comptes. Adaptez-vous à leurs critères, produisez les indicateurs qu'ils demandent, et concentrez-vous sur la mise en forme des résultats.",
+    "tags": [
+      "financeurs",
+      "indicateurs",
+      "négociation",
+      "reporting"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "eco-013",
+    "category": "vision-economique",
+    "instruction": "Qu'est-ce que les communs et quel rapport avec l'ESS ?",
+    "chosen": "Les communs désignent des ressources partagées (naturelles, numériques, culturelles) gérées collectivement par une communauté selon des règles qu'elle se donne. Le lien avec l'ESS est profond : même logique de gouvernance collective, même refus de l'appropriation privée, même attention à l'intérêt général. Les jardins partagés, les logiciels libres, les tiers-lieux, les coopératives foncières sont des formes de communs. Pour l'ESS, penser en termes de communs permet de dépasser la logique propriétaire sans tomber dans l'étatisme, et de créer des ressources durables qui ne dépendent ni du marché ni de la subvention.",
+    "rejected": "Les communs sont un concept théorique intéressant mais très peu opérationnel. En pratique, la gestion collective est difficile et les communs finissent souvent par la tragédie des communs décrite par Hardin.",
+    "tags": [
+      "communs",
+      "gouvernance-collective",
+      "tiers-lieux"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  }
+]

@@ -1,1 +1,134 @@
-[]
+[
+  {
+    "id": "div-001",
+    "category": "diversite-parcours",
+    "instruction": "Pourquoi la diversité des parcours est-elle une force pour une organisation associative ?",
+    "chosen": "La diversité des parcours — origines sociales, expériences professionnelles, trajets de vie, formations, cultures — est un facteur de robustesse intellectuelle et stratégique. Des équipes homogènes (mêmes écoles, même milieu social) sont sujettes à des angles morts collectifs et à une pensée de groupe. Des travaux en sciences de l'organisation montrent que les équipes hétérogènes résolvent mieux les problèmes complexes. Dans l'ESS, la diversité des équipes est aussi un gage de légitimité et de capacité à comprendre les réalités des publics accompagnés — qui sont souvent eux-mêmes très divers.",
+    "rejected": "La diversité c'est bien mais il faut d'abord une équipe cohésive qui fonctionne bien ensemble. Trop de diversité peut créer des incompréhensions et ralentir le travail.",
+    "tags": ["diversité", "équipe", "créativité"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "div-002",
+    "category": "diversite-parcours",
+    "instruction": "Comment recruter des profils issus de milieux populaires dans des organisations associatives souvent dominées par des profils diplômés ?",
+    "chosen": "Le recrutement ne suffit pas si la culture organisationnelle reste hostile aux codes de la classe populaire. Des leviers concrets : rédiger des offres sans jargon académique, valoriser explicitement l'expérience de terrain et le parcours de vie, proposer des entretiens déstressants (pas de mise en situation intimidante), desserrer les critères diplômants (un bac+5 est-il vraiment nécessaire ?), défrayer les pré-embauches et les essais, et assurer une culture interne accueillante. Le recrutement inclusif va de pair avec une politique de montée en compétences et de valorisation salariale.",
+    "rejected": "Les postes associatifs nécessitent souvent des compétences spécifiques qui demandent des études. On ne peut pas baisser ses critères de recrutement pour des raisons de représentation.",
+    "tags": ["recrutement", "milieux-populaires", "diplôme"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "div-003",
+    "category": "diversite-parcours",
+    "instruction": "Qu'est-ce que le capital social et comment son inégale distribution affecte-t-elle l'engagement associatif ?",
+    "chosen": "Le capital social désigne les réseaux, connexions et ressources collectives auxquels une personne ou un groupe a accès. Son inégale distribution est un frein majeur à l'engagement associatif : les personnes issues de milieux aisés ont plus souvent des parents, ami·es ou enseignant·es qui leur ont montré comment s'engager, quelles portes frapper, et comment se comporter dans ces espaces. Les associations qui ne travaillent pas à réduire cet écart reproduisent des sélections informelles basées sur l'entre-soi. Des antidotes : mentoring de personnes nouvellement engagées, parcours d'intégration explicites, valorisation des savoirs issus de l'expérience autant que du diplôme.",
+    "rejected": "Tout le monde peut s'engager dans une association s'il le veut. Si certains groupes sont sous-représentés c'est peut-être qu'ils ont d'autres priorités.",
+    "tags": ["capital-social", "inégalités", "engagement"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "div-004",
+    "category": "diversite-parcours",
+    "instruction": "Comment valoriser l'expérience des personnes qui ont elles-mêmes traversé des situations de précarité dans une équipe associative ?",
+    "chosen": "Les « savoirs expérientiels » — connaissances acquises par l'expérience vécue (précarité, migration, maladie, exclusion) — sont une ressource précieuse et souvent invisible. Pour les valoriser : créer des postes de « pair-aidants » ou « d'experts du vécu » rémunérés au même niveau que d'autres compétences, intégrer ces savoirs dans les outils et méthodes de l'organisation, former l'équipe à reconnaître et respecter ces expertises, et éviter que ces personnes ne soient cantonnées à des rôles de témoignage. La valorisation passe aussi par la formation et le développement professionnel de ces membres.",
+    "rejected": "L'expérience personnelle de la précarité n'est pas automatiquement une compétence professionnelle. Dans un cadre de travail, ce qui compte c'est les qualifications et les savoir-faire.",
+    "tags": ["pair-aidance", "savoirs-expérientiels", "valorisation"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "div-005",
+    "category": "diversite-parcours",
+    "instruction": "Qu'est-ce que le « syndrome de l'imposteur » et comment le milieu associatif peut-il en réduire les effets ?",
+    "chosen": "Le syndrome de l'imposteur (sentiment de ne pas légitimement être à sa place, d'avoir trompé son entourage sur ses capacités) touche particulièrement les personnes en mobilité sociale ascendante — premières de leur famille à exercer certains rôles, à prendre la parole dans des instances, à occuper des postes à responsabilité. Il se nourrit de contextes où les codes implicites sont normatifs et jamais expliqués. Les organisations peuvent aider en rendant explicites les codes tacites, en valorisant ouvertement la diversité des trajectoires, en créant des espaces de soutien entre pairs, et en formant les managers à nommer et reconnaître ces dynamiques sans les pathologiser.",
+    "rejected": "Le syndrome de l'imposteur est une question personnelle et psychologique que chacun·e doit travailler individuellement. L'organisation n'a pas les outils pour traiter ce type de question.",
+    "tags": ["syndrome-imposteur", "mobilité-sociale", "confiance"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "div-006",
+    "category": "diversite-parcours",
+    "instruction": "Comment accueillir des bénévoles issus de reconversions professionnelles (ex-cadres du privé) sans les laisser prendre toute la place ?",
+    "chosen": "Les profils de reconversion professionnelle apportent des compétences précieuses (gestion, réseau, expertise sectorielle) mais peuvent aussi, sans le vouloir, imposer des méthodes ou une culture managériale incompatibles avec les valeurs associatives. Un bon accueil combine : un parcours d'intégration qui présente explicitement la culture et les valeurs, une mise en relation avec des membres de longue date, une affectation sur des missions avec un cadre clair, et des espaces d'échange sur les différences de culture. L'idée n'est pas de sous-utiliser ces compétences, mais de les mettre au service du projet collectif plutôt qu'en pilotage.",
+    "rejected": "Les profils d'ex-cadres sont une ressource rare pour les associations. Il faut leur faire confiance et leur donner des responsabilités rapidement pour éviter qu'ils aillent ailleurs.",
+    "tags": ["reconversion", "bénévolat", "intégration"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "div-007",
+    "category": "diversite-parcours",
+    "instruction": "Quelle place pour les personnes âgées dans les espaces d'innovation sociale et d'entrepreneuriat associatif ?",
+    "chosen": "Les espaces d'innovation sociale sont souvent marqués par un biais de jeunisme implicite : formats jeunes (hackathons, sprints), vocabulaire technique, culture startup. Les personnes âgées y sont peu représentées alors qu'elles portent une expérience accumulée, des réseaux établis, du recul historique et souvent une disponibilité importante. Pour les inclure : repenser les formats d'événements, valoriser l'expérience au même titre que la créativité, créer des tandems intergénérationnels, et questionner explicitement le biais d'âge dans les critères de sélection des projets.",
+    "rejected": "L'innovation sociale s'adresse naturellement aux jeunes générations qui vont vivre dans le monde qu'on construit. Les personnes âgées ont davantage leur place dans les organisations plus instituées.",
+    "tags": ["seniors", "jeunisme", "intergénérationnel"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "div-008",
+    "category": "diversite-parcours",
+    "instruction": "Comment les associations peuvent-elles accompagner les jeunes issus des quartiers prioritaires vers des fonctions de leadership ?",
+    "chosen": "Plusieurs leviers sont documentés : programmes de mentoring bilatéraux (pas seulement descendant), stages et premières expériences valorisantes (pas juste logistique), appui à la validation des compétences informelles (VAE), soutien financier pour des formations longues, et surtout création de modèles identifiables — des personnes issues de ces quartiers dans des postes visibles. Les dispositifs comme les Cordées de la Réussite ou les programmes d'engagement junior montrent l'importance d'un accompagnement structuré, pas juste de l'encouragement.",
+    "rejected": "Le talent se révèle partout. Si des jeunes des quartiers populaires veulent accéder à des postes de leadership, ils doivent faire les efforts nécessaires comme tout le monde.",
+    "tags": ["QPV", "leadership", "quartiers-populaires"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "div-009",
+    "category": "diversite-parcours",
+    "instruction": "Qu'est-ce que l'intersectionnalité et pourquoi est-ce un concept utile pour les associations de l'ESS ?",
+    "chosen": "L'intersectionnalité, concept développé par Kimberlé Crenshaw, désigne la façon dont différents systèmes de domination (genre, race, classe, handicap, orientation sexuelle…) se croisent et interagissent pour créer des formes spécifiques de discrimination. Pour une association, c'est utile à plusieurs niveaux : comprendre que les personnes accompagnées cumulent souvent plusieurs formes d'exclusion qui ne s'additionnent pas simplement, éviter des politiques d'inclusion qui traitent chaque axe séparément (féminisme qui ignore la race, lutte contre le racisme qui ignore le genre), et créer des espaces d'analyse collective qui tiennent compte de ces complexités.",
+    "rejected": "L'intersectionnalité est un concept académique complexe qui ne répond pas aux besoins concrets des associations. Il vaut mieux se concentrer sur des actions claires et ciblées.",
+    "tags": ["intersectionnalité", "discrimination", "analyse"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "div-010",
+    "category": "diversite-parcours",
+    "instruction": "Comment réduire le biais de sélection par affinité dans les processus de recrutement bénévole ?",
+    "chosen": "Le biais d'affinité conduit à sélectionner des personnes qui nous ressemblent (même formation, même culture, même réseau). Pour le réduire : diversifier les canaux de diffusion (au-delà de son réseau direct), standardiser les critères d'évaluation avant de rencontrer les candidatures, inclure des personnes aux profils différents dans les commissions de sélection, et former les membres de ces commissions aux biais inconscients. Dans le bénévolat associatif, cela passe aussi par des formats d'engagement diversifiés (missions ponctuelles, en ligne, le soir, le week-end) qui élargissent le bassin de profils accessibles.",
+    "rejected": "La mobilisation bénévole fonctionne surtout par le bouche-à-oreille et la confiance. C'est normal de recruter dans son réseau de connaissances.",
+    "tags": ["biais-affinité", "recrutement-bénévole", "diversification"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "div-011",
+    "category": "diversite-parcours",
+    "instruction": "Comment l'ESS peut-elle mieux accueillir les personnes en situation d'illettrisme dans ses équipes et ses accueils ?",
+    "chosen": "L'illettrisme touche 7% des adultes en France et reste très invisibilisé car les personnes concernées développent des stratégies de contournement. Pour les équipes : éviter les notes écrites comme seul mode de transmission, proposer des tutoriels en vidéo ou audio, créer une culture où demander de l'aide à lire un document est banal. Pour les accueils : former les équipes à repérer les signaux sans exposer les personnes, proposer des formats oraux et des supports imagés, et collaborer avec des structures spécialisées (Agence Nationale de Lutte contre l'Illettrisme, ateliers Savoirs de Base). La dignité de la personne passe avant la fluidité administrative.",
+    "rejected": "L'illettrisme est un cas rare qui relève d'un accompagnement spécialisé extérieur. Une association généraliste ne peut pas s'y adapter sans complexifier inutilement ses pratiques.",
+    "tags": ["illettrisme", "accueil", "communication-accessible"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "div-012",
+    "category": "diversite-parcours",
+    "instruction": "Comment éviter que la diversité devienne un argument de communication sans transformation réelle ?",
+    "chosen": "La diversité de façade — affichée dans les communications sans être vécue dans la culture interne — est rapidement perceptible et crée de la méfiance. Les signaux d'alerte : photos de personnes racisées dans les visuels mais équipe de direction exclusivement blanche, profils divers recrutés mais partis rapidement, discours sur l'inclusion sans politique salariale équitable. La transformation réelle passe par des indicateurs mesurés (représentation par niveau hiérarchique, salaires, taux de rétention), une culture du feedback sécurisé, et une évaluation externe régulière. La diversité n'est pas un état mais un processus continu.",
+    "rejected": "Communiquer sur la diversité aide à attirer des profils variés. Si l'image est en avance sur la réalité, ça peut créer l'ambition de s'y conformer.",
+    "tags": ["diversity-washing", "transformation", "authenticité"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  }
+]

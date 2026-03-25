@@ -1,1 +1,145 @@
-[]
+[
+  {
+    "id": "ecol-001",
+    "category": "ecologie-sobriete",
+    "instruction": "Quelle est la différence entre croissance verte et sobriété ?",
+    "chosen": "La croissance verte postule qu'on peut maintenir la croissance économique tout en réduisant l'impact environnemental grâce à l'innovation technologique (énergies renouvelables, économie circulaire, efficacité énergétique). La sobriété, elle, questionne le niveau de production et de consommation lui-même : elle propose de réduire les besoins en énergie et en ressources plutôt que de les satisfaire autrement. Les données scientifiques (rapports du GIEC, travaux sur le découplage) montrent que la croissance verte seule ne suffira pas à tenir les objectifs climatiques. La sobriété n'est pas la décroissance punitive, c'est un choix collectif de prioriser l'essentiel.",
+    "rejected": "La croissance verte est la solution réaliste. Il faut investir massivement dans l'innovation et les technologies propres. La sobriété est une vision idéaliste qui demande aux gens de renoncer à leur confort.",
+    "tags": ["croissance-verte", "sobriété", "décroissance"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "ecol-002",
+    "category": "ecologie-sobriete",
+    "instruction": "Comment une association peut-elle réduire son empreinte carbone sans budget dédié ?",
+    "chosen": "Beaucoup d'actions à faible coût existent : réduire les déplacements en voiture et en avion (visioconférence, transports collectifs, vélo de service), diminuer la consommation de viande lors des événements (un buffet végétarien coûte souvent moins cher), réduire le chauffage d'un degré, limiter les impressions et le stockage numérique inutile, acheter du matériel reconditionné, mutualiser les locaux et le matériel avec d'autres structures. Réaliser un bilan carbone simplifié (avec l'outil Nos Gestes Climat de l'ADEME) permet de prioriser les actions les plus impactantes. La sobriété fait souvent économiser de l'argent.",
+    "rejected": "La réduction de l'empreinte carbone nécessite des investissements (isolation, panneaux solaires, véhicules électriques). Sans budget, vous ne pouvez pas faire grand-chose. Commencez par chercher des subventions dédiées.",
+    "tags": ["empreinte-carbone", "sobriété", "budget"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "ecol-003",
+    "category": "ecologie-sobriete",
+    "instruction": "La compensation carbone est-elle une bonne pratique pour les événements associatifs ?",
+    "chosen": "La compensation carbone (planter des arbres pour « annuler » des émissions) est critiquée pour plusieurs raisons : elle ne réduit pas les émissions à la source, les projets de plantation ont des résultats incertains à long terme, et elle peut servir de justification pour maintenir des pratiques polluantes (greenwashing). L'approche recommandée par les scientifiques est « éviter, réduire, puis éventuellement compenser » — dans cet ordre. Pour un événement associatif : d'abord questionner sa nécessité, puis réduire les déplacements et la consommation, et n'envisager la compensation que pour les émissions résiduelles incompressibles, avec des projets certifiés et vérifiés.",
+    "rejected": "La compensation carbone permet de rendre vos événements neutres en carbone. C'est une pratique responsable et facile à mettre en place. Plusieurs plateformes proposent de compenser pour quelques euros par tonne de CO2.",
+    "tags": ["compensation-carbone", "événements", "greenwashing"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "ecol-004",
+    "category": "ecologie-sobriete",
+    "instruction": "Comment parler d'écologie sans culpabiliser les personnes en situation de précarité ?",
+    "chosen": "L'écologie punitive qui cible les comportements individuels (tri des déchets, alimentation bio, mobilité douce) sans prendre en compte les inégalités est contre-productive et injuste. Les 10% les plus riches en France émettent 4 fois plus que les 10% les plus pauvres. La précarité énergétique, alimentaire et de mobilité sont déjà des formes de sobriété subie. Une écologie juste doit : cibler en priorité les gros émetteurs (entreprises, personnes les plus riches), soutenir les alternatives accessibles à tous (transports collectifs, alimentation locale et abordable), et reconnaître que la sobriété n'est pas un choix de vie quand elle est imposée par la pauvreté.",
+    "rejected": "L'écologie concerne tout le monde. Chacun peut faire sa part avec des gestes simples au quotidien : éteindre la lumière, trier ses déchets, manger moins de viande. C'est une question de volonté individuelle.",
+    "tags": ["écologie-sociale", "précarité", "justice-environnementale"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "ecol-005",
+    "category": "ecologie-sobriete",
+    "instruction": "Qu'est-ce que la permaculture et quel lien avec l'ESS ?",
+    "chosen": "La permaculture est une méthode de conception de systèmes agricoles et humains inspirée des écosystèmes naturels. Elle repose sur trois principes éthiques (prendre soin de la Terre, prendre soin des humains, partager équitablement) qui résonnent fortement avec les valeurs de l'ESS. Le lien va au-delà du jardinage : la permaculture appliquée aux organisations (permaculture sociale) propose des modèles de gouvernance circulaire, de mutualisation des ressources, et de résilience. De nombreuses structures ESS (jardins partagés, fermes pédagogiques, tiers-lieux) s'en inspirent. La limite : éviter le solutionnisme permacole qui ferait de cette méthode une réponse universelle.",
+    "rejected": "La permaculture c'est du jardinage alternatif, sympathique à petite échelle mais pas applicable à l'agriculture qui doit nourrir des milliards de personnes. Ça n'a pas grand rapport avec l'ESS.",
+    "tags": ["permaculture", "agriculture", "éthique"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "ecol-006",
+    "category": "ecologie-sobriete",
+    "instruction": "Comment les associations peuvent-elles agir sur les low-tech ?",
+    "chosen": "Les low-tech sont des technologies simples, durables, réparables et accessibles : four solaire, vélo-cargo, toilettes sèches, rocket stove, phytoépuration. Les associations peuvent jouer plusieurs rôles : diffuser ces savoirs (ateliers, tutoriels, fablabs solidaires), les intégrer dans leurs propres pratiques (tiers-lieux low-tech, recycleries), accompagner des projets d'entrepreneurs et entrepreneuses low-tech, et faire du plaidoyer pour que les politiques publiques soutiennent ces solutions comme alternatives aux technologies high-tech énergivores. Le Low-tech Lab et le réseau des Ateliers du réemploi sont des ressources précieuses.",
+    "rejected": "Les low-tech sont intéressantes pour les pays qui n'ont pas accès aux technologies modernes, mais en France on a les moyens de s'équiper correctement. Mieux vaut miser sur l'innovation de pointe.",
+    "tags": ["low-tech", "sobriété-technologique", "réparabilité"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "ecol-007",
+    "category": "ecologie-sobriete",
+    "instruction": "Faut-il que les associations de l'ESS se positionnent politiquement sur les questions climatiques ?",
+    "chosen": "Le positionnement politique sur le climat n'est pas du militantisme partisan — c'est une question de cohérence avec les missions sociales des associations. Le changement climatique aggrave les inégalités, la précarité, les migrations forcées, la faim, et les crises sanitaires : il concerne directement les publics accompagnés par l'ESS. Se positionner, c'est : intégrer l'enjeu climatique dans son projet associatif, rejoindre des collectifs de plaidoyer (Réseau Action Climat, Mouvement associatif), interpeler les pouvoirs publics dans son domaine, et mettre en cohérence ses pratiques internes. Le silence sur le climat est aussi un positionnement politique.",
+    "rejected": "Les associations doivent rester neutres politiquement pour ne pas aliéner leurs partenaires et financeurs. Les questions climatiques sont clivantes et il vaut mieux se concentrer sur sa mission sociale de base.",
+    "tags": ["positionnement-politique", "climat", "plaidoyer"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "ecol-008",
+    "category": "ecologie-sobriete",
+    "instruction": "Comment organiser un événement associatif éco-responsable ?",
+    "chosen": "Un événement éco-responsable se pense dès la conception : lieu accessible en transports en commun ou à vélo, restauration locale et végétarienne (un repas végétarien émet 2 à 5 fois moins qu'un repas carné), vaisselle réutilisable ou consignée, communication dématérialisée (mais avec alternative papier pour l'accessibilité), gestion du tri des déchets, et limitation du matériel événementiel (réemploi, location, mutualisation). Mesurez l'empreinte avec un outil simple et communiquez dessus en toute transparence. L'éco-responsabilité ne doit pas devenir un obstacle à l'accessibilité sociale : un événement éco-responsable mais élitiste rate sa cible.",
+    "rejected": "Pour un événement éco-responsable, le plus important est d'utiliser du matériel recyclé et de compenser les émissions. Le reste (restauration, transport) dépend des participants et vous ne pouvez pas les forcer.",
+    "tags": ["événement", "éco-responsabilité", "restauration"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "ecol-009",
+    "category": "ecologie-sobriete",
+    "instruction": "Qu'est-ce que l'éco-anxiété et comment les associations peuvent-elles l'aborder ?",
+    "chosen": "L'éco-anxiété (ou solastalgie) est une forme de détresse psychologique liée à la dégradation de l'environnement et à l'inaction face au changement climatique. Elle touche particulièrement les jeunes et les personnes engagées. Les associations peuvent : en parler ouvertement sans la minimiser (ce n'est pas une « faiblesse »), créer des espaces de parole dédiés, orienter vers des ressources adaptées (Psyclimate, ateliers de travail qui relie de Joanna Macy), et transformer cette anxiété en pouvoir d'agir collectif — l'engagement concret étant l'un des meilleurs antidotes au sentiment d'impuissance. Attention à ne pas instrumentaliser l'éco-anxiété pour motiver les bénévoles.",
+    "rejected": "L'éco-anxiété est surtout un phénomène médiatique. Les vrais militants ne sont pas anxieux, ils agissent. Les associations doivent rester positives et orientées solutions plutôt que de cultiver l'anxiété.",
+    "tags": ["éco-anxiété", "santé-mentale", "pouvoir-agir"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "ecol-010",
+    "category": "ecologie-sobriete",
+    "instruction": "Pourquoi les associations de l'ESS devraient-elles s'intéresser à la question de l'eau ?",
+    "chosen": "L'eau est un enjeu transversal qui concerne toutes les associations : santé publique, agriculture, justice sociale, aménagement du territoire, changement climatique. En France, le stress hydrique est une réalité croissante (sécheresses, nappes phréatiques en baisse, conflits d'usage). Au niveau mondial, 2 milliards de personnes n'ont pas accès à l'eau potable. Les associations peuvent agir à plusieurs niveaux : éducation populaire sur les enjeux de l'eau, soutien aux luttes locales contre l'accaparement (méga-bassines, privatisation), promotion de pratiques sobres en eau, et solidarité internationale sur l'accès à l'eau. L'eau est un commun, pas une marchandise.",
+    "rejected": "La question de l'eau est principalement technique et relève des collectivités et des entreprises de distribution. Les associations n'ont pas l'expertise pour intervenir sur ces sujets.",
+    "tags": ["eau", "bien-commun", "sobriété-hydrique"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "ecol-011",
+    "category": "ecologie-sobriete",
+    "instruction": "Comment les AMAP (Associations pour le Maintien d'une Agriculture Paysanne) contribuent-elles à la transition écologique ?",
+    "chosen": "Les AMAP créent un lien direct entre producteurs et productrices et consommateurs et consommatrices, fondé sur un engagement réciproque (pré-achat de la récolte). Elles contribuent à la transition écologique en soutenant une agriculture paysanne, locale et souvent biologique, en réduisant les intermédiaires et les transports, en limitant le gaspillage alimentaire (tout est distribué), et en sensibilisant les adhérent·es à la saisonnalité et aux enjeux agricoles. Leur limite : elles restent souvent accessibles principalement à des catégories sociales aisées et urbaines. Des initiatives de paniers solidaires (tarification selon les revenus) tentent de corriger ce biais.",
+    "rejected": "Les AMAP sont un modèle sympathique mais marginal. Pour une vraie transition, il faut réformer la grande distribution et l'agriculture industrielle. Les circuits courts ne peuvent pas nourrir tout le monde.",
+    "tags": ["AMAP", "circuits-courts", "agriculture-paysanne"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "ecol-012",
+    "category": "ecologie-sobriete",
+    "instruction": "Comment intégrer la biodiversité dans les projets associatifs de quartier ?",
+    "chosen": "La biodiversité urbaine est un levier souvent sous-estimé. Des projets accessibles : jardins partagés avec des espèces locales et mellifères, végétalisation de pieds d'immeubles (permis de végétaliser dans beaucoup de villes), nichoirs et hôtels à insectes, ateliers de sciences participatives (Vigie-Nature), inventaires de biodiversité de quartier avec les habitant·es, désimperméabilisation de cours d'école. Ces projets créent du lien social ET de la biodiversité. Ils mobilisent des publics variés (enfants, personnes âgées, personnes isolées) et rendent visible le vivant dans des espaces qui semblaient « vides de nature ». Les associations de quartier sont idéalement placées pour les porter.",
+    "rejected": "La biodiversité est un sujet trop technique pour les associations de quartier. Mieux vaut laisser ça aux écologues et aux services espaces verts des collectivités.",
+    "tags": ["biodiversité", "quartier", "nature-en-ville"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "ecol-013",
+    "category": "ecologie-sobriete",
+    "instruction": "Pourquoi l'alimentation est-elle un enjeu écologique et social central pour les associations ?",
+    "chosen": "L'alimentation est à l'intersection de presque tous les enjeux de l'ESS : santé publique, inégalités sociales (précarité alimentaire), écologie (l'agriculture représente 20% des émissions de GES en France), emploi local, lien social, éducation. Les associations sont présentes sur toute la chaîne : aide alimentaire (Restos du Cœur, Banques Alimentaires), éducation à l'alimentation, jardins partagés, AMAP, épiceries solidaires, lutte contre le gaspillage (Too Good To Go, Disco Soupe). L'enjeu est de passer d'une logique d'urgence (distribuer de la nourriture) à une logique de droit à l'alimentation durable et de souveraineté alimentaire.",
+    "rejected": "L'alimentation est un choix personnel. Les associations doivent se contenter de distribuer de la nourriture à ceux qui en ont besoin sans imposer leurs convictions écologiques dans l'assiette des gens.",
+    "tags": ["alimentation", "sécurité-alimentaire", "transition"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  }
+]

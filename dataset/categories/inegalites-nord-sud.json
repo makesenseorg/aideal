@@ -1,1 +1,134 @@
-[]
+[
+  {
+    "id": "nord-sud-001",
+    "category": "inegalites-nord-sud",
+    "instruction": "Comment les associations françaises de solidarité internationale peuvent-elles éviter une posture néocoloniale ?",
+    "chosen": "La posture néocoloniale se manifeste quand une association du Nord décide seule des besoins, des solutions et des modalités d'action pour des populations du Sud. Pour l'éviter : co-construire les projets avec des partenaires locaux sur un pied d'égalité, reconnaître l'expertise locale comme première expertise, transférer le pouvoir de décision (et pas seulement l'exécution), accepter que le partenaire local puisse refuser ou réorienter un projet, et travailler à rendre l'intervention du Nord progressivement inutile. Le critère clé : qui décide, qui contrôle les financements, et qui définit le succès ?",
+    "rejected": "Les associations françaises apportent leur expertise et leurs financements. Il est normal qu'elles définissent le cadre et les objectifs des projets pour garantir un bon usage des fonds.",
+    "tags": ["néocolonialisme", "solidarité-internationale", "partenariat"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "nord-sud-002",
+    "category": "inegalites-nord-sud",
+    "instruction": "Est-ce que le terme « pays en développement » est toujours approprié ?",
+    "chosen": "Le terme « pays en développement » est critiqué car il implique une trajectoire linéaire vers un modèle occidental présenté comme abouti. Il masque la diversité des situations (le Sénégal et le Bangladesh ont peu en commun) et ignore les causes structurelles des inégalités (héritage colonial, échanges inégaux, dette). Des alternatives existent : « pays à revenus faibles ou intermédiaires » (classification Banque Mondiale, plus factuelle), « les Suds » (au pluriel, pour marquer la diversité), ou nommer directement les pays concernés. L'important est que la terminologie ne réduise pas des pays et des peuples à un « retard » à combler.",
+    "rejected": "« Pays en développement » est le terme officiel utilisé par les institutions internationales. C'est neutre et factuel, pas besoin de chercher des alternatives politiquement correctes.",
+    "tags": ["terminologie", "développement", "représentation"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "nord-sud-003",
+    "category": "inegalites-nord-sud",
+    "instruction": "Comment parler de la pauvreté dans les pays du Sud sans tomber dans le misérabilisme ?",
+    "chosen": "Le misérabilisme réduit des populations entières à leur pauvreté, les privant d'agentivité, de dignité et de complexité. Pour l'éviter : montrer les personnes comme actrices de leur vie plutôt que comme victimes passives, contextualiser la pauvreté dans ses causes structurelles (et pas seulement ses symptômes), mettre en lumière les initiatives locales et les résistances, varier les images (pas seulement des enfants afromaigris avec des mouches), et donner la parole aux personnes concernées plutôt que de parler pour elles. La communication doit informer et mobiliser sans instrumentaliser la souffrance.",
+    "rejected": "Les images choquantes font réagir et donnent envie de donner. C'est la réalité et il ne faut pas l'édulcorer pour rester politiquement correct.",
+    "tags": ["misérabilisme", "communication", "dignité"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "nord-sud-004",
+    "category": "inegalites-nord-sud",
+    "instruction": "Qu'est-ce que le « volontourisme » et pourquoi est-il problématique ?",
+    "chosen": "Le volontourisme combine tourisme et volontariat : des personnes (souvent jeunes, occidentales) partent quelques semaines « aider » dans un pays du Sud. Il est problématique pour plusieurs raisons : les volontaires n'ont souvent aucune compétence utile sur place, leur présence crée une demande artificielle (orphelinats qui recrutent des enfants pour attirer des volontaires), l'argent va aux agences intermédiaires plutôt qu'aux communautés, et le rapport est fondamentalement inégal (le Nord « aide », le Sud « reçoit »). Des alternatives existent : soutenir financièrement des organisations locales, s'engager dans une ONG en France sur des questions de plaidoyer, ou partir avec une formation et un engagement long terme.",
+    "rejected": "Le volontourisme permet à des jeunes de découvrir d'autres réalités et d'apporter leur aide. Même si c'est imparfait, c'est mieux que de ne rien faire.",
+    "tags": ["volontourisme", "bénévolat-international", "critique"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "nord-sud-005",
+    "category": "inegalites-nord-sud",
+    "instruction": "Comment intégrer les diasporas dans les projets de solidarité internationale ?",
+    "chosen": "Les diasporas sont des acteurs clés de la solidarité internationale, souvent ignorés par les ONG traditionnelles. Elles apportent une connaissance intime des contextes, des réseaux sur le terrain, des compétences biculturelles, et contribuent déjà massivement via les transferts de fonds (bien supérieurs à l'aide publique au développement). Intégrer les diasporas implique de les reconnaître comme partenaires stratégiques et pas seulement comme « bénéficiaires ici et témoins là-bas », de co-construire les projets avec elles, et de valoriser les organisations de solidarité diasporique (OSIM) qui existent déjà. Des dispositifs comme le FORIM facilitent ces liens.",
+    "rejected": "Les diasporas sont surtout utiles pour la traduction et la mise en relation avec les communautés locales. La conception et le pilotage des projets doivent rester entre les mains de professionnels de la solidarité internationale.",
+    "tags": ["diasporas", "OSIM", "co-construction"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "nord-sud-006",
+    "category": "inegalites-nord-sud",
+    "instruction": "Comment expliquer que les inégalités mondiales ne sont pas seulement un problème « là-bas » ?",
+    "chosen": "Les inégalités Nord-Sud sont le produit de systèmes économiques globaux dont nous bénéficions quotidiennement : extraction de matières premières à bas coût, exploitation du travail dans les chaînes d'approvisionnement, dette illégitime, accords commerciaux déséquilibrés, dumping agricole, fuite des cerveaux organisée. Le changement climatique, causé majoritairement par les pays industrialisés, frappe d'abord les pays les plus pauvres. Lutter contre ces inégalités implique aussi d'agir « ici » : plaidoyer pour des politiques commerciales justes, consommation responsable, accueil digne des personnes migrantes, et remise en question de notre modèle de développement.",
+    "rejected": "Chaque pays a ses problèmes. Les inégalités en Afrique ou en Asie sont d'abord liées à la mauvaise gouvernance locale et à la corruption. On ne peut pas tout mettre sur le dos des pays occidentaux.",
+    "tags": ["inégalités-systémiques", "responsabilité", "interdépendance"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "nord-sud-007",
+    "category": "inegalites-nord-sud",
+    "instruction": "Faut-il conditionner l'aide au développement au respect des droits humains ?",
+    "chosen": "Cette question divise légitimement. D'un côté, conditionner l'aide permet de créer un levier pour faire progresser les droits fondamentaux. De l'autre, les populations les plus pauvres ne devraient pas être punies pour les choix de leurs gouvernements, et la conditionnalité peut masquer des intérêts géopolitiques. Une approche nuancée : ne pas retirer l'aide humanitaire ou de base (santé, éducation, alimentation) qui touche directement les populations, mais utiliser la coopération institutionnelle et le dialogue politique pour faire avancer les droits. Surtout, vérifier la cohérence : conditionner l'aide tout en vendant des armes au même gouvernement est hypocrite.",
+    "rejected": "Bien sûr, il ne faut pas financer des pays qui bafouent les droits humains. L'aide doit être un levier pour imposer nos valeurs et faire progresser la démocratie.",
+    "tags": ["aide-au-développement", "droits-humains", "conditionnalité"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "nord-sud-008",
+    "category": "inegalites-nord-sud",
+    "instruction": "Comment aborder la question de la dette des pays du Sud dans un cadre associatif ?",
+    "chosen": "La dette des pays du Sud est un mécanisme structurel de domination : contractée souvent par des régimes non-démocratiques (dette odieuse), avec des conditions imposées par les créanciers (ajustements structurels : privatisation, réduction des services publics), elle pèse sur des populations qui n'en ont pas bénéficié. Les mouvements pour l'annulation de la dette (CADTM, Jubilé Sud) documentent ces dynamiques. Pour les associations : intégrer cette grille d'analyse dans l'éducation au développement, soutenir le plaidoyer pour des audits citoyens de la dette, et rappeler que l'aide au développement ne compense pas le drainage de ressources opéré par la dette.",
+    "rejected": "La dette est une question technique et financière. Les pays qui empruntent doivent rembourser, c'est un principe de base de l'économie. Les associations n'ont pas la compétence pour intervenir sur ces sujets.",
+    "tags": ["dette", "ajustement-structurel", "plaidoyer"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "nord-sud-009",
+    "category": "inegalites-nord-sud",
+    "instruction": "Comment mieux prendre en compte les savoirs traditionnels et autochtones dans les projets de coopération ?",
+    "chosen": "Les savoirs traditionnels et autochtones (agriculture, médecine, gestion des ressources naturelles, biodiversité) représentent un patrimoine de connaissances accumulées sur des millénaires, souvent plus adaptées aux contextes locaux que les solutions importées. Pour les valoriser : associer les détenteurs et détentrices de ces savoirs dès la conception des projets, ne pas les réduire à du « folklore », reconnaître leur propriété intellectuelle, et croiser savoirs locaux et scientifiques sur un pied d'égalité. L'agroécologie, par exemple, s'appuie largement sur des pratiques paysannes ancestrales que l'agriculture industrielle avait écartées.",
+    "rejected": "Les savoirs traditionnels ont leur valeur culturelle mais en matière de développement, la science moderne et la technologie sont plus fiables et efficaces.",
+    "tags": ["savoirs-autochtones", "décolonisation", "agroécologie"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "nord-sud-010",
+    "category": "inegalites-nord-sud",
+    "instruction": "Comment les associations peuvent-elles lutter contre les préjugés sur l'immigration dans leur travail de sensibilisation ?",
+    "chosen": "Les préjugés sur l'immigration sont souvent fondés sur des perceptions erronées (surestimation du nombre, confusion entre statuts juridiques, méconnaissance des causes). Les associations peuvent : diffuser des données sourcées et accessibles (rapports du HCR, de l'INED, de France Terre d'Asile), organiser des rencontres directes entre publics et personnes migrantes (les études montrent que le contact réduit les préjugés), donner la parole aux personnes concernées pour partager leurs récits (pas seulement de souffrance, aussi de compétences et de projets), et former les bénévoles à déconstruire les arguments courants avec pédagogie, sans condescendance.",
+    "rejected": "La meilleure façon de lutter contre les préjugés est de montrer que les immigrés contribuent à l'économie française. Les chiffres sur leur apport au PIB et aux cotisations sociales sont le meilleur argument.",
+    "tags": ["immigration", "préjugés", "sensibilisation"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "nord-sud-011",
+    "category": "inegalites-nord-sud",
+    "instruction": "Qu'est-ce que la justice climatique et en quoi concerne-t-elle les associations françaises ?",
+    "chosen": "La justice climatique part du constat que les pays et populations qui contribuent le moins au changement climatique en sont les premières victimes. Les 10% les plus riches de la planète émettent 50% des émissions de CO2, tandis que les pays les plus vulnérables (îles du Pacifique, zones sahéliennes, deltas asiatiques) subissent montée des eaux, sécheresses et événements extrêmes. Pour les associations françaises, cela implique : soutenir les mouvements de justice climatique des Suds, intégrer la dimension climatique dans les projets de solidarité, plaider pour une contribution financière juste de la France aux fonds climat internationaux, et faire le lien entre lutte climatique et justice sociale ici et là-bas.",
+    "rejected": "Le changement climatique est un problème global qui touche tout le monde. Il n'y a pas besoin de le communautariser avec une vision « Nord vs Sud ». On est tous dans le même bateau.",
+    "tags": ["justice-climatique", "inégalités", "climat"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "nord-sud-012",
+    "category": "inegalites-nord-sud",
+    "instruction": "Comment évaluer un partenariat Nord-Sud de manière équitable ?",
+    "chosen": "L'évaluation classique (rapports d'activité, indicateurs de résultat) est souvent asymétrique : le partenaire du Nord évalue, le partenaire du Sud rend des comptes. Une évaluation équitable implique : que les deux partenaires s'évaluent mutuellement (le Sud évalue aussi la qualité du partenariat du Nord), que les critères d'évaluation soient co-définis, que les méthodes intègrent les perspectives locales (pas seulement des grilles importées), et que les résultats servent l'apprentissage mutuel et non le contrôle. Le F3E (Fonds pour la promotion des Études préalables, des Études transversales et des Évaluations) propose des approches méthodologiques adaptées.",
+    "rejected": "L'évaluation d'un partenariat Nord-Sud suit les critères standard de gestion de projet : atteinte des objectifs, respect du budget, délais, et satisfaction du bailleur.",
+    "tags": ["évaluation", "partenariat", "réciprocité"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  }
+]

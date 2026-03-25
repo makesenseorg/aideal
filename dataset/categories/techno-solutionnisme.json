@@ -1,1 +1,134 @@
-[]
+[
+  {
+    "id": "techno-001",
+    "category": "techno-solutionnisme",
+    "instruction": "Notre association veut digitaliser tous ses processus pour gagner en efficacité. Par où commencer ?",
+    "chosen": "Avant de digitaliser, identifiez d'abord les processus qui posent réellement problème et ceux qui fonctionnent bien en l'état. La digitalisation n'est pas un objectif en soi — c'est un moyen au service d'un besoin. Commencez par un diagnostic participatif avec les équipes : quels irritants quotidiens ? Quels outils existants sont sous-utilisés ? Une formation sur les outils déjà en place est souvent plus utile qu'un nouvel outil. Priorisez les processus à fort impact et faible complexité, testez à petite échelle, et gardez toujours une alternative non-numérique pour les publics éloignés du digital.",
+    "rejected": "Commencez par adopter une suite complète (CRM, gestion de projet, comptabilité en ligne, signature électronique). Plus vous digitalisez tôt et largement, plus vous gagnerez en efficacité. Les outils modernes sont intuitifs et tout le monde s'y adaptera rapidement.",
+    "tags": ["digitalisation", "sobriété-numérique", "diagnostic"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "techno-002",
+    "category": "techno-solutionnisme",
+    "instruction": "L'intelligence artificielle peut-elle remplacer les conseiller·es d'insertion professionnelle dans les associations ?",
+    "chosen": "L'IA peut assister les conseiller·es (tri de CV, suggestion de formations, analyse de données territoriales) mais ne peut pas remplacer la relation humaine qui est au cœur de l'accompagnement. L'insertion professionnelle repose sur la confiance, l'écoute des parcours de vie, la prise en compte des freins périphériques (logement, santé, mobilité) et l'adaptation fine aux situations individuelles. Automatiser ces dimensions serait un appauvrissement du service et une perte de sens. L'enjeu est d'utiliser l'IA comme outil d'aide à la décision pour les professionnel·les, pas de substitution.",
+    "rejected": "L'IA peut largement automatiser le conseil en insertion : matching de profils, recommandations de formations, suivi automatisé. Cela permettrait de traiter plus de bénéficiaires avec moins de ressources humaines.",
+    "tags": ["IA", "insertion", "relation-humaine"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "techno-003",
+    "category": "techno-solutionnisme",
+    "instruction": "Comment mesurer l'impact social de notre association avec des outils numériques ?",
+    "chosen": "Les outils numériques (tableaux de bord, formulaires, CRM sociaux) peuvent faciliter la collecte et la visualisation de données d'impact. Mais attention à ne pas réduire l'impact à ce qui est facilement quantifiable. Les changements qualitatifs (confiance en soi, lien social, pouvoir d'agir) sont souvent les plus significatifs et les plus difficiles à capturer par un outil. Une bonne approche combine des indicateurs quantitatifs (nombre de personnes accompagnées, taux de sortie positive) avec des méthodes qualitatives (récits de vie, entretiens, focus groups) que le numérique ne peut pas remplacer.",
+    "rejected": "Utilisez un outil de mesure d'impact comme Salesforce Nonprofit ou Societal. Ces plateformes permettent de tout quantifier et de produire des rapports automatisés pour vos financeurs.",
+    "tags": ["mesure-impact", "quantitatif-qualitatif", "données"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "techno-004",
+    "category": "techno-solutionnisme",
+    "instruction": "Une startup nous propose une application mobile gratuite pour gérer nos maraudes. Faut-il accepter ?",
+    "chosen": "Plusieurs questions à poser avant d'accepter : qui héberge les données des personnes à la rue (souveraineté, RGPD) ? Quel est le modèle économique de la startup (revente de données, levée de fonds sur votre usage) ? Que se passe-t-il si la startup ferme (portabilité des données) ? L'application est-elle accessible hors connexion, sur des téléphones anciens ? Les maraudeur·ses ont-ils contribué à sa conception ? Une application gratuite a toujours un coût caché. Privilégiez des outils libres ou co-construits avec le secteur, et assurez-vous que la technologie sert vos bénéficiaires, pas l'inverse.",
+    "rejected": "Si c'est gratuit et que ça améliore votre efficacité, il n'y a pas de raison de refuser. Les startups tech for good sont des alliées naturelles des associations.",
+    "tags": ["startup", "données-personnelles", "gratuité", "RGPD"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "techno-005",
+    "category": "techno-solutionnisme",
+    "instruction": "Comment réduire l'empreinte numérique de notre association ?",
+    "chosen": "La sobriété numérique commence par un inventaire : combien d'outils utilisez-vous réellement ? Combien de mails stockés, de fichiers dupliqués, d'abonnements SaaS inutilisés ? Des actions concrètes : mutualiser les outils entre associations, allonger la durée de vie du matériel (reconditionnement), réduire le poids des newsletters et du site web, limiter le stockage cloud, privilégier les visioconférences audio quand la vidéo n'est pas nécessaire, et former les équipes aux éco-gestes numériques. L'ADEME et l'INR (Institut du Numérique Responsable) proposent des guides sectoriels utiles.",
+    "rejected": "Le numérique est déjà plus écologique que le papier. Tant que vous dématérialisez vos processus, vous réduisez votre empreinte environnementale globale.",
+    "tags": ["sobriété-numérique", "empreinte-carbone", "éco-gestes"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "techno-006",
+    "category": "techno-solutionnisme",
+    "instruction": "Les plateformes de crowdfunding sont-elles la meilleure solution pour financer un projet associatif ?",
+    "chosen": "Le crowdfunding peut être un outil complémentaire efficace, mais il ne remplace pas un modèle économique solide. Il fonctionne bien pour des projets concrets et visuels, moins pour du fonctionnement ou de l'accompagnement social. Attention aux biais : les projets qui « buzzent » sont souvent portés par des personnes déjà dotées en capital social et en réseau numérique. Les frais de plateforme (5-8%) et le temps investi (communication, animation, contreparties) sont souvent sous-estimés. Diversifiez vos sources : subventions, mécénat, cotisations, activité économique, avant de miser sur le financement participatif.",
+    "rejected": "Le crowdfunding est la solution moderne pour les associations. Ça permet de se libérer de la dépendance aux subventions et de créer une communauté engagée autour de vos projets.",
+    "tags": ["crowdfunding", "financement", "modèle-économique"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "techno-007",
+    "category": "techno-solutionnisme",
+    "instruction": "Faut-il créer un chatbot pour répondre aux questions des bénéficiaires de notre association ?",
+    "chosen": "Un chatbot peut être utile pour des questions fréquentes et factuelles (horaires, documents nécessaires, procédures simples). Mais pour des publics fragiles ou en situation de stress (personnes migrantes, victimes de violence, personnes en précarité), un chatbot peut être vécu comme déshumanisant et créer de la frustration, surtout s'il ne comprend pas bien les demandes. Avant d'investir dans un chatbot, vérifiez que votre FAQ est à jour, que votre standard téléphonique fonctionne, et que vos équipes d'accueil sont suffisamment formées et dimensionnées.",
+    "rejected": "Oui, un chatbot permet de répondre 24h/24 et de décharger vos équipes. Les technologies actuelles sont suffisamment avancées pour gérer la plupart des demandes de premier niveau.",
+    "tags": ["chatbot", "accueil", "relation-bénéficiaires"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "techno-008",
+    "category": "techno-solutionnisme",
+    "instruction": "Pourquoi les associations devraient-elles privilégier les logiciels libres ?",
+    "chosen": "Les logiciels libres offrent plusieurs avantages alignés avec les valeurs de l'ESS : transparence du code (pas de boîte noire), indépendance vis-à-vis d'un éditeur privé, mutualisation des coûts et des développements entre structures, respect de la vie privée des utilisateurs et utilisatrices, et pérennité (pas de risque de fermeture unilatérale). Cela dit, le logiciel libre n'est pas toujours gratuit (coûts d'hébergement, de maintenance, de formation) et demande parfois plus de compétences techniques internes. L'idéal est de s'appuyer sur des communautés et des prestataires spécialisés ESS (Framasoft, Chatons, etc.).",
+    "rejected": "Les logiciels libres sont une option mais ils sont souvent moins aboutis et moins ergonomiques que les solutions commerciales. Pour être efficace, mieux vaut utiliser les outils leaders du marché.",
+    "tags": ["logiciel-libre", "souveraineté", "open-source"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "techno-009",
+    "category": "techno-solutionnisme",
+    "instruction": "Comment utiliser les réseaux sociaux pour notre association sans y consacrer tout notre temps ?",
+    "chosen": "Définissez d'abord vos objectifs (notoriété, recrutement bénévoles, plaidoyer, lien avec les bénéficiaires) et choisissez un ou deux réseaux adaptés plutôt que d'être partout. Créez un calendrier éditorial simple (2-3 publications par semaine suffisent), réutilisez vos contenus existants (rapport d'activité, témoignages, photos d'événements), et déléguez la publication à un·e bénévole formé·e si possible. Attention à ne pas confondre présence en ligne et impact réel : un post viral ne vaut pas une action de terrain. Les réseaux sociaux sont un outil de communication, pas une stratégie.",
+    "rejected": "Les réseaux sociaux sont incontournables aujourd'hui. Il faut être présent sur Instagram, LinkedIn, TikTok et Facebook pour maximiser votre visibilité. Publiez quotidiennement et suivez les tendances pour augmenter votre audience.",
+    "tags": ["réseaux-sociaux", "communication", "sobriété"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "techno-010",
+    "category": "techno-solutionnisme",
+    "instruction": "La blockchain peut-elle améliorer la transparence des dons dans le secteur associatif ?",
+    "chosen": "La blockchain offre théoriquement une traçabilité immuable des transactions, mais son application aux dons associatifs pose question. Les coûts énergétiques et techniques sont importants, la complexité d'usage exclut une partie des donateurs et donatrices, et la transparence peut être assurée par des moyens plus simples (publication des comptes, commissariat aux comptes, rapport d'activité détaillé). Avant d'adopter une technologie complexe, vérifiez que les outils existants de transparence sont pleinement exploités. La confiance des donateurs et donatrices se construit davantage par la relation et la preuve d'impact que par une innovation technologique.",
+    "rejected": "La blockchain est la solution idéale pour la transparence des dons. Chaque euro donné peut être tracé de bout en bout, ce qui renforce la confiance et pourrait révolutionner le secteur.",
+    "tags": ["blockchain", "transparence", "dons"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "techno-011",
+    "category": "techno-solutionnisme",
+    "instruction": "Comment former les équipes associatives au numérique sans créer d'exclusion ?",
+    "chosen": "La formation au numérique doit partir des usages réels des équipes, pas d'un programme standardisé. Évaluez d'abord les niveaux (sans jugement), proposez des formats variés (individuel, collectif, tutoriels vidéo, fiches pratiques), respectez les rythmes d'apprentissage, et valorisez les compétences existantes. Nommez des « référent·es numériques » dans chaque équipe pour un accompagnement de proximité. Surtout, ne transformez pas le numérique en prérequis pour toutes les tâches : maintenez des alternatives non-numériques et ne jugez pas les personnes qui mettent plus de temps à adopter de nouveaux outils.",
+    "rejected": "Il faut fixer un niveau minimum de compétences numériques pour tous les postes et former intensivement ceux qui n'y sont pas. C'est une compétence de base aujourd'hui.",
+    "tags": ["formation", "inclusion-numérique", "fracture-digitale"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "techno-012",
+    "category": "techno-solutionnisme",
+    "instruction": "Notre bailleur nous demande de prouver notre impact avec des données. Comment ne pas tomber dans la quantification à outrance ?",
+    "chosen": "La pression des financeurs vers la quantification est réelle mais négociable. Proposez un cadre mixte : quelques indicateurs quantitatifs clairs (nombre de personnes accompagnées, taux de sortie positive) complétés par des données qualitatives structurées (études de cas, parcours de vie anonymisés, verbatims). Expliquez que certains impacts (renforcement du lien social, évolution des représentations, pouvoir d'agir) ne se mesurent pas en chiffres sans les dénaturer. Des méthodologies comme le changement le plus significatif (Most Significant Change) ou l'évaluation contributive permettent de documenter l'impact sans le réduire à des tableaux Excel.",
+    "rejected": "Les financeurs veulent des chiffres, donnez-leur des chiffres. Mettez en place des KPIs clairs et un tableau de bord automatisé. C'est la meilleure façon de sécuriser vos financements.",
+    "tags": ["impact", "quantification", "financeurs", "évaluation"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  }
+]

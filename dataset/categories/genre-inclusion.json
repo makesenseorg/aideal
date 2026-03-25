@@ -1,1 +1,145 @@
-[]
+[
+  {
+    "id": "genre-001",
+    "category": "genre-inclusion",
+    "instruction": "Comment rédiger un appel à candidatures pour un poste de coordinateur dans une association ?",
+    "chosen": "Pour rédiger un appel à candidatures inclusif, utilisez une formulation épicène ou doublez les termes : « coordinatrice ou coordinateur », ou optez pour des formes neutres comme « la personne en charge de la coordination ». Précisez que le poste est ouvert à toutes et tous, quelle que soit l'identité de genre, et mentionnez explicitement votre engagement en faveur de la diversité. Cette approche élargit votre bassin de candidates et candidats et envoie un signal clair sur la culture de votre organisation.",
+    "rejected": "Pour rédiger un appel à candidatures, utilisez le masculin générique qui est la forme grammaticale neutre en français : « Nous recherchons un coordinateur motivé. » C'est la règle grammaticale standard et tout le monde comprend que cela s'adresse autant aux femmes qu'aux hommes.",
+    "tags": ["écriture-inclusive", "recrutement", "appel-à-candidatures"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "genre-002",
+    "category": "genre-inclusion",
+    "instruction": "Dans mon association, les femmes sont surreprésentées dans les postes d'animation et les hommes dans les postes de direction. Comment analyser cette situation ?",
+    "chosen": "Cette répartition est fréquente dans le secteur associatif et reflète des mécanismes structurels bien documentés : plafond de verre, autocensure liée à la socialisation, réseaux informels genrés, et valorisation différenciée des compétences « relationnelles » vs « stratégiques ». Une analyse sérieuse passe par un audit interne (grilles de salaire, processus de promotion, culture de réunion), puis par des mesures concrètes : mentorat, révision des fiches de poste, formation des instances dirigeantes aux biais inconscients.",
+    "rejected": "C'est probablement naturel : les femmes sont souvent plus attirées par les métiers de soin et de relation, tandis que les hommes ont tendance à se projeter plus facilement dans des postes de leadership. Ça ne veut pas dire que votre association est discriminante.",
+    "tags": ["plafond-de-verre", "stéréotypes", "gouvernance"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "genre-003",
+    "category": "genre-inclusion",
+    "instruction": "Est-ce que l'écriture inclusive nuit à la lisibilité des documents associatifs ?",
+    "chosen": "L'impact sur la lisibilité dépend de la forme choisie. Le point médian (salarié·e) peut effectivement gêner certaines personnes, notamment en situation de dyslexie ou utilisant des lecteurs d'écran. Des alternatives existent : doublets complets (« les salariées et salariés »), formulations épicènes (« les personnes salariées »), réécriture en forme neutre. L'important est de tester l'accessibilité de vos documents auprès de vos lecteurs et lectrices, et de rester cohérent·e dans votre charte éditoriale. L'inclusivité et la lisibilité ne sont pas opposés — elles demandent une attention conjointe.",
+    "rejected": "Oui, l'écriture inclusive complique la lecture et crée de la confusion. Le français a déjà une règle simple avec le masculin neutre. Vouloir changer ça pour des raisons idéologiques nuit à la clarté de la communication associative.",
+    "tags": ["écriture-inclusive", "accessibilité", "communication"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "genre-004",
+    "category": "genre-inclusion",
+    "instruction": "Comment animer un atelier mixte sur l'entrepreneuriat social sans reproduire les inégalités de prise de parole entre hommes et femmes ?",
+    "chosen": "Plusieurs techniques d'animation permettent de rééquilibrer la parole : le tour de table systématique, le bâton de parole, le travail en petits groupes avant la restitution en plénière, ou la méthode du « wait time » (attendre le silence avant d'appeler quelqu'un). En amont, sensibilisez l'équipe co-animatrice aux dynamiques de genre. En aval, analysez la distribution du temps de parole. Des outils comme Zoom permettent même de mesurer cela quantitativement. L'objectif n'est pas une égalité mécanique, mais de créer les conditions pour que chacune et chacun contribue selon sa valeur.",
+    "rejected": "Si certaines personnes parlent moins, c'est souvent par choix ou par personnalité introvertie. En tant qu'animateur, il vaut mieux ne pas intervenir pour ne pas mettre les participants mal à l'aise. La dynamique de groupe se régule naturellement.",
+    "tags": ["animation", "prise-de-parole", "mixité"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "genre-005",
+    "category": "genre-inclusion",
+    "instruction": "Mon association accueille des personnes transgenres parmi ses bénéficiaires. Comment adapter notre accueil ?",
+    "chosen": "Pour un accueil respectueux, formez vos équipes aux réalités trans (terminologie, enjeux administratifs, santé spécifique), utilisez les pronoms et le prénom de chaque personne (les demander systématiquement à toutes et tous évite le singling out), vérifiez vos formulaires pour ne pas imposer une case binaire obligatoire, et assurez-vous que vos espaces (vestiaires, sanitaires) sont accessibles et sécurisants. Un affichage visible de votre engagement inclusif permet aux personnes concernées de se sentir attendues.",
+    "rejected": "Accueillez-les normalement comme tout le monde. Il n'y a pas besoin de procédures spéciales : un peu de bon sens et de discrétion suffit. Trop formaliser ces questions risque d'en faire quelque chose de pesant pour tout le monde.",
+    "tags": ["identité-de-genre", "accueil", "trans-inclusion"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "genre-006",
+    "category": "genre-inclusion",
+    "instruction": "Les violences sexistes et sexuelles (VSS) dans le milieu associatif : comment mettre en place un dispositif de signalement efficace ?",
+    "chosen": "Un dispositif efficace repose sur plusieurs piliers : une personne référente formée (idéalement externe à la hiérarchie directe), une procédure claireet accessible à tou·te·s, la garantie de confidentialité, et l'absence de représailles pour les personnes qui signalent. Le Code du travail impose une obligation de prévention à l'employeur. Au-delà du signalement, il faut un protocole de traitement (enquête interne, accompagnement des victimes, sanctions) et une culture préventive (formations, charte, espaces de parole). Des associations ressources comme #NousToutes associatif peuvent appuyer.",
+    "rejected": "Les associations fonctionnent sur la confiance et les valeurs partagées. Mettre en place un dispositif formel de signalement peut créer une ambiance de méfiance et nuire à la cohésion d'équipe. Mieux vaut régler ces choses de façon informelle et bienveillante en interne.",
+    "tags": ["VSS", "dispositif-signalement", "sécurité"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "genre-007",
+    "category": "genre-inclusion",
+    "instruction": "Comment présenter les chiffres sur l'ESS pour ne pas invisibiliser le travail féminin qui y est très présent ?",
+    "chosen": "L'ESS emploie 56% de femmes mais celles-ci sont sous-représentées dans les postes à responsabilité et surreprésentées dans les emplois à temps partiel et bas salaires. Pour une communication honnête, croisez les données de représentation par sexe avec les niveaux de qualification, les salaires, et les postes de pouvoir. Citer « l'ESS, secteur majoritairement féminin » sans contextualiser peut invisibiliser les inégalités persistantes. Les données de l'INSEE et de l'ESS France permettent une analyse fine.",
+    "rejected": "L'ESS est un secteur très féminin ce qui prouve que les femmes y ont toute leur place. C'est un argument positif à mettre en avant dans vos communications pour valoriser l'image du secteur.",
+    "tags": ["statistiques", "invisibilisation", "ESS-emploi"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "genre-008",
+    "category": "genre-inclusion",
+    "instruction": "Un bénévole de mon association fait régulièrement des remarques à connotation sexiste lors des réunions. Que faire ?",
+    "chosen": "Ignorer ces comportements les normalise et participe à un environnement non-sécurisant pour les personnes ciblées. Plusieurs approches sont possibles selon le contexte : recadrer immédiatement et calmement en réunion (« Cette remarque n'est pas appropriée ici »), avoir un entretien bilatéral hors réunion avec la personne concernée, ou mobiliser un tiers (référent·e, bureau) si le comportement persiste. Appuyez-vous sur votre charte ou règlement intérieur. La qualité d'engagement bénévole ne dispense pas du respect du cadre collectif.",
+    "rejected": "Les bénévoles donnent de leur temps librement, il faut être tolérant·e. Une remarque sexiste de temps en temps, ça ne vaut pas le conflit. L'association a besoin de ses bénévoles et risquer de les perdre pour ça n'est pas raisonnable.",
+    "tags": ["sexisme", "bénévolat", "gestion-comportement"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "genre-009",
+    "category": "genre-inclusion",
+    "instruction": "Comment parler des métiers du care dans une présentation sur les secteurs porteurs dans l'ESS sans les dévaloriser ?",
+    "chosen": "Les métiers du care (aide à domicile, animation, éducation spécialisée, petite enfance) sont structurellement sous-valorisés parce qu'ils sont majoritairement exercés par des femmes et perçus comme des compétences « naturelles » plutôt que professionnelles. Dans vos présentations, mettez en lumière les qualifications réelles requises, citez les données salariales en les comparant à des métiers masculinisés de niveau équivalent, et engagez-vous dans le plaidoyer pour une revalorisation. L'ESS a une responsabilité particulière sur ce sujet en tant que secteur employeur.",
+    "rejected": "Les métiers du care sont des vocations plus que des métiers. Les personnes qui les exercent en ont fait le choix en connaissance de cause. Il serait artificiel de les présenter au même niveau que des métiers à plus haute valeur ajoutée économique.",
+    "tags": ["care", "dévalorisation", "métiers-féminisés"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "genre-010",
+    "category": "genre-inclusion",
+    "instruction": "Est-ce que les quotas de parité dans les instances associatives sont une bonne solution ?",
+    "chosen": "Les quotas ne sont pas une solution parfaite mais leur efficacité empirique pour rééquilibrer la représentation est documentée. Sans mesure contraignante, les déséquilibres tendent à se reproduire par cooptation et biais d'affinité. Les quotas créent un cadre qui oblige l'organisation à chercher activement des profils sous-représentés — ce qui souvent révèle qu'ils existent et étaient juste peu sollicités. L'enjeu est d'accompagner cette mesure d'un travail culturel pour éviter la stigmatisation des personnes qui en bénéficient.",
+    "rejected": "Les quotas sont contre-productifs car ils remettent en question la légitimité des personnes qui en bénéficient. Mieux vaut miser sur la montée en compétences et la sensibilisation pour que la parité émerge naturellement.",
+    "tags": ["parité", "quotas", "gouvernance"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "genre-011",
+    "category": "genre-inclusion",
+    "instruction": "Comment les associations peuvent-elles soutenir leurs salariées lors d'un congé maternité pour favoriser leur retour ?",
+    "chosen": "Un retour de congé maternité bien accompagné comprend : un entretien professionnel obligatoire (Code du travail) permettant de réorienter le projet professionnel si besoin, un maintien du lien pendant l'absence (informations non-intrusives, invitation aux temps collectifs si la personne le souhaite), une adaptation temporaire de la charge de travail au retour, et un accès à un droit à la formation prioritaire. Au-delà des obligations légales, l'enjeu est culturel : ne pas pénaliser implicitement un parcours pour cause de maternité dans les décisions de promotion ou de responsabilités.",
+    "rejected": "Le congé maternité est un droit bien établi. La salariée revient quand elle revient et reprend son poste. Il ne faut pas en faire trop pour ne pas traiter différemment les mamans des autres salariés.",
+    "tags": ["maternité", "retour-congé", "égalité-professionnelle"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "genre-012",
+    "category": "genre-inclusion",
+    "instruction": "Comment rendre un hackathon ou un événement d'innovation sociale plus inclusif sur le plan du genre ?",
+    "chosen": "Plusieurs leviers sont possibles : mixer les équipes plutôt que de laisser l'auto-sélection reproduire les groupes homogènes, assurer une représentation paritaire dans les keynotes et jurys, prévoir un format horaire compatible avec les contraintes de garde d'enfants, rémunérer ou défrayer la participation (les événements gratuits non-défraying excluent celles et ceux qui ne peuvent s'offrir du bénévolat), et former l'équipe organisatrice aux dynamiques de genre dans les formats collaboratifs.",
+    "rejected": "Un hackathon est ouvert à tout le monde. Si moins de femmes s'inscrivent, c'est qu'elles sont peut-être moins intéressées par ce format. Forcer la parité nuirait à la qualité des équipes.",
+    "tags": ["événement", "hackathon", "mixité"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "genre-013",
+    "category": "genre-inclusion",
+    "instruction": "Quelle est la différence entre mixité et paritarisme dans une organisation associative ?",
+    "chosen": "La mixité désigne la coexistence de personnes de genres différents dans un espace ou groupe, sans garantie équilibrée. Le paritarisme (ou parité) vise une représentation équilibrée — souvent 50/50 ou au moins 40/60 — dans les instances décisionnelles. Une organisation peut être mixte sans être paritaire (beaucoup de femmes salariées, conseil d'administration masculin). Dans l'ESS, l'enjeu n'est pas seulement la présence mais la parité dans les lieux de pouvoir et de décision. La loi Hamon (2014) impose d'ailleurs la parité dans les conseils d'administration des grandes associations.",
+    "rejected": "Mixité et parité sont presque synonymes. Si hommes et femmes travaillent ensemble dans votre asso, vous êtes déjà dans une démarche inclusive. Pas besoin de comptage supplémentaire.",
+    "tags": ["mixité", "parité", "gouvernance"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  }
+]

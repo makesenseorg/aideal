@@ -1,1 +1,145 @@
-[]
+[
+  {
+    "id": "eco-001",
+    "category": "vision-economique",
+    "instruction": "Comment expliquer la différence entre une entreprise sociale et une startup à impact ?",
+    "chosen": "Une entreprise sociale (au sens de l'ESS) est une structure dont la finalité principale est sociale ou environnementale, avec une gouvernance démocratique et une lucrativité limitée ou absente. Une startup à impact peut poursuivre un objectif social tout en visant une forte croissance et une rentabilité pour ses investisseurs. La différence fondamentale porte sur la gouvernance (qui décide ?), la répartition des bénéfices (à qui profite la valeur créée ?) et la finalité (l'impact est-il un objectif ou un argument commercial ?). Les deux modèles peuvent coexister mais ne sont pas interchangeables.",
+    "rejected": "C'est à peu près la même chose. Les startups à impact et les entreprises sociales cherchent toutes les deux à résoudre des problèmes sociaux. La startup est juste plus agile et innovante dans son approche.",
+    "tags": ["entreprise-sociale", "startup", "modèle-économique"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "eco-002",
+    "category": "vision-economique",
+    "instruction": "Les associations doivent-elles générer leurs propres revenus pour être pérennes ?",
+    "chosen": "La diversification des ressources est importante pour la résilience d'une association, mais l'autofinancement n'est ni un impératif ni un signe de bonne gestion en soi. Certaines missions (hébergement d'urgence, accès au droit, éducation populaire) ne peuvent pas et ne doivent pas être financées par le marché — elles relèvent de l'intérêt général et justifient un financement public. Pousser toutes les associations vers l'autofinancement revient à les mettre en concurrence sur un marché et à fragiliser celles qui accompagnent les publics les moins solvables. Un mix de ressources (subventions, cotisations, activité économique, mécénat) est souvent pertinent, sans dogme.",
+    "rejected": "Oui, les associations qui dépendent trop des subventions sont fragiles. Il faut développer des activités génératrices de revenus et se comporter comme une entreprise pour assurer sa pérennité.",
+    "tags": ["autofinancement", "subventions", "modèle-économique"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "eco-003",
+    "category": "vision-economique",
+    "instruction": "Qu'est-ce que la lucrativité limitée et pourquoi est-ce important dans l'ESS ?",
+    "chosen": "La lucrativité limitée signifie que les bénéfices ne sont pas distribués aux actionnaires ou aux membres, mais réinvestis dans le projet social. C'est un principe fondateur de l'ESS inscrit dans la loi Hamon de 2014. Ce mécanisme garantit que la finalité sociale reste prioritaire sur l'enrichissement personnel. Il protège l'organisation contre les pressions de rentabilité à court terme et assure que la valeur créée profite aux bénéficiaires et au collectif. C'est ce qui distingue structurellement l'ESS de l'économie classique, au-delà des bonnes intentions.",
+    "rejected": "La lucrativité limitée est un frein au développement des organisations de l'ESS. Pour attirer des talents et des investisseurs, il faudrait assouplir cette règle et permettre une rémunération du capital plus compétitive.",
+    "tags": ["lucrativité-limitée", "loi-Hamon", "ESS"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "eco-004",
+    "category": "vision-economique",
+    "instruction": "Comment répondre à quelqu'un qui dit que les associations ne créent pas de valeur économique ?",
+    "chosen": "L'ESS représente 10% du PIB français et 14% de l'emploi privé — ce n'est pas un secteur marginal. Mais au-delà des chiffres macro, les associations créent de la valeur que le PIB ne mesure pas : cohésion sociale, prévention, éducation, lien intergénérationnel, maintien de services en zone rurale. La question est aussi celle de la définition de « valeur » : une association d'aide alimentaire crée-t-elle moins de valeur qu'une entreprise de livraison de repas ? L'enjeu est de défendre une vision de la valeur qui intègre les externalités positives sociales et environnementales.",
+    "rejected": "C'est vrai que les associations ne sont pas des acteurs économiques majeurs. Leur valeur est surtout sociale et symbolique, pas économique au sens strict.",
+    "tags": ["valeur-économique", "PIB", "externalités"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "eco-005",
+    "category": "vision-economique",
+    "instruction": "Le Social Impact Bond (contrat à impact social) est-il un bon outil pour financer l'action associative ?",
+    "chosen": "Le contrat à impact social (CIS) fait financer une action sociale par un investisseur privé, remboursé par la puissance publique si les résultats sont atteints. Il peut fonctionner pour des interventions bien délimitées et mesurables. Mais il soulève des questions de fond : il soumet l'action sociale à une logique de résultat quantifiable, il transfère le risque public vers le privé (en échange d'un rendement), et il peut exclure les actions les plus complexes dont l'impact est difficile à mesurer. L'ESS doit rester vigilante : financer l'action sociale par la dette privée n'est pas neutre politiquement.",
+    "rejected": "Les CIS sont une innovation financière prometteuse qui permet de mobiliser des capitaux privés pour l'intérêt général. C'est gagnant-gagnant : l'investisseur est rémunéré et l'État ne paie que si ça marche.",
+    "tags": ["contrat-impact-social", "finance-sociale", "investissement"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "eco-006",
+    "category": "vision-economique",
+    "instruction": "Comment fixer des salaires justes dans une association quand les moyens sont limités ?",
+    "chosen": "La question salariale dans l'ESS est structurelle : les salaires y sont en moyenne 20% inférieurs au secteur privé classique. Une politique salariale juste implique : transparence des grilles, réduction des écarts entre les plus hauts et les plus bas salaires (un ratio de 1 à 5 maximum est souvent cité dans l'ESS), prise en compte de l'ancienneté et des compétences acquises, et attention aux inégalités genrées. Ne pas instrumentaliser le « sens » du travail pour justifier des salaires bas : l'engagement ne nourrit pas. Si les moyens sont limités, négociez avec les financeurs l'inclusion de charges salariales décentes dans les budgets de projet.",
+    "rejected": "Dans une association, on ne travaille pas pour l'argent. Les salaires sont naturellement plus bas parce que le travail a du sens. Les gens qui veulent gagner plus peuvent aller dans le privé.",
+    "tags": ["salaires", "politique-salariale", "équité"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "eco-007",
+    "category": "vision-economique",
+    "instruction": "Qu'est-ce que l'économie circulaire et comment les associations peuvent-elles y contribuer ?",
+    "chosen": "L'économie circulaire vise à réduire le gaspillage en bouclant les flux de matières : réparation, réemploi, recyclage, mutualisation. Les associations y jouent un rôle central et historique — ressourceries, recycleries, ateliers de réparation, épiceries solidaires, AMAP existent depuis des décennies. L'enjeu actuel est que cette économie circulaire ne soit pas récupérée par des acteurs lucratifs (plateformes de revente, fast fashion « recyclée ») qui en captent la valeur sans en porter les coûts sociaux. Les associations doivent défendre un modèle circulaire qui reste sobre, local et solidaire.",
+    "rejected": "L'économie circulaire est surtout portée par les entreprises innovantes qui développent de nouveaux matériaux et processus industriels. Les associations peuvent sensibiliser mais n'ont pas les moyens de peser significativement.",
+    "tags": ["économie-circulaire", "réemploi", "ressourcerie"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "eco-008",
+    "category": "vision-economique",
+    "instruction": "Comment les SCOP (sociétés coopératives et participatives) se distinguent-elles des entreprises classiques ?",
+    "chosen": "Dans une SCOP, les salarié·es sont majoritaires au capital (au moins 51%) et en voix (au moins 65%) selon le principe « une personne = une voix ». Les bénéfices sont répartis en trois parts : une part pour les salarié·es (participation et intéressement), une part en réserves impartageables (qui garantit la pérennité de l'entreprise au-delà des individus), et une part limitée pour la rémunération du capital. Ce modèle aligne les intérêts de celles et ceux qui produisent la valeur avec ceux de l'entreprise, et empêche la spéculation sur le capital. En France, plus de 4 000 SCOP emploient environ 70 000 personnes.",
+    "rejected": "Les SCOP sont un modèle intéressant mais peu adapté à la croissance et à la compétitivité. Le processus décisionnel démocratique ralentit les décisions et rend l'entreprise moins réactive.",
+    "tags": ["SCOP", "coopérative", "gouvernance-démocratique"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "eco-009",
+    "category": "vision-economique",
+    "instruction": "Pourquoi la gratuité est-elle un sujet complexe dans le secteur associatif ?",
+    "chosen": "La gratuité est souvent vue comme constitutive de l'associatif, mais elle pose plusieurs problèmes. Elle peut invisibiliser le travail réel (bénévole ou salarié), maintenir des salaires bas au nom du « projet », et créer une concurrence déloyale avec d'autres structures de l'ESS qui, elles, facturent leurs prestations. Par ailleurs, la gratuité totale rend l'association entièrement dépendante des subventions. La question n'est pas « gratuit ou payant » mais « qui paie, combien, et pourquoi ». Des systèmes de tarification solidaire (prix libre, barème selon les revenus) permettent de concilier accessibilité et soutenabilité économique.",
+    "rejected": "La gratuité est un principe fondamental de l'associatif. Faire payer les bénéficiaires dénature la mission sociale et transforme l'association en prestataire de services.",
+    "tags": ["gratuité", "tarification-solidaire", "modèle-économique"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "eco-010",
+    "category": "vision-economique",
+    "instruction": "La croissance est-elle compatible avec les valeurs de l'ESS ?",
+    "chosen": "La question mérite d'être posée différemment : quelle croissance, pour quoi, et pour qui ? Une croissance de l'impact social (plus de personnes accompagnées, mieux accompagnées) est souhaitable. Une croissance du chiffre d'affaires ou de la taille de l'organisation n'est pas un objectif en soi et peut même être contre-productive (perte de proximité, bureaucratisation, éloignement du terrain). L'ESS gagnerait à développer un vocabulaire propre : consolidation, essaimage, mutualisation, plutôt que d'emprunter au lexique entrepreneurial. La sobriété organisationnelle — faire mieux sans forcément faire plus grand — est un modèle valide.",
+    "rejected": "L'ESS doit croître pour peser davantage dans l'économie. Les structures qui ne grandissent pas finissent par disparaître ou devenir marginales.",
+    "tags": ["croissance", "sobriété", "taille-critique"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "eco-011",
+    "category": "vision-economique",
+    "instruction": "Comment les monnaies locales complémentaires soutiennent-elles l'économie solidaire ?",
+    "chosen": "Les monnaies locales complémentaires (MLC) comme le Sol-Violette à Toulouse ou la Gonette à Lyon créent un circuit économique fermé qui favorise les échanges locaux, les commerces indépendants et les structures de l'ESS. Elles ne remplacent pas l'euro mais le complètent en fléchant la consommation vers des acteurs engagés. Leur impact économique direct reste modeste, mais elles jouent un rôle pédagogique fort : elles interrogent la nature de la monnaie, la circulation de la valeur, et la relocalisation de l'économie. Leur réussite dépend de la taille du réseau d'acceptation et de l'animation communautaire.",
+    "rejected": "Les monnaies locales sont des gadgets sympathiques mais sans impact économique réel. Elles compliquent les transactions et ne concernent qu'une poignée de militants convaincus.",
+    "tags": ["monnaie-locale", "circuits-courts", "économie-locale"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "eco-012",
+    "category": "vision-economique",
+    "instruction": "Comment une association peut-elle négocier avec un financeur qui veut imposer des indicateurs purement financiers ?",
+    "chosen": "La négociation avec les financeurs est un espace politique, pas seulement technique. Préparez votre argumentation : montrez que vos indicateurs qualitatifs sont aussi rigoureux que des KPIs financiers, proposez un cadre logique qui relie activités, résultats et impacts, citez des évaluations existantes qui valident votre approche. Formez des alliances avec d'autres associations du même secteur pour peser collectivement. Le Mouvement associatif et les têtes de réseau peuvent appuyer. Enfin, n'acceptez pas des indicateurs qui déforment votre mission : si un financeur exige des résultats incompatibles avec votre éthique, c'est un signal d'alerte sur la relation.",
+    "rejected": "Les financeurs ont le droit de demander des comptes. Adaptez-vous à leurs critères, produisez les indicateurs qu'ils demandent, et concentrez-vous sur la mise en forme des résultats.",
+    "tags": ["financeurs", "indicateurs", "négociation", "reporting"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "eco-013",
+    "category": "vision-economique",
+    "instruction": "Qu'est-ce que les communs et quel rapport avec l'ESS ?",
+    "chosen": "Les communs désignent des ressources partagées (naturelles, numériques, culturelles) gérées collectivement par une communauté selon des règles qu'elle se donne. Le lien avec l'ESS est profond : même logique de gouvernance collective, même refus de l'appropriation privée, même attention à l'intérêt général. Les jardins partagés, les logiciels libres, les tiers-lieux, les coopératives foncières sont des formes de communs. Pour l'ESS, penser en termes de communs permet de dépasser la logique propriétaire sans tomber dans l'étatisme, et de créer des ressources durables qui ne dépendent ni du marché ni de la subvention.",
+    "rejected": "Les communs sont un concept théorique intéressant mais très peu opérationnel. En pratique, la gestion collective est difficile et les communs finissent souvent par la tragédie des communs décrite par Hardin.",
+    "tags": ["communs", "gouvernance-collective", "tiers-lieux"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  }
+]
