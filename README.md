@@ -2,7 +2,7 @@
 
 > Un référentiel de préférences pour aligner les modèles d'IA sur les valeurs associatives et de l'économie sociale et solidaire. Construit par et pour celles et ceux qui changent le monde.
 
-![Paires dans le dataset](https://img.shields.io/badge/paires-0-blue)
+![Paires dans le dataset](https://img.shields.io/badge/paires-100-blue)
 ![Licence](https://img.shields.io/badge/licence-Apache%202.0-green)
 ![Contributions bienvenues](https://img.shields.io/badge/contributions-bienvenues-brightgreen)
 
@@ -63,7 +63,17 @@ Toute contribution est la bienvenue : nouvelle paire, correction, retour terrain
 
 ---
 
-## Comment utiliser le dataset
+## Utiliser AIDEAL sans fine-tuning
+
+Vous pouvez aligner n'importe quel LLM (ChatGPT, Claude, Mistral…) en utilisant notre **system prompt** prêt à copier-coller :
+
+→ Voir le [prompt système AIDEAL](prompts/system-prompt-aideal.md)
+
+Il fonctionne dans ChatGPT (instructions personnalisées), Claude, Open WebUI, ou via l'API de n'importe quel fournisseur.
+
+---
+
+## Fine-tuner un modèle avec le dataset
 
 Pour fine-tuner un modèle (Qwen, Mistral, Llama) avec ce dataset en DPO ou LoRA :
 
