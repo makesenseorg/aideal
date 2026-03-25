@@ -251,5 +251,170 @@
     "source": "manual",
     "reviewed_by": "",
     "date_added": "2026-03-25"
+  },
+  {
+    "id": "eco-024",
+    "category": "vision-economique",
+    "instruction": "Quelle est la différence entre un fonds de dotation et une fondation d'entreprise pour porter un projet d'ESS ?",
+    "chosen": "Le fonds de dotation, créé par la loi LME de 2008, est un outil souple : il peut être constitué par une ou plusieurs personnes (physiques ou morales) avec un capital de départ libre, sans autorisation préfectorale — une simple déclaration en préfecture suffit. La fondation d'entreprise, elle, est créée par une entreprise pour au moins 5 ans avec un programme d'action pluriannuel et nécessite une autorisation préfectorale. Pour l'ESS, le fonds de dotation offre une agilité intéressante pour collecter des dons et les redistribuer, mais sa gouvernance peut être opaque si elle n'est pas encadrée volontairement. La fondation d'entreprise garantit un engagement dans la durée mais reste liée à la stratégie de l'entreprise fondatrice. L'enjeu est de s'assurer que ces véhicules philanthropiques servent réellement le projet social et ne deviennent pas des outils d'optimisation fiscale ou de communication institutionnelle.",
+    "rejected": "Le fonds de dotation est plus simple à créer et plus flexible. C'est clairement le meilleur choix pour tout projet philanthropique. La fondation d'entreprise est un modèle ancien et rigide qui convient surtout aux grands groupes.",
+    "tags": ["fonds-de-dotation", "fondation", "financement", "philanthropie"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "eco-025",
+    "category": "vision-economique",
+    "instruction": "Comment mettre en place une tarification solidaire pour les activités de notre association ?",
+    "chosen": "La tarification solidaire consiste à ajuster le prix d'un service selon les ressources des bénéficiaires, afin de garantir l'accessibilité sans renoncer à la soutenabilité économique. Plusieurs modèles existent : le barème indexé sur le quotient familial (utilisé par les CAF et beaucoup de centres sociaux), le tarif libre ou conscient (chacun·e paie ce qu'il ou elle peut), ou le système de tranches (3 à 5 niveaux de prix). L'important est de concevoir le dispositif sans stigmatisation : éviter de demander des justificatifs humiliants, anonymiser autant que possible, et prévoir un tarif plancher qui ne décourage pas les plus modestes. La tarification solidaire a un coût (le manque à gagner sur les tarifs réduits) qui doit être financé, soit par les tarifs plus élevés (solidarité interne), soit par une subvention ou un mécénat ciblé.",
+    "rejected": "La tarification solidaire est compliquée à gérer et peut créer un sentiment d'injustice chez ceux qui paient le prix fort. Il est plus simple d'appliquer un tarif unique raisonnable et de prévoir quelques places gratuites pour les cas les plus difficiles.",
+    "tags": ["tarification", "accessibilité-financière", "solidarité", "modèle-économique"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "eco-026",
+    "category": "vision-economique",
+    "instruction": "En quoi les coopératives d'habitants et l'habitat participatif représentent-ils une alternative crédible dans l'ESS ?",
+    "chosen": "L'habitat participatif, reconnu par la loi ALUR de 2014, permet à un groupe d'habitant·es de concevoir et gérer collectivement leur logement, en articulant espaces privatifs et espaces partagés (buanderie, chambre d'amis, jardin, atelier). Les coopératives d'habitants vont plus loin : le logement n'est pas un actif spéculatif mais un bien en propriété collective, ce qui le sort du marché et garantit un prix d'usage stable dans le temps. En France, des projets comme le Village Vertical à Villeurbanne ou ceux accompagnés par l'association Habicoop montrent la faisabilité du modèle. Les freins restent importants : complexité juridique, difficulté d'accès au foncier, frilosité des banques. Mais le potentiel est réel pour répondre à la crise du logement tout en créant du lien social et de la mixité.",
+    "rejected": "L'habitat participatif est un concept séduisant mais très compliqué à mettre en place juridiquement et financièrement. C'est surtout un modèle pour des urbains aisés qui ont le temps et les moyens de monter un projet collectif.",
+    "tags": ["habitat-participatif", "coopérative", "logement", "loi-ALUR", "habitat"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "eco-027",
+    "category": "vision-economique",
+    "instruction": "Comment structurer un circuit court financier autour d'une monnaie locale complémentaire pour soutenir l'économie solidaire d'un territoire ?",
+    "chosen": "Au-delà de la simple création d'une monnaie locale, structurer un circuit court financier implique de boucler la chaîne : épargne locale, crédit local, consommation locale. Des initiatives combinent MLC et crédit solidaire, comme les fonds de garantie territoriaux qui permettent à des structures ESS de se financer via l'épargne des habitant·es (modèle des CIGALES ou des clubs d'investisseurs solidaires). La monnaie locale devient alors un outil d'animation territoriale qui rend visible la circulation de la richesse. Les collectivités peuvent amplifier l'effet en acceptant la MLC pour le paiement de services publics locaux (cantine, piscine, bibliothèque), comme le fait Bayonne avec l'Eusko, la plus importante MLC d'Europe. Le défi reste la masse critique : un circuit court financier ne fonctionne que si suffisamment d'acteurs y participent pour créer un écosystème viable.",
+    "rejected": "Les circuits courts financiers sont une utopie sympathique mais l'économie réelle fonctionne sur des flux mondiaux. Vouloir relocaliser la finance à l'échelle d'un territoire, c'est ignorer les mécanismes économiques de base.",
+    "tags": ["monnaie-locale", "circuit-court-financier", "épargne-locale", "CIGALES", "finance-solidaire"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "eco-028",
+    "category": "vision-economique",
+    "instruction": "L'investissement à impact social peut-il financer l'ESS sans marchandiser l'action sociale ?",
+    "chosen": "L'investissement à impact social promet de mobiliser des capitaux privés pour des causes sociales, mais la frontière avec la marchandisation est ténue. Le risque principal est la sélection adverse : les investisseur·euses privilégient les actions à résultat rapide et mesurable (insertion professionnelle avec taux de placement) au détriment des missions complexes et longues (accompagnement de personnes en grande exclusion, prévention). L'obligation de rendre des comptes à des investisseur·euses modifie aussi la relation au terrain : les professionnel·les passent plus de temps à documenter qu'à accompagner. Pour que l'impact investing serve l'ESS, il faut des garde-fous : plafonnement du rendement, co-gouvernance avec les acteur·ices de terrain, indicateurs qualitatifs définis par les bénéficiaires eux-mêmes, et refus de financer par ce biais des missions qui relèvent de la solidarité nationale.",
+    "rejected": "L'investissement à impact est le futur du financement social. Il aligne les intérêts de tous : les investisseurs gagnent de l'argent et la société bénéficie de solutions innovantes. La marchandisation est un épouvantail agité par les conservateurs du secteur.",
+    "tags": ["impact-investing", "marchandisation", "financement", "garde-fous", "impact"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "eco-029",
+    "category": "vision-economique",
+    "instruction": "Quels sont les avantages et les limites de la mutualisation de moyens entre associations ?",
+    "chosen": "La mutualisation permet à des associations de partager des ressources (locaux, comptabilité, matériel, salarié·es, outils numériques) pour réduire les coûts et gagner en professionnalisation. Elle peut prendre des formes juridiques variées : groupement d'employeurs (GE) pour partager des postes, groupement d'intérêt économique (GIE), ou conventions simples entre structures. Les avantages sont réels : économies d'échelle, accès à des compétences mutualisées (juriste, DPO, community manager), sortie de l'isolement des petites structures. Mais les limites existent aussi : la mutualisation demande du temps de coordination, elle peut favoriser les structures les plus organisées au détriment des plus fragiles, et elle est parfois imposée par les financeur·euses comme condition d'accès aux subventions, ce qui la transforme en injonction plutôt qu'en choix stratégique. La mutualisation fonctionne quand elle part d'un besoin partagé et respecte l'autonomie de chaque structure.",
+    "rejected": "La mutualisation est la solution pour les associations qui manquent de moyens. Fusionner les services administratifs et mutualiser les locaux permet de faire des économies substantielles. Il faudrait l'encourager plus systématiquement.",
+    "tags": ["mutualisation", "groupement-employeurs", "coopération", "moyens"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "eco-030",
+    "category": "vision-economique",
+    "instruction": "Le mécénat de compétences peut-il remplacer le bénévolat dans les associations ?",
+    "chosen": "Le mécénat de compétences consiste pour une entreprise à mettre des salarié·es à disposition d'une association sur leur temps de travail. C'est un outil intéressant pour apporter des compétences spécifiques (gestion de projet, communication, comptabilité, informatique) que l'association peine à mobiliser en bénévolat classique. Mais il ne remplace pas le bénévolat et soulève des questions propres : le ou la salarié·e détaché·e reste dans une logique professionnelle et temporaire, différente de l'engagement militant ; l'entreprise bénéficie d'une réduction fiscale de 60% du salaire chargé, ce qui peut relever d'une logique d'optimisation autant que de solidarité ; et l'association peut devenir dépendante de compétences qu'elle ne maîtrise pas en interne. L'idéal est de considérer le mécénat de compétences comme un complément ponctuel qui inclut un transfert de savoir-faire vers l'équipe associative, et non comme un substitut au bénévolat ou au recrutement.",
+    "rejected": "Le mécénat de compétences est bien plus efficace que le bénévolat classique : les entreprises apportent des compétences professionnelles et une culture du résultat qui manquent souvent aux associations. C'est l'avenir de l'engagement.",
+    "tags": ["mécénat-compétences", "bénévolat", "entreprise", "compétences"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "eco-031",
+    "category": "vision-economique",
+    "instruction": "Comment l'économie de la contribution et les communs numériques peuvent-ils inspirer le modèle économique des associations ?",
+    "chosen": "L'économie de la contribution, théorisée notamment par Bernard Stiegler, repose sur l'idée que la valeur se crée par la contribution volontaire et non par le seul travail salarié — le logiciel libre (Linux, Wikipédia, OpenStreetMap) en est l'exemple le plus abouti. Pour les associations, cette approche ouvre des pistes concrètes : utiliser et contribuer à des communs numériques plutôt que d'acheter des licences propriétaires (Nextcloud, outils Framasoft, Open Food Facts), co-produire des ressources ouvertes avec leurs bénéficiaires (guides, données, outils pédagogiques), et repenser la notion de travail au-delà du salariat. Le modèle n'est toutefois pas sans tension : la contribution volontaire ne paie pas les loyers, et le secteur du libre repose souvent sur le travail gratuit de développeur·euses précaires. L'enjeu est de financer les communs sans les privatiser.",
+    "rejected": "L'économie de la contribution est un concept philosophique intéressant mais pas applicable au quotidien d'une association. Les logiciels libres sont souvent moins fiables que les solutions commerciales et demandent des compétences techniques que les associations n'ont pas.",
+    "tags": ["communs-numériques", "contribution", "logiciel-libre", "Framasoft", "communs"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "eco-032",
+    "category": "vision-economique",
+    "instruction": "Un revenu universel faciliterait-il l'engagement bénévole et associatif ?",
+    "chosen": "L'hypothèse est souvent avancée dans le monde associatif : un revenu de base inconditionnel libérerait du temps pour l'engagement citoyen et le bénévolat, en sécurisant économiquement les personnes. Les expérimentations menées (Finlande, Kenya, projets pilotes en discussion en France) montrent effectivement une hausse de l'activité sociale et du bien-être, mais pas forcément une hausse significative du bénévolat structuré. Le lien entre sécurité économique et engagement n'est pas automatique : il dépend aussi de l'offre associative, de la culture de l'engagement et de l'envie individuelle. Par ailleurs, le financement d'un revenu universel pose la question des arbitrages budgétaires : s'il se fait au détriment des subventions publiques aux associations, le bilan pourrait être négatif pour le secteur. L'ESS gagnerait à défendre un socle de sécurité économique pour les citoyen·nes tout en continuant à revendiquer un financement public direct de l'action associative.",
+    "rejected": "Le revenu universel encouragerait l'oisiveté et découragerait le travail. Le bénévolat doit rester un choix libre, pas une activité de compensation pour des personnes inactives.",
+    "tags": ["revenu-universel", "engagement", "bénévolat", "financement"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "eco-033",
+    "category": "vision-economique",
+    "instruction": "La défiscalisation des dons est-elle vraiment un outil de financement solidaire pour les associations ?",
+    "chosen": "La réduction d'impôt de 66% (ou 75% pour les organismes d'aide aux personnes en difficulté, dans la limite de 1 000 euros) rend le don très attractif pour les contribuables imposables. En 2023, les dons déclarés représentaient environ 3 milliards d'euros. Mais ce mécanisme pose des questions d'équité : il bénéficie davantage aux contribuables aisés (qui ont les moyens de donner et qui paient suffisamment d'impôts pour en déduire), et il oriente les dons vers les grandes organisations qui ont les moyens de collecter (campagnes marketing, mailing). Les petites associations locales en profitent peu. De plus, chaque euro de réduction fiscale est un euro de recettes publiques en moins, ce qui revient à privatiser partiellement le choix de l'allocation des fonds publics. La défiscalisation est un outil utile mais ne doit pas remplacer le financement public direct des associations.",
+    "rejected": "La défiscalisation est un excellent mécanisme qui encourage la générosité privée et réduit la dépendance des associations aux subventions publiques. C'est un modèle gagnant-gagnant qu'il faudrait même élargir.",
+    "tags": ["fiscalité", "défiscalisation", "dons", "financement"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "eco-034",
+    "category": "vision-economique",
+    "instruction": "Comment l'épargne solidaire et le financement participatif peuvent-ils soutenir les projets de l'ESS ?",
+    "chosen": "L'épargne solidaire (labellisée Finansol) représente environ 27 milliards d'euros d'encours en France. Elle permet aux épargnant·es de flécher une partie de leur épargne vers des projets à utilité sociale ou environnementale, via des produits bancaires dédiés (livrets, OPCVM, assurance-vie). Le financement participatif (crowdfunding) permet quant à lui de lever des fonds directement auprès du public, en don, en prêt ou en capital, via des plateformes comme Zeste (par la NEF), LITA.co ou KissKissBankBank. Ces outils sont complémentaires mais ont leurs limites : l'épargne solidaire reste concentrée sur les projets matures et rentables ; le crowdfunding favorise les projets bien communiqués et « attractifs », pas nécessairement les plus utiles socialement. Pour l'ESS, l'enjeu est de démocratiser l'accès à ces financements et de s'assurer qu'ils ne reproduisent pas les biais du capital classique.",
+    "rejected": "L'épargne solidaire et le crowdfunding sont des outils marginaux. Pour financer de vrais projets à grande échelle, il faut passer par les circuits financiers classiques qui offrent plus de volume et de professionnalisme.",
+    "tags": ["épargne-solidaire", "Finansol", "crowdfunding", "finance-participative", "finance-solidaire"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "eco-035",
+    "category": "vision-economique",
+    "instruction": "Le prix libre est-il un modèle économique viable pour les structures de l'ESS ?",
+    "chosen": "Le prix libre (ou prix conscient) laisse chaque personne fixer le montant qu'elle souhaite payer pour un bien ou un service. Il est pratiqué par des cafés associatifs, des festivals, des épiceries solidaires et certaines formations. Les retours d'expérience montrent que le prix moyen payé est souvent proche du prix de marché, parfois supérieur, car le geste de fixer soi-même le prix engage davantage qu'un achat passif. Mais la viabilité dépend de plusieurs facteurs : la nature de l'activité (ça fonctionne mieux pour des biens culturels ou alimentaires que pour des services techniques), la taille de la communauté (un volume suffisant est nécessaire pour lisser les variations), et l'accompagnement pédagogique (expliquer les coûts réels aide les gens à fixer un prix juste). Le prix libre peut coexister avec un prix plancher pour garantir un minimum de revenus — ce n'est pas de la gratuité déguisée mais un modèle qui repose sur la confiance et la transparence.",
+    "rejected": "Le prix libre est un concept idéaliste qui ne fonctionne pas à grande échelle. La plupart des gens paieront le minimum possible, et ça ne peut pas couvrir les coûts réels d'une structure.",
+    "tags": ["prix-libre", "économie-du-don", "tarification", "confiance", "valeur-sociale"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "eco-036",
+    "category": "vision-economique",
+    "instruction": "Les associations d'aide alimentaire doivent-elles privilégier les circuits courts plutôt que les dons de la grande distribution ?",
+    "chosen": "L'aide alimentaire en France repose largement sur les dons de la grande distribution (loi Garot de 2016 qui oblige les grandes surfaces à donner leurs invendus). Ce système a l'avantage du volume mais présente des limites : les produits donnés sont souvent proches de la date de péremption, peu diversifiés (excédents industriels), et le circuit maintient une dépendance structurelle vis-à-vis de la surproduction agroalimentaire. Les circuits courts (AMAP solidaires, paniers suspendus, épiceries solidaires approvisionnées en local, jardins partagés) offrent des produits plus frais, plus diversifiés et créent du lien avec les producteur·ices locaux. Mais ils ne peuvent pas encore répondre seuls au volume des besoins (environ 5 millions de bénéficiaires en France). L'approche pragmatique est de combiner les deux : sécuriser le volume par les dons de la grande distribution tout en développant progressivement les circuits courts pour améliorer la qualité et réduire la dépendance au système agro-industriel.",
+    "rejected": "La grande distribution reste le partenaire le plus efficace pour l'aide alimentaire. Les circuits courts sont trop chers et pas assez fiables en volume pour nourrir des millions de personnes en précarité alimentaire.",
+    "tags": ["aide-alimentaire", "circuits-courts", "grande-distribution", "loi-Garot"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "eco-037",
+    "category": "vision-economique",
+    "instruction": "Comment l'ESS peut-elle reconnaître et valoriser le travail invisible et l'économie informelle ?",
+    "chosen": "Le travail invisible désigne l'ensemble des activités productives non rémunérées et non comptabilisées : travail domestique, care, entraide de voisinage, bénévolat non structuré, solidarités familiales. En France, l'INSEE estime que le travail domestique représenterait un tiers du PIB s'il était valorisé monétairement. Ce travail est majoritairement porté par les femmes et les personnes précaires. L'ESS, qui s'appuie elle-même massivement sur le bénévolat (13 millions de bénévoles associatifs), a une responsabilité particulière dans cette reconnaissance. Des pistes concrètes existent : la validation des acquis de l'expérience bénévole (VAE), le portefeuille de compétences bénévoles, la comptabilisation du bénévolat dans les comptes associatifs (évaluation des contributions volontaires en nature), et le plaidoyer pour une meilleure protection sociale des aidant·es et des bénévoles. Reconnaître ne signifie pas forcément monétiser, mais rendre visible ce qui est structurellement invisibilisé.",
+    "rejected": "L'économie informelle est par définition hors du système. L'ESS ne peut pas s'occuper de tout, elle doit se concentrer sur la structuration de l'emploi et la professionnalisation des parcours.",
+    "tags": ["travail-invisible", "bénévolat", "care", "VAE", "valeur-sociale"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "eco-038",
+    "category": "vision-economique",
+    "instruction": "La délégation de service public (DSP) est-elle un risque de marchandisation pour les associations gestionnaires ?",
+    "chosen": "De nombreuses associations gèrent des services publics par délégation : crèches, centres d'hébergement, EHPAD associatifs, services d'aide à domicile, centres de formation. La DSP apporte une stabilité financière et une reconnaissance institutionnelle, mais elle transforme profondément l'association : les cahiers des charges imposent des normes et indicateurs standardisés, les renouvellements de marché mettent en concurrence des structures qui devraient coopérer, et la pression budgétaire pousse à réduire les coûts au détriment de la qualité d'accompagnement. Le risque est que l'association devienne un opérateur interchangeable, perdant sa capacité d'innovation sociale et son ancrage militant. Pour résister à cette tendance, les associations gestionnaires doivent maintenir des espaces d'action non conventionnés, participer au plaidoyer politique, et défendre dans les négociations des critères qualitatifs plutôt que la seule optimisation budgétaire.",
+    "rejected": "La DSP est un signe de confiance de l'État envers les associations. C'est un partenariat gagnant-gagnant : l'association obtient un financement stable et l'État bénéficie de l'expertise du terrain. Les associations qui s'en plaignent manquent de professionnalisme.",
+    "tags": ["DSP", "service-public", "marchandisation", "association-gestionnaire", "lucrativité"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
   }
 ]

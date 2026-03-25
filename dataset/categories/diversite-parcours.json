@@ -240,5 +240,170 @@
     "source": "manual",
     "reviewed_by": "",
     "date_added": "2026-03-25"
+  },
+  {
+    "id": "div-023",
+    "category": "diversite-parcours",
+    "instruction": "Comment les associations peuvent-elles accompagner leurs bénévoles et salarié·es dans une démarche de validation des acquis de l'expérience (VAE) ?",
+    "chosen": "La VAE permet de faire reconnaître officiellement des compétences acquises par l'expérience, y compris bénévole — une opportunité majeure pour le secteur associatif où de nombreuses personnes exercent des responsabilités sans diplôme correspondant. Les associations peuvent jouer un rôle actif : informer systématiquement les bénévoles et salarié·es de l'existence du dispositif, les aider à constituer leur dossier en documentant leurs activités et compétences, financer ou co-financer l'accompagnement VAE via le plan de formation, et adapter les plannings pour libérer du temps. Au-delà de l'accompagnement individuel, les associations peuvent aussi militer pour une meilleure reconnaissance des compétences associatives dans les référentiels de certification. La VAE n'est pas qu'un avantage individuel : elle légitime les parcours non linéaires et renforce la professionnalisation du secteur tout entier.",
+    "rejected": "La VAE est une démarche individuelle et personnelle. L'association n'a pas à s'en mêler. Si un bénévole veut faire valider ses acquis, il peut s'adresser aux organismes compétents.",
+    "tags": ["VAE", "reconnaissance", "compétences", "parcours-atypique"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "div-024",
+    "category": "diversite-parcours",
+    "instruction": "Comment les associations peuvent-elles améliorer l'accès de leurs dispositifs aux gens du voyage ?",
+    "chosen": "Les gens du voyage font face à des obstacles spécifiques dans l'accès aux dispositifs associatifs : mobilité géographique incompatible avec des parcours d'accompagnement longs, exigence d'une adresse fixe pour les inscriptions, méconnaissance de leurs modes de vie par les équipes, méfiance réciproque héritée de décennies de stigmatisation. Pour améliorer l'accès : adapter les critères d'inscription (accepter la domiciliation en CCAS ou chez un tiers), proposer des formats d'intervention itinérants ou décentralisés sur les aires d'accueil, former les équipes aux réalités culturelles et sociales des gens du voyage sans les essentialiser, nouer des partenariats avec les associations spécialisées (FNASAT, associations locales de voyageurs) et surtout recruter des médiateur·ices issu·es de la communauté. L'enjeu est de rendre le droit commun effectivement accessible sans imposer une sédentarisation comme condition préalable.",
+    "rejected": "Les gens du voyage ont un mode de vie qui rend difficile le suivi associatif classique. Des associations spécialisées existent pour ce public, il vaut mieux les orienter vers ces structures dédiées.",
+    "tags": ["gens-du-voyage", "inclusion", "accès-aux-droits", "itinérance"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "div-025",
+    "category": "diversite-parcours",
+    "instruction": "Comment l'engagement associatif peut-il contribuer à la réinsertion des personnes détenues ou sortant de prison ?",
+    "chosen": "L'engagement associatif peut jouer un rôle déterminant dans le parcours de réinsertion des personnes détenues, à condition de ne pas le réduire à un outil de contrôle social. En détention, les associations intervenant en milieu carcéral (Genepi, Lire C'est Vivre, ateliers artistiques) offrent des espaces de dignité, de lien social et de développement de compétences. À la sortie, l'engagement bénévole peut servir de sas de transition : il procure un cadre structurant, un réseau social, une expérience valorisable sur un CV, et un sentiment d'utilité sociale qui contrebalance la stigmatisation liée au casier judiciaire. Pour que cela fonctionne, les associations d'accueil doivent former leurs équipes à dépasser les préjugés sur la délinquance, proposer un accompagnement individualisé, et ne pas réduire la personne à son passé pénal. L'accès à des postes rémunérés, et pas seulement bénévoles, est aussi un enjeu central.",
+    "rejected": "Les personnes sortant de prison ont d'abord besoin d'un emploi et d'un logement. Le bénévolat associatif est un luxe qui vient après la stabilisation de leur situation matérielle.",
+    "tags": ["réinsertion", "détention", "bénévolat", "parcours-atypique"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "div-026",
+    "category": "diversite-parcours",
+    "instruction": "Comment concilier précarité étudiante et engagement bénévole, et que peuvent faire les associations pour ne pas exclure les étudiant·es précaires ?",
+    "chosen": "La précarité étudiante (un·e étudiant·e sur cinq vit sous le seuil de pauvreté en France) crée une barrière invisible à l'engagement bénévole : quand on cumule études et emploi alimentaire, le temps et l'énergie disponibles pour le bénévolat sont très réduits. Les associations qui comptent sur les étudiant·es doivent en tenir compte : proposer des missions flexibles et limitées dans le temps, rembourser systématiquement tous les frais (transport, repas — pas seulement sur demande, ce qui stigmatise), offrir des contreparties concrètes (formation, mise en réseau, attestation de compétences valorisable), et adapter les horaires aux contraintes étudiantes. Les associations étudiantes elles-mêmes (AFEV, Animafac, fédérations étudiantes) peuvent créer des ponts entre engagement et parcours universitaire, notamment via les unités d'enseignement engagement ou les césures solidaires. L'engagement ne doit pas être un privilège réservé aux étudiant·es dont les parents assurent le quotidien.",
+    "rejected": "Le bénévolat est un engagement volontaire. Si un·e étudiant·e n'a pas le temps, il ou elle pourra s'engager plus tard. On ne va pas rémunérer le bénévolat pour le rendre accessible.",
+    "tags": ["précarité-étudiante", "bénévolat", "inclusion", "jeunesse"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "div-027",
+    "category": "diversite-parcours",
+    "instruction": "Comment les associations peuvent-elles mieux valoriser les compétences professionnelles et les diplômes des personnes exilées ?",
+    "chosen": "Les personnes exilées arrivent souvent avec des diplômes, des expériences professionnelles et des compétences considérables, mais le système français les invisibilise : non-reconnaissance des diplômes étrangers, exigence de certifications locales, discrimination à l'embauche, et parcours administratifs qui cantonnent dans des emplois sous-qualifiés. Les associations peuvent agir à plusieurs niveaux : accompagner les démarches d'équivalence de diplômes (ENIC-NARIC) et de VAE, organiser des bilans de compétences adaptés au parcours migratoire, créer des espaces de mise en réseau professionnel (parrainage, mentorat sectoriel), proposer des formations passerelles en français professionnel de spécialité, et surtout employer elles-mêmes ces profils à la hauteur de leurs compétences réelles plutôt que de les cantonner à des postes d'exécution. L'enjeu est aussi politique : plaider pour des procédures de reconnaissance des diplômes plus rapides et moins bureaucratiques.",
+    "rejected": "La reconnaissance des diplômes étrangers est un processus administratif normal qui garantit la qualité des compétences sur le marché du travail français. Les personnes exilées doivent passer par les mêmes étapes que tout le monde.",
+    "tags": ["exil", "compétences", "reconnaissance", "diplômes-étrangers"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "div-028",
+    "category": "diversite-parcours",
+    "instruction": "Comment le secteur associatif peut-il lutter contre les discriminations liées à l'âge — jeunisme et âgisme — dans ses pratiques de recrutement ?",
+    "chosen": "Le secteur associatif n'échappe pas aux biais d'âge : les offres d'emploi cherchent implicitement des profils « dynamiques » (code pour « jeunes »), les postes d'innovation sont réservés aux moins de 35 ans, tandis que les personnes de plus de 55 ans sont perçues comme « en fin de carrière » et les jeunes comme « manquant d'expérience ». Pour lutter contre ces discriminations : relire les offres d'emploi et les profils de bénévoles pour éliminer les biais d'âge implicites, constituer des jurys de recrutement intergénérationnels, valoriser la complémentarité des expériences plutôt que l'âge comme critère, mettre en place des dispositifs de transmission croisée (les seniors apportent leur réseau et leur recul, les juniors leurs compétences numériques et leurs regards neufs), et mesurer la pyramide des âges de l'organisation pour identifier les déséquilibres. La diversité générationnelle est une richesse organisationnelle au même titre que la diversité sociale ou culturelle.",
+    "rejected": "L'âge est un facteur objectif d'énergie et d'adaptation. Il est normal de chercher des profils jeunes pour des missions de terrain intenses et des profils expérimentés pour des postes de direction.",
+    "tags": ["âgisme", "jeunisme", "recrutement", "intergénérationnel"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "div-029",
+    "category": "diversite-parcours",
+    "instruction": "Comment les associations peuvent-elles intégrer la pair-aidance dans l'accompagnement des personnes vivant avec une addiction ?",
+    "chosen": "La pair-aidance en addictologie repose sur un principe simple et puissant : une personne qui a elle-même traversé l'expérience de l'addiction possède un savoir expérientiel irremplaçable pour accompagner d'autres personnes sur ce chemin. Ce modèle, développé en Amérique du Nord et progressivement reconnu en France, suppose un cadre rigoureux : les pair-aidant·es doivent bénéficier d'une formation spécifique (le DU de pair-aidance en santé mentale se développe dans plusieurs universités), d'une supervision régulière, et d'un statut professionnel clair avec une rémunération digne. L'intégration dans une équipe pluridisciplinaire nécessite un travail de culture : les professionnel·les « classiques » doivent reconnaître le savoir expérientiel comme complémentaire et non concurrent de leur expertise clinique. L'association doit aussi être attentive au risque de rechute et proposer un accompagnement adapté sans exclure la personne au premier faux pas.",
+    "rejected": "L'accompagnement des addictions relève de professionnel·les formé·es en santé et en psychologie. Les personnes en rétablissement n'ont pas le recul ni la neutralité nécessaires pour accompagner d'autres personnes.",
+    "tags": ["pair-aidance", "addiction", "savoirs-expérientiels", "accompagnement"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "div-030",
+    "category": "diversite-parcours",
+    "instruction": "Comment permettre aux personnes sans domicile fixe de participer à la vie citoyenne et associative malgré les obstacles matériels ?",
+    "chosen": "L'absence de domicile fixe engendre une exclusion en cascade : pas d'adresse, pas de courrier, pas d'inscription sur les listes électorales, pas de compte bancaire, difficulté à adhérer à une association ou à y exercer des responsabilités. Pour lever ces obstacles : faciliter la domiciliation administrative (obligation légale des CCAS souvent mal appliquée), proposer des espaces d'engagement au sein même des structures d'hébergement et d'accueil de jour, adapter les formats de participation (réunions dans des lieux accessibles, horaires compatibles avec les contraintes de survie quotidienne, pas d'exigence de régularité), et rémunérer les contributions (expertise d'usage, participation à des instances). Des initiatives comme les conseils consultatifs de personnes en situation de précarité montrent que la participation citoyenne des personnes SDF est non seulement possible mais enrichissante pour les politiques publiques. La dignité commence par la reconnaissance d'une parole légitime.",
+    "rejected": "Les personnes sans domicile ont des besoins urgents d'hébergement et de subsistance. Leur proposer de participer à des instances associatives est décalé par rapport à leurs priorités immédiates.",
+    "tags": ["SDF", "participation-citoyenne", "accès-aux-droits", "inclusion"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "div-031",
+    "category": "diversite-parcours",
+    "instruction": "Comment soutenir le leadership associatif des femmes des quartiers populaires qui portent souvent le tissu social local sans reconnaissance ?",
+    "chosen": "Les femmes des quartiers populaires sont souvent les piliers invisibles de la vie sociale locale : elles animent des réseaux d'entraide, organisent des activités pour les enfants, médient les conflits de voisinage, accompagnent les familles dans les démarches administratives — mais rarement dans des cadres associatifs formels ou à des postes de direction. Pour soutenir leur leadership : reconnaître et nommer le travail social informel qu'elles accomplissent, proposer des formations à la gouvernance associative adaptées à leurs contraintes (horaires, garde d'enfants, proximité géographique), les accompagner dans la structuration juridique de leurs initiatives, faciliter leur accès aux financements (souvent conditionnés à une expertise de montage de dossier qu'elles n'ont pas eu l'occasion d'acquérir), et surtout leur ouvrir des espaces de pouvoir dans les structures existantes. Des réseaux comme Pas Sans Nous ou des collectifs de femmes de quartier documentent ces dynamiques et créent des solidarités entre ces femmes leaders.",
+    "rejected": "Le leadership associatif s'acquiert par la formation et l'expérience en gouvernance. Les femmes des quartiers populaires peuvent gravir les échelons comme tout le monde en s'investissant dans les structures existantes.",
+    "tags": ["femmes", "quartiers-populaires", "leadership", "reconnaissance"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "div-032",
+    "category": "diversite-parcours",
+    "instruction": "Comment les barrières linguistiques freinent-elles l'engagement associatif et comment les associations peuvent-elles les réduire ?",
+    "chosen": "La maîtrise du français écrit et oral est un prérequis implicite de l'engagement associatif en France, ce qui exclut de fait une partie significative de la population : personnes allophones, personnes en cours d'apprentissage du français, personnes sourdes utilisant la LSF, personnes à l'aise à l'oral mais pas à l'écrit. Pour réduire ces barrières : produire des supports de communication multilingues et en Facile à Lire et à Comprendre (FALC), proposer de l'interprétariat lors des réunions importantes (y compris en LSF), créer des binômes linguistiques au sein des équipes, utiliser des outils visuels et des formats participatifs qui ne reposent pas uniquement sur la prise de parole en français courant, et former les facilitateur·ices à l'animation interculturelle. La diversité linguistique n'est pas un handicap à compenser mais une ressource qui permet de toucher des publics que le monolinguisme francophone exclut.",
+    "rejected": "Le français est la langue commune en France. Pour s'engager efficacement dans une association, il faut le maîtriser suffisamment. Des cours de français existent pour ceux qui en ont besoin.",
+    "tags": ["barrières-linguistiques", "inclusion", "multilinguisme", "accessibilité"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "div-033",
+    "category": "diversite-parcours",
+    "instruction": "Comment les associations peuvent-elles créer un environnement véritablement inclusif pour les personnes trans et non-binaires ?",
+    "chosen": "L'inclusion des personnes trans et non-binaires dans les espaces associatifs ne se résume pas à une déclaration de bonne volonté — elle exige des changements concrets dans les pratiques. Des mesures structurantes : respecter systématiquement le prénom d'usage et les pronoms choisis (y compris dans les outils administratifs internes, sans attendre le changement d'état civil), former les équipes aux réalités des parcours de transition et à la distinction entre identité de genre et orientation sexuelle, aménager des sanitaires et vestiaires inclusifs, adapter les formulaires (proposer un champ libre plutôt que M/F), et sanctionner le mégenrage répété et les propos transphobes comme toute autre forme de discrimination. Pour les associations qui accompagnent des publics vulnérables, l'enjeu est redoublé : les personnes trans en situation de précarité, de migration ou de handicap subissent des discriminations croisées particulièrement violentes. Des ressources existent auprès d'associations comme OUTrans, Acceptess-T ou la Fédération Trans et Intersexes.",
+    "rejected": "L'identité de genre est un sujet personnel. L'association n'a pas à adapter ses formulaires ou ses locaux pour une minorité statistiquement très réduite. La bienveillance individuelle suffit.",
+    "tags": ["trans-identité", "inclusion", "non-binarité", "intersectionnalité"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "div-034",
+    "category": "diversite-parcours",
+    "instruction": "Comment rendre la vie associative pleinement accessible aux personnes en situation d'illettrisme, y compris dans les instances de gouvernance ?",
+    "chosen": "L'illettrisme concerne 2,5 millions de personnes en France ayant été scolarisées mais ne maîtrisant pas les compétences de base en lecture, écriture et calcul. Au-delà de l'accueil ponctuel en structure, l'enjeu est de rendre l'ensemble de la vie associative accessible : permettre l'adhésion et l'exercice de responsabilités sans passer exclusivement par l'écrit, proposer des formats de réunion oraux avec des comptes-rendus audio ou visuels, utiliser des pictogrammes et la méthode FALC (Facile à Lire et à Comprendre) pour les documents statutaires et de gouvernance, et surtout cesser de considérer l'illettrisme comme une incapacité globale. Une personne en situation d'illettrisme peut être un·e excellent·e administrateur·ice, un·e leader naturel·le, un·e expert·e du terrain. L'association doit adapter ses outils, pas ses ambitions pour ces personnes.",
+    "rejected": "La vie associative repose sur des documents écrits (statuts, comptes-rendus, courriers). Les personnes en situation d'illettrisme doivent d'abord suivre des formations de remise à niveau avant de pouvoir participer pleinement.",
+    "tags": ["illettrisme", "accessibilité", "FALC", "gouvernance"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "div-035",
+    "category": "diversite-parcours",
+    "instruction": "Comment les associations peuvent-elles accompagner les travailleur·euses du sexe sans moraliser ni instrumentaliser leur parole ?",
+    "chosen": "L'accompagnement associatif des travailleur·euses du sexe (TDS) est traversé par un clivage idéologique profond entre abolitionnisme et reconnaissance du travail du sexe, qui ne doit pas faire oublier les besoins concrets des personnes. Un accompagnement respectueux suppose : partir des demandes exprimées par les personnes elles-mêmes (santé, droits, logement, régularisation) sans conditionner l'aide à une sortie de la prostitution, appliquer une approche de réduction des risques plutôt que de prohibition, inclure des TDS dans la conception et l'évaluation des dispositifs (rien sur nous sans nous), former les équipes au non-jugement et à la connaissance des réalités du travail du sexe dans sa diversité (rue, internet, migration, choix, contrainte), et prendre en compte les situations de violence sans réduire les personnes au statut de victimes. Des associations comme Médecins du Monde, Grisélidis ou Paloma montrent qu'il est possible d'accompagner sans moraliser ni instrumentaliser.",
+    "rejected": "La prostitution est une forme d'exploitation. Les associations doivent aider les personnes à en sortir, pas à s'y maintenir. Accompagner sans proposer d'alternative, c'est cautionner le système.",
+    "tags": ["travail-du-sexe", "réduction-des-risques", "accompagnement", "non-jugement"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "div-036",
+    "category": "diversite-parcours",
+    "instruction": "Comment les associations peuvent-elles accueillir les personnes de toutes confessions tout en respectant le principe de laïcité ?",
+    "chosen": "La laïcité dans l'espace associatif est souvent mal comprise : elle n'impose pas la neutralité religieuse aux associations (qui ne sont pas des services publics, sauf celles délégataires) mais garantit la liberté de conscience de tou·tes. Concrètement, une association peut accueillir des personnes portant des signes religieux visibles, proposer des repas adaptés lors des événements collectifs, et tenir compte des calendriers religieux dans la planification. L'enjeu est de distinguer la laïcité comme cadre de coexistence (toutes les convictions sont les bienvenues, aucune ne s'impose aux autres) de la laïcité comme prétexte d'exclusion. Les associations doivent créer un cadre explicite : charte de fonctionnement qui affirme la liberté de conscience, règles claires sur ce qui relève du collectif et du personnel, et dialogue ouvert quand des tensions surgissent. Les personnes issues de minorités religieuses — en particulier les musulman·es en France aujourd'hui — subissent des discriminations spécifiques dont le monde associatif doit être conscient.",
+    "rejected": "La laïcité impose la neutralité dans l'espace public. Les associations qui reçoivent des subventions publiques doivent appliquer les mêmes règles que les services publics en matière de signes religieux.",
+    "tags": ["laïcité", "religion", "inclusion", "liberté-de-conscience"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "div-037",
+    "category": "diversite-parcours",
+    "instruction": "Comment les associations peuvent-elles lutter contre la stigmatisation des personnes vivant avec le VIH dans les espaces d'engagement ?",
+    "chosen": "Malgré les avancées médicales (une personne sous traitement efficace ne transmet pas le virus — concept « Indétectable = Intransmissible »), la sérophobie reste une réalité : rejet social, discrimination à l'embauche, auto-exclusion par peur du regard des autres. Dans les espaces associatifs, la stigmatisation se manifeste par l'ignorance (méconnaissance des modes de transmission), la maladresse (questions intrusives sur la santé), ou l'exclusion implicite (activités sportives ou de restauration collective où la séropositivité est perçue comme un risque). Pour lutter contre cela : former les équipes aux réalités actuelles du VIH (I=I), afficher clairement une politique de non-discrimination liée au statut sérologique, inviter des associations de personnes vivant avec le VIH (AIDES, Act Up, Comité des familles) pour des sensibilisations, et créer les conditions pour que les personnes séropositives puissent, si elles le souhaitent, être visibles sans risque. La lutte contre la sérophobie s'inscrit dans une démarche plus large de santé communautaire et de justice sociale.",
+    "rejected": "Le statut sérologique est une information médicale privée. Tant qu'une association ne discrimine pas explicitement, elle n'a pas à mener d'actions spécifiques sur le VIH. C'est un sujet de santé, pas d'engagement associatif.",
+    "tags": ["VIH", "sérophobie", "inclusion", "santé-communautaire"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
   }
 ]

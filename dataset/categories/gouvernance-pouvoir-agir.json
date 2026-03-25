@@ -251,5 +251,170 @@
     "source": "manual",
     "reviewed_by": "",
     "date_added": "2026-03-25"
+  },
+  {
+    "id": "gouv-024",
+    "category": "gouvernance-pouvoir-agir",
+    "instruction": "Comment mettre en place une politique de rotation des mandats dans une association sans perdre en compétence ni en continuité ?",
+    "chosen": "La rotation des mandats est un levier essentiel de vitalité démocratique, mais elle se prépare. Inscrire dans les statuts une limitation claire (par exemple deux mandats consécutifs maximum) est une première étape, mais elle ne suffit pas sans un travail d'accompagnement. Il faut organiser la transmission des savoirs entre sortant·es et entrant·es (binômes de transition, documentation des processus), former en continu les futur·es administrateur·ices bien avant leur prise de fonction, et diversifier les viviers de recrutement pour ne pas tourner dans un cercle fermé. La rotation n'est pas une perte de compétence : elle apporte des regards neufs, réduit les risques de concentration du pouvoir et revitalise le projet associatif. L'enjeu est de construire un système où la compétence est collective et ne repose pas sur quelques individus.",
+    "rejected": "Changer régulièrement de dirigeant·es fait perdre du temps et de l'expertise. Quand une équipe fonctionne bien, la stabilité est préférable. La rotation forcée est une contrainte artificielle.",
+    "tags": ["rotation-mandats", "renouvellement", "démocratie-participative"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "gouv-025",
+    "category": "gouvernance-pouvoir-agir",
+    "instruction": "Comment gérer les conflits dans un collectif autogéré où il n'y a pas de hiérarchie formelle pour trancher ?",
+    "chosen": "L'absence de hiérarchie ne signifie pas l'absence de conflits — au contraire, les collectifs autogérés doivent développer des outils explicites de régulation. Plusieurs dispositifs sont éprouvés : la communication non violente (CNV) comme cadre de base, la désignation de personnes-ressources formées à la médiation (tournantes pour éviter la concentration du rôle), les cercles restauratifs inspirés de la justice restaurative, et les temps de régulation programmés régulièrement (pas seulement en cas de crise). Il est crucial de distinguer les conflits de personnes, les conflits de rôles et les conflits de vision — chacun appelle un traitement différent. Le piège principal est l'évitement : dans les collectifs horizontaux, la peur de la confrontation peut mener à des non-dits qui pourrissent. Un conflit nommé et travaillé collectivement renforce le groupe ; un conflit esquivé le mine.",
+    "rejected": "Si un collectif autogéré n'arrive pas à résoudre ses conflits en interne, c'est que le modèle horizontal ne fonctionne pas pour ce groupe. Mieux vaut remettre un minimum de hiérarchie pour trancher.",
+    "tags": ["médiation", "auto-gestion", "conflits", "justice-restaurative"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "gouv-026",
+    "category": "gouvernance-pouvoir-agir",
+    "instruction": "Comment formaliser le droit des salarié·es à peser sur les orientations stratégiques d'une association, au-delà de la simple consultation ?",
+    "chosen": "Le droit d'expression des salarié·es (loi Auroux, 1982) dépasse la consultation informelle : il s'agit de construire des canaux formels par lesquels les salarié·es peuvent influencer les décisions stratégiques. Des modèles concrets existent : la représentation des salarié·es au CA avec voix délibérative (ce que permettent les statuts de certaines SCIC), les commissions mixtes élu·es-salarié·es sur des sujets transversaux (stratégie, budget, ressources humaines), les assemblées de salarié·es dont les avis sont inscrits à l'ordre du jour du CA, ou encore le cercle sociocratique de salarié·es qui dispose d'un droit d'objection sur les décisions qui affectent leur travail. L'enjeu est de dépasser la dichotomie classique entre gouvernance bénévole et exécution salariée pour reconnaître que les salarié·es, par leur connaissance intime du terrain, détiennent une expertise irremplaçable pour piloter le projet.",
+    "rejected": "Les salarié·es ont les instances représentatives du personnel pour s'exprimer. Leur donner un pouvoir de décision stratégique remettrait en cause le modèle associatif où la gouvernance appartient aux bénévoles élus.",
+    "tags": ["gouvernance-partagée", "salarié·es", "démocratie-participative", "SCIC"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "gouv-027",
+    "category": "gouvernance-pouvoir-agir",
+    "instruction": "Les associations peuvent-elles s'inspirer des assemblées citoyennes et de la démocratie délibérative pour renouveler leur gouvernance ?",
+    "chosen": "Les assemblées citoyennes — inspirées du modèle de la Convention Citoyenne pour le Climat — reposent sur le tirage au sort, la formation des participant·es et la délibération structurée. Des associations commencent à s'en inspirer : tirage au sort de membres pour des commissions thématiques, mini-assemblées de bénéficiaires pour orienter un programme, ou jury citoyen pour évaluer l'impact d'une action. La démocratie délibérative apporte un complément précieux à la démocratie représentative associative : elle inclut des voix habituellement absentes, produit des décisions mieux informées grâce à la phase de formation, et renforce la légitimité des choix. Attention toutefois à ne pas en faire un simple outil cosmétique : la délibération n'a de sens que si ses conclusions sont réellement prises en compte dans les décisions finales.",
+    "rejected": "Le tirage au sort fonctionne pour des exercices ponctuels à grande échelle, mais il n'est pas adapté à la gouvernance d'une association qui a besoin de personnes engagées et compétentes sur la durée.",
+    "tags": ["démocratie-délibérative", "assemblée-citoyenne", "tirage-au-sort", "intelligence-collective"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "gouv-028",
+    "category": "gouvernance-pouvoir-agir",
+    "instruction": "Comment les associations peuvent-elles renforcer le pouvoir d'agir des personnes en situation de grande précarité sans tomber dans l'injonction à l'autonomie ?",
+    "chosen": "Renforcer le pouvoir d'agir des personnes en grande précarité suppose d'abord de reconnaître que la précarité n'est pas un déficit individuel mais le produit de mécanismes structurels (marché du logement, emploi précaire, discriminations). L'injonction à « devenir autonome » peut devenir une forme de violence quand les conditions matérielles ne sont pas réunies. Des approches respectueuses existent : partir des demandes et des priorités exprimées par les personnes elles-mêmes, créer des espaces collectifs où l'expérience de la précarité devient un savoir partagé et politisé (comme les universités populaires Quart Monde), garantir un accès inconditionnel aux droits fondamentaux sans contrepartie d'engagement, et surtout ne pas confondre pouvoir d'agir et responsabilisation individuelle. Le pouvoir d'agir se construit dans la durée, avec des allers-retours, et suppose un filet de sécurité matériel solide.",
+    "rejected": "L'autonomie est l'objectif de tout accompagnement social. Les personnes en précarité doivent être accompagnées vers l'indépendance, c'est leur rendre service que de les responsabiliser progressivement.",
+    "tags": ["pouvoir-agir", "précarité", "autonomie", "droits-fondamentaux"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "gouv-029",
+    "category": "gouvernance-pouvoir-agir",
+    "instruction": "Comment gouverner efficacement une coalition ou un réseau inter-associatif quand chaque membre a sa propre gouvernance et ses propres intérêts ?",
+    "chosen": "La gouvernance d'une coalition inter-associative est un exercice délicat : chaque membre conserve son autonomie tout en s'engageant dans un projet commun. Des principes structurants aident : définir clairement ce qui relève du collectif (plaidoyer commun, mutualisation) et ce qui reste propre à chaque structure, adopter une charte qui explicite les règles de prise de décision (consensus, consentement, majorité qualifiée selon les sujets), prévoir des mécanismes de sortie non punitifs, et assurer une gouvernance tournante ou collégiale pour éviter qu'une structure dominante ne capture le réseau. La communication transparente sur les financements reçus au nom de la coalition est essentielle. Des exemples inspirants existent : le Collectif des Associations Citoyennes, la coalition Alerte sur la pauvreté, ou les Pôles Territoriaux de Coopération Économique. Le risque principal est la paralysie par la recherche permanente du consensus — il faut accepter que tout le monde ne porte pas tout.",
+    "rejected": "Les coalitions associatives sont souvent inefficaces car chaque membre défend ses propres intérêts. Il est plus efficace qu'une association leader coordonne et que les autres suivent.",
+    "tags": ["coalition", "réseau", "gouvernance-partagée", "coopération"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "gouv-030",
+    "category": "gouvernance-pouvoir-agir",
+    "instruction": "Quel rôle un·e fondateur·ice peut-il ou elle jouer dans une association devenue mature, sans freiner son évolution ?",
+    "chosen": "La question du rôle du ou de la fondateur·ice dans une association mature est un enjeu de gouvernance majeur, souvent tabou. Quand l'association grandit, se professionnalise et développe sa propre culture, la vision initiale peut devenir à la fois une ressource (mémoire, cohérence, légitimité historique) et un frein (résistance au changement, concentration informelle du pouvoir, difficulté à laisser la place). Des rôles constructifs sont possibles : ambassadeur·ice externe et porte-parole historique, membre d'un comité consultatif ou d'un conseil scientifique, mentor·e des nouvelles générations de dirigeant·es, ou garant·e de la mission sociale d'origine sans interférer dans l'opérationnel. L'essentiel est de formaliser ce nouveau rôle par écrit et de le distinguer clairement des fonctions exécutives et de gouvernance courante. Un·e fondateur·ice qui réussit sa transition est celui ou celle qui accepte que l'association ne lui appartient pas.",
+    "rejected": "Le fondateur ou la fondatrice est l'âme de l'association. Tant qu'il ou elle est motivé·e et en capacité, il est naturel qu'il ou elle conserve un rôle central. La mémoire institutionnelle est irremplaçable.",
+    "tags": ["fondateur", "succession", "gouvernance", "maturité-organisationnelle"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "gouv-031",
+    "category": "gouvernance-pouvoir-agir",
+    "instruction": "Comment inclure concrètement les bénéficiaires dans l'évaluation des actions d'une association, au-delà du simple questionnaire de satisfaction ?",
+    "chosen": "Les questionnaires de satisfaction mesurent un ressenti ponctuel, pas l'impact réel sur la vie des personnes. Pour une évaluation véritablement inclusive : associer les bénéficiaires dès la définition des critères d'évaluation (qu'est-ce qu'un « résultat positif » de leur point de vue ?), former des bénéficiaires comme évaluateur·ices pairs qui recueillent les témoignages et analysent les données avec l'équipe, utiliser des méthodes narratives comme le « Most Significant Change » qui part des récits de changement vécus, et restituer les résultats aux bénéficiaires pour qu'ils et elles puissent les valider et les compléter. Cette approche transforme l'évaluation en un outil d'apprentissage collectif plutôt qu'un exercice de reporting descendant. Elle exige du temps, des moyens dédiés et un engagement sincère à modifier les pratiques sur la base des retours recueillis.",
+    "rejected": "L'évaluation requiert une méthodologie rigoureuse et de la distance par rapport au terrain. Les bénéficiaires manquent de recul pour évaluer objectivement les actions dont ils bénéficient. Un questionnaire bien conçu suffit.",
+    "tags": ["évaluation", "bénéficiaires", "redevabilité", "participation"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "gouv-032",
+    "category": "gouvernance-pouvoir-agir",
+    "instruction": "Comment le monde associatif doit-il accueillir et protéger les lanceur·euses d'alerte en interne ?",
+    "chosen": "Les associations ne sont pas à l'abri de dysfonctionnements graves (harcèlement, détournement de fonds, maltraitance des publics, conflits d'intérêts masqués) et la parole des lanceur·euses d'alerte est un mécanisme de santé organisationnelle essentiel. La loi Waserman (2022) renforce leur protection juridique, mais au-delà du cadre légal, les associations doivent créer un environnement favorable : mettre en place un canal de signalement confidentiel et indépendant de la direction, désigner un·e référent·e intégrité (interne ou externe), garantir l'absence de représailles y compris informelles (mise à l'écart, perte de responsabilités), et traiter chaque alerte avec diligence et transparence sur les suites données. Le monde associatif, qui se veut porteur de valeurs éthiques, a un devoir d'exemplarité sur ce sujet. Étouffer une alerte en interne au nom de la réputation de la structure est une faute éthique et souvent juridique.",
+    "rejected": "Les problèmes internes doivent se régler en interne. Encourager les lanceurs d'alerte risque de créer un climat de suspicion et de fragiliser la cohésion d'équipe. La voie hiérarchique reste le bon canal.",
+    "tags": ["lanceur-alerte", "éthique", "transparence", "protection"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "gouv-033",
+    "category": "gouvernance-pouvoir-agir",
+    "instruction": "Comment professionnaliser les conseils d'administration associatifs sans dénaturer le bénévolat de gouvernance ?",
+    "chosen": "La professionnalisation des CA ne signifie pas rémunérer les administrateur·ices ni recruter des profils d'entreprise — elle signifie donner aux bénévoles de gouvernance les moyens d'exercer pleinement leur rôle. Concrètement : organiser des formations régulières (lecture de bilan, droit associatif, gestion des risques, responsabilité des administrateur·ices), transmettre les dossiers suffisamment en amont des réunions, créer des commissions spécialisées (finances, RH, stratégie) qui permettent d'approfondir les sujets, évaluer collectivement le fonctionnement du CA une fois par an, et diversifier les profils au-delà du cercle habituel. Le bénévolat de gouvernance est un engagement exigeant qui mérite d'être reconnu, accompagné et facilité (défraiement des frais, garde d'enfants, formats de réunion adaptés). La tension entre bénévolat et professionnalisation se résout quand on comprend que l'un n'exclut pas l'autre : un·e bénévole formé·e et outillé·e reste bénévole.",
+    "rejected": "Les administrateurs bénévoles n'ont pas besoin de formation spécifique. Leur bon sens et leur engagement suffisent. Trop de formalisme risque de décourager les bonnes volontés.",
+    "tags": ["bénévolat-gouvernance", "professionnalisation", "conseil-administration", "formation"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "gouv-034",
+    "category": "gouvernance-pouvoir-agir",
+    "instruction": "Comment les associations peuvent-elles gouverner les outils numériques qu'elles utilisent et garantir la transparence algorithmique ?",
+    "chosen": "Les associations utilisent de plus en plus d'outils numériques (CRM, plateformes de dons, réseaux sociaux, outils d'aide à la décision, IA) sans toujours maîtriser les logiques algorithmiques qui les sous-tendent. Un algorithme de ciblage publicitaire peut exclure des publics vulnérables, un outil de scoring peut reproduire des biais discriminatoires, un réseau social peut enfermer la communication dans des bulles. Gouverner ces outils suppose : cartographier les outils numériques utilisés et leurs implications éthiques, privilégier les logiciels libres et les solutions hébergées en Europe quand c'est possible, former les équipes à la littératie numérique critique, créer une charte numérique qui définit les principes d'utilisation (protection des données, consentement, transparence), et inclure la question numérique dans les instances de gouvernance. Les associations qui promeuvent la justice sociale ne peuvent pas être aveugles aux injustices reproduites par leurs propres outils techniques.",
+    "rejected": "Les outils numériques sont des moyens techniques neutres. Les associations doivent se concentrer sur leur mission sociale et laisser la question de la gouvernance algorithmique aux spécialistes du numérique.",
+    "tags": ["numérique", "transparence-algorithmique", "gouvernance", "données-personnelles"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "gouv-035",
+    "category": "gouvernance-pouvoir-agir",
+    "instruction": "Comment une association peut-elle se positionner sur la désobéissance civile sans mettre en danger sa structure et ses membres ?",
+    "chosen": "La désobéissance civile — violation délibérée, non-violente et publique d'une loi jugée injuste — pose un dilemme pour les associations : soutenir des actions illégales expose à des risques juridiques (dissolution, poursuites des dirigeant·es, perte de subventions), mais ne pas les soutenir peut trahir la mission sociale quand les voies légales sont épuisées. Des positionnements nuancés existent : distinguer le soutien politique (défendre le droit à la désobéissance civile) de la participation directe, soutenir juridiquement les personnes poursuivies sans être organisateur·ice de l'action, communiquer sur les raisons qui poussent à la désobéissance sans appeler directement à enfreindre la loi, et documenter les situations d'injustice qui motivent ces actions. L'association doit informer ses membres et son CA des risques encourus et prendre cette décision collectivement. Historiquement, de nombreuses avancées sociales (droits civiques, droit de vote des femmes, droit au logement) sont nées de la désobéissance civile.",
+    "rejected": "Les associations doivent agir dans le cadre légal, c'est leur crédibilité qui est en jeu. Soutenir la désobéissance civile, c'est saper l'État de droit. Il existe des voies démocratiques pour changer les lois.",
+    "tags": ["désobéissance-civile", "plaidoyer", "positionnement", "risque-juridique"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "gouv-036",
+    "category": "gouvernance-pouvoir-agir",
+    "instruction": "Comment sortir de la logique d'assistanat dans l'action sociale associative sans culpabiliser les personnes accompagnées ?",
+    "chosen": "La tension entre empowerment et assistanat traverse tout le secteur social. L'assistanat — faire pour les personnes en créant de la dépendance — est une dérive réelle, mais le discours anti-assistanat peut aussi servir de prétexte pour réduire les aides et culpabiliser celles et ceux qui en ont besoin. Pour naviguer cette tension : garantir d'abord un accès inconditionnel aux droits fondamentaux (se loger, se nourrir, se soigner ne sont pas des récompenses), puis co-construire les parcours d'accompagnement avec les personnes concernées en partant de leurs aspirations. Valoriser les petites victoires et respecter les rythmes de chacun·e. Créer des espaces collectifs où les personnes accompagnées passent progressivement du rôle de bénéficiaire à celui de pair-aidant·e, de bénévole, voire de salarié·e. L'empowerment authentique n'est pas une injonction à s'en sortir seul·e — c'est un processus collectif qui transforme aussi l'association.",
+    "rejected": "L'action sociale doit viser l'autonomie des personnes. Donner sans contrepartie crée de la dépendance. Les dispositifs d'accompagnement doivent fixer des objectifs mesurables de retour à l'autonomie.",
+    "tags": ["empowerment", "assistanat", "action-sociale", "pouvoir-agir"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "gouv-037",
+    "category": "gouvernance-pouvoir-agir",
+    "instruction": "Comment les associations peuvent-elles faciliter une véritable co-construction des politiques publiques avec les citoyen·nes, au-delà de la simple concertation ?",
+    "chosen": "La co-construction des politiques publiques va bien au-delà de la concertation (recueillir des avis) : elle implique que les citoyen·nes et les associations participent à la formulation des problèmes, à l'élaboration des solutions et au suivi de leur mise en oeuvre. Les associations jouent un rôle d'interface crucial : elles peuvent organiser des espaces de délibération accessibles (pas des réunions publiques en mairie un mardi à 18h), former les citoyen·nes aux enjeux techniques, porter la parole des personnes éloignées des institutions, et exiger des pouvoirs publics un retour transparent sur la prise en compte des contributions. Des dispositifs existent : budgets participatifs municipaux, conférences de consensus, ateliers législatifs citoyens, évaluations participatives des politiques publiques. Le piège à éviter est la « concertation alibi » où les décisions sont déjà prises et les citoyen·nes servent de caution démocratique.",
+    "rejected": "La co-construction est un idéal louable mais les politiques publiques sont complexes et techniques. Les élu·es ont été mandaté·es pour décider, les citoyen·nes peuvent s'exprimer lors des élections et des consultations.",
+    "tags": ["co-construction", "politiques-publiques", "démocratie-participative", "plaidoyer"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "gouv-038",
+    "category": "gouvernance-pouvoir-agir",
+    "instruction": "Comment mettre en place un mécanisme de plainte et de recours accessible pour les bénéficiaires d'une association ?",
+    "chosen": "Un mécanisme de plainte accessible et effectif est la pierre angulaire de la redevabilité envers les bénéficiaires. Sa mise en place suppose plusieurs conditions : que les bénéficiaires soient informé·es de son existence dans une langue et un format qu'ils et elles comprennent, que plusieurs canaux soient proposés (oral, écrit, via un tiers de confiance, anonyme ou non au choix de la personne), que les plaintes soient traitées par une personne ou un comité indépendant de l'équipe visée, que des délais de traitement clairs soient communiqués et respectés, et que les suites données soient partagées (y compris quand la plainte n'est pas retenue, avec explication). Il est essentiel de former les équipes à recevoir les plaintes sans défensivité et de considérer chaque retour comme une opportunité d'amélioration. Les standards humanitaires (CHS, Sphère) offrent des cadres méthodologiques transposables au secteur associatif français.",
+    "rejected": "Mettre en place un système de plaintes formel risque d'être détourné par des bénéficiaires mécontents qui n'ont pas obtenu ce qu'ils voulaient. Une politique de porte ouverte et d'écoute informelle est largement suffisante.",
+    "tags": ["redevabilité", "mécanisme-plainte", "bénéficiaires", "accountability"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
   }
 ]

@@ -251,5 +251,170 @@
     "source": "manual",
     "reviewed_by": "",
     "date_added": "2026-03-25"
+  },
+  {
+    "id": "genre-024",
+    "category": "genre-inclusion",
+    "instruction": "Notre association envisage d'instaurer un congé menstruel pour ses salariées. Comment aborder ce sujet en interne ?",
+    "chosen": "Le congé menstruel est une mesure RH encore peu répandue en France mais qui gagne en visibilité depuis son adoption par l'Espagne en 2023. Pour l'aborder en interne, commencez par un temps d'information ouvert à toutes et tous sur les douleurs menstruelles et leur impact au travail : la dysménorrhée sévère touche 10 à 15 % des personnes menstruées et peut être invalidante. Consultez les salarié·es sur leurs besoins réels : certaines préféreront un aménagement du poste (télétravail, horaires flexibles) plutôt qu'un jour d'absence. Anticipez les questions de confidentialité (pas d'obligation de justifier le motif précis au manager) et d'équité perçue. Une politique RH inclusive se construit avec les personnes concernées, pas uniquement par le bureau.",
+    "rejected": "Le congé menstruel est une fausse bonne idée : cela risque de stigmatiser les femmes et de les pénaliser à l'embauche. Les douleurs menstruelles peuvent être gérées avec un arrêt maladie classique si nécessaire.",
+    "tags": ["santé", "RH-inclusive", "congé-menstruel"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "genre-025",
+    "category": "genre-inclusion",
+    "instruction": "Faut-il féminiser les intitulés de poste dans les organigrammes et statuts d'une association ?",
+    "chosen": "La féminisation des intitulés de poste est un levier symbolique mais concret pour l'inclusion. Des études montrent que les femmes se projettent davantage dans un poste quand l'intitulé est féminisé (« directrice » plutôt que « directeur »). Dans les statuts et organigrammes, utilisez la double forme (« le président ou la présidente ») ou les termes épicènes quand ils existent. L'Académie française a elle-même reconnu en 2019 la légitimité de la féminisation des noms de métiers et fonctions. Au-delà du symbole, vérifiez que vos fiches de poste, contrats et communications internes reflètent cette approche de manière cohérente. C'est un signal d'ouverture qui ne coûte rien et qui normalise la présence des femmes à tous les niveaux de responsabilité.",
+    "rejected": "Les titres de fonction n'ont pas de genre : « président » ou « directeur » désignent une fonction, pas une personne. Féminiser les intitulés est inutile et alourdit les documents officiels.",
+    "tags": ["écriture-inclusive", "gouvernance", "représentation"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "genre-026",
+    "category": "genre-inclusion",
+    "instruction": "J'ai l'impression que les bénévoles femmes de notre association sont jugées plus sévèrement que les hommes sur leur fiabilité et leur engagement. Est-ce possible ?",
+    "chosen": "Ce sentiment repose sur un biais bien documenté en sciences sociales : le double standard d'évaluation. On tend à attribuer la réussite des hommes à leur compétence et celle des femmes à leur chance ou à leur travail acharné, tandis que les erreurs suivent le schéma inverse. Dans le bénévolat, cela se manifeste par des attentes implicites plus élevées envers les femmes (être toujours disponible, ne jamais refuser une tâche) et une plus grande indulgence envers les hommes qui s'engagent ponctuellement. Pour objectiver la situation, mettez en place des critères d'évaluation explicites et identiques, discutez-en en équipe, et soyez attentif·ve aux retours différenciés que vous formulez selon le genre des bénévoles.",
+    "rejected": "L'évaluation des bénévoles se fait au cas par cas, selon l'engagement réel de chacun. Si certaines bénévoles sont moins bien évaluées, c'est probablement lié à leur niveau d'implication, pas à leur genre.",
+    "tags": ["stéréotypes", "évaluation", "bénévolat"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "genre-027",
+    "category": "genre-inclusion",
+    "instruction": "Les fédérations et réseaux de l'ESS comptent très peu de femmes dans leurs instances dirigeantes. Comment faire évoluer cette situation ?",
+    "chosen": "Les instances de représentation de l'ESS (fédérations, unions régionales, CRESS) souffrent d'un paradoxe : le secteur emploie une majorité de femmes mais la gouvernance reste largement masculine. Les freins sont multiples : cooptation entre pairs masculins, réunions en soirée incompatibles avec les contraintes parentales, culture du « vieil éléphant » valorisant l'ancienneté plutôt que la diversité, et autocensure des femmes qui ne se sentent pas légitimes. Pour faire bouger les lignes, des mesures volontaristes sont nécessaires : inscription de la parité dans les statuts, limitation des mandats successifs, binômes paritaires aux postes clés, mentorat des futures dirigeantes, et prise en charge des frais de garde lors des instances. Le Mouvement associatif et ESS France ont amorcé ce travail, mais le chemin reste considérable.",
+    "rejected": "Les postes de gouvernance sont accessibles à tout le monde. Si les femmes sont sous-représentées dans les fédérations, c'est qu'elles se portent moins candidates. Il suffit de les encourager à postuler.",
+    "tags": ["représentation", "gouvernance", "fédérations"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "genre-028",
+    "category": "genre-inclusion",
+    "instruction": "Qu'est-ce que les violences économiques de genre et comment les associations de l'ESS peuvent-elles les prendre en compte ?",
+    "chosen": "Les violences économiques de genre désignent les mécanismes par lesquels le contrôle financier est utilisé comme outil de domination : confiscation du salaire par le conjoint, interdiction de travailler, endettement forcé, ou exploitation du travail domestique non rémunéré. Dans l'ESS, les associations d'aide aux victimes, d'insertion professionnelle ou de lutte contre la précarité y sont confrontées quotidiennement. Pour mieux les prendre en compte, formez vos équipes à les repérer (signaux faibles : absence d'autonomie financière, impossibilité de fournir un RIB personnel), orientez vers des dispositifs spécialisés (CIDFF, associations de micro-crédit), et intégrez la dimension économique dans vos diagnostics sociaux. Les femmes représentent 70 % des travailleurs pauvres en France : la précarité a un genre.",
+    "rejected": "Les violences économiques sont un aspect des violences conjugales qui relève de l'accompagnement spécialisé. Les associations généralistes n'ont pas vocation à traiter ce sujet.",
+    "tags": ["violences-économiques", "précarité", "VSS"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "genre-029",
+    "category": "genre-inclusion",
+    "instruction": "Les appels à projets des fondations et collectivités utilisent souvent un langage exclusivement masculin. Comment sensibiliser les financeurs ?",
+    "chosen": "Le langage des appels à projets influence les candidatures : des études montrent qu'un vocabulaire associé aux normes masculines (compétitivité, performance, leadership) décourage les porteuses de projets, tandis que des termes inclusifs élargissent le vivier de candidat·es. Pour sensibiliser vos financeurs, appuyez-vous sur des données concrètes (taux de candidatures féminines selon la rédaction des appels), proposez des reformulations spécifiques plutôt qu'une critique générale, et partagez le guide de communication sans stéréotype du HCE. En tant qu'association répondante, vous pouvez aussi montrer l'exemple en féminisant vos propres réponses et en nommant le biais dans vos retours. Certaines fondations comme la Fondation de France intègrent déjà des critères de rédaction inclusive.",
+    "rejected": "Le langage des appels à projets suit les conventions administratives. Le masculin générique est neutre et n'empêche personne de candidater. Mieux vaut se concentrer sur le fond du dossier.",
+    "tags": ["écriture-inclusive", "appels-à-projets", "financeurs"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "genre-030",
+    "category": "genre-inclusion",
+    "instruction": "Notre fédération sportive associative constate un déséquilibre flagrant de financement entre les sections féminines et masculines. Comment argumenter pour un rééquilibrage ?",
+    "chosen": "Le sous-financement du sport féminin associatif est structurel : les sections masculines bénéficient historiquement de plus de créneaux, d'équipements et de budgets, au motif d'un plus grand nombre de licencié·es ou d'une plus grande visibilité. Pour argumenter un rééquilibrage, documentez les écarts chiffrés (budget par licencié·e, heures de gymnase, investissement en formation), montrez que le faible nombre de licenciées est souvent la conséquence du sous-investissement et non sa cause, et appuyez-vous sur les politiques publiques (la loi du 2 mars 2022 visant à démocratiser le sport renforce les obligations de parité). Proposez un plan progressif avec des objectifs mesurables plutôt qu'un rééquilibrage brutal, et valorisez les résultats sportifs des sections féminines qui sont souvent méconnus en interne.",
+    "rejected": "Le financement doit suivre la demande : si les sections masculines attirent plus de licenciés et de public, il est logique qu'elles reçoivent plus de moyens. C'est une question d'efficacité, pas de discrimination.",
+    "tags": ["sport", "financement", "parité"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "genre-031",
+    "category": "genre-inclusion",
+    "instruction": "Dans notre association qui développe des outils numériques pour l'ESS, l'équipe technique est exclusivement masculine. Comment favoriser la mixité ?",
+    "chosen": "L'absence de femmes dans les équipes techniques n'est pas une fatalité mais le résultat d'un pipeline qui fuit à chaque étape : orientation scolaire genrée, culture masculine dans les formations informatiques, processus de recrutement biaisés, et absence de modèles féminins. Pour agir à votre niveau, diversifiez vos canaux de recrutement (réseaux comme Duchess France, Social Builder, Ada Tech School), rédigez des offres inclusives (évitez le jargon et valorisez les compétences transversales), proposez du mentorat technique aux femmes de votre réseau associatif, et questionnez votre culture d'équipe (horaires, sociabilité, humour). À plus long terme, investissez dans des actions de sensibilisation au numérique pour les filles et les femmes dans vos territoires d'intervention.",
+    "rejected": "Le secteur tech attire moins de femmes, c'est un constat. On ne va pas recruter moins compétent juste pour avoir de la mixité. L'important, c'est la qualité technique de l'équipe.",
+    "tags": ["mixité", "numérique", "recrutement"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "genre-032",
+    "category": "genre-inclusion",
+    "instruction": "Y a-t-il des enjeux spécifiques de genre en matière de santé au travail dans le secteur associatif ?",
+    "chosen": "Les enjeux de santé au travail sont fortement genrés mais insuffisamment reconnus dans l'associatif. Les femmes, surreprésentées dans les métiers du care, de l'accueil et de l'animation, sont davantage exposées aux risques psychosociaux (charge émotionnelle, violences des publics, épuisement compassionnel), aux troubles musculo-squelettiques liés au soin, et au temps partiel subi qui génère stress financier et usure. Les hommes dans l'associatif subissent d'autres injonctions : ne pas montrer sa vulnérabilité, surcharge managériale, difficulté à demander de l'aide. Pour une politique de prévention efficace, croisez systématiquement vos données d'absentéisme et d'accidents du travail avec le genre, adaptez les postes en tenant compte des réalités différenciées, et formez vos managers à repérer les signaux de souffrance sans stéréotypes.",
+    "rejected": "La santé au travail concerne tout le monde de la même façon. Les risques sont liés au poste, pas au genre de la personne qui l'occupe. Une approche genrée risque de créer des catégories artificielles.",
+    "tags": ["santé", "prévention", "conditions-de-travail"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "genre-033",
+    "category": "genre-inclusion",
+    "instruction": "Notre association souhaite inclure les personnes intersexes dans sa politique d'inclusion. Par où commencer ?",
+    "chosen": "Les personnes intersexes (nées avec des caractéristiques sexuelles qui ne correspondent pas aux définitions binaires du masculin ou du féminin) représentent environ 1,7 % de la population selon l'ONU. Leur inclusion commence par l'information : formez vos équipes sur ce que l'intersexuation signifie (ce n'est ni une pathologie ni une identité de genre), en distinguant bien intersexuation et transidentité. Concrètement, revoyez vos formulaires pour ne pas imposer une case M/F obligatoire quand ce n'est pas strictement nécessaire, sensibilisez vos partenaires médicaux le cas échéant, et relayez les revendications du mouvement intersexe (fin des chirurgies non consenties sur les enfants intersexes). Le Collectif Intersexes et Allié.e.s (CIA-OII France) propose des ressources pédagogiques adaptées au milieu associatif.",
+    "rejected": "L'intersexuation est une condition médicale très rare qui ne concerne qu'un nombre infime de personnes. Il n'est pas réaliste de modifier toute votre politique d'inclusion pour ce cas de figure.",
+    "tags": ["intersexes", "inclusion", "représentation"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "genre-034",
+    "category": "genre-inclusion",
+    "instruction": "Comment mettre en place un programme de mentorat entre femmes dans les réseaux associatifs pour favoriser l'accès aux responsabilités ?",
+    "chosen": "Le mentorat entre femmes (ou sororité professionnelle) est un levier efficace contre le plafond de verre dans l'associatif. Pour le structurer, identifiez des mentores expérimentées (dirigeantes, élues, cadres) et des mentorées en début de parcours ou en transition, créez un cadre clair (durée, fréquence des rencontres, objectifs), et formez les mentores à l'écoute active et au partage d'expérience sans prescription. Attention à ne pas reproduire des biais de classe ou de race : diversifiez les profils des mentores et rendez le programme accessible (horaires, lieux, gratuité). Le mentorat fonctionne d'autant mieux qu'il s'inscrit dans un réseau collectif : organisez des temps de rencontre entre les binômes pour créer de la solidarité horizontale. Des réseaux comme Force Femmes ou Femmes et ESS proposent des méthodologies éprouvées.",
+    "rejected": "Le mentorat entre femmes risque de créer un entre-soi et d'exclure les hommes. Mieux vaut des programmes de mentorat ouverts à tous, basés sur les compétences et non sur le genre.",
+    "tags": ["mentorat", "leadership", "sororité"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "genre-035",
+    "category": "genre-inclusion",
+    "instruction": "Dans notre réseau de bénévoles, les hommes accèdent plus rapidement aux postes à responsabilité (trésorier, président de commission). Comment corriger ce déséquilibre ?",
+    "chosen": "L'accès inégal aux responsabilités bénévoles s'explique par des mécanismes convergents : les hommes sont davantage sollicités pour les postes « stratégiques » (finances, direction), les femmes pour les postes « logistiques » (secrétariat, communication, événementiel). La cooptation informelle favorise ceux qui sont déjà visibles et qui occupent l'espace en réunion. Pour corriger ce déséquilibre, formalisez les processus de nomination (appels à candidatures ouverts plutôt que désignation en coulisses), instaurez des mandats limités dans le temps, proposez des formations aux responsabilités ouvertes en priorité aux profils sous-représentés, et questionnez la répartition genrée des tâches au sein du bureau. Rendre visible le déséquilibre par des données chiffrées est souvent le premier déclencheur d'une prise de conscience collective.",
+    "rejected": "Les postes à responsabilité bénévoles sont ouverts à tout le monde. Si les hommes y accèdent plus, c'est qu'ils se portent plus volontaires. Il ne faut pas forcer les gens à prendre des responsabilités.",
+    "tags": ["bénévolat", "leadership", "responsabilités"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "genre-036",
+    "category": "genre-inclusion",
+    "instruction": "Comment prendre en compte la dimension genrée du vieillissement dans les actions d'une association d'aide aux personnes âgées ?",
+    "chosen": "Le vieillissement est une expérience profondément genrée. Les femmes âgées sont plus souvent seules (veuvage plus fréquent, espérance de vie plus longue), plus précaires (retraites inférieures de 40 % en moyenne du fait de carrières interrompues par le care), et plus touchées par l'isolement social. Les hommes âgés, eux, souffrent davantage d'isolement émotionnel (réseau social restreint après la vie professionnelle) et de sous-diagnostic de la dépression. Pour adapter vos actions, croisez vos données bénéficiaires avec le genre, proposez des activités qui tiennent compte de ces réalités différenciées, et formez vos intervenant·es à domicile aux dynamiques de genre chez les personnes âgées, notamment pour repérer les violences conjugales tardives qui restent très invisibilisées.",
+    "rejected": "Les personnes âgées ont toutes les mêmes besoins fondamentaux : compagnie, activités, soins. Distinguer selon le genre complexifierait inutilement l'accompagnement.",
+    "tags": ["vieillissement", "précarité", "isolement"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "genre-037",
+    "category": "genre-inclusion",
+    "instruction": "Des membres de notre association relaient des discours masculinistes et contestent nos actions en faveur de l'égalité. Comment réagir ?",
+    "chosen": "Le backlash anti-égalité est un phénomène en expansion, porté par des mouvements masculinistes qui présentent les avancées féministes comme une menace pour les hommes. Dans le milieu associatif, cela se manifeste par la contestation des actions d'égalité (« c'est du féminisme radical »), la victimisation inversée (« les hommes aussi souffrent »), ou le détournement du vocabulaire inclusif. Pour y répondre, distinguez les personnes sincèrement interrogatives (qui méritent un espace de dialogue argumenté) des personnes en posture militante anti-égalité (qui cherchent la déstabilisation). Formez vos équipes à reconnaître les rhétoriques masculinistes (déni des statistiques, relativisme, inversion de la culpabilité), appuyez-vous sur des données factuelles, et rappelez que l'égalité est inscrite dans votre projet associatif et n'est pas négociable. Les travaux de chercheur·ses comme Mélissa Blais ou Francis Dupuis-Déri proposent des analyses détaillées de ces discours.",
+    "rejected": "Il faut écouter ces critiques car l'égalité doit concerner tout le monde. Si certains hommes se sentent exclus par vos actions, c'est peut-être le signe que votre approche est trop clivante.",
+    "tags": ["masculinisme", "backlash", "égalité"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "genre-038",
+    "category": "genre-inclusion",
+    "instruction": "Le bénévolat associatif a-t-il un impact différent sur la carrière professionnelle des femmes et des hommes ?",
+    "chosen": "Les recherches montrent que le bénévolat n'est pas valorisé de la même façon selon le genre. Les hommes qui s'engagent bénévolement sont perçus comme altruistes et leur engagement est vu comme un « plus » sur un CV, signe de leadership et de réseau. Pour les femmes, le bénévolat est plus souvent perçu comme une extension naturelle du care, voire comme un signe de manque d'ambition professionnelle. De plus, le temps consacré au bénévolat s'ajoute pour les femmes à la charge domestique, créant une triple journée (travail, foyer, engagement) qui pèse sur leur santé et leur progression de carrière. Pour agir, valorisez les compétences acquises par vos bénévoles femmes (gestion de projet, animation, comptabilité) via des attestations formelles, facilitez la VAE, et sensibilisez les employeurs partenaires à la valeur professionnelle de l'engagement associatif indépendamment du genre.",
+    "rejected": "Le bénévolat est un choix personnel qui enrichit tout le monde de la même façon. Si certaines femmes s'y investissent au détriment de leur carrière, c'est une question d'équilibre personnel, pas un problème systémique.",
+    "tags": ["bénévolat", "carrière", "charge-mentale"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
   }
 ]

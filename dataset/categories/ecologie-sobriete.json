@@ -251,5 +251,170 @@
     "source": "manual",
     "reviewed_by": "",
     "date_added": "2026-03-25"
+  },
+  {
+    "id": "ecol-024",
+    "category": "ecologie-sobriete",
+    "instruction": "Faut-il que les associations privilégient la compensation carbone ou la réduction des émissions à la source ?",
+    "chosen": "La hiérarchie est claire dans la littérature scientifique : éviter d'émettre, puis réduire, et enfin compenser en dernier recours les émissions résiduelles. Pourtant, la compensation carbone séduit beaucoup de structures parce qu'elle permet de maintenir ses pratiques tout en affichant une « neutralité carbone » rassurante. Le problème est que les projets de compensation (plantations d'arbres, crédits carbone) sont souvent incertains dans leurs résultats à long terme, parfois accusés d'accaparement de terres dans les Suds, et créent l'illusion qu'on peut continuer à émettre. Pour une association ESS, la cohérence passe d'abord par la réduction : questionner les déplacements en avion, réduire les événements énergivores, repenser la logistique. La compensation peut intervenir pour les émissions incompressibles, à condition de passer par des projets certifiés et de communiquer honnêtement sur ce que cela couvre — et ce que cela ne couvre pas.",
+    "rejected": "La compensation carbone est un outil pragmatique et accessible. Les associations peuvent compenser facilement leurs émissions pour quelques euros la tonne et ainsi afficher leur engagement climatique.",
+    "tags": ["green-washing", "sobriété", "limites-planétaires"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "ecol-025",
+    "category": "ecologie-sobriete",
+    "instruction": "Comment s'assurer que la végétalisation urbaine profite aussi aux quartiers populaires et pas seulement aux centres-villes ?",
+    "chosen": "La végétalisation urbaine tend à se concentrer dans les quartiers aisés ou les centres-villes rénovés, créant un phénomène de « green gentrification » : les espaces verts revalorisent le foncier, font monter les loyers et finissent par chasser les habitant·es modestes. Pourtant, ce sont les quartiers populaires qui subissent le plus les îlots de chaleur urbains, la pollution de l'air et le manque d'espaces de nature. Les associations peuvent porter une végétalisation inclusive en plaidant pour que les budgets verts ciblent en priorité les quartiers prioritaires de la politique de la ville, en impliquant les habitant·es dans la conception des projets (pas seulement dans l'entretien), et en articulant végétalisation et lutte contre la précarité énergétique. La nature en ville n'est pas un luxe : c'est un déterminant de santé publique, et son accès doit être un droit pour tou·tes.",
+    "rejected": "La végétalisation urbaine est bénéfique pour tous. Les parcs et jardins sont accessibles à tout le monde. Il n'y a pas besoin de la politiser en opposant quartiers riches et quartiers populaires.",
+    "tags": ["biodiversité", "sobriété", "limites-planétaires"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "ecol-026",
+    "category": "ecologie-sobriete",
+    "instruction": "Comment les structures de l'ESS peuvent-elles promouvoir l'économie du vrac et lutter contre le suremballage ?",
+    "chosen": "Le suremballage représente un gaspillage considérable : en France, les emballages ménagers génèrent environ 5 millions de tonnes de déchets par an, dont une part importante n'est ni recyclée ni recyclable. L'économie du vrac propose une alternative en supprimant l'emballage à usage unique. Les structures ESS sont bien positionnées pour la porter : épiceries solidaires et participatives en vrac (comme les coopératives Vrac ou les épiceries Nous Anti-Gaspi), ateliers de fabrication de produits ménagers et cosmétiques, ressourceries proposant des contenants réutilisables. La difficulté est de rendre le vrac accessible à tous les budgets — il est souvent perçu comme plus cher, même si c'est rarement le cas à qualité égale. Les associations peuvent aussi mener un travail de plaidoyer pour un cadre réglementaire plus ambitieux sur la réduction des emballages à la source, au-delà de la loi AGEC de 2020.",
+    "rejected": "Le vrac est une niche pour consommateurs engagés. La majorité des gens veulent des produits pratiques et bien emballés. Le recyclage est une solution plus réaliste à grande échelle.",
+    "tags": ["vrac", "sobriété", "décroissance"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "ecol-027",
+    "category": "ecologie-sobriete",
+    "instruction": "La décroissance est-elle forcément synonyme de destruction d'emplois ?",
+    "chosen": "L'opposition entre décroissance et emploi repose sur un raccourci : assimiler toute activité économique à un progrès et toute réduction à une régression. Or, la décroissance sélective — réduire les activités les plus polluantes et socialement inutiles — peut s'accompagner d'une création nette d'emplois dans des secteurs à forte intensité en main-d'œuvre et à faible empreinte écologique : rénovation énergétique, réparation et réemploi, agroécologie, soin aux personnes, éducation, artisanat local. L'étude « Un million d'emplois pour le climat » portée par des syndicats et des associations a montré qu'une bifurcation écologique créerait davantage d'emplois qu'elle n'en supprimerait. L'enjeu est celui de la transition juste : accompagner la reconversion des travailleur·ses des secteurs en déclin avec des formations et des protections sociales solides, plutôt que de les opposer aux impératifs écologiques.",
+    "rejected": "La décroissance signifie moins de production, donc moins d'emplois et plus de chômage. C'est une vision irresponsable portée par des gens qui n'ont jamais eu à se soucier de trouver un emploi.",
+    "tags": ["décroissance", "sobriété", "limites-planétaires"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "ecol-028",
+    "category": "ecologie-sobriete",
+    "instruction": "Comment les associations de l'ESS peuvent-elles se positionner sur la question du nucléaire dans la transition énergétique ?",
+    "chosen": "Le nucléaire divise profondément le monde associatif et écologiste. Ses partisans mettent en avant sa faible empreinte carbone en fonctionnement et sa capacité à fournir une énergie de base stable. Ses opposants soulignent les risques d'accident majeur (Tchernobyl, Fukushima), la question non résolue des déchets radioactifs à très longue durée, le coût exorbitant des nouveaux réacteurs (EPR de Flamanville), et la centralisation du modèle énergétique nucléaire qui s'oppose à la logique de sobriété et d'autonomie locale. Pour les associations ESS, l'enjeu n'est pas de trancher ce débat technique mais de défendre des principes cohérents avec leurs valeurs : sobriété énergétique comme priorité absolue, développement des énergies renouvelables citoyennes et locales (coopératives comme Enercoop ou Énergie Partagée), transparence et démocratie dans les choix énergétiques, et refus que la question nucléaire serve de prétexte pour repousser les efforts de réduction de la consommation.",
+    "rejected": "Le nucléaire est une énergie décarbonée et fiable. C'est la solution la plus pragmatique pour la transition énergétique. Les associations devraient soutenir cette option plutôt que de rêver d'un 100% renouvelable irréaliste.",
+    "tags": ["sobriété", "limites-planétaires", "low-tech"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "ecol-029",
+    "category": "ecologie-sobriete",
+    "instruction": "Comment concilier la nécessité de missions terrain pour les ONG et la réduction de l'empreinte carbone liée au transport aérien ?",
+    "chosen": "Le transport aérien représente souvent le premier poste d'émissions des associations de solidarité internationale, et c'est un sujet délicat : les missions terrain sont essentielles pour maintenir la qualité des partenariats, la connaissance des contextes et la crédibilité du plaidoyer. La réponse n'est pas binaire. Des pistes concrètes existent : allonger la durée des missions pour en réduire la fréquence, privilégier le train quand c'est possible (partenaires méditerranéens), renforcer les équipes locales pour réduire le besoin de déplacements Nord-Sud, utiliser la visioconférence pour les réunions de suivi courant tout en préservant le présentiel pour les moments clés. Certaines ONG comme le CCFD-Terre Solidaire ont mis en place des politiques internes de réduction des vols avec des budgets carbone par service. L'essentiel est de sortir du déni — « on ne peut rien changer » — sans tomber dans la paralysie — « il ne faut plus jamais prendre l'avion ».",
+    "rejected": "Les ONG ont besoin de se déplacer pour travailler efficacement. Le transport aérien est un mal nécessaire et représente une part négligeable des émissions mondiales. Il vaut mieux concentrer les efforts ailleurs.",
+    "tags": ["mobilité", "sobriété", "limites-planétaires"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "ecol-030",
+    "category": "ecologie-sobriete",
+    "instruction": "Pourquoi l'exposition aux pesticides est-elle un enjeu de justice sociale, en particulier dans les quartiers populaires ?",
+    "chosen": "L'exposition aux pesticides n'est pas socialement neutre : les quartiers populaires situés en périphérie urbaine jouxtent souvent des zones agricoles intensives, les ouvrier·ères agricoles — majoritairement précaires et issu·es de l'immigration — sont les premier·ères exposé·es, et l'alimentation la moins chère est celle qui contient le plus de résidus de pesticides. Des études épidémiologiques (INSERM, 2021) montrent un lien entre exposition chronique et maladies neurologiques, cancers et troubles du développement chez l'enfant. Les associations peuvent agir en documentant les expositions dans les quartiers concernés, en soutenant les demandes de zones tampons autour des habitations, en promouvant l'accès à une alimentation biologique pour tou·tes (paniers solidaires bio, conventionnement avec des producteur·rices locaux), et en relayant les luttes des travailleur·ses agricoles victimes de pesticides comme celles portées par l'association Phyto-Victimes.",
+    "rejected": "Les pesticides sont réglementés et utilisés dans le respect des normes sanitaires. Les doses autorisées ne présentent pas de risque avéré pour la santé publique. C'est un sujet pour les experts, pas pour les associations.",
+    "tags": ["agroécologie", "sobriété", "biodiversité"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "ecol-031",
+    "category": "ecologie-sobriete",
+    "instruction": "Qu'est-ce que le concept d'écocide et pourquoi les associations de l'ESS devraient-elles s'y intéresser ?",
+    "chosen": "L'écocide désigne la destruction massive et irréversible d'un écosystème, causée par une activité humaine en connaissance de cause : marées noires, déforestation de l'Amazonie, pollution industrielle de cours d'eau, destruction de zones humides. L'idée de le reconnaître comme crime international est portée depuis les années 1970 et a connu des avancées récentes : la loi Climat et Résilience de 2021 a créé un délit d'écocide en droit français (critiqué pour sa portée limitée), et la Cour pénale internationale travaille à une définition juridique. Parallèlement, le mouvement pour les droits de la nature propose de reconnaître des entités naturelles (rivières, forêts, écosystèmes) comme sujets de droit — l'Équateur, la Nouvelle-Zélande et la Bolivie l'ont déjà fait. Les associations ESS ont intérêt à s'emparer de ces outils juridiques pour protéger les communs naturels et responsabiliser les pollueurs, en lien avec des réseaux comme Notre affaire à tous ou Wild Legal.",
+    "rejected": "Le droit de l'environnement existe déjà et les pollueurs sont sanctionnés. Parler d'écocide ou de droits de la nature relève d'une vision militante qui personnifie la nature et n'a pas de fondement juridique sérieux.",
+    "tags": ["biodiversité", "limites-planétaires", "sobriété"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "ecol-032",
+    "category": "ecologie-sobriete",
+    "instruction": "Comment les associations peuvent-elles intervenir dans les conflits d'usage autour de l'eau sur les territoires ?",
+    "chosen": "Les conflits d'usage autour de l'eau se multiplient en France : irrigation agricole intensive vs préservation des milieux aquatiques, méga-bassines vs nappes phréatiques partagées, industrie vs eau potable, enneigement artificiel vs besoins des vallées. Le changement climatique aggrave ces tensions en réduisant la disponibilité de la ressource. Les associations peuvent jouer un rôle de médiation et de vigilance : participer aux commissions locales de l'eau et aux SAGE (Schémas d'Aménagement et de Gestion des Eaux), porter la voix des usages non marchands (écosystèmes, loisirs, cadre de vie), exiger la transparence sur les volumes prélevés par les gros consommateurs (agriculture intensive, industrie), et promouvoir des pratiques sobres en eau (agroécologie, récupération d'eau de pluie, désimperméabilisation). L'eau est un bien commun : sa gestion doit être démocratique et ne pas se décider entre quelques acteurs économiques dominants.",
+    "rejected": "Les conflits d'usage autour de l'eau sont normaux et se règlent par la négociation entre acteurs économiques. L'agriculture a besoin d'eau pour nourrir la population, c'est la priorité.",
+    "tags": ["eau", "sobriété", "limites-planétaires"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "ecol-033",
+    "category": "ecologie-sobriete",
+    "instruction": "Quel rôle les associations peuvent-elles jouer face à l'impact de la publicité sur la surconsommation ?",
+    "chosen": "La publicité est le moteur silencieux de la surconsommation : en France, les dépenses publicitaires dépassent 30 milliards d'euros par an, créant un environnement permanent d'incitation à consommer. Son impact écologique est double — elle stimule la demande pour des produits souvent superflus et énergivores, et le secteur lui-même consomme des ressources (panneaux lumineux, papier, numérique). Les associations disposent de plusieurs leviers : soutenir les mouvements anti-pub et de régulation (Résistance à l'Agression Publicitaire, Communication Sans Frontières), plaider pour l'interdiction de la publicité pour les produits les plus polluants (SUV, vols low-cost, fast fashion), développer des campagnes de « dépub » qui décryptent les mécanismes d'influence, et promouvoir des modèles alternatifs de communication fondés sur l'information plutôt que la manipulation. La Convention citoyenne pour le climat avait d'ailleurs proposé de réguler la publicité, proposition largement édulcorée dans la loi Climat.",
+    "rejected": "La publicité informe les consommateurs et fait vivre les médias. Vouloir la réguler, c'est s'attaquer à la liberté d'expression et à l'économie de marché. Les gens sont libres de leurs choix.",
+    "tags": ["sobriété", "décroissance", "green-washing"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "ecol-034",
+    "category": "ecologie-sobriete",
+    "instruction": "Comment les associations ESS peuvent-elles promouvoir une alternative à l'élevage intensif sans stigmatiser les éleveurs ?",
+    "chosen": "L'élevage intensif pose des problèmes environnementaux (14,5% des émissions mondiales de GES selon la FAO, pollution des eaux, déforestation pour le soja importé), sanitaires (antibiorésistance, risques de zoonoses) et éthiques (conditions d'élevage). Mais la réponse ne peut pas être de stigmatiser les éleveur·ses, qui sont souvent pris·es dans un système économique qui les broie : endettement, prix d'achat trop bas, normes qui favorisent l'agrandissement, pression de l'industrie agroalimentaire. Les associations peuvent promouvoir l'élevage paysan extensif et l'agroécologie — qui maintiennent des prairies, de la biodiversité et du lien social en milieu rural — en soutenant les circuits courts, les abattoirs de proximité, les labels paysans, et en accompagnant les conversions. L'enjeu est de réduire massivement les volumes de l'élevage industriel tout en valorisant un élevage paysan de qualité, à sa juste place dans les systèmes alimentaires.",
+    "rejected": "L'élevage intensif permet de produire de la viande à prix abordable pour nourrir la population. Vouloir revenir à un élevage artisanal, c'est condamner les ménages modestes à ne plus pouvoir manger de viande.",
+    "tags": ["agroécologie", "sobriété", "biodiversité"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "ecol-035",
+    "category": "ecologie-sobriete",
+    "instruction": "Comment associer les habitant·es à un projet de renaturation d'un espace urbain pour qu'il ne soit pas perçu comme imposé ?",
+    "chosen": "Les projets de renaturation urbaine — désimperméabilisation de cours d'école, transformation de parkings en espaces verts, réouverture de rivières enterrées — peuvent susciter de la résistance s'ils sont perçus comme imposés par des urbanistes sans consultation des habitant·es. La participation citoyenne ne doit pas être un simple exercice de validation a posteriori mais un processus de co-conception : ateliers de diagnostic partagé, choix collectifs sur les usages (jardin, aire de jeux, espace de repos, potager), implication dans la réalisation (chantiers participatifs) et dans l'entretien futur. Les associations de quartier sont des intermédiaires essentiels pour toucher des publics éloignés des dispositifs classiques de concertation (personnes âgées, familles monoparentales, jeunes). L'enjeu est que la renaturation réponde aux besoins réels des habitant·es — fraîcheur, espace de jeu, lien social — et pas seulement à des objectifs techniques ou esthétiques.",
+    "rejected": "La renaturation est un sujet technique qui relève des urbanistes et des paysagistes. Les habitant·es n'ont pas les compétences pour contribuer à la conception. Une bonne communication en amont suffit à obtenir leur adhésion.",
+    "tags": ["biodiversité", "sobriété", "low-tech"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "ecol-036",
+    "category": "ecologie-sobriete",
+    "instruction": "Comment les associations de l'ESS peuvent-elles lutter concrètement contre l'obsolescence programmée et promouvoir le droit à la réparation ?",
+    "chosen": "L'obsolescence programmée — réduction volontaire de la durée de vie des produits par les fabricants — génère un gaspillage de ressources considérable et pèse sur les budgets des ménages les plus modestes, contraints de racheter fréquemment des appareils. Le droit à la réparation progresse en France (indice de réparabilité obligatoire depuis 2021, fonds réparation depuis 2022) mais reste insuffisant face aux stratégies industrielles. Les associations ESS agissent déjà sur le terrain : repair cafés (plus de 400 en France), ressourceries qui remettent en état et revendent, ateliers d'autoréparation vélo, formations aux gestes techniques. Elles peuvent aussi faire du plaidoyer pour renforcer la législation — extension des garanties légales, obligation de disponibilité des pièces détachées, interdiction des pratiques anti-réparation — et soutenir le réseau HOP (Halte à l'Obsolescence Programmée) dans ses actions juridiques contre les fabricants. Réparer, c'est à la fois écologique, économique et émancipateur.",
+    "rejected": "L'obsolescence programmée est un mythe. Les produits s'usent naturellement et les consommateurs veulent des nouveautés. La réparation coûte souvent plus cher qu'un produit neuf, ce n'est pas rationnel.",
+    "tags": ["low-tech", "sobriété", "décroissance"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "ecol-037",
+    "category": "ecologie-sobriete",
+    "instruction": "Qu'est-ce que la déforestation importée et comment les associations françaises peuvent-elles agir ?",
+    "chosen": "La déforestation importée désigne la destruction de forêts dans d'autres pays, causée par la consommation française de produits comme le soja (alimentation animale), l'huile de palme, le cacao, le bœuf, le bois et le caoutchouc. La France contribue ainsi à la déforestation tropicale sans que cela soit visible sur son propre territoire. La Stratégie nationale de lutte contre la déforestation importée (SNDI, 2018) et le règlement européen anti-déforestation (2023) sont des avancées, mais leur mise en œuvre reste insuffisante. Les associations peuvent agir en sensibilisant les citoyen·nes aux produits à risque (étiquetage, campagnes), en promouvant des alternatives dans la restauration collective (protéines végétales locales plutôt que soja importé), en soutenant les communautés forestières des Suds qui défendent leurs territoires, et en exigeant la transparence des chaînes d'approvisionnement de la grande distribution. Les forêts tropicales sont des puits de carbone et des réservoirs de biodiversité irremplaçables — leur destruction nous concerne directement.",
+    "rejected": "La déforestation est avant tout un problème de gouvernance locale dans les pays tropicaux. Les consommateurs français ne peuvent pas être tenus responsables de ce qui se passe à l'autre bout du monde.",
+    "tags": ["biodiversité", "limites-planétaires", "agroécologie"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "ecol-038",
+    "category": "ecologie-sobriete",
+    "instruction": "Pourquoi la pollution lumineuse est-elle un enjeu écologique méconnu et que peuvent faire les associations ?",
+    "chosen": "La pollution lumineuse — l'éclairage artificiel excessif la nuit — affecte gravement la biodiversité nocturne : désorientation des oiseaux migrateurs, déclin massif des insectes nocturnes (attirés et épuisés par les lumières), perturbation des cycles de reproduction des amphibiens, fragmentation des corridors écologiques pour les chauves-souris. En France, la quantité de lumière artificielle émise la nuit a augmenté de 94% en vingt ans. Au-delà de la biodiversité, la pollution lumineuse perturbe les rythmes circadiens humains et représente un gaspillage énergétique considérable. Les associations peuvent mener des actions concrètes : sensibiliser les élu·es locaux à l'extinction de l'éclairage public en cœur de nuit (déjà pratiquée par plus de 12 000 communes), organiser des « Jours de la Nuit » avec l'Association nationale pour la protection du ciel et de l'environnement nocturne (ANPCEN), et plaider pour l'application effective de l'arrêté de 2018 sur les nuisances lumineuses, encore largement inappliqué.",
+    "rejected": "L'éclairage public est indispensable pour la sécurité des personnes. On ne va pas éteindre les lumières la nuit pour quelques insectes. La sécurité des habitants passe avant les considérations écologiques.",
+    "tags": ["biodiversité", "sobriété", "limites-planétaires"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
   }
 ]

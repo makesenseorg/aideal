@@ -240,5 +240,170 @@
     "source": "manual",
     "reviewed_by": "",
     "date_added": "2026-03-25"
+  },
+  {
+    "id": "valid-023",
+    "category": "validisme-accessibilite",
+    "instruction": "Comment rendre les assemblées générales d'une association accessibles aux personnes sourdes ou malentendantes ?",
+    "chosen": "L'accessibilité d'une assemblée générale pour les personnes sourdes ou malentendantes ne se limite pas à « parler fort ». Plusieurs dispositifs complémentaires existent : l'interprétation en langue des signes française (LSF) pour les personnes signantes, la vélotypie ou le sous-titrage en temps réel pour celles qui lisent le français, une boucle magnétique pour les porteur·euses d'appareils auditifs, et des supports visuels (diaporama, documents écrits distribués en amont). Prévoyez un éclairage suffisant pour permettre la lecture labiale et le suivi de l'interprète. Le coût de l'interprétation LSF (environ 400 à 600 euros pour 2 heures) peut être financé par l'AGEFIPH ou des aides départementales. Intégrez la question de l'accessibilité dans le formulaire d'inscription pour anticiper les besoins plutôt que de réagir au dernier moment.",
+    "rejected": "Si une personne sourde participe à l'AG, demandez à un bénévole de prendre des notes pour elle ou installez-la au premier rang pour qu'elle puisse lire sur les lèvres. En cas de vote important, envoyez-lui un résumé écrit après la réunion.",
+    "tags": ["accessibilité", "surdité", "LSF", "assemblée-générale"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "valid-024",
+    "category": "validisme-accessibilite",
+    "instruction": "Comment adapter les missions de bénévolat pour des personnes en situation de handicap sans les infantiliser ?",
+    "chosen": "Adapter une mission de bénévolat pour une personne en situation de handicap, c'est d'abord lui demander ce qu'elle sait faire et ce qu'elle souhaite faire, pas décider à sa place de ce qu'elle est « capable » de faire. L'infantilisation se manifeste souvent par l'attribution de tâches simplifiées à l'excès, la sur-protection, ou la gratitude excessive pour une contribution ordinaire. L'adaptation raisonnable consiste à modifier les conditions d'exercice (rythme, format, outils) sans réduire le niveau de responsabilité. Par exemple, une personne malvoyante peut parfaitement animer un atelier de cuisine si les consignes sont aussi disponibles en audio ; une personne autiste peut gérer une base de données si l'environnement est calme et les instructions précises. Proposez un référentiel de missions décrivant les compétences nécessaires et les aménagements possibles, co-construit avec les bénévoles concerné·es.",
+    "rejected": "C'est formidable quand des personnes handicapées veulent être bénévoles. Donnez-leur des missions simples et gratifiantes, avec un encadrement bienveillant. L'important c'est qu'elles se sentent utiles et intégrées au groupe.",
+    "tags": ["bénévolat", "handicap", "inclusion", "autodétermination"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "valid-025",
+    "category": "validisme-accessibilite",
+    "instruction": "Comment rendre les documents associatifs accessibles aux personnes présentant des troubles DYS ?",
+    "chosen": "Les troubles DYS (dyslexie, dysorthographie, dyspraxie, dyscalculie) concernent 6 à 8% de la population et affectent la lecture, l'écriture ou la manipulation des chiffres. Pour rendre vos documents accessibles, adoptez quelques règles typographiques : polices sans empattement (Arial, Verdana) ou spécialement conçues (OpenDyslexic), taille minimum de 12 points, interligne de 1,5, texte aligné à gauche (pas justifié, car l'espacement irrégulier gêne la lecture), et paragraphes courts avec des titres explicites. Évitez les mises en page surchargées, les fonds colorés agressifs et les PDF scannés (illisibles par les logiciels de synthèse vocale). Pour les formulaires, privilégiez les cases à cocher et les menus déroulants plutôt que les champs de texte libre. Ces adaptations bénéficient aussi aux personnes non francophones, aux personnes âgées et à toute personne pressée ou fatiguée.",
+    "rejected": "Les troubles DYS relèvent du domaine scolaire et médical. Dans le cadre associatif, les personnes concernées ont généralement développé leurs propres stratégies de compensation. Ajouter des contraintes typographiques à tous vos documents serait disproportionné.",
+    "tags": ["DYS", "dyslexie", "accessibilité", "typographie", "neurodiversité"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "valid-026",
+    "category": "validisme-accessibilite",
+    "instruction": "Comment rendre un festival solidaire en plein air accessible aux personnes en situation de handicap ?",
+    "chosen": "Les événements en plein air présentent des défis d'accessibilité spécifiques : terrains irréguliers, distances à parcourir, bruit, chaleur, absence de repères fixes. Des solutions concrètes existent : installer des chemins praticables en plaques de roulage ou en caillebotis, prévoir des zones de repos ombragées et calmes (indispensables pour les personnes autistes, épileptiques ou souffrant de fatigue chronique), proposer des toilettes sèches accessibles aux fauteuils, mettre en place une signalétique visuelle contrastée et une information sonore. Prévoyez un point d'accueil dédié avec un plan en relief ou en gros caractères, et des bénévoles formé·es pour accompagner les personnes qui en font la demande. Des festivals comme Solidays ont progressivement intégré ces dispositifs : plateforme surélevée pour les personnes en fauteuil, interprétation LSF de certains concerts, gilets vibrants. Budgétisez l'accessibilité dès la conception, pas comme un ajout de dernière minute.",
+    "rejected": "Un festival en plein air est par nature un environnement difficile à rendre totalement accessible. Prévoyez une zone réservée aux personnes à mobilité réduite près de la scène et un numéro d'urgence, ça devrait suffire.",
+    "tags": ["accessibilité", "festival", "plein-air", "événementiel", "design-universel"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "valid-027",
+    "category": "validisme-accessibilite",
+    "instruction": "Comment assurer une meilleure représentation des personnes en situation de handicap dans les conseils d'administration associatifs ?",
+    "chosen": "La sous-représentation des personnes en situation de handicap dans les instances de gouvernance associative est un problème structurel, même dans les associations qui travaillent sur le handicap. Pour y remédier, plusieurs leviers sont mobilisables : inscrire dans les statuts un objectif de représentation (quota ou siège réservé), rendre les réunions de CA matériellement accessibles (horaires compatibles avec les contraintes de transport adapté, documents envoyés en avance dans des formats accessibles, interprétation LSF si nécessaire), former les administrateur·ices en poste à la co-gouvernance inclusive, et accompagner les personnes concernées qui souhaitent s'engager (formations au rôle d'administrateur·ice, mentorat). L'enjeu n'est pas seulement la présence mais le pouvoir réel : une personne handicapée qui siège au CA sans pouvoir s'exprimer dans des conditions équitables est une caution, pas un·e décideur·euse.",
+    "rejected": "La gouvernance associative doit être ouverte à tous mais on ne peut pas imposer de quotas. Les administrateurs sont élus pour leurs compétences, pas pour représenter une catégorie de personnes. Forcer la diversité risque de nuire à l'efficacité du CA.",
+    "tags": ["gouvernance", "CA", "représentation", "handicap", "inclusion"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "valid-028",
+    "category": "validisme-accessibilite",
+    "instruction": "Comment une association peut-elle faciliter la participation de personnes polyhandicapées à ses activités ?",
+    "chosen": "Le polyhandicap associe une déficience intellectuelle sévère à une déficience motrice importante, entraînant une restriction extrême de l'autonomie. Faciliter la participation de ces personnes exige de repenser profondément les formats d'activité : stimulations sensorielles (musique, textures, lumières) plutôt qu'activités purement verbales, adaptation du rythme (séances courtes avec des pauses), présence d'un·e accompagnant·e formé·e (et rémunéré·e si possible), espaces physiquement accessibles incluant un espace de change adulte. Cela suppose aussi de travailler en partenariat avec les établissements et les familles, tout en respectant l'autodétermination de la personne dans les limites de sa capacité d'expression (communication non verbale, pictogrammes, outils de CAA — communication alternative et augmentée). L'inclusion des personnes polyhandicapées est un horizon exigeant, mais renoncer à les inclure revient à accepter leur invisibilité sociale.",
+    "rejected": "Les personnes polyhandicapées ont des besoins très spécifiques qui dépassent les compétences des associations classiques. Elles sont mieux accompagnées dans des structures spécialisées (MAS, FAM) avec du personnel formé et du matériel adapté.",
+    "tags": ["polyhandicap", "inclusion", "CAA", "accompagnement", "accessibilité"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "valid-029",
+    "category": "validisme-accessibilite",
+    "instruction": "Comment aménager l'environnement et les activités d'une association pour accueillir des personnes épileptiques ?",
+    "chosen": "L'épilepsie touche environ 600 000 personnes en France et reste un handicap mal connu, entouré de préjugés. Les crises varient considérablement d'une personne à l'autre, de l'absence de quelques secondes à la crise tonico-clonique généralisée. Pour un accueil adapté en milieu associatif : évitez les stimulations lumineuses stroboscopiques (attention aux événements festifs), formez au moins deux personnes de l'équipe aux gestes de premiers secours en cas de crise (mettre en PLS, ne rien mettre dans la bouche, chronométrer la crise, appeler le 15 si elle dépasse 5 minutes), identifiez un espace calme où la personne peut se reposer après une crise. Demandez à la personne concernée quels sont ses déclencheurs et son protocole de crise — elle est l'experte de sa propre situation. Ne dramatisez pas les crises et ne traitez pas la personne différemment en dehors de ces moments.",
+    "rejected": "L'épilepsie est un problème médical qui relève du suivi par un neurologue. Demandez un certificat médical précisant les risques et les restrictions d'activité, et en cas de crise, appelez immédiatement les secours.",
+    "tags": ["épilepsie", "premiers-secours", "aménagements", "handicap"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "valid-030",
+    "category": "validisme-accessibilite",
+    "instruction": "Comment s'assurer que les outils collaboratifs numériques utilisés par l'association (Slack, Teams, Google Drive, etc.) sont accessibles ?",
+    "chosen": "Les outils numériques collaboratifs sont rarement pensés pour l'accessibilité et peuvent exclure silencieusement des membres de l'équipe. Les principales barrières : incompatibilité avec les lecteurs d'écran (JAWS, NVDA, VoiceOver), notifications visuelles uniquement (excluant les personnes sourdes), interfaces surchargées (difficiles pour les personnes avec des troubles cognitifs ou attentionnels), et conversations en temps réel rapide (excluantes pour les personnes avec des troubles DYS ou un handicap moteur qui ralentit la saisie). Actions concrètes : testez vos outils avec un lecteur d'écran avant de les adopter, privilégiez les outils conformes aux WCAG 2.1, proposez des alternatives asynchrones aux réunions en direct, sous-titrez les visioconférences (fonction intégrée dans Teams et Zoom), et rédigez les documents partagés dans des formats accessibles (documents structurés avec titres et textes alternatifs plutôt que PDF images).",
+    "rejected": "La plupart des outils collaboratifs modernes sont déjà assez intuitifs et accessibles. Les personnes qui ont des difficultés techniques peuvent demander de l'aide à un collègue ou suivre une formation aux outils numériques.",
+    "tags": ["accessibilité-numérique", "outils-collaboratifs", "WCAG", "RGAA"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "valid-031",
+    "category": "validisme-accessibilite",
+    "instruction": "Comment adapter le rythme de bénévolat pour des personnes atteintes de fatigue chronique ou de maladies invalidantes fluctuantes ?",
+    "chosen": "La fatigue chronique (syndrome de fatigue chronique/EM, mais aussi fatigue liée à la sclérose en plaques, la fibromyalgie, le lupus, le COVID long, ou les traitements lourds) se caractérise par un épuisement disproportionné par rapport à l'effort, non soulagé par le repos, et imprévisible dans son intensité. Pour intégrer ces personnes au bénévolat sans aggraver leur état : proposez des missions flexibles sans engagement horaire fixe, acceptez les annulations de dernière minute sans culpabilisation, privilégiez les tâches réalisables à domicile et à son rythme (rédaction, relecture, graphisme, gestion de base de données), fractionnez les missions longues en sous-tâches courtes, et ne mesurez pas l'engagement à la quantité d'heures. L'important est de communiquer ouvertement sur le fait que la contribution irrégulière reste une vraie contribution, et d'éviter le piège du « tout ou rien » qui finit par exclure.",
+    "rejected": "Le bénévolat repose sur la régularité et la fiabilité. Si une personne ne peut pas s'engager sur un créneau fixe, il vaut mieux lui proposer des missions ponctuelles lors d'événements plutôt que de désorganiser le fonctionnement de l'équipe.",
+    "tags": ["fatigue-chronique", "handicap-invisible", "bénévolat", "flexibilité", "inclusion"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "valid-032",
+    "category": "validisme-accessibilite",
+    "instruction": "Comment adapter la communication associative pour les personnes ayant un handicap sensoriel (déficience visuelle ou auditive) ?",
+    "chosen": "Le handicap sensoriel recouvre des réalités très diverses : cécité totale, malvoyance, surdité profonde, malentendance, surdicécité. Chaque situation appelle des adaptations différentes. Pour les personnes déficientes visuelles : documents en gros caractères (taille 16 minimum, contraste élevé), versions audio ou en braille pour les documents essentiels, images décrites par des textes alternatifs, site web navigable au clavier et compatible avec les lecteurs d'écran. Pour les personnes sourdes ou malentendantes : sous-titrage systématique des vidéos, transcription des podcasts et contenus audio, possibilité de communiquer par écrit (email, chat) plutôt que par téléphone. Pour tous : une communication multicanale (écrit + visuel + audio) augmente les chances de toucher chacun·e. Demandez aux personnes concernées leurs préférences plutôt que de supposer, et intégrez l'accessibilité dès la création des supports.",
+    "rejected": "Il est impossible d'adapter chaque support de communication à chaque type de handicap. Concentrez-vous sur un format standard clair et bien conçu, et proposez des alternatives au cas par cas quand quelqu'un en fait la demande.",
+    "tags": ["handicap-sensoriel", "communication", "accessibilité", "déficience-visuelle", "surdité"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "valid-033",
+    "category": "validisme-accessibilite",
+    "instruction": "Comment mettre en place un programme de pair-aidance en santé mentale dans le cadre associatif ?",
+    "chosen": "La pair-aidance repose sur le partage d'expérience entre personnes ayant vécu des situations similaires — en santé mentale, un·e pair-aidant·e est une personne rétablie ou en rétablissement qui accompagne d'autres personnes dans leur parcours. En France, le diplôme universitaire de pair-aidant en santé mentale se développe (universités de Paris, Bobigny, Lyon), et des associations comme Médiateurs de Santé Pairs ou le programme Un chez soi d'abord intègrent des pair-aidant·es salarié·es. Pour une association, mettre en place un programme de pair-aidance implique : un cadre éthique clair (confidentialité, non-substitution aux soins, supervision régulière), une rémunération ou au minimum une indemnisation des pair-aidant·es (leur expertise vécue a de la valeur et ne doit pas être exploitée gratuitement), et une sensibilisation de l'ensemble de l'équipe pour que le ou la pair-aidant·e soit reconnu·e comme professionnel·le et non réduit·e à son vécu.",
+    "rejected": "La pair-aidance en santé mentale est risquée car les personnes ayant eu des troubles psychiatriques ne sont pas des professionnels formés. Elles peuvent projeter leur propre vécu et donner de mauvais conseils. Mieux vaut s'appuyer sur des psychologues diplômés.",
+    "tags": ["pair-aidance", "santé-mentale", "rétablissement", "savoir-expérientiel"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "valid-034",
+    "category": "validisme-accessibilite",
+    "instruction": "Comment concevoir des formulaires d'adhésion associatifs accessibles sur le plan cognitif ?",
+    "chosen": "Un formulaire d'adhésion est souvent le premier contact d'une personne avec l'association — s'il est inaccessible, c'est une porte d'entrée qui se ferme. L'accessibilité cognitive implique de réduire la charge mentale : questions courtes et formulées simplement, une seule information demandée par champ, exemples pré-remplis pour guider (format de date, format de téléphone), progression logique du formulaire, possibilité de sauvegarder et reprendre plus tard, et absence de limite de temps. Évitez le jargon associatif (cotisation, AG, CA, bureau), ou expliquez-le. Proposez plusieurs formats : en ligne (conforme WCAG), papier en gros caractères, version FALC pour les personnes avec un handicap intellectuel, et possibilité de remplir par téléphone ou en face à face avec un·e bénévole. Testez vos formulaires avec des personnes aux profils variés avant de les diffuser.",
+    "rejected": "Un formulaire d'adhésion est un document administratif basique. Si quelqu'un a du mal à le remplir, il peut demander de l'aide au secrétariat. Simplifier à l'excès donnerait une image peu professionnelle de l'association.",
+    "tags": ["accessibilité-cognitive", "formulaires", "FALC", "adhésion", "design-universel"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "valid-035",
+    "category": "validisme-accessibilite",
+    "instruction": "Comment intégrer la situation des proches aidant·es dans les politiques RH d'une association employeuse ?",
+    "chosen": "Au-delà de la reconnaissance individuelle des aidant·es (traitée par les dispositifs légaux comme le congé de proche aidant), les associations employeuses peuvent structurer une politique RH inclusive. Cela passe par : l'intégration de la question dans les entretiens professionnels annuels (et pas seulement quand la situation devient critique), l'aménagement formalisé du temps de travail (télétravail, horaires flexibles, temps partiel réversible), la sensibilisation des équipes pour éviter le ressentiment lié aux aménagements perçus comme des privilèges, et l'orientation vers les ressources existantes (plateformes de répit, associations spécialisées, numéro national 0 800 360 360). Les associations de plus de 50 salarié·es peuvent inscrire les aidant·es dans leur accord QVT (qualité de vie au travail). L'enjeu est de ne pas attendre la crise (burnout, arrêt maladie, démission) pour agir, car un·e aidant·e soutenu·e reste un·e salarié·e engagé·e.",
+    "rejected": "La vie personnelle des salariés ne regarde pas l'employeur. Les aidants ont droit au congé de proche aidant prévu par la loi, c'est suffisant. Multiplier les aménagements individuels créerait des inégalités avec les autres salariés.",
+    "tags": ["aidants", "RH", "QVT", "aménagements", "politique-associative"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "valid-036",
+    "category": "validisme-accessibilite",
+    "instruction": "Quelles solutions concrètes une association peut-elle mettre en place pour pallier le manque d'accessibilité des transports lors de ses événements ?",
+    "chosen": "Quand les transports en commun ne sont pas accessibles — situation fréquente en zone périurbaine et rurale — l'association peut agir à son échelle. Solutions concrètes : organiser un système de covoiturage fléché avec des véhicules accessibles, négocier avec les services de transport à la demande (TAD) de la collectivité pour des navettes dédiées à l'événement, choisir systématiquement des lieux proches d'arrêts de bus ou de gare accessibles, prévoir une participation à distance de qualité équivalente (pas un simple lien de visioconférence sans modération), et budgétiser le remboursement des frais de transport adapté (VSL, taxi) pour les personnes qui n'ont pas d'autre solution. Ces coûts peuvent être intégrés dans les demandes de subvention au titre de l'accessibilité. L'enjeu est de passer de « le lieu est accessible » à « le parcours complet, du domicile à l'événement et retour, est accessible ».",
+    "rejected": "L'accessibilité des transports est du ressort des collectivités et de l'État. Une association ne peut pas organiser le transport de chaque participant. Indiquez les lignes de bus et métro les plus proches et laissez les gens s'organiser.",
+    "tags": ["transports", "accessibilité", "événementiel", "mobilité", "solutions-concrètes"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "valid-037",
+    "category": "validisme-accessibilite",
+    "instruction": "Comment les associations peuvent-elles accompagner le vieillissement et la perte d'autonomie de leurs bénévoles et adhérent·es de longue date ?",
+    "chosen": "Le vieillissement des bénévoles est une réalité démographique du monde associatif : l'âge moyen des président·es d'association en France dépasse 55 ans. La perte progressive d'autonomie (mobilité réduite, troubles cognitifs débutants, fatigue, déficiences sensorielles) pose des questions concrètes : comment maintenir l'engagement de personnes qui ont porté l'association pendant des années sans les infantiliser ni les pousser vers la sortie ? Quelques pistes : adapter progressivement les missions (moins de terrain, plus de transmission de mémoire et de mentorat), rendre les réunions accessibles (horaires diurnes, lieux de plain-pied, visioconférence), anticiper la transition de responsabilités sans brutalité (co-présidence, passage de relais accompagné), et maintenir le lien social même quand la personne ne peut plus être active (visites, appels, invitation aux événements conviviaux). L'enjeu est aussi de lutter contre l'âgisme qui traverse le monde associatif comme le reste de la société.",
+    "rejected": "Le renouvellement des bénévoles est un enjeu vital pour les associations. Quand un bénévole vieillissant ne peut plus assumer ses missions, il faut savoir lui trouver un remplaçant et l'inviter à passer le relais avec tact.",
+    "tags": ["vieillissement", "perte-autonomie", "bénévolat", "âgisme", "transmission"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
   }
 ]

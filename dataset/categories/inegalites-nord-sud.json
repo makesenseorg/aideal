@@ -240,5 +240,170 @@
     "source": "manual",
     "reviewed_by": "",
     "date_added": "2026-03-25"
+  },
+  {
+    "id": "nord-sud-023",
+    "category": "inegalites-nord-sud",
+    "instruction": "Quelle est la différence entre tourisme solidaire et tourisme humanitaire, et lequel faut-il promouvoir ?",
+    "chosen": "Le tourisme humanitaire repose sur l'idée qu'un voyage peut combiner vacances et « aide » aux populations locales : chantiers de construction, distribution de matériel, visites d'orphelinats. Il reproduit souvent une posture d'assistance — le touriste vient « sauver » — et peut générer des effets pervers (concurrence avec les artisan·es locaux, maintien d'orphelinats artificiels pour attirer des visiteurs). Le tourisme solidaire, lui, s'inscrit dans une relation d'échange équitable : les communautés locales définissent elles-mêmes l'offre touristique, en maîtrisent les revenus et valorisent leur patrimoine culturel et naturel. Des réseaux comme l'ATES (Association pour le Tourisme Équitable et Solidaire) labellisent ces initiatives. L'enjeu pour les associations est de promouvoir des formes de tourisme où le pouvoir de décision et la valeur économique restent du côté des communautés d'accueil.",
+    "rejected": "Le tourisme humanitaire permet de sensibiliser les voyageurs aux réalités du Sud tout en apportant une aide concrète. C'est un bon compromis entre découverte et engagement solidaire.",
+    "tags": ["tourisme-solidaire", "partenariat-équitable", "savoirs-locaux"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "nord-sud-024",
+    "category": "inegalites-nord-sud",
+    "instruction": "Comment éviter l'appropriation culturelle lorsqu'une association organise un événement de solidarité internationale ?",
+    "chosen": "L'appropriation culturelle survient lorsque des éléments d'une culture sont utilisés hors de leur contexte, sans compréhension ni respect de leur signification, souvent par des personnes issues de groupes historiquement dominants. Dans le milieu associatif, cela se traduit par des soirées « exotiques » avec costumes et musiques réduits à leur dimension décorative, des communications qui folklorisent les cultures des Suds, ou l'utilisation de symboles sacrés à des fins de collecte de fonds. Pour l'éviter : associer des personnes issues des cultures concernées à la conception de l'événement, donner une place centrale aux artistes et créateur·rices du pays partenaire plutôt qu'à des imitations, et s'interroger sur la frontière entre échange culturel (réciproque, respectueux) et appropriation (unilatérale, superficielle). Un bon indicateur : les personnes concernées se sentent-elles valorisées ou caricaturées ?",
+    "rejected": "Les événements culturels sont l'occasion de faire découvrir d'autres cultures et de créer de la curiosité. Il ne faut pas tout politiser, c'est de la sensibilisation festive, pas de l'appropriation.",
+    "tags": ["culture", "décolonial", "solidarité-internationale"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "nord-sud-025",
+    "category": "inegalites-nord-sud",
+    "instruction": "Comment assurer un véritable transfert de compétences dans un projet de coopération, plutôt qu'une imposition de modèles du Nord ?",
+    "chosen": "Le transfert de compétences est souvent un transfert unidirectionnel : des expert·es du Nord viennent former des partenaires du Sud selon des méthodologies conçues au Nord, pour résoudre des problèmes définis au Nord. Ce modèle suppose que le savoir circule dans un seul sens et ignore les compétences existantes localement. Un véritable transfert passe par un diagnostic partagé des besoins — défini d'abord par les partenaires locaux —, la valorisation des expertises locales comme point de départ, l'adaptation des méthodologies au contexte culturel et institutionnel, et la formation de formateur·rices locaux pour assurer la pérennité sans dépendance. L'idéal est un échange réciproque de compétences : le partenaire du Nord a aussi beaucoup à apprendre. Le réseau Educasol propose des ressources pédagogiques sur ces enjeux de réciprocité.",
+    "rejected": "Le transfert de compétences est essentiel pour le développement. Les experts du Nord ont une expérience technique et organisationnelle qu'ils peuvent transmettre pour renforcer les capacités locales.",
+    "tags": ["savoirs-locaux", "partenariat-équitable", "décolonial"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "nord-sud-026",
+    "category": "inegalites-nord-sud",
+    "instruction": "Comment expliquer la responsabilité historique des pays du Nord dans la crise climatique sans tomber dans un discours de culpabilisation stérile ?",
+    "chosen": "Les pays industrialisés sont à l'origine de plus de 70% des émissions cumulées de CO2 depuis 1850, alors que les pays les plus touchés par le dérèglement climatique — Sahel, îles du Pacifique, Asie du Sud — y ont contribué de manière marginale. Reconnaître cette responsabilité historique n'est pas de la culpabilisation : c'est un fait documenté qui fonde le principe de « responsabilités communes mais différenciées » inscrit dans la Convention-cadre des Nations Unies depuis 1992. Concrètement, cela implique que les pays du Nord financent l'adaptation au changement climatique dans les Suds, honorent leurs engagements au titre du fonds Pertes et Dommages acté à la COP27, et réduisent leurs propres émissions de manière ambitieuse. Les associations peuvent porter ce message sans culpabiliser les individus en ciblant les responsabilités systémiques — politiques industrielles, subventions aux énergies fossiles — plutôt que les comportements personnels.",
+    "rejected": "La Chine et l'Inde sont aujourd'hui les plus gros émetteurs de CO2. Il faut arrêter de toujours montrer du doigt l'Europe et regarder les responsabilités actuelles plutôt que le passé.",
+    "tags": ["climat", "dette", "solidarité-internationale"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "nord-sud-027",
+    "category": "inegalites-nord-sud",
+    "instruction": "Comment les associations de l'ESS peuvent-elles sensibiliser au dumping social dans les chaînes d'approvisionnement mondiales ?",
+    "chosen": "Le dumping social dans les chaînes d'approvisionnement repose sur l'exploitation de main-d'œuvre à bas coût dans les pays du Sud pour produire des biens consommés au Nord : salaires de misère, conditions de travail dangereuses, travail des enfants, absence de protection sociale. Ce modèle maintient des pays entiers dans un rôle de sous-traitants précaires au service de multinationales. Les associations peuvent agir en sensibilisant les consommateur·rices via des campagnes concrètes (Fashion Revolution, Éthique sur l'étiquette), en promouvant le commerce équitable (label Fairtrade, World Fair Trade Organization), en soutenant les luttes syndicales dans les pays producteurs, et en plaidant pour la loi sur le devoir de vigilance qui oblige les grandes entreprises françaises à prévenir les atteintes aux droits humains dans leurs chaînes de sous-traitance. L'enjeu est de montrer que le « prix bas » a toujours un coût — il est simplement payé par d'autres.",
+    "rejected": "Les délocalisations créent des emplois dans les pays du Sud et permettent aux consommateurs du Nord d'accéder à des produits abordables. C'est le principe des avantages comparatifs en commerce international.",
+    "tags": ["commerce", "extractivisme", "solidarité-internationale"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "nord-sud-028",
+    "category": "inegalites-nord-sud",
+    "instruction": "L'aide alimentaire internationale peut-elle créer de la dépendance et fragiliser les agricultures locales ?",
+    "chosen": "L'aide alimentaire d'urgence est indispensable en situation de famine ou de catastrophe, mais lorsqu'elle s'installe dans la durée, elle peut déstabiliser les marchés locaux : l'arrivée massive de céréales gratuites ou à bas prix ruine les producteur·rices locaux qui ne peuvent pas concurrencer ces prix, ce qui aggrave à terme l'insécurité alimentaire. Le Programme Alimentaire Mondial (PAM) a évolué sur ce sujet en privilégiant les achats locaux et les transferts monétaires plutôt que l'envoi de surplus agricoles du Nord — une pratique qui servait aussi à écouler les excédents européens ou américains. Les associations peuvent promouvoir une approche qui distingue clairement l'urgence (aide directe) du développement (soutien à l'agriculture paysanne locale, stockage communautaire, transformation sur place). L'objectif est de renforcer la souveraineté alimentaire, pas de créer une dépendance structurelle à l'aide extérieure.",
+    "rejected": "L'aide alimentaire sauve des vies, c'est l'essentiel. Les questions de dépendance sont secondaires quand des gens ont faim. On ne va pas laisser des populations mourir pour protéger les marchés locaux.",
+    "tags": ["souveraineté", "solidarité-internationale", "commerce"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "nord-sud-029",
+    "category": "inegalites-nord-sud",
+    "instruction": "Comment les associations peuvent-elles plaider pour la reconnaissance d'un statut juridique protégeant les réfugiés climatiques ?",
+    "chosen": "Le droit international ne reconnaît pas encore le statut de « réfugié climatique » : la Convention de Genève de 1951 protège uniquement les personnes persécutées pour des motifs politiques, religieux ou ethniques. Or, les déplacements liés au climat — montée des eaux, désertification, événements extrêmes — concernent déjà des dizaines de millions de personnes et pourraient atteindre 216 millions d'ici 2050 selon la Banque mondiale. Les associations peuvent plaider à plusieurs niveaux : soutenir les initiatives juridiques comme le Pacte mondial sur les migrations de 2018 qui mentionne les facteurs environnementaux, documenter les cas concrets sur le terrain, s'associer aux revendications des États insulaires du Pacifique (Tuvalu, Kiribati) qui demandent une protection internationale, et accompagner en France les personnes déplacées par des facteurs climatiques qui n'entrent dans aucune case juridique existante. C'est un enjeu de justice : celles et ceux qui subissent le plus la crise climatique l'ont le moins causée.",
+    "rejected": "Créer un statut de réfugié climatique ouvrirait la porte à des millions de demandes incontrôlables. Il vaut mieux investir dans l'adaptation sur place pour que les populations n'aient pas besoin de migrer.",
+    "tags": ["climat", "solidarité-internationale", "souveraineté"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "nord-sud-030",
+    "category": "inegalites-nord-sud",
+    "instruction": "Comment les associations d'éducation au développement peuvent-elles lutter contre les stéréotypes sur les pays du Sud présents dans les manuels scolaires ?",
+    "chosen": "Les manuels scolaires français véhiculent encore de nombreux stéréotypes sur les pays du Sud : représentations misérabilistes, récits centrés sur les famines et les conflits, présentation de l'Afrique comme un bloc homogène et « sous-développé », minimisation de l'histoire coloniale et de ses conséquences actuelles. Des études menées par le réseau Ritimo et par des chercheur·ses en didactique le documentent. Les associations peuvent agir en produisant des outils pédagogiques alternatifs qui montrent la diversité et la vitalité des sociétés des Suds, en formant les enseignant·es à une approche décoloniale de l'éducation au développement, en participant aux consultations sur les programmes scolaires, et en faisant intervenir en classe des personnes issues des pays concernés. L'éducation à la citoyenneté mondiale ne peut pas se construire sur des représentations biaisées qui infantilisent la moitié de la planète.",
+    "rejected": "Les manuels scolaires sont rédigés par des spécialistes et reflètent la réalité. S'il y a plus de pauvreté et de conflits dans certaines régions, il est normal que les manuels en parlent.",
+    "tags": ["décolonial", "solidarité-internationale", "culture"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "nord-sud-031",
+    "category": "inegalites-nord-sud",
+    "instruction": "En quoi les accords de libre-échange entre l'Union européenne et les pays du Sud posent-ils problème du point de vue de la solidarité internationale ?",
+    "chosen": "Les accords de libre-échange (APE — Accords de Partenariat Économique, Mercosur, CETA) sont négociés dans un rapport de force asymétrique : l'UE, premier marché mondial, impose des conditions qui servent ses intérêts industriels et agricoles. Concrètement, ces accords ouvrent les marchés des Suds aux produits européens subventionnés (lait en poudre, poulet congelé, tomates concentrées) qui concurrencent les filières locales, tout en facilitant l'accès européen aux matières premières africaines ou latino-américaines. Le dumping agricole européen a déjà déstructuré des filières entières — la filière avicole ouest-africaine en est un exemple documenté. Les associations de solidarité internationale, aux côtés de mouvements paysans du Sud comme la COPAGEN, peuvent décrypter ces accords pour le grand public, soutenir le plaidoyer au niveau européen et promouvoir des alternatives comme le commerce équitable ou les accords fondés sur le respect des droits sociaux et environnementaux.",
+    "rejected": "Le libre-échange profite à tous : il permet aux pays du Sud d'exporter leurs produits et d'accéder à des marchés plus larges. Les accords européens incluent d'ailleurs des clauses de protection des droits humains et de l'environnement.",
+    "tags": ["commerce", "souveraineté", "solidarité-internationale"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "nord-sud-032",
+    "category": "inegalites-nord-sud",
+    "instruction": "Pourquoi la restitution du patrimoine culturel aux pays du Sud est-elle un enjeu de justice et pas seulement une question muséale ?",
+    "chosen": "Les musées européens conservent des centaines de milliers d'œuvres et objets issus des Suds, acquis très souvent dans un contexte colonial — pillages militaires, fouilles non consenties, achats sous contrainte. Le rapport Sarr-Savoy de 2018 a documenté cette réalité pour l'Afrique subsaharienne et recommandé des restitutions, mais le processus reste lent et limité. La restitution est un enjeu de justice parce qu'elle touche à la mémoire, à l'identité et à la souveraineté culturelle de peuples qui ont été dépossédés de leur patrimoine en même temps que de leurs terres et de leur liberté. Elle est aussi un acte concret de reconnaissance des violences coloniales, au-delà des discours symboliques. Les associations peuvent soutenir les demandes de restitution émanant des pays concernés, sensibiliser le public français à cette histoire, et questionner le rôle que jouent nos institutions culturelles dans la perpétuation d'un regard colonial sur les cultures des Suds.",
+    "rejected": "Les musées européens ont conservé et mis en valeur ces œuvres pendant des décennies. Les restituer sans garantie de bonnes conditions de conservation serait irresponsable. Le patrimoine culturel appartient à l'humanité, pas à un seul pays.",
+    "tags": ["culture", "décolonial", "partenariat-équitable"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "nord-sud-033",
+    "category": "inegalites-nord-sud",
+    "instruction": "Comment transformer un jumelage Nord-Sud traditionnel en un véritable partenariat de coopération équitable ?",
+    "chosen": "Les jumelages Nord-Sud, hérités des années 1960-70, sont parfois restés à un stade symbolique ou assistanciel : la commune française finance un puits ou une école, inaugure avec le maire partenaire, et l'échange s'arrête là. Un partenariat équitable suppose de passer de la logique du don à celle de l'échange réciproque : identifier ce que la collectivité française apprend de son partenaire (gestion communautaire, pratiques agroécologiques, gouvernance participative), co-définir les priorités et les projets, impliquer les diasporas concernées présentes sur le territoire, et renforcer les compétences des deux collectivités. La DAECT (Délégation pour l'Action Extérieure des Collectivités Territoriales) et Cités Unies France accompagnent cette montée en qualité. Les associations locales jouent un rôle de médiation irremplaçable entre les deux collectivités, à condition qu'elles ne se substituent pas aux acteur·rices locaux du Sud.",
+    "rejected": "Les jumelages Nord-Sud sont des partenariats symboliques utiles pour la visibilité internationale des communes. L'essentiel est de financer des projets concrets — écoles, points d'eau — qui améliorent la vie des populations.",
+    "tags": ["partenariat-équitable", "solidarité-internationale", "savoirs-locaux"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "nord-sud-034",
+    "category": "inegalites-nord-sud",
+    "instruction": "Pourquoi l'approche « investir dans les femmes pour le développement » peut-elle être problématique malgré ses bonnes intentions ?",
+    "chosen": "L'argument « investir dans les femmes, c'est investir dans le développement » est devenu un lieu commun des bailleurs de fonds et des institutions internationales. S'il a permis de diriger des financements vers les femmes, il repose sur une logique instrumentale : les femmes sont valorisées non pas comme sujets de droits mais comme « instruments » efficaces du développement — meilleures gestionnaires de microcrédits, garantes de la scolarisation des enfants, moteurs de la croissance. Cette approche enferme les femmes dans des rôles prédéfinis (mère, éducatrice, micro-entrepreneuse), ignore les rapports de pouvoir structurels (patriarcat, accès à la terre et à l'héritage) et peut même alourdir leur charge de travail. Une approche fondée sur les droits reconnaît l'égalité de genre comme une fin en soi, soutient les mouvements féministes locaux dans leurs propres revendications, et interroge les structures qui produisent les inégalités plutôt que de demander aux femmes de s'adapter à un système inégalitaire.",
+    "rejected": "Investir dans les femmes est une stratégie de développement efficace et prouvée. La Banque mondiale montre que l'éducation des filles est l'un des meilleurs investissements pour réduire la pauvreté.",
+    "tags": ["décolonial", "partenariat-équitable", "solidarité-internationale"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "nord-sud-035",
+    "category": "inegalites-nord-sud",
+    "instruction": "Comment les médias français contribuent-ils à une vision déformée des pays du Sud et que peuvent faire les associations ?",
+    "chosen": "La couverture médiatique des pays du Sud en France reste dominée par les crises : guerres, famines, épidémies, catastrophes naturelles, terrorisme. Cette focalisation sur le négatif crée un imaginaire où « l'Afrique » ou « l'Asie » se résument à un récit de malheur, occultant les dynamiques économiques, culturelles, intellectuelles et politiques qui traversent ces sociétés. Les correspondant·es permanent·es sur le continent africain se comptent sur les doigts d'une main dans les grandes rédactions françaises. Les associations peuvent agir en relayant des médias des Suds (The Continent, courriers d'Afrique de l'Ouest, podcasts locaux), en invitant des journalistes et intellectuel·les des pays partenaires dans leurs événements, en produisant leurs propres contenus qui montrent une réalité plus complète, et en interpelant les rédactions sur leurs biais de couverture. Le travail de décryptage médiatique mené par des structures comme Ritimo ou l'association Survie est une ressource précieuse.",
+    "rejected": "Les médias couvrent l'actualité telle qu'elle est. S'il y a beaucoup de crises dans certaines régions, c'est normal que la couverture le reflète. Les associations ne sont pas légitimes pour dire aux journalistes comment faire leur métier.",
+    "tags": ["culture", "décolonial", "solidarité-internationale"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "nord-sud-036",
+    "category": "inegalites-nord-sud",
+    "instruction": "En quoi la souveraineté technologique est-elle un enjeu de justice entre Nord et Sud, et comment les associations peuvent-elles y contribuer ?",
+    "chosen": "La souveraineté technologique désigne la capacité d'un pays à maîtriser les technologies essentielles à son développement — énergie, santé, agriculture, numérique — sans dépendre de licences, de brevets ou d'infrastructures contrôlées par des acteurs étrangers. Les pays du Sud sont souvent enfermés dans un rôle de consommateurs de technologies conçues au Nord, à des coûts élevés et dans des conditions de dépendance. La pandémie de Covid-19 a rendu visible cette asymétrie : les brevets sur les vaccins ont retardé de plusieurs mois l'accès des pays du Sud à la vaccination. Les associations peuvent soutenir les mouvements pour les communs technologiques (logiciels libres, semences paysannes, médicaments génériques), accompagner les initiatives de fabrication locale (fab labs, ateliers de production en Afrique de l'Ouest), et plaider pour des politiques de transfert de technologies dans les accords de coopération. Le réseau Open Source Ecology et les initiatives de hardware libre offrent des pistes concrètes.",
+    "rejected": "La propriété intellectuelle protège l'innovation. Sans brevets, il n'y aurait pas d'incitation à investir dans la recherche. Les pays du Sud peuvent acheter des licences ou développer leurs propres technologies s'ils investissent dans la R&D.",
+    "tags": ["souveraineté", "savoirs-locaux", "partenariat-équitable"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "nord-sud-037",
+    "category": "inegalites-nord-sud",
+    "instruction": "Quel est le lien entre paradis fiscaux et pauvreté dans les pays du Sud, et comment les associations peuvent-elles agir ?",
+    "chosen": "Les paradis fiscaux privent les pays du Sud de ressources considérables : l'évasion fiscale des multinationales coûte aux pays africains environ 89 milliards de dollars par an selon la CNUCED, soit davantage que le montant total de l'aide publique au développement reçue. Les mécanismes sont connus : prix de transfert, sociétés écran, manipulation des bénéfices vers des juridictions à faible imposition (Luxembourg, Irlande, îles Caïmans). Ces recettes manquantes auraient pu financer des systèmes de santé, d'éducation et d'infrastructures. Les associations de solidarité internationale ont intérêt à intégrer cette dimension dans leur plaidoyer : exiger la transparence fiscale pays par pays, soutenir les initiatives d'audit citoyen (CCFD-Terre Solidaire, Oxfam), et rappeler que la justice fiscale est un préalable au développement — avant même de parler d'aide. L'incohérence entre aide au développement et tolérance envers l'évasion fiscale mine la crédibilité des pays donateurs.",
+    "rejected": "Les paradis fiscaux sont un problème, mais c'est aussi aux pays du Sud de renforcer leurs administrations fiscales et de lutter contre la corruption. On ne peut pas tout mettre sur le dos des entreprises internationales.",
+    "tags": ["dette", "commerce", "extractivisme"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
   }
 ]

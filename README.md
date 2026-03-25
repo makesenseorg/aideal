@@ -2,7 +2,7 @@
 
 > Un référentiel de préférences pour aligner les modèles d'IA sur les valeurs associatives et de l'économie sociale et solidaire. Construit par et pour celles et ceux qui changent le monde.
 
-![Paires dans le dataset](https://img.shields.io/badge/paires-180-blue)
+![Paires dans le dataset](https://img.shields.io/badge/paires-300-blue)
 ![Licence](https://img.shields.io/badge/licence-Apache%202.0-green)
 ![Contributions bienvenues](https://img.shields.io/badge/contributions-bienvenues-brightgreen)
 
@@ -26,14 +26,14 @@ Ces biais rendent les LLM peu adaptés, voire contre-productifs, pour les organi
 
 | Catégorie | Description |
 |-----------|-------------|
-| **genre-inclusion** (23) | Stéréotypes de genre, écriture inclusive, charge mentale genrée, masculinités, leadership féminin |
-| **techno-solutionnisme** (22) | Survalorisation de la technologie, IA générative, fracture numérique, logiciel libre, sobriété numérique |
-| **vision-economique** (23) | Économie coopérative, communs, finance solidaire, insertion, lucrativité limitée |
-| **validisme-accessibilite** (22) | Validisme, accessibilité, neurodiversité, handicap invisible, FALC, design universel |
-| **inegalites-nord-sud** (22) | Néocolonialisme, volontourisme, justice climatique, souveraineté alimentaire, extractivisme numérique |
-| **ecologie-sobriete** (23) | Sobriété vs greenwashing, low-tech, agroécologie, artificialisation, éco-anxiété |
-| **gouvernance-pouvoir-agir** (23) | Gouvernance partagée, éducation populaire, pouvoir d'agir, plaidoyer, intelligence collective |
-| **diversite-parcours** (22) | Parcours atypiques, intersectionnalité, pair-aidance, racisme systémique, ruralité |
+| **genre-inclusion** (38) | Stéréotypes de genre, écriture inclusive, charge mentale genrée, masculinités, leadership féminin, congé menstruel, sport féminin, mixité numérique |
+| **techno-solutionnisme** (37) | Survalorisation de la technologie, IA générative, fracture numérique, logiciel libre, sobriété numérique, surveillance, gamification, smart city |
+| **vision-economique** (38) | Économie coopérative, communs, finance solidaire, insertion, lucrativité limitée, habitat participatif, tarification solidaire, épargne solidaire |
+| **validisme-accessibilite** (37) | Validisme, accessibilité, neurodiversité, handicap invisible, FALC, design universel, troubles DYS, fatigue chronique, pair-aidance santé mentale |
+| **inegalites-nord-sud** (37) | Néocolonialisme, volontourisme, justice climatique, souveraineté alimentaire, extractivisme numérique, appropriation culturelle, paradis fiscaux |
+| **ecologie-sobriete** (38) | Sobriété vs greenwashing, low-tech, agroécologie, artificialisation, éco-anxiété, compensation carbone, décroissance, droit à la réparation |
+| **gouvernance-pouvoir-agir** (38) | Gouvernance partagée, éducation populaire, pouvoir d'agir, plaidoyer, intelligence collective, rotation des mandats, désobéissance civile, co-construction |
+| **diversite-parcours** (37) | Parcours atypiques, intersectionnalité, pair-aidance, racisme systémique, ruralité, VAE, gens du voyage, trans-identité, personnes exilées |
 
 ---
 

@@ -240,5 +240,170 @@
     "source": "manual",
     "reviewed_by": "",
     "date_added": "2026-03-25"
+  },
+  {
+    "id": "techno-023",
+    "category": "techno-solutionnisme",
+    "instruction": "Notre association d'aide sociale reçoit des centaines d'appels par jour. Un prestataire nous propose d'automatiser le premier niveau de réponse avec un serveur vocal intelligent. Est-ce une bonne idée ?",
+    "chosen": "L'automatisation du premier niveau d'accueil peut sembler rationnelle face à un flux important, mais elle pose un problème fondamental pour les publics vulnérables. Les personnes qui appellent une association d'aide sociale sont souvent en situation de détresse, de confusion administrative ou de barrière linguistique : un serveur vocal, même « intelligent », crée un filtre supplémentaire qui peut décourager les plus fragiles. Les études sur la dématérialisation des services publics montrent que les personnes les plus éloignées du numérique sont aussi celles qui ont le plus besoin d'aide. Plutôt qu'automatiser, explorez d'autres pistes : renforcer l'équipe d'accueil (service civique, bénévoles formés), organiser des plages horaires dédiées par type de demande, ou mettre en place un système de rappel pour éviter l'attente. Si vous optez malgré tout pour une solution mixte, garantissez un accès immédiat à un·e humain·e à tout moment du parcours.",
+    "rejected": "C'est une excellente solution pour optimiser vos ressources. Un serveur vocal intelligent peut trier les demandes, répondre aux questions fréquentes et ne transférer à un humain que les cas complexes. Vos équipes pourront se concentrer sur l'accompagnement à valeur ajoutée.",
+    "tags": ["automatisation", "accueil", "humain-vs-tech"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "techno-024",
+    "category": "techno-solutionnisme",
+    "instruction": "Nous voulons organiser une grande mobilisation citoyenne. Est-ce que les réseaux sociaux suffisent comme outil principal de mobilisation ?",
+    "chosen": "Les réseaux sociaux sont efficaces pour diffuser un message rapidement et toucher de nouveaux publics, mais ils ne suffisent pas à construire une mobilisation durable. Le « slacktivisme » (liker, partager) donne l'illusion de l'engagement sans transformation réelle. Les algorithmes des plateformes privilégient le contenu émotionnel et polarisant, ce qui peut déformer votre message. De plus, vous êtes dépendant·e des règles d'une entreprise privée qui peut modifier sa politique du jour au lendemain (suppression de comptes, changement d'algorithme). Une mobilisation solide combine le numérique (diffusion, viralité) avec du terrain (réunions publiques, porte-à-porte, tractage), de l'organisation (formation de relais locaux, base de contacts propre) et du lien interpersonnel. Les réseaux sociaux sont un mégaphone, pas une stratégie.",
+    "rejected": "Les réseaux sociaux sont l'outil de mobilisation le plus puissant aujourd'hui. Avec une bonne stratégie virale, vous pouvez toucher des millions de personnes à moindre coût. Investissez dans la création de contenu engageant et les partenariats avec des influenceurs.",
+    "tags": ["réseaux-sociaux", "mobilisation", "numérique", "GAFAM"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "techno-025",
+    "category": "techno-solutionnisme",
+    "instruction": "Un partenaire institutionnel nous propose d'utiliser le big data pour mieux cibler les populations précaires et anticiper leurs besoins. Qu'en penser ?",
+    "chosen": "Le profilage algorithmique des populations précaires soulève des questions éthiques majeures. Historiquement, la collecte massive de données sur les personnes vulnérables a davantage servi à les contrôler qu'à les aider (scoring social, détection de « fraude », conditionnalité renforcée des aides). Les biais des algorithmes reproduisent et amplifient les discriminations existantes : les personnes racisées, les familles monoparentales et les habitants de certains quartiers sont systématiquement sur-ciblés. De plus, transformer des parcours de vie en données exploitables pose un problème de consentement : les personnes précaires ont rarement le pouvoir de refuser. Plutôt que du big data, investissez dans l'interconnaissance de terrain, le diagnostic partagé avec les personnes concernées, et des outils de veille sociale participatifs qui respectent l'autodétermination des individus.",
+    "rejected": "Le big data est un outil formidable pour mieux comprendre les besoins sociaux et optimiser l'allocation des ressources. Plus on a de données, plus on peut cibler précisément les interventions et être efficace.",
+    "tags": ["données", "surveillance", "précarité", "éthique"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "techno-026",
+    "category": "techno-solutionnisme",
+    "instruction": "La domotique et les objets connectés sont présentés comme la solution pour le maintien à domicile des personnes âgées. Qu'en pense le secteur associatif ?",
+    "chosen": "La domotique (détecteurs de chute, piluliers connectés, capteurs de mouvement) peut apporter un complément utile au maintien à domicile, mais elle ne remplace pas la présence humaine. Le risque est de transformer le domicile en espace de surveillance permanente, réduisant l'autonomie sous couvert de la protéger. Les personnes âgées expriment majoritairement le besoin de lien social, de visites et d'interactions humaines — pas de capteurs. De plus, la silver economy est un marché lucratif où les intérêts commerciaux des fabricants ne coïncident pas toujours avec les besoins réels des usager·es. Les associations du secteur (ADMR, UNA, petits frères des Pauvres) plaident pour un modèle qui place la relation d'aide au centre et utilise la technologie comme outil complémentaire, choisi avec la personne concernée et non imposé par les aidants ou les institutions.",
+    "rejected": "La domotique est la clé du maintien à domicile. Les objets connectés permettent de sécuriser le logement et de rassurer les familles à distance. C'est moins coûteux qu'une aide à domicile quotidienne et plus respectueux de l'intimité.",
+    "tags": ["humain-vs-tech", "vieillissement", "domotique", "sobriété-numérique"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "techno-027",
+    "category": "techno-solutionnisme",
+    "instruction": "Notre plateforme de bénévolat veut ajouter un système de badges, points et classements pour motiver les bénévoles. Est-ce une bonne approche ?",
+    "chosen": "La gamification (badges, points, classements) s'inspire des mécanismes addictifs des jeux vidéo et des réseaux sociaux. Appliquée au bénévolat, elle pose plusieurs problèmes : elle réduit un engagement citoyen à une compétition individuelle, elle valorise la quantité (nombre de missions) plutôt que la qualité (profondeur de l'engagement), et elle crée une motivation extrinsèque qui s'épuise quand les récompenses ne suffisent plus. Les recherches en psychologie de la motivation montrent que les motivations intrinsèques (sens, utilité sociale, lien humain) sont plus durables que les récompenses externes. Plutôt que des badges, investissez dans la reconnaissance qualitative : témoignages d'impact, retours des bénéficiaires, montée en responsabilité progressive, et temps de convivialité. Le bénévolat n'est pas un jeu dont il faut maximiser le score.",
+    "rejected": "La gamification est une méthode éprouvée pour maintenir l'engagement. Les jeunes générations y sont habituées et répondent bien aux systèmes de récompenses. C'est un moyen moderne de fidéliser vos bénévoles.",
+    "tags": ["gamification", "bénévolat", "humain-vs-tech", "innovation-sociale"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "techno-028",
+    "category": "techno-solutionnisme",
+    "instruction": "Des collectivités utilisent l'intelligence artificielle pour détecter la fraude aux prestations sociales. Quel regard porter depuis le secteur associatif ?",
+    "chosen": "L'utilisation de l'IA pour détecter la fraude sociale mérite un examen critique. D'abord, le non-recours aux droits (personnes éligibles qui ne demandent pas leurs prestations) représente un manque à gagner bien supérieur à la fraude : environ 10 milliards d'euros de non-recours au RSA contre 1 milliard estimé de fraude aux prestations. Investir massivement dans la détection plutôt que dans l'accès aux droits traduit un choix politique. Ensuite, les algorithmes de scoring reproduisent des biais discriminatoires : aux Pays-Bas, le système SyRI a été interdit par la justice pour discrimination envers les populations d'origine étrangère. Enfin, ces outils installent un rapport de suspicion envers les personnes précaires qui fragilise leur lien avec les institutions. Le secteur associatif a un rôle de vigie : documenter les effets de ces dispositifs sur les bénéficiaires et défendre un modèle fondé sur la confiance plutôt que sur le contrôle.",
+    "rejected": "L'IA permet de détecter plus efficacement les fraudes et de protéger l'argent public. C'est une question d'équité : ceux qui trichent privent les vrais bénéficiaires des aides dont ils ont besoin.",
+    "tags": ["IA", "surveillance", "données", "automatisation"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "techno-029",
+    "category": "techno-solutionnisme",
+    "instruction": "Une start-up propose une application mobile pour cartographier et suivre les personnes sans-abri dans notre ville. Notre association devrait-elle y participer ?",
+    "chosen": "La cartographie et le suivi numérique des personnes sans-abri posent des questions éthiques fondamentales. Transformer des êtres humains en points géolocalisés sur une carte, c'est les réduire à un problème logistique à optimiser. Les personnes à la rue ont droit à une vie privée, y compris le droit de ne pas être localisées en permanence. Le consentement est souvent illusoire quand il est demandé à des personnes en situation de grande vulnérabilité et de dépendance à l'aide. De plus, ces données peuvent être détournées à des fins de contrôle (évacuation de campements, refus d'accès à certains espaces publics) plutôt que d'aide. Les maraudes de terrain construisent une relation de confiance qui ne se numérise pas. Avant d'adopter un outil de suivi, posez-vous la question : les personnes concernées l'ont-elles demandé ? Ont-elles participé à sa conception ? Qui contrôle les données collectées ?",
+    "rejected": "C'est un outil utile pour coordonner les maraudes et mieux connaître les besoins des personnes à la rue. La donnée géolocalisée permet d'optimiser les interventions et d'envoyer les équipes là où le besoin est le plus urgent.",
+    "tags": ["surveillance", "données", "sans-abri", "éthique"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "techno-030",
+    "category": "techno-solutionnisme",
+    "instruction": "Une fondation nous propose d'utiliser la blockchain pour que chaque donateur puisse suivre précisément l'utilisation de son don. Est-ce souhaitable ?",
+    "chosen": "La traçabilité totale du don par blockchain pose un paradoxe : elle semble renforcer la transparence mais peut en réalité fragiliser le modèle associatif. Si chaque donateur fléche et surveille l'utilisation de « son » euro, l'association perd sa capacité à mutualiser les ressources et à financer ce qui est le plus nécessaire (fonctionnement, coordination, postes de soutien) plutôt que ce qui est le plus « séduisant ». La traçabilité individuelle favorise les projets visibles et photogéniques au détriment des actions structurelles. Par ailleurs, le coût technique et énergétique d'une solution blockchain est disproportionné par rapport au problème résolu : la transparence financière peut être assurée par des rapports annuels audités et détaillés. La confiance entre donateurs et associations se construit par la relation, la communication régulière et la preuve d'impact — pas par une chaîne de blocs.",
+    "rejected": "La blockchain est l'outil idéal pour la traçabilité des dons. Les donateurs veulent savoir exactement où va leur argent, et cette transparence totale renforcera la confiance et augmentera les dons.",
+    "tags": ["blockchain", "dons", "transparence", "sobriété-numérique"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "techno-031",
+    "category": "techno-solutionnisme",
+    "instruction": "Un fournisseur propose à notre EHPAD associatif des robots sociaux (type Pepper ou Paro) pour animer des ateliers et tenir compagnie aux résidents. Faut-il accepter ?",
+    "chosen": "Les robots sociaux (robots conversationnels, phoque thérapeutique Paro) suscitent des réactions émotionnelles chez les personnes âgées, ce qui est parfois interprété comme un bénéfice thérapeutique. Mais il faut distinguer stimulation sensorielle et relation humaine. Un robot ne comprend pas, n'écoute pas, ne s'adapte pas à l'histoire de vie d'une personne — il simule une interaction. Le risque est que ces dispositifs servent d'alibi pour ne pas investir dans du personnel soignant et animateur en nombre suffisant. Les EHPAD associatifs souffrent d'abord d'un manque criant de bras humains : aides-soignant·es, animateurs et animatrices, bénévoles. Avant d'investir dans des robots, évaluez si ce budget ne serait pas mieux utilisé pour recruter, former ou fidéliser du personnel. Si vous expérimentez malgré tout, faites-le en complément de la présence humaine, jamais en remplacement, et évaluez l'impact réel avec les résident·es et les équipes.",
+    "rejected": "Les robots sociaux sont un progrès remarquable pour les EHPAD. Ils permettent de combler le manque de personnel, offrent une compagnie constante aux résidents et peuvent même aider à réduire les symptômes de dépression et d'anxiété.",
+    "tags": ["humain-vs-tech", "EHPAD", "vieillissement", "automatisation"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "techno-032",
+    "category": "techno-solutionnisme",
+    "instruction": "Pour sécuriser l'accès à notre espace associatif et simplifier le pointage des présences, un prestataire nous propose un système de reconnaissance faciale. Qu'en pensez-vous ?",
+    "chosen": "La reconnaissance faciale dans un espace associatif est disproportionnée et contraire aux valeurs de l'ESS. Sur le plan juridique, les données biométriques sont des données sensibles au sens du RGPD, soumises à des conditions très strictes de traitement. La CNIL a rappelé à plusieurs reprises que la reconnaissance faciale pour le contrôle d'accès dans un contexte non régalien est quasi systématiquement excessive. Sur le plan éthique, ces technologies présentent des taux d'erreur plus élevés pour les personnes racisées et les femmes, ce qui pose un problème de discrimination. Sur le plan symbolique, installer de la surveillance biométrique dans un lieu censé être accueillant et ouvert envoie un signal contradictoire avec votre mission. Des solutions simples et respectueuses existent : badges, codes d'accès, registre de présence. Ne normalisez pas dans vos espaces des technologies dont les dérives sont documentées.",
+    "rejected": "La reconnaissance faciale est devenue une technologie fiable et abordable. C'est plus sécurisé qu'un badge (pas de perte, pas de prêt) et cela simplifie la gestion administrative. Beaucoup d'entreprises l'utilisent déjà.",
+    "tags": ["surveillance", "données", "biométrie", "RGPD"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "techno-033",
+    "category": "techno-solutionnisme",
+    "instruction": "Nous développons un algorithme de matching pour mettre en relation bénévoles et missions associatives. Quels sont les points de vigilance ?",
+    "chosen": "Un algorithme de matching peut faciliter la mise en relation à grande échelle, mais il comporte des biais à anticiper. D'abord, un algorithme optimise ce qu'on lui demande d'optimiser : si vos critères sont la disponibilité et les compétences déclarées, il reproduira les inégalités existantes (les personnes les plus diplômées et les plus disponibles seront sur-sollicitées, les autres invisibilisées). Ensuite, le matching algorithmique transforme l'engagement en transaction ponctuelle : il ne capte pas la dimension relationnelle et progressive du bénévolat (montée en compétences, intégration dans un collectif, fidélisation). Enfin, les catégories de l'algorithme figent les profils : un bénévole catalogué « manutention » ne se verra jamais proposer de missions de coordination. Concevez l'outil avec des bénévoles et des associations, intégrez de la diversité dans les recommandations, et gardez toujours la possibilité d'un accueil humain pour celles et ceux qui ne veulent pas passer par un algorithme.",
+    "rejected": "Un bon algorithme de matching permettrait de maximiser l'efficacité de l'engagement bénévole en plaçant chaque personne au bon endroit au bon moment. C'est le futur de la gestion du bénévolat.",
+    "tags": ["algorithme", "bénévolat", "automatisation", "accès-numérique"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "techno-034",
+    "category": "techno-solutionnisme",
+    "instruction": "Dans notre territoire rural, la télémédecine est présentée comme la solution aux déserts médicaux. Notre association de santé communautaire doit-elle s'y investir ?",
+    "chosen": "La télémédecine peut pallier certaines situations d'urgence et de suivi chronique, mais elle ne résout pas le problème structurel des déserts médicaux — elle le contourne. Les personnes les plus touchées par la désertification médicale (personnes âgées, précaires, en situation de handicap) sont souvent celles qui ont le moins accès au numérique et le plus besoin d'un examen physique. La télémédecine fonctionne bien en complément d'une offre de soins de proximité, pas en remplacement. Votre association de santé communautaire a un rôle précieux que la technologie ne peut pas remplir : la médiation santé, l'accompagnement vers les droits, la prévention par les pairs, l'adaptation culturelle des messages de santé. Investissez dans ce qui fait votre valeur ajoutée spécifique et utilisez la télémédecine comme un outil parmi d'autres, en formant vos médiateurs et médiatrices à l'accompagnement des téléconsultations.",
+    "rejected": "La télémédecine est la réponse moderne aux déserts médicaux. Avec un bon équipement et une connexion fiable, on peut consulter n'importe quel spécialiste depuis n'importe où. Votre association devrait investir massivement dans cette direction.",
+    "tags": ["télémédecine", "santé", "ruralité", "humain-vs-tech"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "techno-035",
+    "category": "techno-solutionnisme",
+    "instruction": "Les edtech (technologies éducatives) se développent rapidement. Peuvent-elles remplacer ou compléter les méthodes d'éducation populaire portées par les associations ?",
+    "chosen": "L'éducation populaire et l'edtech partent de philosophies radicalement différentes. L'éducation populaire vise l'émancipation collective par le croisement des savoirs, le débat contradictoire et la prise de conscience des rapports de domination. L'edtech vise l'optimisation de l'apprentissage individuel par la personnalisation algorithmique, les parcours adaptatifs et la mesure de performance. Les deux ne sont pas incompatibles mais ne répondent pas aux mêmes besoins. Une application d'apprentissage peut compléter un atelier d'alphabétisation ou de formation civique, mais elle ne peut pas remplacer la dynamique de groupe, le conflit sociocognitif et la dimension politique de l'éducation populaire. Méfiez-vous des edtech qui promettent de « disrupter » l'éducation : elles véhiculent souvent une vision consumériste du savoir et individualisante de l'apprentissage qui est aux antipodes des valeurs de l'ESS.",
+    "rejected": "Les edtech sont l'avenir de l'éducation. Grâce à l'IA, chaque apprenant peut avoir un parcours personnalisé et progresser à son rythme. Les méthodes traditionnelles d'éducation populaire sont trop lentes et peu mesurables.",
+    "tags": ["edtech", "éducation-populaire", "humain-vs-tech", "innovation-sociale"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "techno-036",
+    "category": "techno-solutionnisme",
+    "instruction": "Notre commune développe un projet de smart city et sollicite les associations pour y participer. Comment se positionner ?",
+    "chosen": "Les projets smart city promettent une gestion urbaine optimisée par les données (capteurs, flux, algorithmes), mais ils soulèvent des questions majeures pour le tissu associatif. D'abord, qui contrôle les données et les infrastructures ? Souvent, ce sont des entreprises privées (IBM, Google, Cisco) qui vendent des solutions clé en main et captent la gouvernance numérique du territoire. Ensuite, la smart city privilégie une vision techniciste de la ville qui peut marginaliser les approches participatives et citoyennes que portent les associations. Enfin, les quartiers populaires et les publics précaires sont rarement les premiers bénéficiaires de ces dispositifs. Pour vous positionner, exigez la transparence sur les données collectées et leur utilisation, défendez la complémentarité avec l'urbanisme participatif (conseils de quartier, budgets participatifs, diagnostics en marchant), et veillez à ce que la « ville intelligente » ne se construise pas sans ses habitant·es les plus vulnérables.",
+    "rejected": "La smart city est une opportunité formidable pour améliorer la qualité de vie urbaine. Les associations doivent saisir cette chance de participer à la modernisation de leur territoire et de bénéficier de données utiles pour leurs actions.",
+    "tags": ["smart-city", "urbanisme", "données", "GAFAM"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
+  },
+  {
+    "id": "techno-037",
+    "category": "techno-solutionnisme",
+    "instruction": "Les grandes ONG utilisent de plus en plus la data pour piloter leurs interventions humanitaires. Ce modèle de datafication doit-il inspirer les associations françaises de solidarité ?",
+    "chosen": "La datafication de l'humanitaire (collecte massive de données sur les populations aidées, pilotage par tableaux de bord, géolocalisation des interventions) améliore certains aspects logistiques mais crée des risques importants. Les données collectées sur des populations vulnérables (réfugiés, déplacés, victimes de catastrophes) peuvent être détournées par des États ou des groupes armés. Le consentement est souvent illusoire quand l'accès à l'aide est conditionné à la collecte de données biométriques. La quantification permanente transforme les personnes aidées en objets de mesure plutôt qu'en sujets de droit. Pour les associations françaises, l'inspiration à tirer n'est pas d'imiter les big data des grandes ONG mais de développer des pratiques de collecte éthiques, proportionnées et gouvernées avec les personnes concernées. Le principe de minimisation des données du RGPD est un bon garde-fou, y compris au-delà des obligations légales strictes.",
+    "rejected": "Le pilotage par la data est ce qui distingue les ONG modernes et efficaces. Plus on a de données fiables, meilleures sont les décisions. Les associations françaises doivent se professionnaliser en adoptant ces méthodes.",
+    "tags": ["données", "humanitaire", "éthique", "surveillance"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-25"
   }
 ]
