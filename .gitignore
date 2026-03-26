@@ -43,3 +43,7 @@ exports/
 secrets/
 *.key
 *.pem
+
+# Docs
+docs/aideal/*
+docs/aideal
