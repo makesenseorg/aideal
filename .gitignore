@@ -47,3 +47,4 @@ secrets/
 # Docs
 docs/aideal/*
 docs/aideal
+/deploy/*

@@ -103,6 +103,9 @@ Ce dataset est publié sous licence **Apache 2.0** — libre d'utilisation, de m
 
 AIDEAL est initié par [makesense](https://makesense.org), un mouvement qui accompagne celles et ceux qui veulent changer le monde.
 
+🌐 Site web : [aideal.community](https://aideal.community)
+📬 Contact : [hello@aideal.community](mailto:hello@aideal.community)
+
 ---
 
 *Ce README est rédigé en écriture inclusive. Les contributions au dataset le sont également.*
