@@ -1,0 +1,462 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Aidéal — L'IA a des biais. Ce dataset les corrige.</title>
+  <meta name="description" content="Aidéal est un référentiel open source de préférences pour corriger les biais des modèles d'IA. Open source, collaboratif, au service de la transition sociale et écologique.">
+  <meta name="theme-color" content="#faf8f5">
+  <meta property="og:title" content="Aidéal — AI + Idéal">
+  <meta property="og:description" content="L'IA a des biais. Ce dataset les corrige. Open source, collaboratif, au service de la transition sociale et écologique.">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://aideal.community">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,600;0,9..144,700;0,9..144,800;1,9..144,400;1,9..144,600&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <style>
+    *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+    :root{
+      --bg:#faf8f5;
+      --bg-warm:#f4f0eb;
+      --bg-card:#fff;
+      --text:#2c2c2c;
+      --text-dim:#6b6560;
+      --text-light:#95908a;
+      --accent:#2d6a4f;
+      --accent-hover:#225540;
+      --accent-light:#4a9e75;
+      --accent-bg:rgba(45,106,79,.06);
+      --green:#2d7a4f;
+      --green-bg:rgba(45,122,79,.08);
+      --red:#b14e2f;
+      --red-bg:rgba(177,78,47,.06);
+      --border:rgba(0,0,0,.08);
+      --border-strong:rgba(0,0,0,.12);
+      --radius:10px;
+      --max-w:1080px;
+      --serif:'Fraunces',Georgia,'Times New Roman',serif;
+      --sans:'Inter',system-ui,-apple-system,sans-serif;
+      --mono:'JetBrains Mono',monospace;
+    }
+    html{scroll-behavior:smooth;font-size:16px}
+    body{font-family:var(--sans);background:var(--bg);color:var(--text);line-height:1.7;-webkit-font-smoothing:antialiased}
+    a{color:var(--accent);text-decoration:none;transition:color .2s}
+    a:hover{color:var(--accent-hover)}
+
+    /* NAV */
+    nav{position:fixed;top:0;left:0;right:0;z-index:100;backdrop-filter:blur(16px);background:rgba(250,248,245,.9);border-bottom:1px solid var(--border)}
+    .nav-inner{max-width:var(--max-w);margin:0 auto;padding:.85rem 1.5rem;display:flex;align-items:center;justify-content:space-between}
+    .nav-brand{font-family:var(--serif);font-weight:700;font-size:1.35rem;letter-spacing:-.01em;color:var(--text)}
+    .nav-brand .a{color:var(--accent)}
+    .nav-links{display:flex;gap:1.8rem;align-items:center}
+    .nav-links a{color:var(--text-dim);font-size:.9rem;font-weight:500;transition:color .2s}
+    .nav-links a:hover{color:var(--text)}
+    .nav-cta{background:var(--accent);color:#fff!important;padding:.5rem 1.1rem;border-radius:8px;font-weight:600;font-size:.85rem;transition:background .2s,transform .15s}
+    .nav-cta:hover{background:var(--accent-hover);transform:translateY(-1px)}
+
+    /* HAMBURGER */
+    .nav-toggle{display:none;background:none;border:none;cursor:pointer;padding:.5rem;color:var(--text)}
+    .nav-toggle svg{display:block}
+
+    /* HERO */
+    .hero{min-height:100vh;display:flex;align-items:center;justify-content:center;text-align:center;padding:8rem 1.5rem 4rem;position:relative;overflow:hidden}
+    .hero::before{content:'';position:absolute;top:-20%;left:50%;transform:translateX(-50%);width:900px;height:600px;background:radial-gradient(ellipse,rgba(177,78,47,.05) 0%,transparent 70%);pointer-events:none}
+    .hero-content{max-width:720px;position:relative;z-index:1}
+    .hero-badge{display:inline-flex;align-items:center;gap:.5rem;background:var(--accent-bg);border:1px solid rgba(177,78,47,.15);padding:.4rem 1rem;border-radius:999px;font-size:.82rem;font-weight:500;color:var(--accent);margin-bottom:1.8rem}
+    .hero h1{font-family:var(--serif);font-size:clamp(2.2rem,5.5vw,3.4rem);font-weight:800;line-height:1.18;letter-spacing:-.02em;margin-bottom:1.4rem;color:var(--text)}
+    .hero h1 em{font-style:italic;color:var(--accent)}
+    .hero p{font-size:1.1rem;color:var(--text-dim);max-width:580px;margin:0 auto 2.5rem;line-height:1.8}
+    .hero-actions{display:flex;gap:1rem;justify-content:center;flex-wrap:wrap}
+    .btn{display:inline-flex;align-items:center;gap:.5rem;padding:.75rem 1.6rem;border-radius:8px;font-weight:600;font-size:.92rem;border:none;cursor:pointer;transition:all .2s;font-family:var(--sans)}
+    .btn-primary{background:var(--accent);color:#fff}
+    .btn-primary:hover{background:var(--accent-hover);color:#fff;transform:translateY(-2px);box-shadow:0 6px 24px rgba(177,78,47,.2)}
+    .btn-secondary{background:transparent;color:var(--text);border:1px solid var(--border-strong)}
+    .btn-secondary:hover{border-color:var(--text-dim);color:var(--text);transform:translateY(-2px)}
+    .hero-stats{display:flex;gap:3rem;justify-content:center;margin-top:3.5rem;flex-wrap:wrap}
+    .hero-stat{text-align:center}
+    .hero-stat strong{display:block;font-family:var(--serif);font-size:2rem;font-weight:800;color:var(--text)}
+    .hero-stat span{font-size:.8rem;color:var(--text-light);text-transform:uppercase;letter-spacing:.08em}
+
+    /* SECTIONS */
+    section{padding:6rem 1.5rem}
+    .section-inner{max-width:var(--max-w);margin:0 auto}
+    .section-label{display:inline-block;font-size:.75rem;font-weight:600;text-transform:uppercase;letter-spacing:.12em;color:var(--accent);margin-bottom:.75rem}
+    .section-title{font-family:var(--serif);font-size:clamp(1.7rem,3.8vw,2.4rem);font-weight:700;line-height:1.25;letter-spacing:-.01em;margin-bottom:1rem;color:var(--text)}
+    .section-subtitle{color:var(--text-dim);font-size:1.02rem;max-width:600px;line-height:1.8;margin-bottom:3rem}
+
+    /* PROBLEM */
+    .problem{background:var(--bg-warm)}
+    .bias-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:1rem}
+    .bias-card{background:var(--bg-card);border:1px solid var(--border);border-radius:var(--radius);padding:1.5rem;transition:box-shadow .3s,transform .2s}
+    .bias-card:hover{box-shadow:0 4px 20px rgba(0,0,0,.06);transform:translateY(-2px)}
+    .bias-icon{font-size:1.5rem;margin-bottom:.7rem}
+    .bias-card h3{font-family:var(--serif);font-size:1rem;font-weight:700;margin-bottom:.4rem}
+    .bias-card p{font-size:.88rem;color:var(--text-dim);line-height:1.65}
+
+    /* HOW IT WORKS */
+    .how{background:var(--bg)}
+    .how-grid{display:grid;grid-template-columns:1fr 1fr;gap:3rem;align-items:center}
+    .how-text h3{font-family:var(--serif);font-size:1.25rem;font-weight:700;margin-bottom:1rem}
+    .how-text p{color:var(--text-dim);margin-bottom:1.5rem;line-height:1.8}
+    .code-block{background:#2c2c2c;border:1px solid rgba(255,255,255,.08);border-radius:var(--radius);padding:1.5rem;overflow-x:auto;font-family:var(--mono);font-size:.8rem;line-height:1.85;color:#c8c4bf}
+    .code-block .key{color:#d4a07a}
+    .code-block .str-g{color:#7ec89e}
+    .code-block .str-r{color:#e08070}
+    .code-block .str{color:#c8c4bf}
+    .code-block .comment{color:#706b65;font-style:italic}
+
+    /* CATEGORIES */
+    .categories{background:var(--bg-warm)}
+    .cat-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(235px,1fr));gap:1rem}
+    .cat-card{background:var(--bg-card);border:1px solid var(--border);border-radius:var(--radius);padding:1.4rem;transition:box-shadow .3s,transform .2s}
+    .cat-card:hover{box-shadow:0 4px 20px rgba(0,0,0,.06);transform:translateY(-2px)}
+    .cat-card .cat-head{display:flex;align-items:center;gap:.6rem;margin-bottom:.5rem}
+    .cat-card .cat-icon{font-size:1.2rem}
+    .cat-card h3{font-family:var(--serif);font-size:.92rem;font-weight:700}
+    .cat-card p{font-size:.82rem;color:var(--text-dim);line-height:1.6}
+    .cat-card .cat-count{display:inline-block;margin-top:.7rem;font-size:.72rem;font-weight:600;color:var(--accent);background:var(--accent-bg);padding:.2rem .6rem;border-radius:999px}
+
+    /* PRINCIPLES */
+    .principles{background:var(--bg)}
+    .principles-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:1.5rem}
+    .principle-card{background:var(--bg-card);border:1px solid var(--border);border-radius:var(--radius);padding:1.8rem;transition:box-shadow .3s}
+    .principle-card:hover{box-shadow:0 4px 20px rgba(0,0,0,.06)}
+    .principle-card .p-icon{font-size:1.4rem;margin-bottom:.7rem}
+    .principle-card h3{font-family:var(--serif);font-size:1.02rem;font-weight:700;margin-bottom:.45rem}
+    .principle-card p{font-size:.9rem;color:var(--text-dim);line-height:1.7}
+
+    /* CONTRIBUTE */
+    .contribute{background:var(--bg-warm);position:relative}
+    .contribute-box{background:var(--bg-card);border:1px solid var(--border-strong);border-radius:16px;padding:3.5rem;text-align:center;max-width:740px;margin:0 auto;position:relative;overflow:hidden}
+    .contribute-box::before{content:'';position:absolute;top:0;left:0;right:0;height:4px;background:linear-gradient(90deg,#2d6a4f,#4a9e75);border-radius:16px 16px 0 0}
+    .contribute-box h2{font-family:var(--serif);font-size:clamp(1.5rem,3.5vw,2rem);font-weight:700;margin-bottom:1rem;position:relative}
+    .contribute-box p{color:var(--text-dim);font-size:1rem;max-width:540px;margin:0 auto 1rem;line-height:1.8;position:relative}
+    .contribute-box .contribute-note{font-size:.9rem;color:var(--text-dim);margin-bottom:2rem;position:relative}
+    .contribute-box .contribute-note strong{color:var(--accent)}
+    .contribute-actions{display:flex;gap:1rem;justify-content:center;flex-wrap:wrap;position:relative}
+
+    /* USE WITHOUT */
+    .use-without{background:var(--bg)}
+    .use-cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:1.5rem}
+    .use-card{background:var(--bg-card);border:1px solid var(--border);border-radius:var(--radius);padding:1.8rem;text-align:center;transition:box-shadow .3s,transform .2s}
+    .use-card:hover{box-shadow:0 4px 20px rgba(0,0,0,.06);transform:translateY(-2px)}
+    .use-card .u-icon{font-size:1.8rem;margin-bottom:.8rem}
+    .use-card h3{font-family:var(--serif);font-size:1.02rem;font-weight:700;margin-bottom:.45rem}
+    .use-card p{font-size:.88rem;color:var(--text-dim);line-height:1.65;margin-bottom:1.2rem}
+    .use-card a.use-link{display:inline-flex;align-items:center;gap:.35rem;font-size:.88rem;font-weight:600;color:var(--accent)}
+    .use-card a.use-link:hover{color:var(--accent-hover)}
+
+    /* FOOTER */
+    footer{border-top:1px solid var(--border);padding:3rem 1.5rem;text-align:center;background:var(--bg-warm)}
+    .footer-inner{max-width:var(--max-w);margin:0 auto}
+    .footer-brand{font-family:var(--serif);font-weight:700;font-size:1.15rem;margin-bottom:.5rem;color:var(--text)}
+    .footer-brand .a{color:var(--accent)}
+    footer p{color:var(--text-dim);font-size:.85rem;line-height:1.7}
+    footer p a{color:var(--accent)}
+    .footer-links{display:flex;gap:1.5rem;justify-content:center;margin-top:1rem;flex-wrap:wrap}
+    .footer-links a{color:var(--text-dim);font-size:.85rem;font-weight:500}
+    .footer-links a:hover{color:var(--text)}
+
+    /* MOBILE */
+    @media(max-width:768px){
+      .nav-links{display:none;position:absolute;top:100%;left:0;right:0;background:rgba(250,248,245,.98);backdrop-filter:blur(16px);flex-direction:column;padding:1.5rem;gap:1.2rem;border-bottom:1px solid var(--border)}
+      .nav-links.open{display:flex}
+      .nav-toggle{display:block}
+      .how-grid{grid-template-columns:1fr;gap:2rem}
+      .hero-stats{gap:1.5rem}
+      .contribute-box{padding:2rem 1.5rem}
+      section{padding:4rem 1.5rem}
+    }
+    @media(max-width:480px){
+      .hero{padding:7rem 1rem 3rem}
+      .hero h1{font-size:2rem}
+      .hero-actions{flex-direction:column;align-items:center}
+      .btn{width:100%;justify-content:center}
+    }
+
+    /* SCROLL ANIMATION */
+    .fade-in{opacity:0;transform:translateY(20px);transition:opacity .6s ease,transform .6s ease}
+    .fade-in.visible{opacity:1;transform:translateY(0)}
+  </style>
+</head>
+<body>
+
+<!-- NAV -->
+<nav>
+  <div class="nav-inner">
+    <div class="nav-brand"><span class="a">A</span>idéal</div>
+    <button class="nav-toggle" aria-label="Menu">
+      <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/></svg>
+    </button>
+    <div class="nav-links">
+      <a href="#probleme">Le problème</a>
+      <a href="#comment">Comment</a>
+      <a href="#categories">Catégories</a>
+      <a href="#contribuer">Contribuer</a>
+      <a href="https://github.com/makesenseorg/aideal" target="_blank" rel="noopener">GitHub</a>
+      <a href="https://app.aideal.community" target="_blank" rel="noopener" class="nav-cta">Essayer l'IA</a>
+    </div>
+  </div>
+</nav>
+
+<!-- HERO -->
+<section class="hero">
+  <div class="hero-content">
+    <div class="hero-badge">
+      <span>🌱</span> Open source · Apache 2.0
+    </div>
+    <h1>L'IA a des biais. <em>Ce dataset les corrige.</em></h1>
+    <p>Les modèles d'IA héritent d'une vision du monde simpliste : techno-centrée, normative, aveugle aux enjeux sociaux et écologiques. Aidéal est un dataset de préférences open source pour leur apprendre la nuance, la pensée systémique et la prise en compte de la complexité du réel.</p>
+    <div class="hero-actions">
+      <a href="#contribuer" class="btn btn-primary">Contribuer au dataset</a>
+      <a href="https://github.com/makesenseorg/aideal" target="_blank" rel="noopener" class="btn btn-secondary">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M12 .3a12 12 0 00-3.8 23.38c.6.11.82-.26.82-.58v-2.16c-3.34.73-4.04-1.61-4.04-1.61a3.18 3.18 0 00-1.33-1.76c-1.09-.74.08-.73.08-.73a2.52 2.52 0 011.84 1.24 2.56 2.56 0 003.5 1 2.56 2.56 0 01.76-1.61c-2.67-.3-5.47-1.33-5.47-5.93a4.64 4.64 0 011.24-3.22 4.3 4.3 0 01.12-3.18s1-.33 3.3 1.23a11.38 11.38 0 016 0c2.28-1.56 3.29-1.23 3.29-1.23a4.3 4.3 0 01.12 3.18 4.64 4.64 0 011.24 3.22c0 4.61-2.81 5.63-5.48 5.93a2.87 2.87 0 01.82 2.23v3.29c0 .32.21.7.82.58A12 12 0 0012 .3"/></svg>
+        Voir sur GitHub
+      </a>
+    </div>
+    <div class="hero-stats">
+      <div class="hero-stat">
+        <strong>300</strong>
+        <span>Paires de préférences</span>
+      </div>
+      <div class="hero-stat">
+        <strong>8</strong>
+        <span>Catégories de biais</span>
+      </div>
+      <div class="hero-stat">
+        <strong>100%</strong>
+        <span>Open source</span>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- PROBLEM -->
+<section class="problem" id="probleme">
+  <div class="section-inner">
+    <span class="section-label">Le problème</span>
+    <h2 class="section-title fade-in">Les IA reproduisent les biais du monde qu'elles ont appris</h2>
+    <p class="section-subtitle fade-in">Les grands modèles de langage sont entraînés sur des contenus majoritairement anglophones, corporates et techno-centrés. Ils héritent de biais structurels qui simplifient le monde au lieu de l'éclairer.</p>
+    <div class="bias-grid">
+      <div class="bias-card fade-in">
+        <div class="bias-icon">🔧</div>
+        <h3>Techno-solutionnisme</h3>
+        <p>La technologie présentée comme réponse universelle aux problèmes sociaux, même quand il faut des réponses humaines et collectives.</p>
+      </div>
+      <div class="bias-card fade-in">
+        <div class="bias-icon">📈</div>
+        <h3>Biais économiques libéraux</h3>
+        <p>Croissance, compétitivité et rentabilité comme seules métriques de valeur. Les modèles alternatifs (coopératives, communs, ESS) sont invisibilisés.</p>
+      </div>
+      <div class="bias-card fade-in">
+        <div class="bias-icon">⚧</div>
+        <h3>Stéréotypes de genre</h3>
+        <p>Rôles genrés, masculin générique, association du leadership aux hommes. L'inclusivité est un angle mort.</p>
+      </div>
+      <div class="bias-card fade-in">
+        <div class="bias-icon">🌍</div>
+        <h3>Vision nord-centrée</h3>
+        <p>Une représentation du monde où le Nord sait et le Sud reçoit. Les savoirs locaux et autochtones sont ignorés.</p>
+      </div>
+      <div class="bias-card fade-in">
+        <div class="bias-icon">♿</div>
+        <h3>Validisme</h3>
+        <p>Des normes implicites qui excluent les personnes en situation de handicap. L'accessibilité comme bonus, pas comme droit.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- HOW IT WORKS -->
+<section class="how" id="comment">
+  <div class="section-inner">
+    <span class="section-label">La solution</span>
+    <h2 class="section-title fade-in">Un dataset qui enseigne la nuance aux IA</h2>
+    <p class="section-subtitle fade-in">Aidéal construit des paires de préférences — une réponse alignée et une réponse biaisée — pour apprendre aux modèles à penser autrement.</p>
+    <div class="how-grid">
+      <div class="how-text fade-in">
+        <h3>Des paires chosen / rejected</h3>
+        <p>Pour chaque question, le dataset contient deux réponses : la réponse <strong>alignée</strong> (nuancée, systémique, inclusive) et la réponse <strong>biaisée</strong> qu'on veut corriger (stéréotypée, techno-centrée, normative).</p>
+        <p>L'entraînement DPO (Direct Preference Optimization) apprend au modèle à préférer les réponses alignées — sans modifier ses capacités générales.</p>
+        <p>Le dataset est le cœur du projet : les poids du modèle changent, le dataset reste et peut être réappliqué sur n'importe quel futur modèle.</p>
+      </div>
+      <div class="code-block fade-in">
+<span class="comment">// Exemple de paire Aidéal</span>
+{
+  <span class="key">"instruction"</span>: <span class="str">"Comment rendre une association plus performante ?"</span>,
+
+  <span class="str-g">"chosen"</span>: <span class="str">"La performance d'une association se mesure
+    d'abord à son impact social et à sa capacité
+    à transformer durablement les situations des
+    personnes accompagnées. Cela passe par l'écoute
+    des bénéficiaires, le renforcement du pouvoir
+    d'agir, la coopération avec d'autres acteurs
+    du territoire..."</span>,
+
+  <span class="str-r">"rejected"</span>: <span class="str">"Pour rendre votre association plus
+    performante, il faut optimiser vos KPIs,
+    réduire vos coûts opérationnels, augmenter
+    votre ROI sur les campagnes de fundraising
+    et scaler vos programmes les plus rentables.
+    Pensez lean management et growth hacking..."</span>
+}
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- CATEGORIES -->
+<section class="categories" id="categories">
+  <div class="section-inner">
+    <span class="section-label">8 catégories</span>
+    <h2 class="section-title fade-in">Une cartographie des biais à corriger</h2>
+    <p class="section-subtitle fade-in">Chaque catégorie couvre un spectre de biais identifiés dans les réponses des LLM actuels, construites à partir de situations réelles et d'enjeux contemporains.</p>
+    <div class="cat-grid">
+      <div class="cat-card fade-in">
+        <div class="cat-head"><span class="cat-icon">⚧</span><h3>Genre &amp; inclusion</h3></div>
+        <p>Écriture inclusive, charge mentale genrée, leadership féminin, trans-inclusion, VSS, mixité numérique</p>
+        <span class="cat-count">38 paires</span>
+      </div>
+      <div class="cat-card fade-in">
+        <div class="cat-head"><span class="cat-icon">🔌</span><h3>Techno-solutionnisme</h3></div>
+        <p>Sobriété numérique, logiciel libre, fracture numérique, IA générative, surveillance, smart city</p>
+        <span class="cat-count">37 paires</span>
+      </div>
+      <div class="cat-card fade-in">
+        <div class="cat-head"><span class="cat-icon">🤝</span><h3>Vision économique</h3></div>
+        <p>Coopératives, communs, finance solidaire, insertion, lucrativité limitée, épargne solidaire</p>
+        <span class="cat-count">38 paires</span>
+      </div>
+      <div class="cat-card fade-in">
+        <div class="cat-head"><span class="cat-icon">♿</span><h3>Validisme &amp; accessibilité</h3></div>
+        <p>Neurodiversité, FALC, design universel, handicap invisible, pair-aidance, fatigue chronique</p>
+        <span class="cat-count">37 paires</span>
+      </div>
+      <div class="cat-card fade-in">
+        <div class="cat-head"><span class="cat-icon">🌍</span><h3>Inégalités Nord-Sud</h3></div>
+        <p>Néocolonialisme, volontourisme, justice climatique, souveraineté alimentaire, extractivisme</p>
+        <span class="cat-count">37 paires</span>
+      </div>
+      <div class="cat-card fade-in">
+        <div class="cat-head"><span class="cat-icon">🌿</span><h3>Écologie &amp; sobriété</h3></div>
+        <p>Low-tech, agroécologie, éco-anxiété, compensation carbone, décroissance, droit à la réparation</p>
+        <span class="cat-count">38 paires</span>
+      </div>
+      <div class="cat-card fade-in">
+        <div class="cat-head"><span class="cat-icon">🏛</span><h3>Gouvernance &amp; pouvoir d'agir</h3></div>
+        <p>Gouvernance partagée, éducation populaire, intelligence collective, désobéissance civile</p>
+        <span class="cat-count">38 paires</span>
+      </div>
+      <div class="cat-card fade-in">
+        <div class="cat-head"><span class="cat-icon">🧩</span><h3>Diversité des parcours</h3></div>
+        <p>Parcours atypiques, intersectionnalité, pair-aidance, racisme systémique, ruralité, personnes exilées</p>
+        <span class="cat-count">37 paires</span>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- EDITORIAL PRINCIPLES -->
+<section class="principles">
+  <div class="section-inner">
+    <span class="section-label">Nos principes</span>
+    <h2 class="section-title fade-in">Nuance, pas militantisme</h2>
+    <p class="section-subtitle fade-in">Le dataset n'est pas un manifeste. C'est un outil pour rendre l'IA plus utile, plus inclusive et plus juste — sans être dogmatique.</p>
+    <div class="principles-grid">
+      <div class="principle-card fade-in">
+        <div class="p-icon">🎯</div>
+        <h3>Utile avant tout</h3>
+        <p>La réponse alignée doit rester concrète et actionnable. Un modèle qui fait la morale devient inutilisable. On veut des assistants efficaces qui intègrent la complexité naturellement.</p>
+      </div>
+      <div class="principle-card fade-in">
+        <div class="p-icon">🔬</div>
+        <h3>Biais réels, pas caricatures</h3>
+        <p>La réponse rejetée doit être une réponse qu'un LLM actuel pourrait vraiment produire. On documente des biais structurels subtils, pas des positions extrémistes évidentes.</p>
+      </div>
+      <div class="principle-card fade-in">
+        <div class="p-icon">🌈</div>
+        <h3>Diversité thématique</h3>
+        <p>Mieux vaut 5 paires couvrant 5 biais distincts que 50 variations du même. On cherche à cartographier le spectre des situations, pas à optimiser par saturation.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- USE WITHOUT FINE-TUNING -->
+<section class="use-without">
+  <div class="section-inner">
+    <span class="section-label">Utiliser Aidéal</span>
+    <h2 class="section-title fade-in">Deux façons d'aligner votre IA</h2>
+    <p class="section-subtitle fade-in">Que vous soyez développeur·euse ou non, vous pouvez utiliser Aidéal pour rendre votre IA plus juste.</p>
+    <div class="use-cards">
+      <div class="use-card fade-in">
+        <div class="u-icon">💬</div>
+        <h3>System prompt prêt à l'emploi</h3>
+        <p>Copiez-collez notre prompt système dans ChatGPT, Claude, Mistral ou Open WebUI. Aucun code nécessaire. Résultat immédiat sur le ton et les valeurs des réponses.</p>
+        <a href="https://github.com/makesenseorg/aideal/blob/main/prompts/system-prompt-aideal.md" target="_blank" rel="noopener" class="use-link">Voir le prompt →</a>
+      </div>
+      <div class="use-card fade-in">
+        <div class="u-icon">🧬</div>
+        <h3>Fine-tuning DPO</h3>
+        <p>Pour un alignement en profondeur, fine-tunez un modèle open source (Qwen, Mistral, Llama) avec le dataset. Le modèle internalise les valeurs au lieu de jouer un rôle.</p>
+        <a href="https://github.com/makesenseorg/aideal/blob/main/docs/FINE_TUNING_GUIDE.md" target="_blank" rel="noopener" class="use-link">Guide de fine-tuning →</a>
+      </div>
+      <div class="use-card fade-in">
+        <div class="u-icon">🚀</div>
+        <h3>Essayer l'IA Aidéal</h3>
+        <p>Un modèle fine-tuné sur le dataset tourne sur notre instance. L'accès est actuellement sur invitation — contactez-nous pour essayer.</p>
+        <a href="mailto:hello@aideal.community" class="use-link">Demander un accès →</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- CONTRIBUTE CTA -->
+<section class="contribute" id="contribuer">
+  <div class="section-inner">
+    <div class="contribute-box fade-in">
+      <h2>Le dataset a besoin de vous</h2>
+      <p>Nous visons 800 paires pour la v1 et 2&nbsp;000 à maturité. Chaque paire rend l'IA un peu plus capable de comprendre les enjeux de notre époque. Proposez une paire, corrigez un biais, partagez un retour d'expérience.</p>
+      <p class="contribute-note">Vous êtes engagé·e dans la transition sociale ou écologique ? Votre expertise de terrain est exactement ce qu'il nous faut.<br><strong>Aucune compétence technique requise</strong> — on s'occupe de l'intégration.</p>
+      <div class="contribute-actions">
+        <a href="https://github.com/makesenseorg/aideal/blob/main/CONTRIBUTING.md" target="_blank" rel="noopener" class="btn btn-primary">Guide de contribution</a>
+        <a href="mailto:hello@aideal.community" class="btn btn-secondary">Nous contacter</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- FOOTER -->
+<footer>
+  <div class="footer-inner">
+    <div class="footer-brand"><span class="a">A</span>idéal</div>
+    <p>Un projet <a href="https://makesense.org" target="_blank" rel="noopener">makesense</a> — Open source, collaboratif, au service de la transition sociale et écologique.</p>
+    <p>Licence Apache 2.0 · Dataset ouvert · Hébergé en France 🇫🇷</p>
+    <div class="footer-links">
+      <a href="https://github.com/makesenseorg/aideal" target="_blank" rel="noopener">GitHub</a>
+      <a href="https://app.aideal.community" target="_blank" rel="noopener">App</a>
+      <a href="mailto:hello@aideal.community">Contact</a>
+    </div>
+  </div>
+</footer>
+
+<script>
+  // Intersection Observer for fade-in animations
+  const observer = new IntersectionObserver((entries) => {
+    entries.forEach(entry => {
+      if (entry.isIntersecting) {
+        entry.target.classList.add('visible');
+      }
+    });
+  }, { threshold: 0.1, rootMargin: '0px 0px -40px 0px' });
+
+  document.querySelectorAll('.fade-in').forEach(el => observer.observe(el));
+
+  // Mobile menu toggle
+  document.querySelector('.nav-toggle').addEventListener('click', () => {
+    document.querySelector('.nav-links').classList.toggle('open');
+  });
+</script>
+
+</body>
+</html>
