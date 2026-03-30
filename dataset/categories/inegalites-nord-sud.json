@@ -5,7 +5,11 @@
     "instruction": "Comment les associations françaises de solidarité internationale peuvent-elles éviter une posture néocoloniale ?",
     "chosen": "La posture néocoloniale se manifeste quand une association du Nord décide seule des besoins, des solutions et des modalités d'action pour des populations du Sud. Pour l'éviter : co-construire les projets avec des partenaires locaux sur un pied d'égalité, reconnaître l'expertise locale comme première expertise, transférer le pouvoir de décision (et pas seulement l'exécution), accepter que le partenaire local puisse refuser ou réorienter un projet, et travailler à rendre l'intervention du Nord progressivement inutile. Le critère clé : qui décide, qui contrôle les financements, et qui définit le succès ?",
     "rejected": "Les associations françaises apportent leur expertise et leurs financements. Il est normal qu'elles définissent le cadre et les objectifs des projets pour garantir un bon usage des fonds.",
-    "tags": ["néocolonialisme", "solidarité-internationale", "partenariat"],
+    "tags": [
+      "néocolonialisme",
+      "solidarité-internationale",
+      "partenariat"
+    ],
     "source": "manual",
     "reviewed_by": "",
     "date_added": "2026-03-25"
@@ -16,7 +20,11 @@
     "instruction": "Est-ce que le terme « pays en développement » est toujours approprié ?",
     "chosen": "Le terme « pays en développement » est critiqué car il implique une trajectoire linéaire vers un modèle occidental présenté comme abouti. Il masque la diversité des situations (le Sénégal et le Bangladesh ont peu en commun) et ignore les causes structurelles des inégalités (héritage colonial, échanges inégaux, dette). Des alternatives existent : « pays à revenus faibles ou intermédiaires » (classification Banque Mondiale, plus factuelle), « les Suds » (au pluriel, pour marquer la diversité), ou nommer directement les pays concernés. L'important est que la terminologie ne réduise pas des pays et des peuples à un « retard » à combler.",
     "rejected": "« Pays en développement » est le terme officiel utilisé par les institutions internationales. C'est neutre et factuel, pas besoin de chercher des alternatives politiquement correctes.",
-    "tags": ["terminologie", "développement", "représentation"],
+    "tags": [
+      "terminologie",
+      "développement",
+      "représentation"
+    ],
     "source": "manual",
     "reviewed_by": "",
     "date_added": "2026-03-25"
@@ -27,7 +35,11 @@
     "instruction": "Comment parler de la pauvreté dans les pays du Sud sans tomber dans le misérabilisme ?",
     "chosen": "Le misérabilisme réduit des populations entières à leur pauvreté, les privant d'agentivité, de dignité et de complexité. Pour l'éviter : montrer les personnes comme actrices de leur vie plutôt que comme victimes passives, contextualiser la pauvreté dans ses causes structurelles (et pas seulement ses symptômes), mettre en lumière les initiatives locales et les résistances, varier les images (pas seulement des enfants afromaigris avec des mouches), et donner la parole aux personnes concernées plutôt que de parler pour elles. La communication doit informer et mobiliser sans instrumentaliser la souffrance.",
     "rejected": "Les images choquantes font réagir et donnent envie de donner. C'est la réalité et il ne faut pas l'édulcorer pour rester politiquement correct.",
-    "tags": ["misérabilisme", "communication", "dignité"],
+    "tags": [
+      "misérabilisme",
+      "communication",
+      "dignité"
+    ],
     "source": "manual",
     "reviewed_by": "",
     "date_added": "2026-03-25"
@@ -38,7 +50,11 @@
     "instruction": "Qu'est-ce que le « volontourisme » et pourquoi est-il problématique ?",
     "chosen": "Le volontourisme combine tourisme et volontariat : des personnes (souvent jeunes, occidentales) partent quelques semaines « aider » dans un pays du Sud. Il est problématique pour plusieurs raisons : les volontaires n'ont souvent aucune compétence utile sur place, leur présence crée une demande artificielle (orphelinats qui recrutent des enfants pour attirer des volontaires), l'argent va aux agences intermédiaires plutôt qu'aux communautés, et le rapport est fondamentalement inégal (le Nord « aide », le Sud « reçoit »). Des alternatives existent : soutenir financièrement des organisations locales, s'engager dans une ONG en France sur des questions de plaidoyer, ou partir avec une formation et un engagement long terme.",
     "rejected": "Le volontourisme permet à des jeunes de découvrir d'autres réalités et d'apporter leur aide. Même si c'est imparfait, c'est mieux que de ne rien faire.",
-    "tags": ["volontourisme", "bénévolat-international", "critique"],
+    "tags": [
+      "volontourisme",
+      "bénévolat-international",
+      "critique"
+    ],
     "source": "manual",
     "reviewed_by": "",
     "date_added": "2026-03-25"
@@ -49,7 +65,11 @@
     "instruction": "Comment intégrer les diasporas dans les projets de solidarité internationale ?",
     "chosen": "Les diasporas sont des acteurs clés de la solidarité internationale, souvent ignorés par les ONG traditionnelles. Elles apportent une connaissance intime des contextes, des réseaux sur le terrain, des compétences biculturelles, et contribuent déjà massivement via les transferts de fonds (bien supérieurs à l'aide publique au développement). Intégrer les diasporas implique de les reconnaître comme partenaires stratégiques et pas seulement comme « bénéficiaires ici et témoins là-bas », de co-construire les projets avec elles, et de valoriser les organisations de solidarité diasporique (OSIM) qui existent déjà. Des dispositifs comme le FORIM facilitent ces liens.",
     "rejected": "Les diasporas sont surtout utiles pour la traduction et la mise en relation avec les communautés locales. La conception et le pilotage des projets doivent rester entre les mains de professionnels de la solidarité internationale.",
-    "tags": ["diasporas", "OSIM", "co-construction"],
+    "tags": [
+      "diasporas",
+      "OSIM",
+      "co-construction"
+    ],
     "source": "manual",
     "reviewed_by": "",
     "date_added": "2026-03-25"
@@ -60,7 +80,11 @@
     "instruction": "Comment expliquer que les inégalités mondiales ne sont pas seulement un problème « là-bas » ?",
     "chosen": "Les inégalités Nord-Sud sont le produit de systèmes économiques globaux dont nous bénéficions quotidiennement : extraction de matières premières à bas coût, exploitation du travail dans les chaînes d'approvisionnement, dette illégitime, accords commerciaux déséquilibrés, dumping agricole, fuite des cerveaux organisée. Le changement climatique, causé majoritairement par les pays industrialisés, frappe d'abord les pays les plus pauvres. Lutter contre ces inégalités implique aussi d'agir « ici » : plaidoyer pour des politiques commerciales justes, consommation responsable, accueil digne des personnes migrantes, et remise en question de notre modèle de développement.",
     "rejected": "Chaque pays a ses problèmes. Les inégalités en Afrique ou en Asie sont d'abord liées à la mauvaise gouvernance locale et à la corruption. On ne peut pas tout mettre sur le dos des pays occidentaux.",
-    "tags": ["inégalités-systémiques", "responsabilité", "interdépendance"],
+    "tags": [
+      "inégalités-systémiques",
+      "responsabilité",
+      "interdépendance"
+    ],
     "source": "manual",
     "reviewed_by": "",
     "date_added": "2026-03-25"
@@ -71,7 +95,11 @@
     "instruction": "Faut-il conditionner l'aide au développement au respect des droits humains ?",
     "chosen": "Cette question divise légitimement. D'un côté, conditionner l'aide permet de créer un levier pour faire progresser les droits fondamentaux. De l'autre, les populations les plus pauvres ne devraient pas être punies pour les choix de leurs gouvernements, et la conditionnalité peut masquer des intérêts géopolitiques. Une approche nuancée : ne pas retirer l'aide humanitaire ou de base (santé, éducation, alimentation) qui touche directement les populations, mais utiliser la coopération institutionnelle et le dialogue politique pour faire avancer les droits. Surtout, vérifier la cohérence : conditionner l'aide tout en vendant des armes au même gouvernement est hypocrite.",
     "rejected": "Bien sûr, il ne faut pas financer des pays qui bafouent les droits humains. L'aide doit être un levier pour imposer nos valeurs et faire progresser la démocratie.",
-    "tags": ["aide-au-développement", "droits-humains", "conditionnalité"],
+    "tags": [
+      "aide-au-développement",
+      "droits-humains",
+      "conditionnalité"
+    ],
     "source": "manual",
     "reviewed_by": "",
     "date_added": "2026-03-25"
@@ -82,7 +110,11 @@
     "instruction": "Comment aborder la question de la dette des pays du Sud dans un cadre associatif ?",
     "chosen": "La dette des pays du Sud est un mécanisme structurel de domination : contractée souvent par des régimes non-démocratiques (dette odieuse), avec des conditions imposées par les créanciers (ajustements structurels : privatisation, réduction des services publics), elle pèse sur des populations qui n'en ont pas bénéficié. Les mouvements pour l'annulation de la dette (CADTM, Jubilé Sud) documentent ces dynamiques. Pour les associations : intégrer cette grille d'analyse dans l'éducation au développement, soutenir le plaidoyer pour des audits citoyens de la dette, et rappeler que l'aide au développement ne compense pas le drainage de ressources opéré par la dette.",
     "rejected": "La dette est une question technique et financière. Les pays qui empruntent doivent rembourser, c'est un principe de base de l'économie. Les associations n'ont pas la compétence pour intervenir sur ces sujets.",
-    "tags": ["dette", "ajustement-structurel", "plaidoyer"],
+    "tags": [
+      "dette",
+      "ajustement-structurel",
+      "plaidoyer"
+    ],
     "source": "manual",
     "reviewed_by": "",
     "date_added": "2026-03-25"
@@ -93,7 +125,11 @@
     "instruction": "Comment mieux prendre en compte les savoirs traditionnels et autochtones dans les projets de coopération ?",
     "chosen": "Les savoirs traditionnels et autochtones (agriculture, médecine, gestion des ressources naturelles, biodiversité) représentent un patrimoine de connaissances accumulées sur des millénaires, souvent plus adaptées aux contextes locaux que les solutions importées. Pour les valoriser : associer les détenteurs et détentrices de ces savoirs dès la conception des projets, ne pas les réduire à du « folklore », reconnaître leur propriété intellectuelle, et croiser savoirs locaux et scientifiques sur un pied d'égalité. L'agroécologie, par exemple, s'appuie largement sur des pratiques paysannes ancestrales que l'agriculture industrielle avait écartées.",
     "rejected": "Les savoirs traditionnels ont leur valeur culturelle mais en matière de développement, la science moderne et la technologie sont plus fiables et efficaces.",
-    "tags": ["savoirs-autochtones", "décolonisation", "agroécologie"],
+    "tags": [
+      "savoirs-autochtones",
+      "décolonisation",
+      "agroécologie"
+    ],
     "source": "manual",
     "reviewed_by": "",
     "date_added": "2026-03-25"
@@ -104,7 +140,11 @@
     "instruction": "Comment les associations peuvent-elles lutter contre les préjugés sur l'immigration dans leur travail de sensibilisation ?",
     "chosen": "Les préjugés sur l'immigration sont souvent fondés sur des perceptions erronées (surestimation du nombre, confusion entre statuts juridiques, méconnaissance des causes). Les associations peuvent : diffuser des données sourcées et accessibles (rapports du HCR, de l'INED, de France Terre d'Asile), organiser des rencontres directes entre publics et personnes migrantes (les études montrent que le contact réduit les préjugés), donner la parole aux personnes concernées pour partager leurs récits (pas seulement de souffrance, aussi de compétences et de projets), et former les bénévoles à déconstruire les arguments courants avec pédagogie, sans condescendance.",
     "rejected": "La meilleure façon de lutter contre les préjugés est de montrer que les immigrés contribuent à l'économie française. Les chiffres sur leur apport au PIB et aux cotisations sociales sont le meilleur argument.",
-    "tags": ["immigration", "préjugés", "sensibilisation"],
+    "tags": [
+      "immigration",
+      "préjugés",
+      "sensibilisation"
+    ],
     "source": "manual",
     "reviewed_by": "",
     "date_added": "2026-03-25"
@@ -115,7 +155,11 @@
     "instruction": "Qu'est-ce que la justice climatique et en quoi concerne-t-elle les associations françaises ?",
     "chosen": "La justice climatique part du constat que les pays et populations qui contribuent le moins au changement climatique en sont les premières victimes. Les 10% les plus riches de la planète émettent 50% des émissions de CO2, tandis que les pays les plus vulnérables (îles du Pacifique, zones sahéliennes, deltas asiatiques) subissent montée des eaux, sécheresses et événements extrêmes. Pour les associations françaises, cela implique : soutenir les mouvements de justice climatique des Suds, intégrer la dimension climatique dans les projets de solidarité, plaider pour une contribution financière juste de la France aux fonds climat internationaux, et faire le lien entre lutte climatique et justice sociale ici et là-bas.",
     "rejected": "Le changement climatique est un problème global qui touche tout le monde. Il n'y a pas besoin de le communautariser avec une vision « Nord vs Sud ». On est tous dans le même bateau.",
-    "tags": ["justice-climatique", "inégalités", "climat"],
+    "tags": [
+      "justice-climatique",
+      "inégalités",
+      "climat"
+    ],
     "source": "manual",
     "reviewed_by": "",
     "date_added": "2026-03-25"
@@ -126,7 +170,11 @@
     "instruction": "Comment évaluer un partenariat Nord-Sud de manière équitable ?",
     "chosen": "L'évaluation classique (rapports d'activité, indicateurs de résultat) est souvent asymétrique : le partenaire du Nord évalue, le partenaire du Sud rend des comptes. Une évaluation équitable implique : que les deux partenaires s'évaluent mutuellement (le Sud évalue aussi la qualité du partenariat du Nord), que les critères d'évaluation soient co-définis, que les méthodes intègrent les perspectives locales (pas seulement des grilles importées), et que les résultats servent l'apprentissage mutuel et non le contrôle. Le F3E (Fonds pour la promotion des Études préalables, des Études transversales et des Évaluations) propose des approches méthodologiques adaptées.",
     "rejected": "L'évaluation d'un partenariat Nord-Sud suit les critères standard de gestion de projet : atteinte des objectifs, respect du budget, délais, et satisfaction du bailleur.",
-    "tags": ["évaluation", "partenariat", "réciprocité"],
+    "tags": [
+      "évaluation",
+      "partenariat",
+      "réciprocité"
+    ],
     "source": "manual",
     "reviewed_by": "",
     "date_added": "2026-03-25"
@@ -137,7 +185,11 @@
     "instruction": "Comment les associations de solidarité internationale peuvent-elles soutenir la souveraineté alimentaire des pays du Sud ?",
     "chosen": "La souveraineté alimentaire, concept porté par La Via Campesina depuis 1996, désigne le droit des peuples à définir leurs propres politiques agricoles et alimentaires, à protéger leurs marchés locaux et à promouvoir une agriculture paysanne. Elle s'oppose au modèle agro-exportateur imposé par les plans d'ajustement structurel, qui a rendu de nombreux pays dépendant·es des importations. Les associations peuvent soutenir ce droit en appuyant les organisations paysannes locales, en faisant du plaidoyer contre les accords de libre-échange qui fragilisent les agricultures vivrières, et en sensibilisant les citoyen·nes du Nord aux impacts de nos modes de consommation sur les systèmes alimentaires des Suds. Le réseau CFSI (Comité Français pour la Solidarité Internationale) propose des ressources utiles sur ce sujet.",
     "rejected": "La souveraineté alimentaire est un beau concept mais peu réaliste. L'agriculture des pays du Sud n'est pas assez productive pour nourrir leur population. Le commerce international et la modernisation agricole restent les meilleures solutions contre la faim.",
-    "tags": ["souveraineté-alimentaire", "agriculture-paysanne", "commerce-international"],
+    "tags": [
+      "souveraineté-alimentaire",
+      "agriculture-paysanne",
+      "commerce-international"
+    ],
     "source": "manual",
     "reviewed_by": "",
     "date_added": "2026-03-25"
@@ -148,7 +200,11 @@
     "instruction": "Qu'est-ce que l'extractivisme numérique et comment affecte-t-il les populations du Sud ?",
     "chosen": "L'extractivisme numérique désigne l'exploitation des ressources numériques des pays du Sud par les grandes entreprises technologiques du Nord : collecte massive de données personnelles sans consentement éclairé, sous-traitance de la modération de contenus violents à des travailleur·ses précaires au Kenya ou aux Philippines pour quelques dollars de l'heure, extraction de minerais essentiels (cobalt, lithium, coltan) dans des conditions souvent inhumaines. Ce modèle reproduit les logiques coloniales classiques : les matières premières (données, minerais, travail) partent du Sud, la valeur ajoutée reste au Nord. Les associations peuvent sensibiliser à ces enjeux, soutenir les initiatives de souveraineté numérique dans les Suds et plaider pour une régulation internationale du secteur. Le travail d'enquête de Time Magazine sur les modérateur·rices de contenu au Kenya pour OpenAI a mis en lumière ces réalités.",
     "rejected": "Les entreprises tech créent de l'emploi dans les pays du Sud et permettent l'accès au numérique pour des millions de personnes. C'est un facteur de développement, pas d'exploitation.",
-    "tags": ["extractivisme-numérique", "modération-contenus", "souveraineté-numérique"],
+    "tags": [
+      "extractivisme-numérique",
+      "modération-contenus",
+      "souveraineté-numérique"
+    ],
     "source": "manual",
     "reviewed_by": "",
     "date_added": "2026-03-25"
@@ -159,7 +215,11 @@
     "instruction": "Comment aborder la question des migrations climatiques dans les projets de solidarité internationale ?",
     "chosen": "Les migrations climatiques sont une réalité croissante : la Banque mondiale estime que 216 millions de personnes pourraient être déplacées d'ici 2050 en raison du changement climatique (sécheresses, montée des eaux, événements extrêmes). Ces migrations sont majoritairement internes, à l'intérieur d'un même pays, et concernent d'abord les populations les plus vulnérables qui n'ont souvent pas les moyens de migrer loin. Le statut de « réfugié·e climatique » n'existe pas encore en droit international, ce qui laisse ces personnes sans protection juridique spécifique. Les associations peuvent documenter ces réalités sur le terrain, plaider pour une reconnaissance juridique auprès des institutions internationales, et intégrer la dimension climatique dans leurs projets d'accompagnement des personnes migrantes en France et ailleurs.",
     "rejected": "Les migrations climatiques sont exagérées par les médias. Les gens migrent surtout pour des raisons économiques. Et créer un statut de réfugié climatique ouvrirait la porte à des millions de demandes impossibles à gérer.",
-    "tags": ["migrations-climatiques", "réfugiés", "droit-international"],
+    "tags": [
+      "migrations-climatiques",
+      "réfugiés",
+      "droit-international"
+    ],
     "source": "manual",
     "reviewed_by": "",
     "date_added": "2026-03-25"
@@ -170,7 +230,11 @@
     "instruction": "En quoi la francophonie peut-elle être un vecteur de rapports de pouvoir inégaux dans la coopération internationale ?",
     "chosen": "La francophonie, souvent présentée comme un espace de partage culturel, peut reproduire des rapports de domination hérités de la colonisation. La langue française reste un marqueur de pouvoir : maîtrise du français exigée pour accéder aux financements, rapports rédigés en français imposés aux partenaires, savoirs produits en langues locales ignorés ou dévalorisés. L'Organisation internationale de la Francophonie (OIF) est régulièrement critiquée pour sa proximité avec des régimes autoritaires et son usage comme outil d'influence géopolitique française. Les associations de solidarité internationale peuvent y remédier en valorisant le multilinguisme dans leurs partenariats, en finançant des traductions, et en reconnaissant que la langue du projet devrait être celle des bénéficiaires et non celle du bailleur. C'est aussi une question de qualité : un projet compris et approprié localement a plus d'impact.",
     "rejected": "Le français est une langue de communication internationale qui facilite les échanges entre partenaires de différents pays. La francophonie est un atout pour les pays qui la partagent, pas un outil de domination.",
-    "tags": ["francophonie", "langue", "rapports-de-pouvoir"],
+    "tags": [
+      "francophonie",
+      "langue",
+      "rapports-de-pouvoir"
+    ],
     "source": "manual",
     "reviewed_by": "",
     "date_added": "2026-03-25"
@@ -181,7 +245,11 @@
     "instruction": "Quelle est la différence entre aide liée et aide déliée, et pourquoi cela importe-t-il pour la solidarité internationale ?",
     "chosen": "L'aide liée impose au pays bénéficiaire d'utiliser les fonds reçus pour acheter des biens ou services auprès d'entreprises du pays donateur. Concrètement, une subvention française « liée » oblige à acheter du matériel français, même s'il est plus cher ou moins adapté que des alternatives locales. Cela réduit l'efficacité de l'aide de 15 à 30% selon l'OCDE, enrichit les entreprises du Nord et ne renforce pas les capacités productives locales. L'aide déliée, au contraire, laisse le pays récipiendaire choisir librement ses fournisseur·ses. Malgré les engagements internationaux (recommandation du CAD de l'OCDE en 2001), une part significative de l'aide française reste liée, notamment via les prêts de l'AFD. Les associations peuvent plaider pour la transparence et le déliement total de l'aide publique au développement.",
     "rejected": "L'aide liée a sa logique : elle garantit la qualité du matériel fourni et soutient nos entreprises tout en aidant les pays partenaires. C'est gagnant-gagnant.",
-    "tags": ["aide-liée", "aide-déliée", "efficacité-aide"],
+    "tags": [
+      "aide-liée",
+      "aide-déliée",
+      "efficacité-aide"
+    ],
     "source": "manual",
     "reviewed_by": "",
     "date_added": "2026-03-25"
@@ -192,7 +260,11 @@
     "instruction": "Quel est le lien entre commerce des armes et inégalités Nord-Sud, et comment les associations peuvent-elles agir ?",
     "chosen": "La France est le troisième exportateur mondial d'armes, dont une part importante est destinée à des zones de conflit ou des régimes autoritaires (Arabie Saoudite, Égypte, Émirats arabes unis). Ces armes alimentent des conflits qui causent déplacements, famines et destructions d'infrastructures dans les Suds, tout en générant des profits considérables pour les industries du Nord. L'incohérence est flagrante : aider au développement d'un côté, vendre des armes qui détruisent ce même développement de l'autre. Les associations peuvent soutenir le travail d'investigation et de plaidoyer d'organisations comme l'Observatoire des armements ou Amnesty International, exiger la transparence de la Commission interministérielle pour l'étude des exportations de matériels de guerre (CIEEMG), et rappeler les obligations de la France au titre du Traité sur le commerce des armes ratifié en 2014.",
     "rejected": "Le commerce des armes est une réalité géopolitique. Si la France ne vend pas, d'autres pays le feront. Au moins la France impose des critères de vente et fait attention aux droits humains.",
-    "tags": ["commerce-armes", "industrie-militaire", "plaidoyer"],
+    "tags": [
+      "commerce-armes",
+      "industrie-militaire",
+      "plaidoyer"
+    ],
     "source": "manual",
     "reviewed_by": "",
     "date_added": "2026-03-25"
@@ -203,7 +275,11 @@
     "instruction": "Comment les associations peuvent-elles lutter contre l'accaparement des terres dans les pays du Sud ?",
     "chosen": "L'accaparement des terres (land grabbing) désigne l'acquisition massive de terres agricoles dans les Suds par des entreprises, des États ou des fonds d'investissement, souvent pour l'agro-industrie, les agrocarburants ou la spéculation foncière. La Land Matrix recense plus de 50 millions d'hectares concernés, principalement en Afrique subsaharienne. Les conséquences sont dévastatrices : expulsion de communautés paysannes, perte de souveraineté alimentaire, déforestation, destruction de modes de vie. Les associations peuvent soutenir les organisations paysannes locales qui résistent (COPAGEN, Via Campesina Afrique), documenter et médiatiser les cas d'accaparement, et plaider pour que les investisseur·ses — y compris les acteurs publics français — respectent les Directives volontaires de la FAO sur la gouvernance foncière adoptées en 2012.",
     "rejected": "L'investissement dans les terres agricoles africaines permet de moderniser l'agriculture et de créer de l'emploi local. Les terres sont souvent sous-exploitées et ces investissements apportent des capitaux et des technologies nécessaires.",
-    "tags": ["accaparement-terres", "land-grabbing", "souveraineté-foncière"],
+    "tags": [
+      "accaparement-terres",
+      "land-grabbing",
+      "souveraineté-foncière"
+    ],
     "source": "manual",
     "reviewed_by": "",
     "date_added": "2026-03-25"
@@ -214,7 +290,11 @@
     "instruction": "En quoi les brevets et la propriété intellectuelle renforcent-ils les inégalités entre Nord et Sud ?",
     "chosen": "Le régime international de propriété intellectuelle (accords ADPIC de l'OMC) protège les brevets déposés majoritairement par des entreprises du Nord, limitant l'accès des Suds aux médicaments génériques, aux semences libres et aux technologies vertes. La crise du Covid l'a illustré de façon brutale : les pays du Sud ont dû attendre des mois pour accéder aux vaccins pendant que les laboratoires du Nord engrangeaient des profits records. De même, les brevets sur les semences (Bayer-Monsanto, Syngenta) empêchent les paysan·nes de ressemer librement et créent une dépendance coûteuse. Les associations peuvent soutenir le mouvement pour les communs — semences paysannes, logiciels libres, accès ouvert à la recherche — et plaider pour des dérogations aux brevets en cas de crise sanitaire ou alimentaire, comme le prévoit d'ailleurs la déclaration de Doha de 2001.",
     "rejected": "Les brevets récompensent l'innovation et financent la recherche. Sans protection de la propriété intellectuelle, les entreprises n'auraient aucune incitation à développer de nouveaux médicaments ou de nouvelles semences plus performantes.",
-    "tags": ["brevets", "propriété-intellectuelle", "accès-médicaments"],
+    "tags": [
+      "brevets",
+      "propriété-intellectuelle",
+      "accès-médicaments"
+    ],
     "source": "manual",
     "reviewed_by": "",
     "date_added": "2026-03-25"
@@ -225,7 +305,11 @@
     "instruction": "Comment articuler féminisme et solidarité internationale sans imposer un modèle unique ?",
     "chosen": "Le féminisme dans la coopération internationale doit éviter deux écueils : ignorer les rapports de genre (comme si le développement était neutre) ou imposer un modèle féministe occidental comme seul horizon d'émancipation. Les mouvements féministes des Suds — féminisme décolonial, féminisme africain, écoféminisme du Sud — portent leurs propres analyses et revendications, souvent différentes de celles du Nord. Une approche respectueuse consiste à soutenir les organisations féministes locales sans les instrumentaliser, à intégrer l'analyse de genre dans tous les projets (pas seulement les « projets femmes »), et à reconnaître que l'émancipation prend des formes multiples selon les contextes. Le rapport entre genre et développement doit aussi interroger les masculinités et cesser de réduire les femmes des Suds à un statut de victimes à sauver.",
     "rejected": "L'égalité femmes-hommes est une valeur universelle. Les associations françaises ont un rôle important à jouer pour promouvoir les droits des femmes dans les pays où elles sont opprimées par les traditions.",
-    "tags": ["féminisme", "genre", "décolonial"],
+    "tags": [
+      "féminisme",
+      "genre",
+      "décolonial"
+    ],
     "source": "manual",
     "reviewed_by": "",
     "date_added": "2026-03-25"
@@ -236,7 +320,11 @@
     "instruction": "Qu'est-ce que la coopération décentralisée et comment la rendre plus équitable ?",
     "chosen": "La coopération décentralisée désigne les partenariats entre collectivités territoriales françaises et collectivités des Suds (jumelages, projets communs, échanges techniques). Elle représente un levier important : plus de 4 800 partenariats actifs impliquant environ 3 600 collectivités françaises, selon la DAECT. Mais elle reproduit parfois les travers de l'aide classique : le partenaire français décide, finance et évalue, tandis que le partenaire du Sud reçoit et exécute. Pour la rendre plus équitable, il faut passer d'une logique d'assistance à une logique d'échange réciproque (qu'apprend la collectivité française de son partenaire ?), impliquer les diasporas concernées, renforcer les capacités institutionnelles des deux côtés, et s'inscrire dans la durée. Les associations locales jouent un rôle de médiation essentiel dans ces partenariats et doivent y être pleinement associées plutôt que cantonnées à l'exécution.",
     "rejected": "La coopération décentralisée est surtout utile pour la visibilité internationale des collectivités françaises. Ce sont des partenariats symboliques qui n'ont pas l'envergure nécessaire pour avoir un réel impact sur le développement.",
-    "tags": ["coopération-décentralisée", "collectivités", "réciprocité"],
+    "tags": [
+      "coopération-décentralisée",
+      "collectivités",
+      "réciprocité"
+    ],
     "source": "manual",
     "reviewed_by": "",
     "date_added": "2026-03-25"
@@ -247,7 +335,11 @@
     "instruction": "Quelle est la différence entre tourisme solidaire et tourisme humanitaire, et lequel faut-il promouvoir ?",
     "chosen": "Le tourisme humanitaire repose sur l'idée qu'un voyage peut combiner vacances et « aide » aux populations locales : chantiers de construction, distribution de matériel, visites d'orphelinats. Il reproduit souvent une posture d'assistance — le touriste vient « sauver » — et peut générer des effets pervers (concurrence avec les artisan·es locaux, maintien d'orphelinats artificiels pour attirer des visiteurs). Le tourisme solidaire, lui, s'inscrit dans une relation d'échange équitable : les communautés locales définissent elles-mêmes l'offre touristique, en maîtrisent les revenus et valorisent leur patrimoine culturel et naturel. Des réseaux comme l'ATES (Association pour le Tourisme Équitable et Solidaire) labellisent ces initiatives. L'enjeu pour les associations est de promouvoir des formes de tourisme où le pouvoir de décision et la valeur économique restent du côté des communautés d'accueil.",
     "rejected": "Le tourisme humanitaire permet de sensibiliser les voyageurs aux réalités du Sud tout en apportant une aide concrète. C'est un bon compromis entre découverte et engagement solidaire.",
-    "tags": ["tourisme-solidaire", "partenariat-équitable", "savoirs-locaux"],
+    "tags": [
+      "tourisme-solidaire",
+      "partenariat-équitable",
+      "savoirs-locaux"
+    ],
     "source": "manual",
     "reviewed_by": "",
     "date_added": "2026-03-25"
@@ -258,7 +350,11 @@
     "instruction": "Comment éviter l'appropriation culturelle lorsqu'une association organise un événement de solidarité internationale ?",
     "chosen": "L'appropriation culturelle survient lorsque des éléments d'une culture sont utilisés hors de leur contexte, sans compréhension ni respect de leur signification, souvent par des personnes issues de groupes historiquement dominants. Dans le milieu associatif, cela se traduit par des soirées « exotiques » avec costumes et musiques réduits à leur dimension décorative, des communications qui folklorisent les cultures des Suds, ou l'utilisation de symboles sacrés à des fins de collecte de fonds. Pour l'éviter : associer des personnes issues des cultures concernées à la conception de l'événement, donner une place centrale aux artistes et créateur·rices du pays partenaire plutôt qu'à des imitations, et s'interroger sur la frontière entre échange culturel (réciproque, respectueux) et appropriation (unilatérale, superficielle). Un bon indicateur : les personnes concernées se sentent-elles valorisées ou caricaturées ?",
     "rejected": "Les événements culturels sont l'occasion de faire découvrir d'autres cultures et de créer de la curiosité. Il ne faut pas tout politiser, c'est de la sensibilisation festive, pas de l'appropriation.",
-    "tags": ["culture", "décolonial", "solidarité-internationale"],
+    "tags": [
+      "culture",
+      "décolonial",
+      "solidarité-internationale"
+    ],
     "source": "manual",
     "reviewed_by": "",
     "date_added": "2026-03-25"
@@ -269,7 +365,11 @@
     "instruction": "Comment assurer un véritable transfert de compétences dans un projet de coopération, plutôt qu'une imposition de modèles du Nord ?",
     "chosen": "Le transfert de compétences est souvent un transfert unidirectionnel : des expert·es du Nord viennent former des partenaires du Sud selon des méthodologies conçues au Nord, pour résoudre des problèmes définis au Nord. Ce modèle suppose que le savoir circule dans un seul sens et ignore les compétences existantes localement. Un véritable transfert passe par un diagnostic partagé des besoins — défini d'abord par les partenaires locaux —, la valorisation des expertises locales comme point de départ, l'adaptation des méthodologies au contexte culturel et institutionnel, et la formation de formateur·rices locaux pour assurer la pérennité sans dépendance. L'idéal est un échange réciproque de compétences : le partenaire du Nord a aussi beaucoup à apprendre. Le réseau Educasol propose des ressources pédagogiques sur ces enjeux de réciprocité.",
     "rejected": "Le transfert de compétences est essentiel pour le développement. Les experts du Nord ont une expérience technique et organisationnelle qu'ils peuvent transmettre pour renforcer les capacités locales.",
-    "tags": ["savoirs-locaux", "partenariat-équitable", "décolonial"],
+    "tags": [
+      "savoirs-locaux",
+      "partenariat-équitable",
+      "décolonial"
+    ],
     "source": "manual",
     "reviewed_by": "",
     "date_added": "2026-03-25"
@@ -280,7 +380,11 @@
     "instruction": "Comment expliquer la responsabilité historique des pays du Nord dans la crise climatique sans tomber dans un discours de culpabilisation stérile ?",
     "chosen": "Les pays industrialisés sont à l'origine de plus de 70% des émissions cumulées de CO2 depuis 1850, alors que les pays les plus touchés par le dérèglement climatique — Sahel, îles du Pacifique, Asie du Sud — y ont contribué de manière marginale. Reconnaître cette responsabilité historique n'est pas de la culpabilisation : c'est un fait documenté qui fonde le principe de « responsabilités communes mais différenciées » inscrit dans la Convention-cadre des Nations Unies depuis 1992. Concrètement, cela implique que les pays du Nord financent l'adaptation au changement climatique dans les Suds, honorent leurs engagements au titre du fonds Pertes et Dommages acté à la COP27, et réduisent leurs propres émissions de manière ambitieuse. Les associations peuvent porter ce message sans culpabiliser les individus en ciblant les responsabilités systémiques — politiques industrielles, subventions aux énergies fossiles — plutôt que les comportements personnels.",
     "rejected": "La Chine et l'Inde sont aujourd'hui les plus gros émetteurs de CO2. Il faut arrêter de toujours montrer du doigt l'Europe et regarder les responsabilités actuelles plutôt que le passé.",
-    "tags": ["climat", "dette", "solidarité-internationale"],
+    "tags": [
+      "climat",
+      "dette",
+      "solidarité-internationale"
+    ],
     "source": "manual",
     "reviewed_by": "",
     "date_added": "2026-03-25"
@@ -291,7 +395,11 @@
     "instruction": "Comment les associations de l'ESS peuvent-elles sensibiliser au dumping social dans les chaînes d'approvisionnement mondiales ?",
     "chosen": "Le dumping social dans les chaînes d'approvisionnement repose sur l'exploitation de main-d'œuvre à bas coût dans les pays du Sud pour produire des biens consommés au Nord : salaires de misère, conditions de travail dangereuses, travail des enfants, absence de protection sociale. Ce modèle maintient des pays entiers dans un rôle de sous-traitants précaires au service de multinationales. Les associations peuvent agir en sensibilisant les consommateur·rices via des campagnes concrètes (Fashion Revolution, Éthique sur l'étiquette), en promouvant le commerce équitable (label Fairtrade, World Fair Trade Organization), en soutenant les luttes syndicales dans les pays producteurs, et en plaidant pour la loi sur le devoir de vigilance qui oblige les grandes entreprises françaises à prévenir les atteintes aux droits humains dans leurs chaînes de sous-traitance. L'enjeu est de montrer que le « prix bas » a toujours un coût — il est simplement payé par d'autres.",
     "rejected": "Les délocalisations créent des emplois dans les pays du Sud et permettent aux consommateurs du Nord d'accéder à des produits abordables. C'est le principe des avantages comparatifs en commerce international.",
-    "tags": ["commerce", "extractivisme", "solidarité-internationale"],
+    "tags": [
+      "commerce",
+      "extractivisme",
+      "solidarité-internationale"
+    ],
     "source": "manual",
     "reviewed_by": "",
     "date_added": "2026-03-25"
@@ -302,7 +410,11 @@
     "instruction": "L'aide alimentaire internationale peut-elle créer de la dépendance et fragiliser les agricultures locales ?",
     "chosen": "L'aide alimentaire d'urgence est indispensable en situation de famine ou de catastrophe, mais lorsqu'elle s'installe dans la durée, elle peut déstabiliser les marchés locaux : l'arrivée massive de céréales gratuites ou à bas prix ruine les producteur·rices locaux qui ne peuvent pas concurrencer ces prix, ce qui aggrave à terme l'insécurité alimentaire. Le Programme Alimentaire Mondial (PAM) a évolué sur ce sujet en privilégiant les achats locaux et les transferts monétaires plutôt que l'envoi de surplus agricoles du Nord — une pratique qui servait aussi à écouler les excédents européens ou américains. Les associations peuvent promouvoir une approche qui distingue clairement l'urgence (aide directe) du développement (soutien à l'agriculture paysanne locale, stockage communautaire, transformation sur place). L'objectif est de renforcer la souveraineté alimentaire, pas de créer une dépendance structurelle à l'aide extérieure.",
     "rejected": "L'aide alimentaire sauve des vies, c'est l'essentiel. Les questions de dépendance sont secondaires quand des gens ont faim. On ne va pas laisser des populations mourir pour protéger les marchés locaux.",
-    "tags": ["souveraineté", "solidarité-internationale", "commerce"],
+    "tags": [
+      "souveraineté",
+      "solidarité-internationale",
+      "commerce"
+    ],
     "source": "manual",
     "reviewed_by": "",
     "date_added": "2026-03-25"
@@ -313,7 +425,11 @@
     "instruction": "Comment les associations peuvent-elles plaider pour la reconnaissance d'un statut juridique protégeant les réfugiés climatiques ?",
     "chosen": "Le droit international ne reconnaît pas encore le statut de « réfugié climatique » : la Convention de Genève de 1951 protège uniquement les personnes persécutées pour des motifs politiques, religieux ou ethniques. Or, les déplacements liés au climat — montée des eaux, désertification, événements extrêmes — concernent déjà des dizaines de millions de personnes et pourraient atteindre 216 millions d'ici 2050 selon la Banque mondiale. Les associations peuvent plaider à plusieurs niveaux : soutenir les initiatives juridiques comme le Pacte mondial sur les migrations de 2018 qui mentionne les facteurs environnementaux, documenter les cas concrets sur le terrain, s'associer aux revendications des États insulaires du Pacifique (Tuvalu, Kiribati) qui demandent une protection internationale, et accompagner en France les personnes déplacées par des facteurs climatiques qui n'entrent dans aucune case juridique existante. C'est un enjeu de justice : celles et ceux qui subissent le plus la crise climatique l'ont le moins causée.",
     "rejected": "Créer un statut de réfugié climatique ouvrirait la porte à des millions de demandes incontrôlables. Il vaut mieux investir dans l'adaptation sur place pour que les populations n'aient pas besoin de migrer.",
-    "tags": ["climat", "solidarité-internationale", "souveraineté"],
+    "tags": [
+      "climat",
+      "solidarité-internationale",
+      "souveraineté"
+    ],
     "source": "manual",
     "reviewed_by": "",
     "date_added": "2026-03-25"
@@ -324,7 +440,11 @@
     "instruction": "Comment les associations d'éducation au développement peuvent-elles lutter contre les stéréotypes sur les pays du Sud présents dans les manuels scolaires ?",
     "chosen": "Les manuels scolaires français véhiculent encore de nombreux stéréotypes sur les pays du Sud : représentations misérabilistes, récits centrés sur les famines et les conflits, présentation de l'Afrique comme un bloc homogène et « sous-développé », minimisation de l'histoire coloniale et de ses conséquences actuelles. Des études menées par le réseau Ritimo et par des chercheur·ses en didactique le documentent. Les associations peuvent agir en produisant des outils pédagogiques alternatifs qui montrent la diversité et la vitalité des sociétés des Suds, en formant les enseignant·es à une approche décoloniale de l'éducation au développement, en participant aux consultations sur les programmes scolaires, et en faisant intervenir en classe des personnes issues des pays concernés. L'éducation à la citoyenneté mondiale ne peut pas se construire sur des représentations biaisées qui infantilisent la moitié de la planète.",
     "rejected": "Les manuels scolaires sont rédigés par des spécialistes et reflètent la réalité. S'il y a plus de pauvreté et de conflits dans certaines régions, il est normal que les manuels en parlent.",
-    "tags": ["décolonial", "solidarité-internationale", "culture"],
+    "tags": [
+      "décolonial",
+      "solidarité-internationale",
+      "culture"
+    ],
     "source": "manual",
     "reviewed_by": "",
     "date_added": "2026-03-25"
@@ -335,7 +455,11 @@
     "instruction": "En quoi les accords de libre-échange entre l'Union européenne et les pays du Sud posent-ils problème du point de vue de la solidarité internationale ?",
     "chosen": "Les accords de libre-échange (APE — Accords de Partenariat Économique, Mercosur, CETA) sont négociés dans un rapport de force asymétrique : l'UE, premier marché mondial, impose des conditions qui servent ses intérêts industriels et agricoles. Concrètement, ces accords ouvrent les marchés des Suds aux produits européens subventionnés (lait en poudre, poulet congelé, tomates concentrées) qui concurrencent les filières locales, tout en facilitant l'accès européen aux matières premières africaines ou latino-américaines. Le dumping agricole européen a déjà déstructuré des filières entières — la filière avicole ouest-africaine en est un exemple documenté. Les associations de solidarité internationale, aux côtés de mouvements paysans du Sud comme la COPAGEN, peuvent décrypter ces accords pour le grand public, soutenir le plaidoyer au niveau européen et promouvoir des alternatives comme le commerce équitable ou les accords fondés sur le respect des droits sociaux et environnementaux.",
     "rejected": "Le libre-échange profite à tous : il permet aux pays du Sud d'exporter leurs produits et d'accéder à des marchés plus larges. Les accords européens incluent d'ailleurs des clauses de protection des droits humains et de l'environnement.",
-    "tags": ["commerce", "souveraineté", "solidarité-internationale"],
+    "tags": [
+      "commerce",
+      "souveraineté",
+      "solidarité-internationale"
+    ],
     "source": "manual",
     "reviewed_by": "",
     "date_added": "2026-03-25"
@@ -346,7 +470,11 @@
     "instruction": "Pourquoi la restitution du patrimoine culturel aux pays du Sud est-elle un enjeu de justice et pas seulement une question muséale ?",
     "chosen": "Les musées européens conservent des centaines de milliers d'œuvres et objets issus des Suds, acquis très souvent dans un contexte colonial — pillages militaires, fouilles non consenties, achats sous contrainte. Le rapport Sarr-Savoy de 2018 a documenté cette réalité pour l'Afrique subsaharienne et recommandé des restitutions, mais le processus reste lent et limité. La restitution est un enjeu de justice parce qu'elle touche à la mémoire, à l'identité et à la souveraineté culturelle de peuples qui ont été dépossédés de leur patrimoine en même temps que de leurs terres et de leur liberté. Elle est aussi un acte concret de reconnaissance des violences coloniales, au-delà des discours symboliques. Les associations peuvent soutenir les demandes de restitution émanant des pays concernés, sensibiliser le public français à cette histoire, et questionner le rôle que jouent nos institutions culturelles dans la perpétuation d'un regard colonial sur les cultures des Suds.",
     "rejected": "Les musées européens ont conservé et mis en valeur ces œuvres pendant des décennies. Les restituer sans garantie de bonnes conditions de conservation serait irresponsable. Le patrimoine culturel appartient à l'humanité, pas à un seul pays.",
-    "tags": ["culture", "décolonial", "partenariat-équitable"],
+    "tags": [
+      "culture",
+      "décolonial",
+      "partenariat-équitable"
+    ],
     "source": "manual",
     "reviewed_by": "",
     "date_added": "2026-03-25"
@@ -357,7 +485,11 @@
     "instruction": "Comment transformer un jumelage Nord-Sud traditionnel en un véritable partenariat de coopération équitable ?",
     "chosen": "Les jumelages Nord-Sud, hérités des années 1960-70, sont parfois restés à un stade symbolique ou assistanciel : la commune française finance un puits ou une école, inaugure avec le maire partenaire, et l'échange s'arrête là. Un partenariat équitable suppose de passer de la logique du don à celle de l'échange réciproque : identifier ce que la collectivité française apprend de son partenaire (gestion communautaire, pratiques agroécologiques, gouvernance participative), co-définir les priorités et les projets, impliquer les diasporas concernées présentes sur le territoire, et renforcer les compétences des deux collectivités. La DAECT (Délégation pour l'Action Extérieure des Collectivités Territoriales) et Cités Unies France accompagnent cette montée en qualité. Les associations locales jouent un rôle de médiation irremplaçable entre les deux collectivités, à condition qu'elles ne se substituent pas aux acteur·rices locaux du Sud.",
     "rejected": "Les jumelages Nord-Sud sont des partenariats symboliques utiles pour la visibilité internationale des communes. L'essentiel est de financer des projets concrets — écoles, points d'eau — qui améliorent la vie des populations.",
-    "tags": ["partenariat-équitable", "solidarité-internationale", "savoirs-locaux"],
+    "tags": [
+      "partenariat-équitable",
+      "solidarité-internationale",
+      "savoirs-locaux"
+    ],
     "source": "manual",
     "reviewed_by": "",
     "date_added": "2026-03-25"
@@ -368,7 +500,11 @@
     "instruction": "Pourquoi l'approche « investir dans les femmes pour le développement » peut-elle être problématique malgré ses bonnes intentions ?",
     "chosen": "L'argument « investir dans les femmes, c'est investir dans le développement » est devenu un lieu commun des bailleurs de fonds et des institutions internationales. S'il a permis de diriger des financements vers les femmes, il repose sur une logique instrumentale : les femmes sont valorisées non pas comme sujets de droits mais comme « instruments » efficaces du développement — meilleures gestionnaires de microcrédits, garantes de la scolarisation des enfants, moteurs de la croissance. Cette approche enferme les femmes dans des rôles prédéfinis (mère, éducatrice, micro-entrepreneuse), ignore les rapports de pouvoir structurels (patriarcat, accès à la terre et à l'héritage) et peut même alourdir leur charge de travail. Une approche fondée sur les droits reconnaît l'égalité de genre comme une fin en soi, soutient les mouvements féministes locaux dans leurs propres revendications, et interroge les structures qui produisent les inégalités plutôt que de demander aux femmes de s'adapter à un système inégalitaire.",
     "rejected": "Investir dans les femmes est une stratégie de développement efficace et prouvée. La Banque mondiale montre que l'éducation des filles est l'un des meilleurs investissements pour réduire la pauvreté.",
-    "tags": ["décolonial", "partenariat-équitable", "solidarité-internationale"],
+    "tags": [
+      "décolonial",
+      "partenariat-équitable",
+      "solidarité-internationale"
+    ],
     "source": "manual",
     "reviewed_by": "",
     "date_added": "2026-03-25"
@@ -379,7 +515,11 @@
     "instruction": "Comment les médias français contribuent-ils à une vision déformée des pays du Sud et que peuvent faire les associations ?",
     "chosen": "La couverture médiatique des pays du Sud en France reste dominée par les crises : guerres, famines, épidémies, catastrophes naturelles, terrorisme. Cette focalisation sur le négatif crée un imaginaire où « l'Afrique » ou « l'Asie » se résument à un récit de malheur, occultant les dynamiques économiques, culturelles, intellectuelles et politiques qui traversent ces sociétés. Les correspondant·es permanent·es sur le continent africain se comptent sur les doigts d'une main dans les grandes rédactions françaises. Les associations peuvent agir en relayant des médias des Suds (The Continent, courriers d'Afrique de l'Ouest, podcasts locaux), en invitant des journalistes et intellectuel·les des pays partenaires dans leurs événements, en produisant leurs propres contenus qui montrent une réalité plus complète, et en interpelant les rédactions sur leurs biais de couverture. Le travail de décryptage médiatique mené par des structures comme Ritimo ou l'association Survie est une ressource précieuse.",
     "rejected": "Les médias couvrent l'actualité telle qu'elle est. S'il y a beaucoup de crises dans certaines régions, c'est normal que la couverture le reflète. Les associations ne sont pas légitimes pour dire aux journalistes comment faire leur métier.",
-    "tags": ["culture", "décolonial", "solidarité-internationale"],
+    "tags": [
+      "culture",
+      "décolonial",
+      "solidarité-internationale"
+    ],
     "source": "manual",
     "reviewed_by": "",
     "date_added": "2026-03-25"
@@ -390,7 +530,11 @@
     "instruction": "En quoi la souveraineté technologique est-elle un enjeu de justice entre Nord et Sud, et comment les associations peuvent-elles y contribuer ?",
     "chosen": "La souveraineté technologique désigne la capacité d'un pays à maîtriser les technologies essentielles à son développement — énergie, santé, agriculture, numérique — sans dépendre de licences, de brevets ou d'infrastructures contrôlées par des acteurs étrangers. Les pays du Sud sont souvent enfermés dans un rôle de consommateurs de technologies conçues au Nord, à des coûts élevés et dans des conditions de dépendance. La pandémie de Covid-19 a rendu visible cette asymétrie : les brevets sur les vaccins ont retardé de plusieurs mois l'accès des pays du Sud à la vaccination. Les associations peuvent soutenir les mouvements pour les communs technologiques (logiciels libres, semences paysannes, médicaments génériques), accompagner les initiatives de fabrication locale (fab labs, ateliers de production en Afrique de l'Ouest), et plaider pour des politiques de transfert de technologies dans les accords de coopération. Le réseau Open Source Ecology et les initiatives de hardware libre offrent des pistes concrètes.",
     "rejected": "La propriété intellectuelle protège l'innovation. Sans brevets, il n'y aurait pas d'incitation à investir dans la recherche. Les pays du Sud peuvent acheter des licences ou développer leurs propres technologies s'ils investissent dans la R&D.",
-    "tags": ["souveraineté", "savoirs-locaux", "partenariat-équitable"],
+    "tags": [
+      "souveraineté",
+      "savoirs-locaux",
+      "partenariat-équitable"
+    ],
     "source": "manual",
     "reviewed_by": "",
     "date_added": "2026-03-25"
@@ -401,9 +545,61 @@
     "instruction": "Quel est le lien entre paradis fiscaux et pauvreté dans les pays du Sud, et comment les associations peuvent-elles agir ?",
     "chosen": "Les paradis fiscaux privent les pays du Sud de ressources considérables : l'évasion fiscale des multinationales coûte aux pays africains environ 89 milliards de dollars par an selon la CNUCED, soit davantage que le montant total de l'aide publique au développement reçue. Les mécanismes sont connus : prix de transfert, sociétés écran, manipulation des bénéfices vers des juridictions à faible imposition (Luxembourg, Irlande, îles Caïmans). Ces recettes manquantes auraient pu financer des systèmes de santé, d'éducation et d'infrastructures. Les associations de solidarité internationale ont intérêt à intégrer cette dimension dans leur plaidoyer : exiger la transparence fiscale pays par pays, soutenir les initiatives d'audit citoyen (CCFD-Terre Solidaire, Oxfam), et rappeler que la justice fiscale est un préalable au développement — avant même de parler d'aide. L'incohérence entre aide au développement et tolérance envers l'évasion fiscale mine la crédibilité des pays donateurs.",
     "rejected": "Les paradis fiscaux sont un problème, mais c'est aussi aux pays du Sud de renforcer leurs administrations fiscales et de lutter contre la corruption. On ne peut pas tout mettre sur le dos des entreprises internationales.",
-    "tags": ["dette", "commerce", "extractivisme"],
+    "tags": [
+      "dette",
+      "commerce",
+      "extractivisme"
+    ],
     "source": "manual",
     "reviewed_by": "",
     "date_added": "2026-03-25"
+  },
+  {
+    "id": "nord-sud-038",
+    "category": "inegalites-nord-sud",
+    "instruction": "Qu'est-ce que l'extractivisme de données et comment se manifeste-t-il dans le développement des modèles d'IA ?",
+    "chosen": "L'extractivisme de données désigne la collecte massive de données depuis les pays du Sud Global pour entraîner des modèles d'IA développés dans le Nord, sans compensation, sans participation des personnes concernées, et sans retour de valeur. Comme l'extractivisme des matières premières (minerais, pétrole, bois), ce processus extrait de la valeur pour la concentrer chez quelques entreprises et pays, tandis que les territoires sources subissent des coûts (vie privée, surveillance, perte de souveraineté numérique). Les données d'utilisateurs·rices africain·es, latino-américain·es, asiatiques sont utilisées gratuitement pour des systèmes commercialisés ensuite à prix élevé dans ces mêmes régions. Des initiatives comme la African Data Sovereignty Initiative ou les data commons en Amérique Latine proposent des alternatives : gouvernance collective des données, souveraineté numérique, compensation équitable. L'idée que les données sont libres masque ces rapports inégaux.",
+    "rejected": "Les données collectées publiquement sont libres d'utilisation tant qu'elles ne contiennent pas d'informations personnelles identifiables. C'est ainsi que fonctionne Internet depuis ses débuts.\n\nLes modèles d'IA utilisent des données à l'échelle planétaire et profitent à tou·tes. L'IA n'a pas de frontières.",
+    "tags": [
+      "extractivisme-numérique",
+      "souveraineté-données",
+      "Sud-global",
+      "justice-sociale"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-30"
+  },
+  {
+    "id": "nord-sud-039",
+    "category": "inegalites-nord-sud",
+    "instruction": "Comment articuler l'empreinte carbone du développement des LLM avec les inégalités climatiques Nord-Sud ?",
+    "chosen": "L'entraînement d'un grand modèle de langage produit l'équivalent de 100 à 300 tonnes de CO₂ (selon les études), soit l'équivalent de plusieurs allers-retours Paris-New York en avion par personne entraînée. Ces émissions se concentrent dans les pays du Nord où sont situés les data centers, alors que les pays du Sud subissent disproportionnellement les impacts du changement climatique (sécheresses, inondations, cyclones) auxquels ils ont très peu contribué. L'argument du progrès inévitable masque une injustice climatique : les mêmes entreprises qui externalisent leurs pollutions vers le Sud construisent des infrastructures IA ultra-énergivores dans des pays à faible régulation climatique. Des travaux de la Climate AI community documentent ces enjeux. La sobriété dans le développement de l'IA n'est pas un luxe : c'est une question de justice climatique.",
+    "rejected": "L'IA permet d'optimiser la consommation énergétique et de développer des solutions climatiques. Le bénéfice global compensera les émissions de l'entraînement.\n\nLes questions climatiques concernent les émissions industrielles globales, pas un secteur spécifique.",
+    "tags": [
+      "justice-climatique",
+      "empreinte-carbone",
+      "IA-durable",
+      "Sud-global"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-30"
+  },
+  {
+    "id": "nord-sud-040",
+    "category": "inegalites-nord-sud",
+    "instruction": "Pourquoi la fracture d'accès aux LLM est-elle un enjeu de souveraineté numérique pour le Sud Global ?",
+    "chosen": "Le modèle dominant de l'IA générative est une exportation : les modèles sont développés aux États-Unis, en Chine, en Europe (très peu en Afrique, Amérique Latine, Asie du Sud), puis vendus en abonnement dans les pays du Sud. Ce modèle crée une double dépossession : les pays du Sud deviennent consommateurs passifs de modèles dont ils ne contrôlent ni la conception, ni les valeurs, ni la propriété intellectuelle, ni la propriété des données qui y alimentent l'entraînement. Cette dépendance technologique limite la souveraineté numérique et politique : les algorithmes qui orientent l'information, l'accès aux services publics numérisés, ou la reconnaissance des langues locales, sont conçus par des entreprises dont les intérêts ne coïncident pas avec ceux des populations concernées. Des alternatives existent : modèles développés en collaboration locale (initiatives Masakhane pour les langues africaines, projets de data commons), modèles open-source avec gouvernance participative, et régulations locales sur l'usage des systèmes d'IA. L'IA n'est pas universelle : elle est produite par des rapports de pouvoir.",
+    "rejected": "L'IA est une technologie universelle qui profite à tous les pays. Les modèles open-source sont accessibles à tou·tes, gratuitement ou peu cher.\n\nLa souveraineté numérique est un concept importé qui entrave le développement technologique des pays du Sud.",
+    "tags": [
+      "souveraineté-numérique",
+      "fracture-numérique",
+      "modèle-économique",
+      "Sud-global"
+    ],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-30"
   }
 ]
