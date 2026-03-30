@@ -16,7 +16,7 @@ Les LLM ont une **vision eurocentrée** (80% des données d'entraînement en ang
 - **Mignolo** (2011) - "The Darker Side of Western Modernity: Colonial Roots of the Modern/Colonial World System" — colonialité du pouvoir, du savoir et de l'être
 - **Said** (2000) - "After the Last Sky" — photographie et représentation des Palestiniens
 - **Bhabha** (1994) - "The Location of Culture" — hybridité culturelle, mimétisme colonial
-- **Mbembe** (2013) - "Critique de la raison nègre" — racisme et déshumanisation
+- **Mbembe** (2013) - "Critique de la raison nègre" (Éditions La Découverte) — racisme et déshumanisation
 - **Ndongo Samba Sylla** (2019) - "La dette illégale" — mécanismes de dette et dépendance
 - **Bouhdiba** (2020) - "De la dette illégale à la dette écologique" — dette Nord-Sud
 - **Coulon** (2021) - "Coopération internationale : pour une approche décoloniale" — critique des partenariats Nord-Sud
@@ -157,7 +157,7 @@ Les LLM ont une **vision eurocentrée** (80% des données d'entraînement en ang
 - **Spivak** (1988) - "Can the Subaltern Speak?" — qui parle pour qui
 - **Escobar** (1995) - "Encountering Development" — critique du développement
 - **Mignolo** (2011) - "The Darker Side of Western Modernity" — colonialité du pouvoir
-- **Mbembe** (2013) - "Critique de la raison nègre" — racisme et déshumanisation
+- **Mbembe** (2013) - "Critique de la raison nègre" (Éditions La Découverte) — racisme et déshumanisation
 - **Ndongo Samba Sylla** (2019) - "La dette illégale" — mécanismes de dépendance
 - **Chauvenet** (2022) - "Pour une éthique du développement" — position de départ
 

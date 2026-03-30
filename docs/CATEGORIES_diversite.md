@@ -6,7 +6,7 @@ Les LLM valorisent les **parcours académiques linéaires**, issus des milieux f
 
 ### Références fondamentales
 
-- **Bourdieu** (1993) - "La Noblesse d'État" — les diplômes comme capital culturel, reproduction sociale
+- **Bourdieu** (1989) - "La Noblesse d'État : Grandes écoles et esprit de corps" — les diplômes comme capital culturel, reproduction sociale
 - **Boltanski & Chiapello** (1999) - "Le Nouvel Esprit du capitalisme" — critique du méritisme
 - **Sennett & Cobb** (1977) - "The Hidden Injuries of Class" — classe sociale et reconnaissance
 - **Fassin** (2009) - "La Raison d'État" — politiques publiques et diversité
