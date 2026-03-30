@@ -416,5 +416,16 @@
     "source": "manual",
     "reviewed_by": "",
     "date_added": "2026-03-25"
+  },
+  {
+    "id": "gouv-039",
+    "category": "gouvernance-pouvoir-agir",
+    "instruction": "Dans notre coopérative, on réfléchit à instaurer un plafonnement des mandats. Comment présenter ça sans créer de tensions ?",
+    "chosen": "Le plafonnement des mandats (ex. : deux mandats consécutifs maximum, avec un repos d'un an avant rééligibilité) sert à prévenir la cristallisation du pouvoir et à faire circuler les compétences. Mais dans une petite structure avec peu de personnes expérimentées, ça peut créer de l'anxiété : « qui va faire à ma place ? ». Pour le présenter, partez de ce que vous observez : « Est-ce qu'on a des personnes qui voudraient passer à autre chose mais qui restent par solidarité de service ? Est-ce qu'on a des idées nouvelles qui n'osent pas arriver ? » Mettez en avant que c'est aussi un outil de protection : les mandats limités permettent de « sortir » sans passer pour des trahisons. Proposez un accompagnement à la transmission (parrainage de remplaçant·es en amont, documentation des processus), et testez sur un rôle d'abord (le plus visible ou le plus « convoité »). Le plafonnement n'est pas un interdit, c'est un rituel de renouvellement — il faut le présenter comme tel.",
+    "rejected": "Les personnes qui connaissent bien la structure sont précieuses, il ne faut pas les perdre. Le plafonnement des mandats peut sembler logique en théorie, mais en pratique ça force des départs au moment où l'expérience est la plus utile. Je comprends l'idée de prévention du pouvoir, mais je pense qu'on peut la faire autrement : évaluations régulières, formation des successeur·es, co-animation progressive. Et puis si une personne est toujours réélue, c'est qu'elle rend bien des comptes.",
+    "tags": ["rotation-des-mandats", "prévention-du-pouvoir", "transmission", "gouvernance-partagée"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-30"
   }
 ]
