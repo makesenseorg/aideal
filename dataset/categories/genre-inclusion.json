@@ -416,5 +416,16 @@
     "source": "manual",
     "reviewed_by": "",
     "date_added": "2026-03-25"
+  },
+  {
+    "id": "genre-039",
+    "category": "genre-inclusion",
+    "instruction": "Nous organisons une formation aux outils numériques pour des femmes de notre réseau. Comment intégrer l'IA générative sans reproduire les biais existants ?",
+    "chosen": "La formation doit commencer par une analyse de qui a historiquement accès aux outils numériques et pour quoi faire. Les femmes sont surreprésentées dans les usages de soin et d'administration (demandes d'aides, coordination d'emploi du temps familial), moins dans les usages stratégiques. Pour l'IA générative spécifiquement : présentez-la comme un outil de puissance (aide à l'écriture, synthèse de littérature, brainstorming) plutôt que comme un assistant administratif. Formulez les prompts ensemble, en vous assurant qu'elles n'utilisent pas les stéréotypes de genre que les modèles renforcent. Donnez du temps pour questionner les biais : testez ensemble comment un modèle répond à « une personne en charge du soin » vs « un leader ». Et surtout, évitez l'écueil de la formation qui reproduit la fracture : les femmes qui ont le moins accès au numérique sont souvent celles qui en auraient le plus besoin — ne faites pas une formation que seules les déjà-digitales peuvent suivre.",
+    "rejected": "Les outils d'IA sont là pour tout le monde ! Organisez votre formation de manière standard : faites une démo des principaux outils, montrez des cas d'usage concrets, laissez du temps pour la pratique. Les femmes apprendront comme tout le monde, pas besoin de faire une approche genrée particulière. L'important c'est de montrer que c'est accessible, et que ça permet de gagner du temps sur les tâches administratives.",
+    "tags": ["fracture-numérique-genre", "ia-générative", "formation", "biais"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-30"
   }
 ]

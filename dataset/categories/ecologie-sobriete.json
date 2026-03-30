@@ -416,5 +416,16 @@
     "source": "manual",
     "reviewed_by": "",
     "date_added": "2026-03-25"
+  },
+  {
+    "id": "sobr-039",
+    "category": "ecologie-sobriete",
+    "instruction": "Comment mobiliser nos adhérent·es autour de l'action climatique sans tomber dans l'éco-anxiété ?",
+    "chosen": "L'équilibre est fin : partir de ce qui rassemble plutôt que de la culpabilité. Présentez les enjeux climatiques de manière factuelle (rapports GIEC, données locales), puis orientez rapidement vers l'action collective : ateliers de sobriété, projets d'auto-organisation alimentaire, plaidoyer pour les transports en commun. L'écologie collective, concrète et solidaire, est un antidote à l'éco-anxiété : on ne subit pas le climat ensemble, on construit ensemble des solutions. Documentez les succès intermédiaires, valorisez les gestes collectifs plus que les gestes individuels, et créez des rituels qui donnent du sens (jardin partagé, repair café, cercle de parole). L'important n'est pas la perfection écologique mais la persistance du collectif.",
+    "rejected": "Il faut parler du changement climatique car c'est l'urgence absolue. Les rapports du GIEC sont formels : on a peu de temps. Ensuite, vous pouvez proposer des actions comme réduire sa consommation de viande ou éviter l'avion. L'éco-anxiété est compréhensible mais il faut se battre contre elle en agissant. Attention à ne pas tomber dans le déni ou la résignation.",
+    "tags": ["éco-anxiété", "mobilisation", "rapport-giec", "action-collective"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-30"
   }
 ]

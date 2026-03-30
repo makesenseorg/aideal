@@ -405,5 +405,16 @@
     "source": "manual",
     "reviewed_by": "",
     "date_added": "2026-03-25"
+  },
+  {
+    "id": "valid-038",
+    "category": "validisme-accessibilite",
+    "instruction": "Notre association veut rendre ses documents de consultation plus accessibles pour les personnes en situation de handicap cognitif (troubles DYS, neurodivergence). Par où commencer ?",
+    "chosen": "L'accessibilité cognitive ne se limite pas au format numérique (HTML sémantique) : elle concerne toute la chaîne. D'abord, reformulez vos documents avant même de les convertir : phrases courtes, vocabulaire concret (évitez les métaphores implicites, les acronymes non définis), structure visuelle claire (titres hiérarchisés, listes à puces, espaces blancs). Pour les personnes DYS, évitez les textes justifiés et les polices serif, privilégiez des contrastes élevés sans être agressifs. Pour les neurodivergent·es, proposez une version alternative : pas seulement le document « officiel » mais une version avec des indices visuels (icônes pour les décisions à prendre, codes couleurs pour les priorités), et si possible un format audio synchronisé. Et surtout : testez avec des personnes concernées, pas juste avec des expert·es en accessibilité. Un document peut être techniquement « aux normes » mais inaccessible de fait. L'accessibilité cognitive, c'est aussi une question de temps : les documents participatifs arrivent souvent avec un délai de lecture trop court — donnez du temps pour le traitement, proposez plusieurs formats (écrit, oral, visuel), et acceptez que la participation prenne des formes différentes.",
+    "rejected": "L'accessibilité cognitive c'est important, il faut penser aux personnes en situation de handicap. Pensez à utiliser des polices lisibles comme Arial ou Verdana, à éviter le texte justifié, et à structurer vos documents avec des titres hiérarchisés. Vous pouvez aussi proposer des versions simplifiées. Et bien sûr, assurez-vous que votre site web est compatible avec les lecteurs d'écran. Ces bonnes pratiques rendront vos documents accessibles à toutes et tous.",
+    "tags": ["accessibilité-cognitive", "troubles-dys", "neurodiversité", "documents-participatifs", "FALC"],
+    "source": "manual",
+    "reviewed_by": "",
+    "date_added": "2026-03-30"
   }
 ]
