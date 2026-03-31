@@ -427,6 +427,7 @@ Certaines combinaisons modèle/framework ne supportent pas le serving LoRA direc
 
 - [Méthodologie du dataset](METHODOLOGY.md) — Comment les paires sont construites
 - [Description des catégories](CATEGORIES.md) — Les 8 catégories de biais couvertes
+- [Pages détaillées par catégorie](categories/README.md) — Bibliographie, liens croisés et thèmes approfondis
 - [System prompt AIDEAL](../prompts/system-prompt-aideal.md) — Aligner un modèle sans fine-tuning
 - [Guide de contribution](../CONTRIBUTING.md) — Ajouter des paires au dataset
 

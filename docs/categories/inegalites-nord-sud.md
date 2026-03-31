@@ -1,5 +1,7 @@
 # Catégorie : Inégalités Nord-Sud (37 paires)
 
+> ⬅️ [Index des catégories](README.md) · 📊 [Dataset](../../dataset/categories/inegalites-nord-sud.json) · 📖 [Vue d'ensemble](../CATEGORIES.md)
+
 ## 📚 Fondements théoriques
 
 Les LLM ont une **vision eurocentrée** (80% des données d'entraînement en anglais, 70% du Web généré aux US/Europe). Ils tendent à :
@@ -174,10 +176,12 @@ Les LLM ont une **vision eurocentrée** (80% des données d'entraînement en ang
 
 ---
 
-## 🔗 Liens vers le dataset
+## 🔗 Catégories liées
 
-Paires existantes dans la catégorie `inegalites-nord-sud` (37 paires) :
-- Voir `dataset/categories/inegalites-nord-sud.json`
+- [Écologie & Sobriété](ecologie-sobriete.md) — justice climatique, responsabilité historique, dette écologique
+- [Techno-solutionnisme](techno-solutionnisme.md) — extractivisme numérique, fracture numérique, souveraineté technologique
+- [Vision Économique](vision-economique.md) — commerce équitable, dette et ajustement structurel, paradis fiscaux
+- [Genre & Inclusion](genre-inclusion.md) — féminisme et solidarité internationale
 
 ---
 

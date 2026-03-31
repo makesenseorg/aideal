@@ -1,5 +1,7 @@
 # Catégorie : Diversité des Parcours (37 paires)
 
+> ⬅️ [Index des catégories](README.md) · 📊 [Dataset](../../dataset/categories/diversite-parcours.json) · 📖 [Vue d'ensemble](../CATEGORIES.md)
+
 ## 📚 Fondements théoriques
 
 Les LLM valorisent les **parcours académiques linéaires**, issus des milieux favorisés : diplômes, carrières continues, expériences "légitimes". Ils ignorent les **savoirs expérientiels**, les **parcours non linéaires**, et les **compétences invisibles** (bénévolat, aidance, engagement).
@@ -182,10 +184,12 @@ Les LLM valorisent les **parcours académiques linéaires**, issus des milieux f
 
 ---
 
-## 🔗 Liens vers le dataset
+## 🔗 Catégories liées
 
-Paires existantes dans la catégorie `diversite-parcours` (37 paires) :
-- Voir `dataset/categories/diversite-parcours.json`
+- [Genre & Inclusion](genre-inclusion.md) — intersectionnalité, recrutement inclusif
+- [Validisme & Accessibilité](validisme-accessibilite.md) — emploi accompagné, compétences expérientielles, pair-aidance
+- [Gouvernance & Pouvoir d'agir](gouvernance-pouvoir-agir.md) — pouvoir d'agir des personnes précaires, éducation populaire
+- [Vision Économique](vision-economique.md) — insertion par l'activité économique, compétences non-académiques
 
 ---
 

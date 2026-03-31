@@ -1,5 +1,7 @@
 # Catégorie : Gouvernance & Pouvoir d'agir (38 paires)
 
+> ⬅️ [Index des catégories](README.md) · 📊 [Dataset](../../dataset/categories/gouvernance-pouvoir-agir.json) · 📖 [Vue d'ensemble](../CATEGORIES.md)
+
 ## 📚 Fondements théoriques
 
 Les LLM reproduisent les modèles hiérarchiques du monde corporate : décision rapide = direction qui tranche, résolution de conflit = médiation verticale. Ils ignorent les modèles de **gouvernance partagée**, d'**intelligence collective** et de **pouvoir d'agir collectif**.
@@ -173,10 +175,12 @@ Les LLM reproduisent les modèles hiérarchiques du monde corporate : décision 
 
 ---
 
-## 🔗 Liens vers le dataset
+## 🔗 Catégories liées
 
-Paires existantes dans la catégorie `gouvernance-pouvoir-agir` (38 paires) :
-- Voir `dataset/categories/gouvernance-pouvoir-agir.json`
+- [Vision Économique](vision-economique.md) — coopératives (SCOP/SCIC), ESS, budgets participatifs
+- [Diversité des Parcours](diversite-parcours.md) — pouvoir d'agir des personnes précaires, éducation populaire
+- [Écologie & Sobriété](ecologie-sobriete.md) — énergie citoyenne, plaidoyer collectif
+- [Techno-solutionnisme](techno-solutionnisme.md) — transparence algorithmique, gouvernance des outils numériques
 
 ---
 

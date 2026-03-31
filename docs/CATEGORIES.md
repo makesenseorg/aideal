@@ -6,9 +6,24 @@ Ce document décrit les 8 catégories de biais couvertes par le dataset AIDEAL, 
 
 **Statut** : 300 paires réparties sur 8 catégories (37-38 paires par catégorie). Objectif v1 : 800 paires.
 
+> **Pages détaillées** : chaque catégorie a sa propre page dans [`docs/categories/`](categories/README.md) avec bibliographie complète, exemples et thèmes approfondis.
+
+### Sommaire
+
+1. [Genre & Inclusion](#1-genre-inclusion--38-paires) — [page détaillée](categories/genre-inclusion.md)
+2. [Techno-solutionnisme](#2-techno-solutionnisme--37-paires) — [page détaillée](categories/techno-solutionnisme.md)
+3. [Vision Économique](#3-vision-economique--38-paires) — [page détaillée](categories/vision-economique.md)
+4. [Validisme & Accessibilité](#4-validisme-accessibilite--37-paires) — [page détaillée](categories/validisme-accessibilite.md)
+5. [Inégalités Nord-Sud](#5-inegalites-nord-sud--37-paires) — [page détaillée](categories/inegalites-nord-sud.md)
+6. [Écologie & Sobriété](#6-ecologie-sobriete--38-paires) — [page détaillée](categories/ecologie-sobriete.md)
+7. [Gouvernance & Pouvoir d'agir](#7-gouvernance-pouvoir-agir--38-paires) — [page détaillée](categories/gouvernance-pouvoir-agir.md)
+8. [Diversité des Parcours](#8-diversite-parcours--37-paires) — [page détaillée](categories/diversite-parcours.md)
+
 ---
 
 ## 1. `genre-inclusion` — 38 paires
+
+> 📖 [Page détaillée](categories/genre-inclusion.md) · 📊 [Dataset](../dataset/categories/genre-inclusion.json)
 
 ### 📚 Fondements théoriques et biais documentés
 
@@ -64,6 +79,8 @@ Les LLM reproduisent systématiquement les stéréotypes de genre présents dans
 ---
 
 ## 2. `techno-solutionnisme` — 37 paires
+
+> 📖 [Page détaillée](categories/techno-solutionnisme.md) · 📊 [Dataset](../dataset/categories/techno-solutionnisme.json)
 
 ### 📚 Fondements théoriques
 
@@ -122,6 +139,8 @@ Le techno-solutionnisme est un concept popularisé par **Nick Seaver** (2017) et
 ---
 
 ## 3. `vision-economique` — 38 paires
+
+> 📖 [Page détaillée](categories/vision-economique.md) · 📊 [Dataset](../dataset/categories/vision-economique.json)
 
 ### 📚 Fondements théoriques
 
@@ -182,6 +201,8 @@ Les LLM ont été entraînés sur des textes qui naturalisent la croissance et l
 ---
 
 ## 4. `validisme-accessibilite` — 37 paires
+
+> 📖 [Page détaillée](categories/validisme-accessibilite.md) · 📊 [Dataset](../dataset/categories/validisme-accessibilite.json)
 
 ### 📚 Fondements théoriques
 
@@ -246,6 +267,8 @@ Le validisme privilégie les corps et esprits "valides" :
 ---
 
 ## 5. `inegalites-nord-sud` — 37 paires
+
+> 📖 [Page détaillée](categories/inegalites-nord-sud.md) · 📊 [Dataset](../dataset/categories/inegalites-nord-sud.json)
 
 ### 📚 Fondements théoriques
 
@@ -313,6 +336,8 @@ Les LLM ont une vision eurocentrée (80% données en anglais, 70% du Web US/Euro
 ---
 
 ## 6. `ecologie-sobriete` — 38 paires
+
+> 📖 [Page détaillée](categories/ecologie-sobriete.md) · 📊 [Dataset](../dataset/categories/ecologie-sobriete.json)
 
 ### 📚 Fondements théoriques
 
@@ -382,6 +407,8 @@ Les LLM tendent vers le green-washing :
 
 ## 7. `gouvernance-pouvoir-agir` — 38 paires
 
+> 📖 [Page détaillée](categories/gouvernance-pouvoir-agir.md) · 📊 [Dataset](../dataset/categories/gouvernance-pouvoir-agir.json)
+
 ### 📚 Fondements théoriques
 
 Les LLM reproduisent les modèles hiérarchiques du monde corporate :
@@ -448,6 +475,8 @@ Les LLM reproduisent les modèles hiérarchiques du monde corporate :
 ---
 
 ## 8. `diversite-parcours` — 37 paires
+
+> 📖 [Page détaillée](categories/diversite-parcours.md) · 📊 [Dataset](../dataset/categories/diversite-parcours.json)
 
 ### 📚 Fondements théoriques
 
@@ -524,7 +553,13 @@ Les LLM valorisent les parcours académiques linéaires, issus des milieux favor
 5. Ajouter des tags pertinents
 6. Noter la source (GIEC, étude, expérience de terrain)
 
-**Format exact** : voir `CONTRIBUTING.md`
+**Format exact** : voir [CONTRIBUTING.md](../CONTRIBUTING.md)
+
+## 📖 Voir aussi
+
+- [Index des catégories](categories/README.md) — liens croisés entre catégories
+- [Méthodologie](METHODOLOGY.md) — construction du dataset
+- [Guide de fine-tuning](FINE_TUNING_GUIDE.md) — entraîner un modèle avec AIDEAL
 
 ---
 

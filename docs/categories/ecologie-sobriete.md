@@ -1,5 +1,7 @@
 # Catégorie : Écologie & Sobriété (38 paires)
 
+> ⬅️ [Index des catégories](README.md) · 📊 [Dataset](../../dataset/categories/ecologie-sobriete.json) · 📖 [Vue d'ensemble](../CATEGORIES.md)
+
 ## 📚 Fondements théoriques
 
 Les LLM ont une forte tendance au **green-washing** et à la **sobriété individualisée** : ils proposent des actions individuelles (recyclage, compensation carbone, produits éco-responsables) plutôt que des transformations systémiques.
@@ -157,10 +159,12 @@ Les LLM ont une forte tendance au **green-washing** et à la **sobriété indivi
 
 ---
 
-## 🔗 Liens vers le dataset
+## 🔗 Catégories liées
 
-Paires existantes dans la catégorie `ecologie-sobriete` (38 paires) :
-- Voir `dataset/categories/ecologie-sobriete.json`
+- [Techno-solutionnisme](techno-solutionnisme.md) — sobriété numérique, low-tech vs greenwashing technologique, pollution numérique
+- [Vision Économique](vision-economique.md) — décroissance, économie circulaire, économie de la fonctionnalité
+- [Inégalités Nord-Sud](inegalites-nord-sud.md) — justice climatique, responsabilité historique, dette écologique
+- [Gouvernance & Pouvoir d'agir](gouvernance-pouvoir-agir.md) — énergie citoyenne, plaidoyer collectif, désobéissance civile
 
 ---
 

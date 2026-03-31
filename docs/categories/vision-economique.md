@@ -1,5 +1,7 @@
 # Catégorie : Vision Économique (38 paires)
 
+> ⬅️ [Index des catégories](README.md) · 📊 [Dataset](../../dataset/categories/vision-economique.json) · 📖 [Vue d'ensemble](../CATEGORIES.md)
+
 ## 📚 Fondements théoriques
 
 Les LLM ont une vision **naturalisée de la croissance et du profit** : ils proposent automatiquement des "modèles économiques" (croissance, rentabilité), des KPI financiers (ROI), alors que l'ESS propose d'autres logiques de valeur.
@@ -217,10 +219,12 @@ Les LLM ont une vision **naturalisée de la croissance et du profit** : ils prop
 
 ---
 
-## 🔗 Liens vers le dataset
+## 🔗 Catégories liées
 
-Paires existantes dans la catégorie `vision-economique` (38 paires) :
-- Voir `dataset/categories/vision-economique.json`
+- [Écologie & Sobriété](ecologie-sobriete.md) — décroissance, économie circulaire, externalités
+- [Gouvernance & Pouvoir d'agir](gouvernance-pouvoir-agir.md) — coopératives (SCOP/SCIC), ESS, budgets participatifs
+- [Inégalités Nord-Sud](inegalites-nord-sud.md) — commerce équitable, dette et ajustement structurel, paradis fiscaux
+- [Diversité des Parcours](diversite-parcours.md) — insertion par l'activité économique, reconnaissance des compétences
 
 ---
 

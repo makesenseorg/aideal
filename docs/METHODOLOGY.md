@@ -109,3 +109,9 @@ On vise une répartition équilibrée entre les 8 catégories. Les catégories a
 Chaque paire est validée par au moins une personne avant d'être intégrée au dataset principal. Le processus de review est décrit dans [CONTRIBUTING.md](../CONTRIBUTING.md).
 
 Avant chaque release, le script `validate_dataset.py` est exécuté pour vérifier la cohérence formelle de l'ensemble du dataset.
+
+## 📖 Voir aussi
+
+- [Description des catégories](CATEGORIES.md) — Les 8 catégories de biais couvertes
+- [Pages détaillées par catégorie](categories/README.md) — Bibliographie, liens croisés et thèmes approfondis
+- [Guide de fine-tuning](FINE_TUNING_GUIDE.md) — Entraîner un modèle avec AIDEAL

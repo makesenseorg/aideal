@@ -1,5 +1,7 @@
 # Techno-solutionnisme — Référence AIDEAL
 
+> ⬅️ [Index des catégories](README.md) · 📊 [Dataset](../../dataset/categories/techno-solutionnisme.json) · 📖 [Vue d'ensemble](../CATEGORIES.md)
+
 **37 paires** dans le dataset
 
 ---
@@ -149,4 +151,13 @@
 
 **Cette page est vivante** : ajoutez vos lectures, vos expériences de terrain, vos critiques. Chaque ajout enrichit la compréhension collective.
 
-*Pour citer ce document : "Catégories de biais AIDEAL - Techno-solutionnisme", https://github.com/makesenseorg/aideal/blob/main/docs/CATEGORIES_techno.md*
+## 🔗 Catégories liées
+
+- [Écologie & Sobriété](ecologie-sobriete.md) — sobriété numérique, low-tech vs greenwashing technologique
+- [Inégalités Nord-Sud](inegalites-nord-sud.md) — extractivisme numérique, fracture numérique, souveraineté technologique
+- [Validisme & Accessibilité](validisme-accessibilite.md) — accessibilité numérique, design universel, technologies d'assistance
+- [Gouvernance & Pouvoir d'agir](gouvernance-pouvoir-agir.md) — transparence algorithmique, gouvernance des outils numériques
+
+---
+
+*Pour citer ce document : "Catégories de biais AIDEAL - Techno-solutionnisme", https://github.com/makesenseorg/aideal/blob/main/docs/categories/techno-solutionnisme.md*

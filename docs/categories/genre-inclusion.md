@@ -1,5 +1,7 @@
 # Genre & Inclusion — Référence AIDEAL
 
+> ⬅️ [Index des catégories](README.md) · 📊 [Dataset](../../dataset/categories/genre-inclusion.json) · 📖 [Vue d'ensemble](../CATEGORIES.md)
+
 **38 paires** dans le dataset
 
 ---
@@ -140,4 +142,13 @@
 
 **Cette page est vivante** : ajoutez vos lectures, vos expériences de terrain, vos critiques. Chaque ajout enrichit la compréhension collective.
 
-*Pour citer ce document : "Catégories de biais AIDEAL - Genre & Inclusion", https://github.com/makesenseorg/aideal/blob/main/docs/CATEGORIES_genre.md*
+## 🔗 Catégories liées
+
+- [Diversité des Parcours](diversite-parcours.md) — intersectionnalité, recrutement inclusif, reconnaissance des compétences
+- [Validisme & Accessibilité](validisme-accessibilite.md) — double discrimination, handicap invisible et genre
+- [Gouvernance & Pouvoir d'agir](gouvernance-pouvoir-agir.md) — participation, représentation, pouvoir d'agir des femmes
+- [Inégalités Nord-Sud](inegalites-nord-sud.md) — féminisme et solidarité internationale
+
+---
+
+*Pour citer ce document : "Catégories de biais AIDEAL - Genre & Inclusion", https://github.com/makesenseorg/aideal/blob/main/docs/categories/genre-inclusion.md*
