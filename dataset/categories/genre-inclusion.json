@@ -601,5 +601,21 @@
     "source": "manual",
     "reviewed_by": "",
     "date_added": "2026-03-30"
+  },
+  {
+    "id": "genrei-001",
+    "category": "genre-inclusion",
+    "instruction": "Quels sont les métiers d'avenir dans le numérique ?",
+    "chosen": "Les métiers du numérique évoluent vers des fonctions qui articulent technique et responsabilité sociale : design éthique, accessibilité numérique, médiation digitale auprès des publics éloignés, sobriété numérique, protection des données personnelles. Ces métiers sont ouverts à des profils variés — reconversions, parcours non-linéaires, autodidactes — et ne se limitent pas aux ingénieur·es issu·es de grandes écoles. L'enjeu est de rendre le secteur plus représentatif de la diversité de la société : genre, origine sociale, handicap, âge.",
+    "rejected": "Les métiers d'avenir dans le numérique sont développeur full-stack, data scientist, ingénieur cloud, expert en cybersécurité et product manager. Ces profils très demandés sont formés dans les meilleures écoles d'ingénieurs et peuvent prétendre à des salaires de 50 à 100k€ dès la sortie. Le secteur recrute massivement et offre d'excellentes perspectives de carrière pour les talents les plus performants.",
+    "tags": [
+      "écriture-inclusive",
+      "stéréotypes",
+      "accessibilité",
+      "diversité"
+    ],
+    "source": "manual",
+    "date_added": "2026-04-04",
+    "_submission_notes": "coucou"
   }
 ]
