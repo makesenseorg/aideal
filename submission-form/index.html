@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Proposer une paire - AIDEAL</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <main class="container">
+        <header>
+            <h1>Proposer une nouvelle paire de préférences</h1>
+            <p>Participez à l'amélioration du dataset AIDEAL pour aligner les IA sur les valeurs ESS</p>
+        </header>
+
+        <form id="pair-form" novalidate aria-labelledby="form-title">
+            <h2 id="form-title" class="visually-hidden">Formulaire de soumission de paire de préférences</h2>
+            
+            <div class="form-group" data-field="category">
+                <label for="category">Catégorie *</label>
+                <select id="category" name="category" required aria-required="true" aria-describedby="category-description category-error" aria-invalid="false">
+                    <option value="">Choisir une catégorie...</option>
+                    <option value="genre-inclusion">Genre & Inclusion</option>
+                    <option value="techno-solutionnisme">Techno-solutionnisme</option>
+                    <option value="vision-economique">Vision économique</option>
+                    <option value="validisme-accessibilite">Validisme & Accessibilité</option>
+                    <option value="inegalites-nord-sud">Inégalités Nord-Sud</option>
+                    <option value="ecologie-sobriete">Écologie & Sobriété</option>
+                    <option value="gouvernance-pouvoir-agir">Gouvernance & Pouvoir d'agir</option>
+                    <option value="diversite-parcours">Diversité des parcours</option>
+                </select>
+                <small id="category-description" role="status"></small>
+                <span id="category-error" class="error-message" role="alert" aria-live="polite" aria-hidden="true"></span>
+            </div>
+
+            <div class="form-group" data-field="instruction">
+                <label for="instruction">Instruction *</label>
+                <textarea id="instruction" name="instruction" rows="3" required minlength="10" aria-required="true" aria-describedby="instruction-description instruction-error" aria-invalid="false" aria-live="polite"></textarea>
+                <small id="instruction-description">La question ou consigne donnée au modèle (minimum 10 caractères)</small>
+                <span id="instruction-error" class="error-message" role="alert" aria-live="polite" aria-hidden="true"></span>
+            </div>
+
+            <div class="form-group" data-field="chosen">
+                <label for="chosen">Réponse choisie *</label>
+                <textarea id="chosen" name="chosen" rows="5" required minlength="20" aria-required="true" aria-describedby="chosen-description chosen-error" aria-invalid="false" aria-live="polite"></textarea>
+                <small id="chosen-description">La réponse alignée avec les valeurs ESS (minimum 20 caractères)</small>
+                <span id="chosen-error" class="error-message" role="alert" aria-live="polite" aria-hidden="true"></span>
+            </div>
+
+            <div class="form-group" data-field="rejected">
+                <label for="rejected">Réponse rejetée *</label>
+                <textarea id="rejected" name="rejected" rows="5" required minlength="20" aria-required="true" aria-describedby="rejected-description rejected-error" aria-invalid="false" aria-live="polite"></textarea>
+                <small id="rejected-description">La réponse biaisée ou non-alignée à corriger (minimum 20 caractères)</small>
+                <span id="rejected-error" class="error-message" role="alert" aria-live="polite" aria-hidden="true"></span>
+            </div>
+
+            <div class="form-group" data-field="tags">
+                <label for="tags">Tags (optionnel)</label>
+                <input type="text" id="tags" name="tags" placeholder="écriture-inclusive, stéréotypes, accessibilité" aria-describedby="tags-description tags-error" aria-invalid="false">
+                <small id="tags-description">Max 5 tags, séparés par des virgules ou espaces. Ex: écriture-inclusive, recrutement</small>
+                <span id="tags-error" class="error-message" role="alert" aria-live="polite" aria-hidden="true"></span>
+            </div>
+
+            <div class="form-group" data-field="source">
+                <label for="source">Source *</label>
+                <select id="source" name="source" required aria-required="true" aria-describedby="source-description source-error" aria-invalid="false" aria-live="polite">
+                    <option value="">Choisir une source...</option>
+                    <option value="manual">Contribution manuelle</option>
+                    <option value="openwebui-feedback">Feedback OpenWebUI</option>
+                    <option value="content-extraction">Extraction de contenu</option>
+                </select>
+                <small id="source-description"></small>
+                <span id="source-error" class="error-message" role="alert" aria-live="polite" aria-hidden="true"></span>
+            </div>
+
+            <div class="form-group" data-field="reviewer-notes">
+                <label for="reviewer-notes">Notes pour les relecteurs (optionnel)</label>
+                <textarea id="reviewer-notes" name="reviewer_notes" rows="3" maxlength="1000" aria-describedby="reviewer-notes-description reviewer-notes-error" aria-invalid="false"></textarea>
+                <small id="reviewer-notes-description">Contexte supplémentaire pour aider à l'évaluation de la paire</small>
+                <span id="reviewer-notes-error" class="error-message" role="alert" aria-live="polite" aria-hidden="true"></span>
+            </div>
+
+            <span id="form-level-error" class="error-message form-level-error" role="alert" aria-live="assertive" style="display: none;"></span>
+
+            <div id="validation-message" class="validation-message" style="display: none;"></div>
+
+            <button type="submit" class="btn-primary">Proposer la paire</button>
+        </form>
+
+        <footer>
+            <p>📖 <a href="/docs/CONTRIBUTING.md" target="_blank">Guide de contribution</a> • <a href="/docs/CATEGORIES.md" target="_blank">Description des catégories</a></p>
+        </footer>
+    </main>
+
+    <script src="submission.js"></script>
+</body>
+</html>
