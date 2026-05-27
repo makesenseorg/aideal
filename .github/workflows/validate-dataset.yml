@@ -63,3 +63,8 @@ ${success ? 'All dataset files are valid.' : 'Please fix the validation errors b
               repo: context.repo.repo,
               body: comment
             });
+            
+            // Set failure if validation failed
+            if (!success) {
+              core.setFailed('Dataset validation failed');
+            }
