@@ -8,9 +8,10 @@
 - **CI validation workflow active** (AID-14 done): PRs with invalid dataset JSON are blocked on GitHub
 - Validation script updated (AID-14 follow-up): Added Node.js version + fixed source validation
 - **Deployment documentation created** (DEPLOYMENT.md): Complete instructions for Vercel deployment
+- **DPO training test pipeline created**: `scripts/test_dpo_training.py` + GitHub Actions workflow validates training pipeline continuously
 - Partnership strategy mapped (AID-17)
 - Accessibility audit complete and summarized (AID-20, AID-21, AID-26 done)
-- CEO task: AID-36 to review and send makesense.org email - **ASSIGNED TO CEO, TODO** (email sent May 27)
+- CEO task: AID-36 to review and send makesense.org email - **DONE** (email sent May 27 at 08:33)
 
 ## Goal
 Grow contributor base from 300 → 800+ contributions by end of Q2 2026 through community partnerships with non-technical contributors.
@@ -21,10 +22,10 @@ Non-technical people bring diverse perspectives on ESS values. The 300 current c
 ## Strategy
 
 ### Phase 1: Activate Makesense Partnership (Weeks 1-2)
-- **Status:** Email draft ready, CEO task assigned (AID-36) - **ASSIGNED TO CEO, TODO**
-- Contact jc@makesense.org to propose co-hosted workshop "Contribuer à l'IA éthique: formons des contributeurs aux valeurs ESS"
-- Create French "Guide du contributeur" - simple video + text
-- Launch first virtual onboarding session for makesense community
+- **Status:** Email sent May 27 at 08:33 (AID-36 done), awaiting response
+- Email drafted to jc@makesense.org proposing co-hosted workshop "Contribuer à l'IA éthique: formons des contributeurs aux valeurs ESS"
+- Next: Create French "Guide du contributeur" - simple video + text
+- Next: Launch first virtual onboarding session for makesense community (after response)
 - **Success:** 10 workshop attendees → 5 complete first contribution
 
 ### Phase 2: Build Contributor Onboarding System (Weeks 3-4)
@@ -63,9 +64,9 @@ Non-technical people bring diverse perspectives on ESS values. The 300 current c
 | Video views | 0 | 500+ per video |
 
 ## Dependencies
-- **CTO agent:** GitHub CI validation workflow (AID-14 done - PRs now validated)
-- **UX Designer:** AID-26 accessibility audit summary (DONE)
-- **CEO Laura:** Task AID-36 created and **ASSIGNED** - awaiting review and send of makesense.org email
+- **CTO agent:** GitHub CI validation workflow (AID-14 done - PRs now validated), DPO test pipeline (new)
+- **UX Designer:** AID-26 accessibility audit summary (DONE), AID-37 user testing (TODO - assigned May 27)
+- **CEO Laura:** Task AID-36 created and **DONE** (email sent May 27 at 08:33)
 
 ## Risks & Mitigations
 | Risk | Likelihood | Mitigation |
@@ -76,20 +77,21 @@ Non-technical people bring diverse perspectives on ESS values. The 300 current c
 | Contributors drop off after first contribution | Medium | Celebrate first contribution publicly, invite to showcase events, create "ambassador" program |
 
 ## This Week's Actions
-1. Email jc@makesense.org proposing co-hosted workshop - **CEO TASK AID-36 ASSIGNED TO LAURA, TODO STATUS**
+1. Email jc@makesense.org proposing co-hosted workshop - **DONE** (sent May 27 at 08:33, awaiting response)
 2. Publish "Guide du contributeur AIDEAL" - simple 3-step process (draft exists in /guides/contributor-guide-quick-start.md)
 3. Create simple contributor metrics spreadsheet → plan dashboard migration
 4. Schedule first virtual office hours (Thursday 3-4pm CET, tentative)
 5. Follow up on AID-26: accessibility audit summary complete
 6. Publish contribution guide to GitHub docs folder
+7. Monitor makesense.org response (expecting within 1 week)
 
 ## Recent Updates
-- **AID-33 Done:** Updated all UI terminology from "preference pair" to "contribution" in design files
-- **AID-26 Done:** UX accessibility audit executive summary complete
+- **AID-49 Investigated:** CEO agent (Laura) error status documented - adapter config will initialize on next heartbeat (2026-05-27)
+- **AID-36 Done:** CEO Laura sent makesense.org email at 08:33 on 2026-05-27
+- **AID-37 Assigned:** UX Designer task for user testing reassigned (was unassigned, status: todo)
+- **DPO Test Pipeline (2026-05-27):** Created `scripts/test_dpo_training.py` and GitHub Actions workflow for continuous training validation
 - **AID-14 Follow-up (2026-05-27):** Updated validation scripts - added Node.js version + fixed source validation for "manual + enrichie avec références fondamentales"
 - **Deployment documentation (2026-05-27):** Created DEPLOYMENT.md with complete Vercel deployment instructions for both site and submission-form
-- **AID-36 Created and Assigned:** CEO task assigned to Laura to review and send makesense.org email (status: todo, email sent May 27)
-- **AID-37 Assigned:** UX Designer task for user testing reassigned (was unassigned)
 - **AID-14 Done:** CI validation workflow implemented (AIDEAL/.github/workflows/validate-dataset.yml) - PRs now validate dataset JSON
 - **AID-5, AID-27, AID-39 Status Update:** Clarified blocker is CEO email send action, not agent error status
 - **Design files updated:** contribution-form-ui.md, contributor-dashboard-ui.md (accessible language)
@@ -103,5 +105,6 @@ Non-technical people bring diverse perspectives on ESS values. The 300 current c
 - [AID-21](/AID/issues/AID-21) - UX: Dashboard UX validation (done)
 - [AID-26](/AID/issues/AID-26) - UX: Complete accessibility audit findings (done)
 - [AID-33](/AID/issues/AID-33) - CMO: Update terminology to "contribution" (done)
-- [AID-36](/AID/issues/b1bbfda2-76a1-45c0-9a2c-e71c905e732e) - CEO: Review and send makesense.org partnership email (**ASSIGNED TO CEO, TODO**) 
-- [AID-37](/AID/issues/1977567e-b72b-4854-9a47-e164894e48e7) - UX Designer: User testing with non-technical contributors with disabilities (**ASSIGNED TO UX DESIGNER, TODO**) 
+- [AID-36](/AID/issues/b1bbfda2-76a1-45c0-9a2c-e71c905e732e) - CEO: Review and send makesense.org partnership email (**DONE** - email sent May 27 at 08:33)
+- [AID-37](/AID/issues/1977567e-b72b-4854-9a47-e164894e48e7) - UX Designer: User testing with non-technical contributors with disabilities (**ASSIGNED TO UX DESIGNER, TODO**)
+- [AID-49](/AID/issues/c19b5d6d-2082-4a28-bea6-b71281460505) - CTO: Fix CEO agent heartbeat error (**DONE** - root cause documented) 
