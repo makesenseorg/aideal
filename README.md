@@ -2,7 +2,7 @@
 
 > Un référentiel de préférences pour aligner les modèles d'IA sur les valeurs associatives et de l'économie sociale et solidaire. Construit par et pour celles et ceux qui changent le monde.
 
-![Paires dans le dataset](https://img.shields.io/badge/paires-300-blue)
+![Paires dans le dataset](https://img.shields.io/badge/paires-310-blue)
 ![Licence](https://img.shields.io/badge/licence-Apache%202.0-green)
 ![Contributions bienvenues](https://img.shields.io/badge/contributions-bienvenues-brightgreen)
 

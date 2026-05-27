@@ -41,9 +41,15 @@ Merci de vouloir contribuer à AIDEAL ! Ce guide explique comment proposer de no
    }
    ```
 
-4. **Générer l'ID** en suivant le format `<categorie-courte>-<numéro-à-3-chiffres>` (ex. `genre-002`, `eco-015`).
-
-5. **Ouvrir une PR** avec un titre descriptif, par exemple : `[genre-inclusion] Ajout paire sur le recrutement inclusif`
+ 4. **Générer l'ID** en suivant le format `<categorie-courte>-<numéro-à-3-chiffres>` (ex. `genre-002`, `eco-015`).
+    - Script automatique disponible : `node scripts/generate_id.js` ou `python scripts/generate_id.py`
+    
+ 5. **Valider localement** avant d'ouvrir la PR :
+    ```bash
+    node scripts/validate_dataset.js
+    ```
+    
+ 6. **Ouvrir une PR** avec un titre descriptif, par exemple : `[genre-inclusion] Ajout paire sur le recrutement inclusif`
 
 ### Via une issue
 
@@ -94,10 +100,11 @@ Vérifie que :
 
 ### Rôle "tech"
 Vérifie que :
-- Le format JSON est valide
+- Le format JSON est valide (validation automatique via GitHub Actions)
 - L'ID est unique et suit la convention
 - Les champs obligatoires sont remplis
 - La paire sera exploitable pour l'entraînement (longueur, structure)
+- Le workflow de validation CI est vert avant merge
 
 ### Validation
 

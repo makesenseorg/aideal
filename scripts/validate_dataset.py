@@ -18,7 +18,7 @@ from pathlib import Path
 CATEGORIES_DIR = Path(__file__).parent.parent / "dataset" / "categories"
 
 REQUIRED_FIELDS = {"id", "category", "instruction", "chosen", "rejected", "tags", "source", "date_added"}
-VALID_SOURCES = {"manual", "openwebui-feedback", "content-extraction"}
+VALID_SOURCES = {"manual", "openwebui-feedback", "content-extraction", "manual + enrichie avec références fondamentales"}
 VALID_CATEGORIES = {
     "genre-inclusion",
     "techno-solutionnisme",

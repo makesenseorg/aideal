@@ -6,6 +6,7 @@ on:
     paths:
       - "dataset/**"
       - "scripts/validate_dataset.py"
+      - "scripts/validate_dataset.js"
   workflow_dispatch:
 
 jobs:
