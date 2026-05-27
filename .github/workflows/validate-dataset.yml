@@ -1,0 +1,117 @@
+name: Validate dataset contributions
+
+on:
+  pull_request:
+    branches: [main]
+    paths:
+      - 'dataset/preferences.json'
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.head_ref || github.run_id }}
+  cancel-in-progress: true
+
+jobs:
+  validate:
+    name: Validate dataset JSON
+    runs-on: ubuntu-latest
+    outputs:
+      valid: ${{ steps.check.outputs.valid }}
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Validate dataset
+        id: check
+        run: |
+          set -e
+          
+          node -e "
+          const fs = require('fs');
+          const errors = [];
+          const warnings = [];
+          const seenIds = new Set();
+          const categories = new Set();
+          const validCategories = [
+            'genre-inclusion', 'techno-solutionnisme', 'vision-economique',
+            'validisme-accessibilite', 'inegalites-nord-sud', 'ecologie-sobriete',
+            'gouvernance-pouvoir-agir', 'diversite-parcours'
+          ];
+          
+          try {
+            const data = JSON.parse(fs.readFileSync('dataset/preferences.json', 'utf8'));
+            
+            if (!Array.isArray(data)) {
+              errors.push('preferences.json must be an array of entries');
+              console.error('Dataset validation failed');
+              console.error('❌ ' + errors.join('\n❌ '));
+              console.error('');
+              console.error('Please fix the errors above before merging.');
+              process.exit(1);
+            }
+            
+            data.forEach((entry, index) => {
+              const prefix = 'Entry #' + (index + 1);
+              
+              if (!entry.id) {
+                errors.push(prefix + ': Missing id field');
+              } else if (seenIds.has(entry.id)) {
+                errors.push(prefix + ': Duplicate ID ' + entry.id);
+              } else {
+                seenIds.add(entry.id);
+              }
+              
+              if (!entry.category) {
+                errors.push(prefix + ': Missing category field');
+              } else if (!validCategories.includes(entry.category)) {
+                errors.push(prefix + ': Invalid category ' + entry.category);
+              } else {
+                categories.add(entry.category);
+              }
+              
+              if (!entry.instruction || entry.instruction.trim() === '') {
+                errors.push(prefix + ': Missing or empty instruction field');
+              }
+              
+              if (!entry.chosen || entry.chosen.trim() === '') {
+                errors.push(prefix + ': Missing or empty chosen field');
+              }
+              
+              if (!entry.rejected || entry.rejected.trim() === '') {
+                errors.push(prefix + ': Missing or empty rejected field');
+              }
+            });
+            
+            if (categories.size < 8) {
+              warnings.push('Dataset only covers ' + categories.size + '/8 categories');
+            }
+            
+            const result = { valid: errors.length === 0, errors, warnings, itemCount: data.length, categories: categories.size };
+            
+            if (errors.length === 0) {
+              console.log('✅ Dataset validation passed');
+              console.log('Total entries: ' + result.itemCount);
+              console.log('Categories covered: ' + result.categories + '/8');
+              if (warnings.length > 0) {
+                console.log('Warnings:');
+                warnings.forEach(w => console.log('⚠️  ' + w));
+              }
+              process.stdout.write(JSON.stringify({ valid: true, errors: [], warnings: warnings }));
+            } else {
+              console.error('Dataset validation failed');
+              console.error('❌ ' + errors.join('\n❌ '));
+              console.error('');
+              console.error('Please fix the errors above before merging.');
+              process.stdout.write(JSON.stringify({ valid: false, errors: errors, warnings: warnings }));
+              process.exit(1);
+            }
+          } catch (e) {
+            console.error('JSON parsing error:', e.message);
+            process.exit(1);
+          }
+          "
+        shell: bash
