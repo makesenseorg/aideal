@@ -1,0 +1,135 @@
+name: Test DPO Training Pipeline
+
+on:
+  schedule:
+    - cron: '0 6 * * *'  # Quotidien à 6h UTC
+  pull_request:
+    paths:
+      - 'scripts/test_dpo_training.py'
+      - 'scripts/train_lora.py'
+      - 'dataset/**'
+      - 'docs/FINE_TUNING_TEST_RESULTS.md'
+  workflow_dispatch:
+    inputs:
+      subset_size:
+        description: 'Nombre de paires à tester'
+        required: false
+        default: '50'
+      model:
+        description: 'Modèle de base à tester'
+        required: false
+        default: 'Qwen/Qwen2.5-1.8B-Instruct'
+
+env:
+  PYTHON_VERSION: '3.11'
+
+jobs:
+  test-dpo-training:
+    runs-on: gpu-large
+    timeout-minutes: 45
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: ${{ env.PYTHON_VERSION }}
+          cache: 'pip'
+      
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install torch transformers trl peft datasets accelerate bitsandbytes requests
+          pip list | grep -E 'torch|transformers|trl|peft|datasets'
+      
+      - name: Setup CUDA
+        run: |
+          echo "CUDA version: $(nvidia-smi --query-gpu=driver_version --format=csv,noheader)"
+          echo "GPU: $(nvidia-smi --query-gpu=name --format=csv,noheader)"
+      
+      - name: Validate dataset first
+        run: |
+          python scripts/validate_dataset.py
+      
+      - name: Run DPO training test
+        id: test
+        run: |
+          python scripts/test_dpo_training.py \
+            --subset ${{ github.event.inputs.subset_size || '50' }} \
+            --model ${{ github.event.inputs.model || 'Qwen/Qwen2.5-1.8B-Instruct' }} \
+            --output ./test-results \
+            --epochs 1 \
+            --max-length 512 \
+            --max-prompt-length 256
+      
+      - name: Upload test results
+        uses: actions/upload-artifact@v4
+        with:
+          name: dpo-test-results
+          path: |
+            ./test-results/*.json
+            ./test-results/*.md
+          retention-days: 30
+      
+      - name: Generate summary
+        run: |
+          RESULT_FILES=$(ls ./test-results/dpo_test_results_*.json 2>/dev/null | head -1)
+          if [ -f "$RESULT_FILES" ]; then
+            echo "## Test Results" >> $GITHUB_STEP_SUMMARY
+            echo "" >> $GITHUB_STEP_SUMMARY
+            python -c "
+import json
+with open('$RESULT_FILES') as f:
+    data = json.load(f)
+alignment = data['inference_results'].get('alignment_score', 0) * 100
+aligned = data['inference_results'].get('aligned_samples', 0)
+total = data['inference_results'].get('total_samples', 0)
+passed = data.get('test_passed', False)
+icon = '✅' if passed else '❌'
+print(f'{icon} **Alignment Score**: {alignment:.0f}% ({aligned}/{total} échantillons)')
+print(f'')
+if 'metrics' in data:
+    print('**Métriques d\'entraînement**')
+    for k, v in sorted(data['metrics'].items()):
+      if isinstance(v, float):
+        print(f'- {k}: {v:.4f}')
+      else:
+        print(f'- {k}: {v}')
+" >> $GITHUB_STEP_SUMMARY
+      
+      - name: Comment on PR with results
+        if: github.event_name == 'pull_request'
+        uses: actions/github-script@v7
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const fs = require('fs');
+            const path = require('path');
+            
+            const resultFiles = fs.readdirSync('./test-results').filter(f => f.endsWith('.json'));
+            if (resultFiles.length > 0) {
+              const results = JSON.parse(fs.readFileSync(path.join('./test-results', resultFiles[0]), 'utf8'));
+              const icon = results.test_passed ? '✅' : '❌';
+              const alignment = (results.inference_results.alignment_score * 100).toFixed(0);
+              const aligned = results.inference_results.aligned_samples;
+              const total = results.inference_results.total_samples;
+              
+              const comment = `
+${icon} **Test DPO Fine-tuning**
+
+*Alignement : ${alignment}% (${aligned}/${total} échantillons)*
+
+${results.test_passed ? '✅ Le pipeline DPO fonctionne correctement.' : '❌ Le test d\'alignement est en dessous du seuil attendu (>= 50%). Vérifier le dataset ou la configuration d\'entraînement.'}
+
+Détails complets : [dpo_test_results_${results.timestamp.replace(/[-:]/g, '')}.md](/actions/runs/${context.runId}/artifacts/${process.env.ARTIFACT_ID || 'dummy'})
+`;
+              
+              github.rest.issues.createComment({
+                issue_number: context.issue.number,
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                body: comment
+              });
+            }
